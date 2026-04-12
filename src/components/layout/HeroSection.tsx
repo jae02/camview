@@ -26,7 +26,7 @@ export default function HeroSection() {
         {/* Badge */}
         <div className="flex justify-center">
           <div
-            className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold"
+            className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold whitespace-nowrap"
             style={{
               background: "var(--bg-card)",
               border: "1px solid var(--border-default)",

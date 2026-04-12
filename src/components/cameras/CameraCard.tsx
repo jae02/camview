@@ -68,7 +68,7 @@ export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
 
         {/* Price badge */}
         <div
-          className="absolute top-3 right-3 px-3 py-1.5 rounded-lg text-xs font-bold shadow-sm"
+          className="absolute top-3 right-3 px-3 py-1.5 rounded-lg text-xs font-bold shadow-sm whitespace-nowrap"
           style={{
             background: "var(--error)",
             color: "#ffffff",

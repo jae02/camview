@@ -300,7 +300,7 @@ export default function ComparisonTable({ cameras }: ComparisonTableProps) {
                               : val}
                             {isWinner && (
                               <span
-                                className="ml-1.5 text-[10px] font-bold px-1.5 py-0.5 rounded-full"
+                                className="ml-1.5 text-[10px] font-bold px-1.5 py-0.5 rounded-full whitespace-nowrap"
                                 style={{
                                   background: "var(--error)",
                                   color: "white",

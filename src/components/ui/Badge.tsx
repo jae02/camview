@@ -20,7 +20,7 @@ export function BooleanBadge({
 }: BadgeProps) {
   return (
     <span
-      className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium"
+      className="inline-flex items-center justify-center gap-1 px-2.5 py-1 rounded-full text-xs font-medium whitespace-nowrap"
       style={{
         background: value ? "rgba(34, 197, 94, 0.12)" : "rgba(100, 116, 139, 0.12)",
         color: value ? "var(--success)" : "var(--text-tertiary)",
@@ -64,7 +64,7 @@ export function Tag({ label, variant = "default" }: TagProps) {
 
   return (
     <span
-      className="inline-flex items-center px-2.5 py-1 rounded-md text-xs font-medium"
+      className="inline-flex items-center justify-center px-3 py-1 rounded-md text-xs font-medium whitespace-nowrap"
       style={{
         background: s.background,
         color: s.color,
