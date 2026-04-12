@@ -1,26 +1,294 @@
 @import "tailwindcss";
 
+/* =============================================================================
+   Camera Specs & Review Community — Korean UI Theme
+   =============================================================================
+   Design tokens and global styles for a clean, high-density light aesthetic.
+   ============================================================================= */
+
+/* ─── CSS Custom Properties (Design Tokens) ─────────────────────────────────── */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Background layers — clean white and structured grays */
+  --bg-primary: #f8f9fa; /* Light gray for main background */
+  --bg-secondary: #ffffff; /* White for cards/sections */
+  --bg-tertiary: #f1f3f5; /* Hover states, subtle borders */
+  --bg-card: #ffffff; /* Card background */
+  --bg-card-hover: #f8f9fa;
+  --bg-elevated: #ffffff;
+
+  /* Accent — Trustworthy Blue (common in KR commerce/tech) */
+  --accent-primary: #2563eb; /* Royal blue */
+  --accent-secondary: #3b82f6; 
+  --accent-tertiary: #bfdbfe;
+  --accent-glow: rgba(37, 99, 235, 0.15);
+  --accent-glow-strong: rgba(37, 99, 235, 0.25);
+
+  /* Brand gradient */
+  --gradient-brand: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+  --gradient-brand-subtle: linear-gradient(135deg, #f0fdf4 0%, #eff6ff 100%);
+  --gradient-hero: linear-gradient(180deg, transparent 0%, var(--bg-primary) 100%);
+
+  /* Text hierarchy - High contrast for readability */
+  --text-primary: #111827; /* Near black */
+  --text-secondary: #374151; /* Dark gray */
+  --text-tertiary: #6b7280; /* Gray */
+  --text-muted: #9ca3af; /* Light gray */
+  --text-accent: #2563eb; 
+
+  /* Borders - clear and structuring */
+  --border-subtle: #e5e7eb;
+  --border-default: #d1d5db;
+  --border-strong: #9ca3af;
+  --border-accent: #3b82f6;
+
+  /* Star rating colors */
+  --star-filled: #f59e0b; /* Warmer yellow/orange */
+  --star-empty: #e5e7eb;
+
+  /* Status colors */
+  --success: #16a34a; /* More solid green */
+  --warning: #ea580c; /* Orange */
+  --error: #dc2626; /* Red for emphasis, best, hot */
+  --info: #2563eb;
+
+  /* Shadows - Subtle and clean */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-glow: 0 0 15px var(--accent-glow);
+
+  /* Timing */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Radius - Slightly tighter for denser feel */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+  --radius-xl: 16px;
+  --radius-full: 9999px;
+
+  /* Font */
+  --font-sans: "Pretendard", "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* ─── Base Reset & Typography ───────────────────────────────────────────────── */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.5; /* Slightly tighter leading */
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Removed mesh gradient background for clean flat look */
+
+/* ─── Selection Styling ─────────────────────────────────────────────────────── */
+::selection {
+  background-color: var(--accent-tertiary);
+  color: var(--text-primary);
+}
+
+/* ─── Scrollbar ─────────────────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--text-muted);
+  border-radius: var(--radius-full);
+  border: 2px solid var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-tertiary);
+}
+
+/* ─── Link Reset ────────────────────────────────────────────────────────────── */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* ─── Utility Classes ───────────────────────────────────────────────────────── */
+
+/* Replaces glass-card with a clean Korean-style boxed card */
+.glass-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-fast);
+}
+
+.glass-card:hover {
+  border-color: var(--border-accent);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+/* Removed glow-border, keep utility for backwards compatibility but make it subtle */
+.glow-border {
+  border: 1px solid var(--border-default);
+  transition: border-color var(--transition-fast);
+}
+
+.glow-border:hover {
+  border-color: var(--border-accent);
+}
+
+/* Shimmer loading effect */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.shimmer {
+  background: linear-gradient(
+    90deg,
+    var(--bg-tertiary) 25%,
+    var(--bg-secondary) 50%,
+    var(--bg-tertiary) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite ease-in-out;
+}
+
+/* Fade in animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(15px); /* Tighter motion */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.4s ease-out forwards;
+}
+
+/* Staggered children animation */
+.stagger-children > * {
+  opacity: 0;
+  animation: fadeInUp 0.4s ease-out forwards;
+}
+
+.stagger-children > *:nth-child(1) { animation-delay: 0.05s; }
+.stagger-children > *:nth-child(2) { animation-delay: 0.1s; }
+.stagger-children > *:nth-child(3) { animation-delay: 0.15s; }
+.stagger-children > *:nth-child(4) { animation-delay: 0.2s; }
+.stagger-children > *:nth-child(5) { animation-delay: 0.25s; }
+.stagger-children > *:nth-child(6) { animation-delay: 0.3s; }
+.stagger-children > *:nth-child(7) { animation-delay: 0.35s; }
+.stagger-children > *:nth-child(8) { animation-delay: 0.4s; }
+
+/* Gradient text */
+.gradient-text {
+  color: var(--accent-primary);
+  /* Fallback from true gradient to solid for better readability */
+}
+
+/* Pulse dot (e.g., for "live" indicators) */
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.8; transform: scale(1.2); }
+}
+
+.pulse-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--error); /* Red stands out better as live */
+  animation: pulse-dot 2s infinite ease-in-out;
+}
+
+/* ─── Typography Utilities ──────────────────────────────────────────────────── */
+.heading-xl {
+  font-size: 2.5rem; /* Slightly smaller */
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  line-height: 1.2;
+}
+
+.heading-lg {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.3;
+}
+
+.heading-md {
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+}
+
+.heading-sm {
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  line-height: 1.4;
+}
+
+.body-lg {
+  font-size: 1.0625rem;
+  line-height: 1.6;
+}
+
+.body-sm {
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.caption {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  line-height: 1.4;
+}
+
+/* ─── Responsive Container ──────────────────────────────────────────────────── */
+.container-custom {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+@media (max-width: 640px) {
+  .container-custom {
+    padding: 0 1rem;
+  }
+
+  .heading-xl {
+    font-size: 1.75rem;
+  }
+
+  .heading-lg {
+    font-size: 1.5rem;
+  }
 }

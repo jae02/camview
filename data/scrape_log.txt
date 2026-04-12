@@ -1,0 +1,1537 @@
+=== Bulk Camera Scrape — #오후 ===
+  ⏭  Skip (exists): Panasonic-Lumix-S5-IIX
+
+📋  Total to scrape: 74 cameras
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 1 / 15  (5 cameras)
+  Sony-Alpha-A9-III Sony-Alpha-A7-V Sony-Alpha-A7C-R Sony-Alpha-A7S-III Sony-Alpha-A7-III
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:21:47 [INFO] 🎯 Scraping 5 camera(s): Sony-Alpha-A9-III, Sony-Alpha-A7-V, Sony-Alpha-A7C-R, Sony-Alpha-A7S-III, Sony-Alpha-A7-III
+13:21:48 [INFO] 
+============================================================
+13:21:48 [INFO]   [1/5] Processing: Sony-Alpha-A9-III
+13:21:48 [INFO] ============================================================
+13:21:48 [INFO] 📷 Scraping camera: Sony-Alpha-A9-III
+13:21:48 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A9-III
+13:21:49 [INFO]   → Using fallback: extracting specs from all tables...
+13:21:49 [WARNING]   ⚠ No specs extracted from page!
+13:21:49 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:21:49 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A9-III
+13:21:49 [INFO]   ✓ Found 0 pros, 0 cons
+13:21:49 [INFO]   ✓ Mapped to Prisma: Sony Alpha A9 III (sony-alpha-a9-iii)
+13:21:49 [INFO]   ✓ Korean translation applied (79 terms)
+13:21:49 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a9-iii.json
+13:21:49 [INFO] 
+============================================================
+13:21:49 [INFO]   [2/5] Processing: Sony-Alpha-A7-V
+13:21:49 [INFO] ============================================================
+13:21:49 [INFO] 📷 Scraping camera: Sony-Alpha-A7-V
+13:21:49 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A7-V
+13:21:51 [INFO]   → Using fallback: extracting specs from all tables...
+13:21:51 [INFO]   ✓ Extracted 94 spec fields across 1 sections
+13:21:51 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A7-V
+13:21:54 [INFO]   ✓ Found 62 pros, 0 cons
+13:21:54 [INFO]   ✓ Mapped to Prisma: Sony Alpha A7 V (sony-alpha-a7-v)
+13:21:54 [INFO]   ✓ Korean translation applied (79 terms)
+13:21:54 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a7-v.json
+13:21:54 [INFO] 
+============================================================
+13:21:54 [INFO]   [3/5] Processing: Sony-Alpha-A7C-R
+13:21:54 [INFO] ============================================================
+13:21:54 [INFO] 📷 Scraping camera: Sony-Alpha-A7C-R
+13:21:54 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A7C-R
+13:21:55 [INFO]   → Using fallback: extracting specs from all tables...
+13:21:55 [WARNING]   ⚠ No specs extracted from page!
+13:21:55 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:21:55 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A7C-R
+13:21:55 [INFO]   ✓ Found 0 pros, 0 cons
+13:21:55 [INFO]   ✓ Mapped to Prisma: Sony Alpha A7C R (sony-alpha-a7c-r)
+13:21:55 [INFO]   ✓ Korean translation applied (79 terms)
+13:21:55 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a7c-r.json
+13:21:55 [INFO] 
+============================================================
+13:21:55 [INFO]   [4/5] Processing: Sony-Alpha-A7S-III
+13:21:55 [INFO] ============================================================
+13:21:55 [INFO] 📷 Scraping camera: Sony-Alpha-A7S-III
+13:21:55 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A7S-III
+13:21:57 [INFO]   → Using fallback: extracting specs from all tables...
+13:21:57 [INFO]   ✓ Extracted 91 spec fields across 1 sections
+13:21:57 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A7S-III
+13:21:59 [INFO]   ✓ Found 48 pros, 1 cons
+13:21:59 [INFO]   ✓ Mapped to Prisma: Sony Alpha A7S III (sony-alpha-a7s-iii)
+13:21:59 [INFO]   ✓ Korean translation applied (79 terms)
+13:21:59 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a7s-iii.json
+13:21:59 [INFO] 
+============================================================
+13:21:59 [INFO]   [5/5] Processing: Sony-Alpha-A7-III
+13:21:59 [INFO] ============================================================
+13:21:59 [INFO] 📷 Scraping camera: Sony-Alpha-A7-III
+13:21:59 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A7-III
+13:22:00 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:00 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:22:00 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A7-III
+13:22:02 [INFO]   ✓ Found 37 pros, 0 cons
+13:22:02 [INFO]   ✓ Mapped to Prisma: Sony Alpha A7 III (sony-alpha-a7-iii)
+13:22:02 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:02 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a7-iii.json
+13:22:02 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Sony Alpha A9 III (sony-alpha-a9-iii)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Sony Alpha A7 V (sony-alpha-a7-v)
+    Sensor: FULL_FRAME | 33.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 62 | Cons: 0
+
+  • Sony Alpha A7C R (sony-alpha-a7c-r)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Sony Alpha A7S III (sony-alpha-a7s-iii)
+    Sensor: FULL_FRAME | 12.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 48 | Cons: 1
+
+  • Sony Alpha A7 III (sony-alpha-a7-iii)
+    Sensor: FULL_FRAME | 24.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 37 | Cons: 0
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 2 / 15  (5 cameras)
+  Sony-Alpha-A7R-IV Sony-ZV-E1 Sony-ZV-E10-II Sony-Alpha-A6600 Sony-Alpha-A6500
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:22:05 [INFO] 🎯 Scraping 5 camera(s): Sony-Alpha-A7R-IV, Sony-ZV-E1, Sony-ZV-E10-II, Sony-Alpha-A6600, Sony-Alpha-A6500
+13:22:05 [INFO] 
+============================================================
+13:22:05 [INFO]   [1/5] Processing: Sony-Alpha-A7R-IV
+13:22:05 [INFO] ============================================================
+13:22:05 [INFO] 📷 Scraping camera: Sony-Alpha-A7R-IV
+13:22:05 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A7R-IV
+13:22:07 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:07 [INFO]   ✓ Extracted 93 spec fields across 1 sections
+13:22:07 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A7R-IV
+13:22:09 [INFO]   ✓ Found 40 pros, 0 cons
+13:22:09 [INFO]   ✓ Mapped to Prisma: Sony Alpha A7R IV (sony-alpha-a7r-iv)
+13:22:09 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:09 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a7r-iv.json
+13:22:09 [INFO] 
+============================================================
+13:22:09 [INFO]   [2/5] Processing: Sony-ZV-E1
+13:22:09 [INFO] ============================================================
+13:22:09 [INFO] 📷 Scraping camera: Sony-ZV-E1
+13:22:09 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-ZV-E1
+13:22:10 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:10 [INFO]   ✓ Extracted 91 spec fields across 1 sections
+13:22:10 [INFO]   → Fetching: https://cameradecision.com/review/Sony-ZV-E1
+13:22:12 [INFO]   ✓ Found 51 pros, 4 cons
+13:22:12 [INFO]   ✓ Mapped to Prisma: Sony ZV-E1 (sony-zv-e1)
+13:22:12 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:12 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-zv-e1.json
+13:22:12 [INFO] 
+============================================================
+13:22:12 [INFO]   [3/5] Processing: Sony-ZV-E10-II
+13:22:12 [INFO] ============================================================
+13:22:12 [INFO] 📷 Scraping camera: Sony-ZV-E10-II
+13:22:12 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-ZV-E10-II
+13:22:14 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:14 [INFO]   ✓ Extracted 91 spec fields across 1 sections
+13:22:14 [INFO]   → Fetching: https://cameradecision.com/review/Sony-ZV-E10-II
+13:22:16 [INFO]   ✓ Found 43 pros, 5 cons
+13:22:16 [INFO]   ✓ Mapped to Prisma: Sony ZV-E10 II (sony-zv-e10-ii)
+13:22:16 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:16 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-zv-e10-ii.json
+13:22:16 [INFO] 
+============================================================
+13:22:16 [INFO]   [4/5] Processing: Sony-Alpha-A6600
+13:22:16 [INFO] ============================================================
+13:22:16 [INFO] 📷 Scraping camera: Sony-Alpha-A6600
+13:22:16 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A6600
+13:22:17 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:17 [INFO]   ✓ Extracted 91 spec fields across 1 sections
+13:22:17 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A6600
+13:22:19 [INFO]   ✓ Found 33 pros, 0 cons
+13:22:19 [INFO]   ✓ Mapped to Prisma: Sony Alpha a6600 (sony-alpha-a6600)
+13:22:19 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:19 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a6600.json
+13:22:19 [INFO] 
+============================================================
+13:22:19 [INFO]   [5/5] Processing: Sony-Alpha-A6500
+13:22:19 [INFO] ============================================================
+13:22:19 [INFO] 📷 Scraping camera: Sony-Alpha-A6500
+13:22:19 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A6500
+13:22:20 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:21 [INFO]   ✓ Extracted 91 spec fields across 1 sections
+13:22:21 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A6500
+13:22:22 [INFO]   ✓ Found 30 pros, 1 cons
+13:22:22 [INFO]   ✓ Mapped to Prisma: Sony Alpha a6500 (sony-alpha-a6500)
+13:22:22 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:22 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a6500.json
+13:22:22 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Sony Alpha A7R IV (sony-alpha-a7r-iv)
+    Sensor: FULL_FRAME | 61.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 40 | Cons: 0
+
+  • Sony ZV-E1 (sony-zv-e1)
+    Sensor: FULL_FRAME | 12.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 51 | Cons: 4
+
+  • Sony ZV-E10 II (sony-zv-e10-ii)
+    Sensor: APS_C | 26.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 43 | Cons: 5
+
+  • Sony Alpha a6600 (sony-alpha-a6600)
+    Sensor: APS_C | 24.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 33 | Cons: 0
+
+  • Sony Alpha a6500 (sony-alpha-a6500)
+    Sensor: APS_C | 24.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 30 | Cons: 1
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 3 / 15  (5 cameras)
+  Sony-Alpha-A6400 Sony-Alpha-A6100 Canon-EOS-R1 Canon-EOS-R5-Mark-II Canon-EOS-R6
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:22:26 [INFO] 🎯 Scraping 5 camera(s): Sony-Alpha-A6400, Sony-Alpha-A6100, Canon-EOS-R1, Canon-EOS-R5-Mark-II, Canon-EOS-R6
+13:22:26 [INFO] 
+============================================================
+13:22:26 [INFO]   [1/5] Processing: Sony-Alpha-A6400
+13:22:26 [INFO] ============================================================
+13:22:26 [INFO] 📷 Scraping camera: Sony-Alpha-A6400
+13:22:26 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A6400
+13:22:28 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:28 [INFO]   ✓ Extracted 91 spec fields across 1 sections
+13:22:28 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A6400
+13:22:29 [INFO]   ✓ Found 32 pros, 2 cons
+13:22:29 [INFO]   ✓ Mapped to Prisma: Sony Alpha a6400 (sony-alpha-a6400)
+13:22:29 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:29 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a6400.json
+13:22:29 [INFO] 
+============================================================
+13:22:29 [INFO]   [2/5] Processing: Sony-Alpha-A6100
+13:22:29 [INFO] ============================================================
+13:22:29 [INFO] 📷 Scraping camera: Sony-Alpha-A6100
+13:22:29 [INFO]   → Fetching: https://cameradecision.com/specs/Sony-Alpha-A6100
+13:22:31 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:31 [INFO]   ✓ Extracted 91 spec fields across 1 sections
+13:22:31 [INFO]   → Fetching: https://cameradecision.com/review/Sony-Alpha-A6100
+13:22:33 [INFO]   ✓ Found 30 pros, 3 cons
+13:22:33 [INFO]   ✓ Mapped to Prisma: Sony Alpha a6100 (sony-alpha-a6100)
+13:22:33 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:33 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sony-alpha-a6100.json
+13:22:33 [INFO] 
+============================================================
+13:22:33 [INFO]   [3/5] Processing: Canon-EOS-R1
+13:22:33 [INFO] ============================================================
+13:22:33 [INFO] 📷 Scraping camera: Canon-EOS-R1
+13:22:33 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-EOS-R1
+13:22:34 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:34 [INFO]   ✓ Extracted 93 spec fields across 1 sections
+13:22:34 [INFO]   → Fetching: https://cameradecision.com/review/Canon-EOS-R1
+13:22:36 [INFO]   ✓ Found 63 pros, 1 cons
+13:22:36 [INFO]   ✓ Mapped to Prisma: Canon EOS R1 (canon-eos-r1)
+13:22:36 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:36 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-eos-r1.json
+13:22:36 [INFO] 
+============================================================
+13:22:36 [INFO]   [4/5] Processing: Canon-EOS-R5-Mark-II
+13:22:36 [INFO] ============================================================
+13:22:36 [INFO] 📷 Scraping camera: Canon-EOS-R5-Mark-II
+13:22:36 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-EOS-R5-Mark-II
+13:22:38 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:38 [INFO]   ✓ Extracted 94 spec fields across 1 sections
+13:22:38 [INFO]   → Fetching: https://cameradecision.com/review/Canon-EOS-R5-Mark-II
+13:22:40 [INFO]   ✓ Found 62 pros, 0 cons
+13:22:40 [INFO]   ✓ Mapped to Prisma: Canon EOS R5 Mark II (canon-eos-r5-mark-ii)
+13:22:40 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:40 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-eos-r5-mark-ii.json
+13:22:40 [INFO] 
+============================================================
+13:22:40 [INFO]   [5/5] Processing: Canon-EOS-R6
+13:22:40 [INFO] ============================================================
+13:22:40 [INFO] 📷 Scraping camera: Canon-EOS-R6
+13:22:40 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-EOS-R6
+13:22:41 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:41 [INFO]   ✓ Extracted 94 spec fields across 1 sections
+13:22:41 [INFO]   → Fetching: https://cameradecision.com/review/Canon-EOS-R6
+13:22:45 [INFO]   ✓ Found 39 pros, 2 cons
+13:22:45 [INFO]   ✓ Mapped to Prisma: Canon EOS R6 (canon-eos-r6)
+13:22:45 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:45 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-eos-r6.json
+13:22:45 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Sony Alpha a6400 (sony-alpha-a6400)
+    Sensor: APS_C | 24.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 32 | Cons: 2
+
+  • Sony Alpha a6100 (sony-alpha-a6100)
+    Sensor: APS_C | 24.0MP
+    Video: 3840 x 2160 | Mount: SONY_E
+    Pros: 30 | Cons: 3
+
+  • Canon EOS R1 (canon-eos-r1)
+    Sensor: FULL_FRAME | 24.0MP
+    Video: 6000 x 3164 | Mount: CANON_RF
+    Pros: 63 | Cons: 1
+
+  • Canon EOS R5 Mark II (canon-eos-r5-mark-ii)
+    Sensor: FULL_FRAME | 45.0MP
+    Video: 8192 x 4320 | Mount: CANON_RF
+    Pros: 62 | Cons: 0
+
+  • Canon EOS R6 (canon-eos-r6)
+    Sensor: FULL_FRAME | 20.0MP
+    Video: 3840 x 2160 | Mount: CANON_RF
+    Pros: 39 | Cons: 2
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 4 / 15  (5 cameras)
+  Canon-EOS-R10 Canon-EOS-R100 Canon-EOS-R5-C Canon-EOS-90D Canon-EOS-5D-Mark-IV
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:22:48 [INFO] 🎯 Scraping 5 camera(s): Canon-EOS-R10, Canon-EOS-R100, Canon-EOS-R5-C, Canon-EOS-90D, Canon-EOS-5D-Mark-IV
+13:22:48 [INFO] 
+============================================================
+13:22:48 [INFO]   [1/5] Processing: Canon-EOS-R10
+13:22:48 [INFO] ============================================================
+13:22:48 [INFO] 📷 Scraping camera: Canon-EOS-R10
+13:22:48 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-EOS-R10
+13:22:50 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:50 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:22:50 [INFO]   → Fetching: https://cameradecision.com/review/Canon-EOS-R10
+13:22:52 [INFO]   ✓ Found 32 pros, 3 cons
+13:22:52 [INFO]   ✓ Mapped to Prisma: Canon EOS R10 (canon-eos-r10)
+13:22:52 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:52 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-eos-r10.json
+13:22:52 [INFO] 
+============================================================
+13:22:52 [INFO]   [2/5] Processing: Canon-EOS-R100
+13:22:52 [INFO] ============================================================
+13:22:52 [INFO] 📷 Scraping camera: Canon-EOS-R100
+13:22:52 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-EOS-R100
+13:22:53 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:53 [INFO]   ✓ Extracted 90 spec fields across 1 sections
+13:22:53 [INFO]   → Fetching: https://cameradecision.com/review/Canon-EOS-R100
+13:22:55 [INFO]   ✓ Found 22 pros, 8 cons
+13:22:55 [INFO]   ✓ Mapped to Prisma: Canon EOS R100 (canon-eos-r100)
+13:22:55 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:55 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-eos-r100.json
+13:22:55 [INFO] 
+============================================================
+13:22:55 [INFO]   [3/5] Processing: Canon-EOS-R5-C
+13:22:55 [INFO] ============================================================
+13:22:55 [INFO] 📷 Scraping camera: Canon-EOS-R5-C
+13:22:55 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-EOS-R5-C
+13:22:57 [INFO]   → Using fallback: extracting specs from all tables...
+13:22:57 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:22:57 [INFO]   → Fetching: https://cameradecision.com/review/Canon-EOS-R5-C
+13:22:59 [INFO]   ✓ Found 52 pros, 3 cons
+13:22:59 [INFO]   ✓ Mapped to Prisma: Canon EOS R5 C (canon-eos-r5-c)
+13:22:59 [INFO]   ✓ Korean translation applied (79 terms)
+13:22:59 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-eos-r5-c.json
+13:22:59 [INFO] 
+============================================================
+13:22:59 [INFO]   [4/5] Processing: Canon-EOS-90D
+13:22:59 [INFO] ============================================================
+13:22:59 [INFO] 📷 Scraping camera: Canon-EOS-90D
+13:22:59 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-EOS-90D
+13:23:00 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:00 [INFO]   ✓ Extracted 93 spec fields across 1 sections
+13:23:00 [INFO]   → Fetching: https://cameradecision.com/review/Canon-EOS-90D
+13:23:02 [INFO]   ✓ Found 31 pros, 1 cons
+13:23:02 [INFO]   ✓ Mapped to Prisma: Canon EOS 90D (canon-eos-90d)
+13:23:02 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:02 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-eos-90d.json
+13:23:02 [INFO] 
+============================================================
+13:23:02 [INFO]   [5/5] Processing: Canon-EOS-5D-Mark-IV
+13:23:02 [INFO] ============================================================
+13:23:02 [INFO] 📷 Scraping camera: Canon-EOS-5D-Mark-IV
+13:23:02 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-EOS-5D-Mark-IV
+13:23:03 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:03 [INFO]   ✓ Extracted 93 spec fields across 1 sections
+13:23:03 [INFO]   → Fetching: https://cameradecision.com/review/Canon-EOS-5D-Mark-IV
+13:23:05 [INFO]   ✓ Found 33 pros, 4 cons
+13:23:05 [INFO]   ✓ Mapped to Prisma: Canon EOS 5D Mark IV (canon-eos-5d-mark-iv)
+13:23:05 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:05 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-eos-5d-mark-iv.json
+13:23:05 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Canon EOS R10 (canon-eos-r10)
+    Sensor: APS_C | 24.0MP
+    Video: 3840 x 2160 | Mount: CANON_RF
+    Pros: 32 | Cons: 3
+
+  • Canon EOS R100 (canon-eos-r100)
+    Sensor: APS_C | 24.0MP
+    Video: 3840 x 2160 | Mount: CANON_RF
+    Pros: 22 | Cons: 8
+
+  • Canon EOS R5 C (canon-eos-r5-c)
+    Sensor: FULL_FRAME | 45.0MP
+    Video: 8192 x 4320 | Mount: CANON_RF
+    Pros: 52 | Cons: 3
+
+  • Canon EOS 90D (canon-eos-90d)
+    Sensor: APS_C | 33.0MP
+    Video: 3840 x 2160 | Mount: CANON_EF
+    Pros: 31 | Cons: 1
+
+  • Canon EOS 5D Mark IV (canon-eos-5d-mark-iv)
+    Sensor: FULL_FRAME | 30.0MP
+    Video: 4096 x 2160 | Mount: CANON_EF
+    Pros: 33 | Cons: 4
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 5 / 15  (5 cameras)
+  Canon-EOS-6D-Mark-II Canon-PowerShot-V10 Nikon-Z50-II Nikon-Z50 Nikon-Z30
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:23:09 [INFO] 🎯 Scraping 5 camera(s): Canon-EOS-6D-Mark-II, Canon-PowerShot-V10, Nikon-Z50-II, Nikon-Z50, Nikon-Z30
+13:23:09 [INFO] 
+============================================================
+13:23:09 [INFO]   [1/5] Processing: Canon-EOS-6D-Mark-II
+13:23:09 [INFO] ============================================================
+13:23:09 [INFO] 📷 Scraping camera: Canon-EOS-6D-Mark-II
+13:23:09 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-EOS-6D-Mark-II
+13:23:11 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:11 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:23:11 [INFO]   → Fetching: https://cameradecision.com/review/Canon-EOS-6D-Mark-II
+13:23:12 [INFO]   ✓ Found 29 pros, 2 cons
+13:23:12 [INFO]   ✓ Mapped to Prisma: Canon EOS 6D Mark II (canon-eos-6d-mark-ii)
+13:23:12 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:12 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-eos-6d-mark-ii.json
+13:23:12 [INFO] 
+============================================================
+13:23:12 [INFO]   [2/5] Processing: Canon-PowerShot-V10
+13:23:12 [INFO] ============================================================
+13:23:12 [INFO] 📷 Scraping camera: Canon-PowerShot-V10
+13:23:12 [INFO]   → Fetching: https://cameradecision.com/specs/Canon-PowerShot-V10
+13:23:14 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:14 [INFO]   ✓ Extracted 84 spec fields across 1 sections
+13:23:14 [INFO]   → Fetching: https://cameradecision.com/review/Canon-PowerShot-V10
+13:23:15 [INFO]   ✓ Found 2 pros, 11 cons
+13:23:15 [INFO]   ✓ Mapped to Prisma: Canon PowerShot V10 (canon-powershot-v10)
+13:23:15 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:15 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/canon-powershot-v10.json
+13:23:15 [INFO] 
+============================================================
+13:23:15 [INFO]   [3/5] Processing: Nikon-Z50-II
+13:23:15 [INFO] ============================================================
+13:23:15 [INFO] 📷 Scraping camera: Nikon-Z50-II
+13:23:15 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-Z50-II
+13:23:17 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:17 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:23:17 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-Z50-II
+13:23:20 [INFO]   ✓ Found 37 pros, 2 cons
+13:23:20 [INFO]   ✓ Mapped to Prisma: Nikon Z50 II (nikon-z50-ii)
+13:23:20 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:20 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-z50-ii.json
+13:23:20 [INFO] 
+============================================================
+13:23:20 [INFO]   [4/5] Processing: Nikon-Z50
+13:23:20 [INFO] ============================================================
+13:23:20 [INFO] 📷 Scraping camera: Nikon-Z50
+13:23:20 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-Z50
+13:23:21 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:21 [INFO]   ✓ Extracted 90 spec fields across 1 sections
+13:23:21 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-Z50
+13:23:23 [INFO]   ✓ Found 25 pros, 2 cons
+13:23:23 [INFO]   ✓ Mapped to Prisma: Nikon Z50 (nikon-z50)
+13:23:23 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:23 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-z50.json
+13:23:23 [INFO] 
+============================================================
+13:23:23 [INFO]   [5/5] Processing: Nikon-Z30
+13:23:23 [INFO] ============================================================
+13:23:23 [INFO] 📷 Scraping camera: Nikon-Z30
+13:23:23 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-Z30
+13:23:25 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:25 [INFO]   ✓ Extracted 88 spec fields across 1 sections
+13:23:25 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-Z30
+13:23:27 [INFO]   ✓ Found 29 pros, 4 cons
+13:23:27 [INFO]   ✓ Mapped to Prisma: Nikon Z30 (nikon-z30)
+13:23:27 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:27 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-z30.json
+13:23:27 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Canon EOS 6D Mark II (canon-eos-6d-mark-ii)
+    Sensor: FULL_FRAME | 26.0MP
+    Video: 1920 x 1080 | Mount: CANON_EF
+    Pros: 29 | Cons: 2
+
+  • Canon PowerShot V10 (canon-powershot-v10)
+    Sensor: OTHER | 15.0MP
+    Video: 3840 x 2160 | Mount: OTHER
+    Pros: 2 | Cons: 11
+
+  • Nikon Z50 II (nikon-z50-ii)
+    Sensor: APS_C | 21.0MP
+    Video: 3840 x 2160 | Mount: NIKON_Z
+    Pros: 37 | Cons: 2
+
+  • Nikon Z50 (nikon-z50)
+    Sensor: APS_C | 21.0MP
+    Video: 3840 x 2160 | Mount: NIKON_Z
+    Pros: 25 | Cons: 2
+
+  • Nikon Z30 (nikon-z30)
+    Sensor: APS_C | 21.0MP
+    Video: 3840 x 2160 | Mount: NIKON_Z
+    Pros: 29 | Cons: 4
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 6 / 15  (5 cameras)
+  Nikon-Z-fc Nikon-Z5 Nikon-Z6-II Nikon-Z7-II Nikon-Z7
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:23:30 [INFO] 🎯 Scraping 5 camera(s): Nikon-Z-fc, Nikon-Z5, Nikon-Z6-II, Nikon-Z7-II, Nikon-Z7
+13:23:30 [INFO] 
+============================================================
+13:23:30 [INFO]   [1/5] Processing: Nikon-Z-fc
+13:23:30 [INFO] ============================================================
+13:23:30 [INFO] 📷 Scraping camera: Nikon-Z-fc
+13:23:30 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-Z-fc
+13:23:32 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:32 [INFO]   ✓ Extracted 89 spec fields across 1 sections
+13:23:32 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-Z-fc
+13:23:33 [INFO]   ✓ Found 27 pros, 3 cons
+13:23:33 [INFO]   ✓ Mapped to Prisma: Nikon Z fc (nikon-z-fc)
+13:23:33 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:33 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-z-fc.json
+13:23:33 [INFO] 
+============================================================
+13:23:33 [INFO]   [2/5] Processing: Nikon-Z5
+13:23:33 [INFO] ============================================================
+13:23:33 [INFO] 📷 Scraping camera: Nikon-Z5
+13:23:33 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-Z5
+13:23:35 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:35 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:23:35 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-Z5
+13:23:37 [INFO]   ✓ Found 30 pros, 2 cons
+13:23:37 [INFO]   ✓ Mapped to Prisma: Nikon Z5 (nikon-z5)
+13:23:37 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:37 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-z5.json
+13:23:37 [INFO] 
+============================================================
+13:23:37 [INFO]   [3/5] Processing: Nikon-Z6-II
+13:23:37 [INFO] ============================================================
+13:23:37 [INFO] 📷 Scraping camera: Nikon-Z6-II
+13:23:37 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-Z6-II
+13:23:37 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:37 [WARNING]   ⚠ No specs extracted from page!
+13:23:37 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:23:37 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-Z6-II
+13:23:38 [INFO]   ✓ Found 0 pros, 0 cons
+13:23:38 [INFO]   ✓ Mapped to Prisma: Nikon Z6 II (nikon-z6-ii)
+13:23:38 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:38 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-z6-ii.json
+13:23:38 [INFO] 
+============================================================
+13:23:38 [INFO]   [4/5] Processing: Nikon-Z7-II
+13:23:38 [INFO] ============================================================
+13:23:38 [INFO] 📷 Scraping camera: Nikon-Z7-II
+13:23:38 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-Z7-II
+13:23:38 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:38 [WARNING]   ⚠ No specs extracted from page!
+13:23:38 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:23:38 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-Z7-II
+13:23:39 [INFO]   ✓ Found 0 pros, 0 cons
+13:23:39 [INFO]   ✓ Mapped to Prisma: Nikon Z7 II (nikon-z7-ii)
+13:23:39 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:39 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-z7-ii.json
+13:23:39 [INFO] 
+============================================================
+13:23:39 [INFO]   [5/5] Processing: Nikon-Z7
+13:23:39 [INFO] ============================================================
+13:23:39 [INFO] 📷 Scraping camera: Nikon-Z7
+13:23:39 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-Z7
+13:23:40 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:40 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:23:40 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-Z7
+13:23:42 [INFO]   ✓ Found 36 pros, 1 cons
+13:23:42 [INFO]   ✓ Mapped to Prisma: Nikon Z7 (nikon-z7)
+13:23:42 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:42 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-z7.json
+13:23:42 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Nikon Z fc (nikon-z-fc)
+    Sensor: APS_C | 21.0MP
+    Video: 3840 x 2160 | Mount: NIKON_Z
+    Pros: 27 | Cons: 3
+
+  • Nikon Z5 (nikon-z5)
+    Sensor: FULL_FRAME | 24.0MP
+    Video: 3840 x 2160 | Mount: NIKON_Z
+    Pros: 30 | Cons: 2
+
+  • Nikon Z6 II (nikon-z6-ii)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Nikon Z7 II (nikon-z7-ii)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Nikon Z7 (nikon-z7)
+    Sensor: FULL_FRAME | 46.0MP
+    Video: 3840 x 2160 | Mount: NIKON_Z
+    Pros: 36 | Cons: 1
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 7 / 15  (5 cameras)
+  Nikon-D850 Nikon-D780 Nikon-D7500 Nikon-D500 Fujifilm-X-T50
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:23:46 [INFO] 🎯 Scraping 5 camera(s): Nikon-D850, Nikon-D780, Nikon-D7500, Nikon-D500, Fujifilm-X-T50
+13:23:46 [INFO] 
+============================================================
+13:23:46 [INFO]   [1/5] Processing: Nikon-D850
+13:23:46 [INFO] ============================================================
+13:23:46 [INFO] 📷 Scraping camera: Nikon-D850
+13:23:46 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-D850
+13:23:47 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:47 [INFO]   ✓ Extracted 93 spec fields across 1 sections
+13:23:47 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-D850
+13:23:49 [INFO]   ✓ Found 41 pros, 2 cons
+13:23:49 [INFO]   ✓ Mapped to Prisma: Nikon D850 (nikon-d850)
+13:23:49 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:49 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-d850.json
+13:23:49 [INFO] 
+============================================================
+13:23:49 [INFO]   [2/5] Processing: Nikon-D780
+13:23:49 [INFO] ============================================================
+13:23:49 [INFO] 📷 Scraping camera: Nikon-D780
+13:23:49 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-D780
+13:23:51 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:51 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:23:51 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-D780
+13:23:53 [INFO]   ✓ Found 34 pros, 2 cons
+13:23:53 [INFO]   ✓ Mapped to Prisma: Nikon D780 (nikon-d780)
+13:23:53 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:53 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-d780.json
+13:23:53 [INFO] 
+============================================================
+13:23:53 [INFO]   [3/5] Processing: Nikon-D7500
+13:23:53 [INFO] ============================================================
+13:23:53 [INFO] 📷 Scraping camera: Nikon-D7500
+13:23:53 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-D7500
+13:23:54 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:54 [INFO]   ✓ Extracted 93 spec fields across 1 sections
+13:23:54 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-D7500
+13:23:56 [INFO]   ✓ Found 30 pros, 2 cons
+13:23:56 [INFO]   ✓ Mapped to Prisma: Nikon D7500 (nikon-d7500)
+13:23:56 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:56 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-d7500.json
+13:23:56 [INFO] 
+============================================================
+13:23:56 [INFO]   [4/5] Processing: Nikon-D500
+13:23:56 [INFO] ============================================================
+13:23:56 [INFO] 📷 Scraping camera: Nikon-D500
+13:23:56 [INFO]   → Fetching: https://cameradecision.com/specs/Nikon-D500
+13:23:58 [INFO]   → Using fallback: extracting specs from all tables...
+13:23:58 [INFO]   ✓ Extracted 93 spec fields across 1 sections
+13:23:58 [INFO]   → Fetching: https://cameradecision.com/review/Nikon-D500
+13:23:59 [INFO]   ✓ Found 36 pros, 2 cons
+13:23:59 [INFO]   ✓ Mapped to Prisma: Nikon D500 (nikon-d500)
+13:23:59 [INFO]   ✓ Korean translation applied (79 terms)
+13:23:59 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/nikon-d500.json
+13:23:59 [INFO] 
+============================================================
+13:23:59 [INFO]   [5/5] Processing: Fujifilm-X-T50
+13:23:59 [INFO] ============================================================
+13:23:59 [INFO] 📷 Scraping camera: Fujifilm-X-T50
+13:23:59 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-X-T50
+13:24:01 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:01 [INFO]   ✓ Extracted 95 spec fields across 1 sections
+13:24:01 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-X-T50
+13:24:03 [INFO]   ✓ Found 37 pros, 2 cons
+13:24:03 [INFO]   ✓ Mapped to Prisma: Fujifilm X-T50 (fujifilm-x-t50)
+13:24:03 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:03 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-x-t50.json
+13:24:03 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Nikon D850 (nikon-d850)
+    Sensor: FULL_FRAME | 46.0MP
+    Video: 3840 x 2160 | Mount: NIKON_F
+    Pros: 41 | Cons: 2
+
+  • Nikon D780 (nikon-d780)
+    Sensor: FULL_FRAME | 25.0MP
+    Video: 3840 x 2160 | Mount: NIKON_F
+    Pros: 34 | Cons: 2
+
+  • Nikon D7500 (nikon-d7500)
+    Sensor: APS_C | 21.0MP
+    Video: 3840 x 2160 | Mount: NIKON_F
+    Pros: 30 | Cons: 2
+
+  • Nikon D500 (nikon-d500)
+    Sensor: APS_C | 21.0MP
+    Video: 3840 x 2160 | Mount: NIKON_F
+    Pros: 36 | Cons: 2
+
+  • Fujifilm X-T50 (fujifilm-x-t50)
+    Sensor: APS_C | 40.0MP
+    Video: 6240 x 4160 | Mount: FUJIFILM_X
+    Pros: 37 | Cons: 2
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 8 / 15  (5 cameras)
+  Fujifilm-X-T4 Fujifilm-X-T3 Fujifilm-X-T30-II Fujifilm-X-H2 Fujifilm-X-S10
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:24:06 [INFO] 🎯 Scraping 5 camera(s): Fujifilm-X-T4, Fujifilm-X-T3, Fujifilm-X-T30-II, Fujifilm-X-H2, Fujifilm-X-S10
+13:24:06 [INFO] 
+============================================================
+13:24:06 [INFO]   [1/5] Processing: Fujifilm-X-T4
+13:24:06 [INFO] ============================================================
+13:24:06 [INFO] 📷 Scraping camera: Fujifilm-X-T4
+13:24:06 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-X-T4
+13:24:08 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:08 [INFO]   ✓ Extracted 96 spec fields across 1 sections
+13:24:08 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-X-T4
+13:24:10 [INFO]   ✓ Found 37 pros, 1 cons
+13:24:10 [INFO]   ✓ Mapped to Prisma: Fujifilm X-T4 (fujifilm-x-t4)
+13:24:10 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:10 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-x-t4.json
+13:24:10 [INFO] 
+============================================================
+13:24:10 [INFO]   [2/5] Processing: Fujifilm-X-T3
+13:24:10 [INFO] ============================================================
+13:24:10 [INFO] 📷 Scraping camera: Fujifilm-X-T3
+13:24:10 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-X-T3
+13:24:12 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:12 [INFO]   ✓ Extracted 95 spec fields across 1 sections
+13:24:12 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-X-T3
+13:24:14 [INFO]   ✓ Found 33 pros, 3 cons
+13:24:14 [INFO]   ✓ Mapped to Prisma: Fujifilm X-T3 (fujifilm-x-t3)
+13:24:14 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:14 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-x-t3.json
+13:24:14 [INFO] 
+============================================================
+13:24:14 [INFO]   [3/5] Processing: Fujifilm-X-T30-II
+13:24:14 [INFO] ============================================================
+13:24:14 [INFO] 📷 Scraping camera: Fujifilm-X-T30-II
+13:24:14 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-X-T30-II
+13:24:15 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:15 [INFO]   ✓ Extracted 95 spec fields across 1 sections
+13:24:15 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-X-T30-II
+13:24:17 [INFO]   ✓ Found 28 pros, 3 cons
+13:24:17 [INFO]   ✓ Mapped to Prisma: Fujifilm X-T30 II (fujifilm-x-t30-ii)
+13:24:17 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:17 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-x-t30-ii.json
+13:24:17 [INFO] 
+============================================================
+13:24:17 [INFO]   [4/5] Processing: Fujifilm-X-H2
+13:24:17 [INFO] ============================================================
+13:24:17 [INFO] 📷 Scraping camera: Fujifilm-X-H2
+13:24:17 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-X-H2
+13:24:19 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:19 [INFO]   ✓ Extracted 94 spec fields across 1 sections
+13:24:19 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-X-H2
+13:24:21 [INFO]   ✓ Found 51 pros, 0 cons
+13:24:21 [INFO]   ✓ Mapped to Prisma: Fujifilm X-H2 (fujifilm-x-h2)
+13:24:21 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:21 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-x-h2.json
+13:24:21 [INFO] 
+============================================================
+13:24:21 [INFO]   [5/5] Processing: Fujifilm-X-S10
+13:24:21 [INFO] ============================================================
+13:24:21 [INFO] 📷 Scraping camera: Fujifilm-X-S10
+13:24:21 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-X-S10
+13:24:22 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:22 [INFO]   ✓ Extracted 94 spec fields across 1 sections
+13:24:22 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-X-S10
+13:24:24 [INFO]   ✓ Found 29 pros, 2 cons
+13:24:24 [INFO]   ✓ Mapped to Prisma: Fujifilm X-S10 (fujifilm-x-s10)
+13:24:24 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:24 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-x-s10.json
+13:24:24 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Fujifilm X-T4 (fujifilm-x-t4)
+    Sensor: APS_C | 26.0MP
+    Video: 3840 x 2160 | Mount: FUJIFILM_X
+    Pros: 37 | Cons: 1
+
+  • Fujifilm X-T3 (fujifilm-x-t3)
+    Sensor: APS_C | 26.0MP
+    Video: 4096 x 2160 | Mount: FUJIFILM_X
+    Pros: 33 | Cons: 3
+
+  • Fujifilm X-T30 II (fujifilm-x-t30-ii)
+    Sensor: APS_C | 26.0MP
+    Video: 3840 x 2160 | Mount: FUJIFILM_X
+    Pros: 28 | Cons: 3
+
+  • Fujifilm X-H2 (fujifilm-x-h2)
+    Sensor: APS_C | 40.0MP
+    Video: 8192 x 4320 | Mount: FUJIFILM_X
+    Pros: 51 | Cons: 0
+
+  • Fujifilm X-S10 (fujifilm-x-s10)
+    Sensor: APS_C | 26.0MP
+    Video: 4096 x 2160 | Mount: FUJIFILM_X
+    Pros: 29 | Cons: 2
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 9 / 15  (5 cameras)
+  Fujifilm-X-E4 Fujifilm-X100-V Fujifilm-GFX-50S-II Fujifilm-GFX-100S Panasonic-Lumix-S1
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:24:27 [INFO] 🎯 Scraping 5 camera(s): Fujifilm-X-E4, Fujifilm-X100-V, Fujifilm-GFX-50S-II, Fujifilm-GFX-100S, Panasonic-Lumix-S1
+13:24:27 [INFO] 
+============================================================
+13:24:27 [INFO]   [1/5] Processing: Fujifilm-X-E4
+13:24:27 [INFO] ============================================================
+13:24:27 [INFO] 📷 Scraping camera: Fujifilm-X-E4
+13:24:27 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-X-E4
+13:24:29 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:29 [INFO]   ✓ Extracted 95 spec fields across 1 sections
+13:24:29 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-X-E4
+13:24:31 [INFO]   ✓ Found 24 pros, 3 cons
+13:24:31 [INFO]   ✓ Mapped to Prisma: Fujifilm X-E4 (fujifilm-x-e4)
+13:24:31 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:31 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-x-e4.json
+13:24:31 [INFO] 
+============================================================
+13:24:31 [INFO]   [2/5] Processing: Fujifilm-X100-V
+13:24:31 [INFO] ============================================================
+13:24:31 [INFO] 📷 Scraping camera: Fujifilm-X100-V
+13:24:31 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-X100-V
+13:24:31 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:31 [WARNING]   ⚠ No specs extracted from page!
+13:24:31 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:24:31 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-X100-V
+13:24:32 [INFO]   ✓ Found 0 pros, 0 cons
+13:24:32 [INFO]   ✓ Mapped to Prisma: Fujifilm X100 V (fujifilm-x100-v)
+13:24:32 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:32 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-x100-v.json
+13:24:32 [INFO] 
+============================================================
+13:24:32 [INFO]   [3/5] Processing: Fujifilm-GFX-50S-II
+13:24:32 [INFO] ============================================================
+13:24:32 [INFO] 📷 Scraping camera: Fujifilm-GFX-50S-II
+13:24:32 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-GFX-50S-II
+13:24:33 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:33 [INFO]   ✓ Extracted 93 spec fields across 1 sections
+13:24:33 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-GFX-50S-II
+13:24:35 [INFO]   ✓ Found 32 pros, 3 cons
+13:24:35 [INFO]   ✓ Mapped to Prisma: Fujifilm GFX 50S II (fujifilm-gfx-50s-ii)
+13:24:35 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:35 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-gfx-50s-ii.json
+13:24:35 [INFO] 
+============================================================
+13:24:35 [INFO]   [4/5] Processing: Fujifilm-GFX-100S
+13:24:35 [INFO] ============================================================
+13:24:35 [INFO] 📷 Scraping camera: Fujifilm-GFX-100S
+13:24:35 [INFO]   → Fetching: https://cameradecision.com/specs/Fujifilm-GFX-100S
+13:24:37 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:37 [INFO]   ✓ Extracted 93 spec fields across 1 sections
+13:24:37 [INFO]   → Fetching: https://cameradecision.com/review/Fujifilm-GFX-100S
+13:24:39 [INFO]   ✓ Found 32 pros, 2 cons
+13:24:39 [INFO]   ✓ Mapped to Prisma: Fujifilm GFX 100S (fujifilm-gfx-100s)
+13:24:39 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:39 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/fujifilm-gfx-100s.json
+13:24:39 [INFO] 
+============================================================
+13:24:39 [INFO]   [5/5] Processing: Panasonic-Lumix-S1
+13:24:39 [INFO] ============================================================
+13:24:39 [INFO] 📷 Scraping camera: Panasonic-Lumix-S1
+13:24:39 [INFO]   → Fetching: https://cameradecision.com/specs/Panasonic-Lumix-S1
+13:24:39 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:39 [WARNING]   ⚠ No specs extracted from page!
+13:24:39 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:24:39 [INFO]   → Fetching: https://cameradecision.com/review/Panasonic-Lumix-S1
+13:24:40 [INFO]   ✓ Found 0 pros, 0 cons
+13:24:40 [INFO]   ✓ Mapped to Prisma: Panasonic Lumix S1 (panasonic-lumix-s1)
+13:24:40 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:40 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/panasonic-lumix-s1.json
+13:24:40 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Fujifilm X-E4 (fujifilm-x-e4)
+    Sensor: APS_C | 26.0MP
+    Video: 3840 x 2160 | Mount: FUJIFILM_X
+    Pros: 24 | Cons: 3
+
+  • Fujifilm X100 V (fujifilm-x100-v)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Fujifilm GFX 50S II (fujifilm-gfx-50s-ii)
+    Sensor: MEDIUM_FORMAT | 51.0MP
+    Video: 1920 x 1080 | Mount: OTHER
+    Pros: 32 | Cons: 3
+
+  • Fujifilm GFX 100S (fujifilm-gfx-100s)
+    Sensor: MEDIUM_FORMAT | 102.0MP
+    Video: 4096 x 2160 | Mount: OTHER
+    Pros: 32 | Cons: 2
+
+  • Panasonic Lumix S1 (panasonic-lumix-s1)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 10 / 15  (5 cameras)
+  Panasonic-Lumix-S1R Panasonic-Lumix-GH6 Panasonic-Lumix-GH5-II Panasonic-Lumix-G100 Panasonic-Lumix-G95
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:24:43 [INFO] 🎯 Scraping 5 camera(s): Panasonic-Lumix-S1R, Panasonic-Lumix-GH6, Panasonic-Lumix-GH5-II, Panasonic-Lumix-G100, Panasonic-Lumix-G95
+13:24:43 [INFO] 
+============================================================
+13:24:43 [INFO]   [1/5] Processing: Panasonic-Lumix-S1R
+13:24:43 [INFO] ============================================================
+13:24:43 [INFO] 📷 Scraping camera: Panasonic-Lumix-S1R
+13:24:43 [INFO]   → Fetching: https://cameradecision.com/specs/Panasonic-Lumix-S1R
+13:24:44 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:44 [WARNING]   ⚠ No specs extracted from page!
+13:24:44 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:24:44 [INFO]   → Fetching: https://cameradecision.com/review/Panasonic-Lumix-S1R
+13:24:45 [INFO]   ✓ Found 0 pros, 0 cons
+13:24:45 [INFO]   ✓ Mapped to Prisma: Panasonic Lumix S1R (panasonic-lumix-s1r)
+13:24:45 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:45 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/panasonic-lumix-s1r.json
+13:24:45 [INFO] 
+============================================================
+13:24:45 [INFO]   [2/5] Processing: Panasonic-Lumix-GH6
+13:24:45 [INFO] ============================================================
+13:24:45 [INFO] 📷 Scraping camera: Panasonic-Lumix-GH6
+13:24:45 [INFO]   → Fetching: https://cameradecision.com/specs/Panasonic-Lumix-GH6
+13:24:45 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:45 [WARNING]   ⚠ No specs extracted from page!
+13:24:45 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:24:45 [INFO]   → Fetching: https://cameradecision.com/review/Panasonic-Lumix-GH6
+13:24:46 [INFO]   ✓ Found 0 pros, 0 cons
+13:24:46 [INFO]   ✓ Mapped to Prisma: Panasonic Lumix GH6 (panasonic-lumix-gh6)
+13:24:46 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:46 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/panasonic-lumix-gh6.json
+13:24:46 [INFO] 
+============================================================
+13:24:46 [INFO]   [3/5] Processing: Panasonic-Lumix-GH5-II
+13:24:46 [INFO] ============================================================
+13:24:46 [INFO] 📷 Scraping camera: Panasonic-Lumix-GH5-II
+13:24:46 [INFO]   → Fetching: https://cameradecision.com/specs/Panasonic-Lumix-GH5-II
+13:24:46 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:46 [WARNING]   ⚠ No specs extracted from page!
+13:24:46 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:24:46 [INFO]   → Fetching: https://cameradecision.com/review/Panasonic-Lumix-GH5-II
+13:24:47 [INFO]   ✓ Found 0 pros, 0 cons
+13:24:47 [INFO]   ✓ Mapped to Prisma: Panasonic Lumix GH5 II (panasonic-lumix-gh5-ii)
+13:24:47 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:47 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/panasonic-lumix-gh5-ii.json
+13:24:47 [INFO] 
+============================================================
+13:24:47 [INFO]   [4/5] Processing: Panasonic-Lumix-G100
+13:24:47 [INFO] ============================================================
+13:24:47 [INFO] 📷 Scraping camera: Panasonic-Lumix-G100
+13:24:47 [INFO]   → Fetching: https://cameradecision.com/specs/Panasonic-Lumix-G100
+13:24:48 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:48 [WARNING]   ⚠ No specs extracted from page!
+13:24:48 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:24:48 [INFO]   → Fetching: https://cameradecision.com/review/Panasonic-Lumix-G100
+13:24:48 [INFO]   ✓ Found 0 pros, 0 cons
+13:24:48 [INFO]   ✓ Mapped to Prisma: Panasonic Lumix G100 (panasonic-lumix-g100)
+13:24:48 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:48 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/panasonic-lumix-g100.json
+13:24:48 [INFO] 
+============================================================
+13:24:48 [INFO]   [5/5] Processing: Panasonic-Lumix-G95
+13:24:48 [INFO] ============================================================
+13:24:48 [INFO] 📷 Scraping camera: Panasonic-Lumix-G95
+13:24:48 [INFO]   → Fetching: https://cameradecision.com/specs/Panasonic-Lumix-G95
+13:24:49 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:49 [WARNING]   ⚠ No specs extracted from page!
+13:24:49 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:24:49 [INFO]   → Fetching: https://cameradecision.com/review/Panasonic-Lumix-G95
+13:24:50 [INFO]   ✓ Found 0 pros, 0 cons
+13:24:50 [INFO]   ✓ Mapped to Prisma: Panasonic Lumix G95 (panasonic-lumix-g95)
+13:24:50 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:50 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/panasonic-lumix-g95.json
+13:24:50 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Panasonic Lumix S1R (panasonic-lumix-s1r)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Panasonic Lumix GH6 (panasonic-lumix-gh6)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Panasonic Lumix GH5 II (panasonic-lumix-gh5-ii)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Panasonic Lumix G100 (panasonic-lumix-g100)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Panasonic Lumix G95 (panasonic-lumix-g95)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 11 / 15  (5 cameras)
+  OM-System-OM-5 OM-System-OM-1-Mark-II Olympus-OM-D-E-M1-Mark-III Olympus-OM-D-E-M5-Mark-III Olympus-OM-D-E-M10-Mark-IV
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:24:53 [INFO] 🎯 Scraping 5 camera(s): OM-System-OM-5, OM-System-OM-1-Mark-II, Olympus-OM-D-E-M1-Mark-III, Olympus-OM-D-E-M5-Mark-III, Olympus-OM-D-E-M10-Mark-IV
+13:24:53 [INFO] 
+============================================================
+13:24:53 [INFO]   [1/5] Processing: OM-System-OM-5
+13:24:53 [INFO] ============================================================
+13:24:53 [INFO] 📷 Scraping camera: OM-System-OM-5
+13:24:53 [INFO]   → Fetching: https://cameradecision.com/specs/OM-System-OM-5
+13:24:55 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:55 [INFO]   ✓ Extracted 95 spec fields across 1 sections
+13:24:55 [INFO]   → Fetching: https://cameradecision.com/review/OM-System-OM-5
+13:24:57 [INFO]   ✓ Found 34 pros, 1 cons
+13:24:57 [INFO]   ✓ Mapped to Prisma: Om OM System OM-5 (om-om-system-om-5)
+13:24:57 [INFO]   ✓ Korean translation applied (79 terms)
+13:24:57 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/om-om-system-om-5.json
+13:24:57 [INFO] 
+============================================================
+13:24:57 [INFO]   [2/5] Processing: OM-System-OM-1-Mark-II
+13:24:57 [INFO] ============================================================
+13:24:57 [INFO] 📷 Scraping camera: OM-System-OM-1-Mark-II
+13:24:57 [INFO]   → Fetching: https://cameradecision.com/specs/OM-System-OM-1-Mark-II
+13:24:58 [INFO]   → Using fallback: extracting specs from all tables...
+13:24:58 [INFO]   ✓ Extracted 95 spec fields across 1 sections
+13:24:58 [INFO]   → Fetching: https://cameradecision.com/review/OM-System-OM-1-Mark-II
+13:25:01 [INFO]   ✓ Found 53 pros, 0 cons
+13:25:01 [INFO]   ✓ Mapped to Prisma: Om OM System OM-1 Mark II (om-om-system-om-1-mark-ii)
+13:25:01 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:01 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/om-om-system-om-1-mark-ii.json
+13:25:01 [INFO] 
+============================================================
+13:25:01 [INFO]   [3/5] Processing: Olympus-OM-D-E-M1-Mark-III
+13:25:01 [INFO] ============================================================
+13:25:01 [INFO] 📷 Scraping camera: Olympus-OM-D-E-M1-Mark-III
+13:25:01 [INFO]   → Fetching: https://cameradecision.com/specs/Olympus-OM-D-E-M1-Mark-III
+13:25:02 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:02 [INFO]   ✓ Extracted 94 spec fields across 1 sections
+13:25:02 [INFO]   → Fetching: https://cameradecision.com/review/Olympus-OM-D-E-M1-Mark-III
+13:25:04 [INFO]   ✓ Found 41 pros, 1 cons
+13:25:04 [INFO]   ✓ Mapped to Prisma: Olympus OM-D E-M1 Mark III (olympus-om-d-e-m1-mark-iii)
+13:25:04 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:04 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/olympus-om-d-e-m1-mark-iii.json
+13:25:04 [INFO] 
+============================================================
+13:25:04 [INFO]   [4/5] Processing: Olympus-OM-D-E-M5-Mark-III
+13:25:04 [INFO] ============================================================
+13:25:04 [INFO] 📷 Scraping camera: Olympus-OM-D-E-M5-Mark-III
+13:25:04 [INFO]   → Fetching: https://cameradecision.com/specs/Olympus-OM-D-E-M5-Mark-III
+13:25:05 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:05 [WARNING]   ⚠ No specs extracted from page!
+13:25:05 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:25:05 [INFO]   → Fetching: https://cameradecision.com/review/Olympus-OM-D-E-M5-Mark-III
+13:25:05 [INFO]   ✓ Found 0 pros, 0 cons
+13:25:05 [INFO]   ✓ Mapped to Prisma: Olympus OM D E M5 Mark III (olympus-om-d-e-m5-mark-iii)
+13:25:05 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:05 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/olympus-om-d-e-m5-mark-iii.json
+13:25:05 [INFO] 
+============================================================
+13:25:05 [INFO]   [5/5] Processing: Olympus-OM-D-E-M10-Mark-IV
+13:25:05 [INFO] ============================================================
+13:25:05 [INFO] 📷 Scraping camera: Olympus-OM-D-E-M10-Mark-IV
+13:25:05 [INFO]   → Fetching: https://cameradecision.com/specs/Olympus-OM-D-E-M10-Mark-IV
+13:25:06 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:06 [WARNING]   ⚠ No specs extracted from page!
+13:25:06 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:25:06 [INFO]   → Fetching: https://cameradecision.com/review/Olympus-OM-D-E-M10-Mark-IV
+13:25:07 [INFO]   ✓ Found 0 pros, 0 cons
+13:25:07 [INFO]   ✓ Mapped to Prisma: Olympus OM D E M10 Mark IV (olympus-om-d-e-m10-mark-iv)
+13:25:07 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:07 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/olympus-om-d-e-m10-mark-iv.json
+13:25:07 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Om OM System OM-5 (om-om-system-om-5)
+    Sensor: MICRO_FOUR_THIRDS | 20.0MP
+    Video: 4096 x 2160 | Mount: MICRO_FOUR_THIRDS
+    Pros: 34 | Cons: 1
+
+  • Om OM System OM-1 Mark II (om-om-system-om-1-mark-ii)
+    Sensor: MICRO_FOUR_THIRDS | 20.0MP
+    Video: 4096 x 2160 | Mount: MICRO_FOUR_THIRDS
+    Pros: 53 | Cons: 0
+
+  • Olympus OM-D E-M1 Mark III (olympus-om-d-e-m1-mark-iii)
+    Sensor: MICRO_FOUR_THIRDS | 20.0MP
+    Video: 3840 x 2160 | Mount: MICRO_FOUR_THIRDS
+    Pros: 41 | Cons: 1
+
+  • Olympus OM D E M5 Mark III (olympus-om-d-e-m5-mark-iii)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Olympus OM D E M10 Mark IV (olympus-om-d-e-m10-mark-iv)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 12 / 15  (5 cameras)
+  Olympus-PEN-E-PL10 Leica-M11-P Leica-M11-Monochrom Leica-SL2 Leica-CL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:25:10 [INFO] 🎯 Scraping 5 camera(s): Olympus-PEN-E-PL10, Leica-M11-P, Leica-M11-Monochrom, Leica-SL2, Leica-CL
+13:25:10 [INFO] 
+============================================================
+13:25:10 [INFO]   [1/5] Processing: Olympus-PEN-E-PL10
+13:25:10 [INFO] ============================================================
+13:25:10 [INFO] 📷 Scraping camera: Olympus-PEN-E-PL10
+13:25:10 [INFO]   → Fetching: https://cameradecision.com/specs/Olympus-PEN-E-PL10
+13:25:11 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:11 [WARNING]   ⚠ No specs extracted from page!
+13:25:11 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:25:11 [INFO]   → Fetching: https://cameradecision.com/review/Olympus-PEN-E-PL10
+13:25:12 [INFO]   ✓ Found 0 pros, 0 cons
+13:25:12 [INFO]   ✓ Mapped to Prisma: Olympus PEN E PL10 (olympus-pen-e-pl10)
+13:25:12 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:12 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/olympus-pen-e-pl10.json
+13:25:12 [INFO] 
+============================================================
+13:25:12 [INFO]   [2/5] Processing: Leica-M11-P
+13:25:12 [INFO] ============================================================
+13:25:12 [INFO] 📷 Scraping camera: Leica-M11-P
+13:25:12 [INFO]   → Fetching: https://cameradecision.com/specs/Leica-M11-P
+13:25:13 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:13 [INFO]   ✓ Extracted 87 spec fields across 1 sections
+13:25:13 [INFO]   → Fetching: https://cameradecision.com/review/Leica-M11-P
+13:25:15 [INFO]   ✓ Found 20 pros, 5 cons
+13:25:15 [INFO]   ✓ Mapped to Prisma: Leica M11-P (leica-m11-p)
+13:25:15 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:15 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/leica-m11-p.json
+13:25:15 [INFO] 
+============================================================
+13:25:15 [INFO]   [3/5] Processing: Leica-M11-Monochrom
+13:25:15 [INFO] ============================================================
+13:25:15 [INFO] 📷 Scraping camera: Leica-M11-Monochrom
+13:25:15 [INFO]   → Fetching: https://cameradecision.com/specs/Leica-M11-Monochrom
+13:25:16 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:16 [WARNING]   ⚠ No specs extracted from page!
+13:25:16 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:25:16 [INFO]   → Fetching: https://cameradecision.com/review/Leica-M11-Monochrom
+13:25:16 [INFO]   ✓ Found 0 pros, 0 cons
+13:25:16 [INFO]   ✓ Mapped to Prisma: Leica M11 Monochrom (leica-m11-monochrom)
+13:25:16 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:16 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/leica-m11-monochrom.json
+13:25:16 [INFO] 
+============================================================
+13:25:16 [INFO]   [4/5] Processing: Leica-SL2
+13:25:16 [INFO] ============================================================
+13:25:16 [INFO] 📷 Scraping camera: Leica-SL2
+13:25:16 [INFO]   → Fetching: https://cameradecision.com/specs/Leica-SL2
+13:25:18 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:18 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:25:18 [INFO]   → Fetching: https://cameradecision.com/review/Leica-SL2
+13:25:20 [INFO]   ✓ Found 29 pros, 3 cons
+13:25:20 [INFO]   ✓ Mapped to Prisma: Leica SL2 (leica-sl2)
+13:25:20 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:20 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/leica-sl2.json
+13:25:20 [INFO] 
+============================================================
+13:25:20 [INFO]   [5/5] Processing: Leica-CL
+13:25:20 [INFO] ============================================================
+13:25:20 [INFO] 📷 Scraping camera: Leica-CL
+13:25:20 [INFO]   → Fetching: https://cameradecision.com/specs/Leica-CL
+13:25:21 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:21 [INFO]   ✓ Extracted 89 spec fields across 1 sections
+13:25:21 [INFO]   → Fetching: https://cameradecision.com/review/Leica-CL
+13:25:23 [INFO]   ✓ Found 19 pros, 4 cons
+13:25:23 [INFO]   ✓ Mapped to Prisma: Leica CL (leica-cl)
+13:25:23 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:23 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/leica-cl.json
+13:25:23 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Olympus PEN E PL10 (olympus-pen-e-pl10)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Leica M11-P (leica-m11-p)
+    Sensor: FULL_FRAME | 60.0MP
+    Video: None | Mount: LEICA_M
+    Pros: 20 | Cons: 5
+
+  • Leica M11 Monochrom (leica-m11-monochrom)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  • Leica SL2 (leica-sl2)
+    Sensor: FULL_FRAME | 47.0MP
+    Video: 3840 x 2160 | Mount: LEICA_L
+    Pros: 29 | Cons: 3
+
+  • Leica CL (leica-cl)
+    Sensor: APS_C | 24.0MP
+    Video: 3840 x 2160 | Mount: LEICA_L
+    Pros: 19 | Cons: 4
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 13 / 15  (5 cameras)
+  Pentax-K-3-Mark-III Pentax-K-1-Mark-II Pentax-KF Ricoh-GR-III Ricoh-GR-IIIx
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:25:26 [INFO] 🎯 Scraping 5 camera(s): Pentax-K-3-Mark-III, Pentax-K-1-Mark-II, Pentax-KF, Ricoh-GR-III, Ricoh-GR-IIIx
+13:25:26 [INFO] 
+============================================================
+13:25:26 [INFO]   [1/5] Processing: Pentax-K-3-Mark-III
+13:25:26 [INFO] ============================================================
+13:25:26 [INFO] 📷 Scraping camera: Pentax-K-3-Mark-III
+13:25:26 [INFO]   → Fetching: https://cameradecision.com/specs/Pentax-K-3-Mark-III
+13:25:28 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:28 [INFO]   ✓ Extracted 92 spec fields across 1 sections
+13:25:28 [INFO]   → Fetching: https://cameradecision.com/review/Pentax-K-3-Mark-III
+13:25:30 [INFO]   ✓ Found 38 pros, 2 cons
+13:25:30 [INFO]   ✓ Mapped to Prisma: Pentax K-3 Mark III (pentax-k-3-mark-iii)
+13:25:30 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:30 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/pentax-k-3-mark-iii.json
+13:25:30 [INFO] 
+============================================================
+13:25:30 [INFO]   [2/5] Processing: Pentax-K-1-Mark-II
+13:25:30 [INFO] ============================================================
+13:25:30 [INFO] 📷 Scraping camera: Pentax-K-1-Mark-II
+13:25:30 [INFO]   → Fetching: https://cameradecision.com/specs/Pentax-K-1-Mark-II
+13:25:31 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:31 [INFO]   ✓ Extracted 91 spec fields across 1 sections
+13:25:31 [INFO]   → Fetching: https://cameradecision.com/review/Pentax-K-1-Mark-II
+13:25:33 [INFO]   ✓ Found 33 pros, 2 cons
+13:25:33 [INFO]   ✓ Mapped to Prisma: Pentax K-1 Mark II (pentax-k-1-mark-ii)
+13:25:33 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:33 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/pentax-k-1-mark-ii.json
+13:25:33 [INFO] 
+============================================================
+13:25:33 [INFO]   [3/5] Processing: Pentax-KF
+13:25:33 [INFO] ============================================================
+13:25:33 [INFO] 📷 Scraping camera: Pentax-KF
+13:25:33 [INFO]   → Fetching: https://cameradecision.com/specs/Pentax-KF
+13:25:35 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:35 [INFO]   ✓ Extracted 90 spec fields across 1 sections
+13:25:35 [INFO]   → Fetching: https://cameradecision.com/review/Pentax-KF
+13:25:37 [INFO]   ✓ Found 24 pros, 2 cons
+13:25:37 [INFO]   ✓ Mapped to Prisma: Pentax KF (pentax-kf)
+13:25:37 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:37 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/pentax-kf.json
+13:25:37 [INFO] 
+============================================================
+13:25:37 [INFO]   [4/5] Processing: Ricoh-GR-III
+13:25:37 [INFO] ============================================================
+13:25:37 [INFO] 📷 Scraping camera: Ricoh-GR-III
+13:25:37 [INFO]   → Fetching: https://cameradecision.com/specs/Ricoh-GR-III
+13:25:38 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:38 [INFO]   ✓ Extracted 88 spec fields across 1 sections
+13:25:38 [INFO]   → Fetching: https://cameradecision.com/review/Ricoh-GR-III
+13:25:40 [INFO]   ✓ Found 24 pros, 3 cons
+13:25:40 [INFO]   ✓ Mapped to Prisma: Ricoh GR III (ricoh-gr-iii)
+13:25:40 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:40 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/ricoh-gr-iii.json
+13:25:40 [INFO] 
+============================================================
+13:25:40 [INFO]   [5/5] Processing: Ricoh-GR-IIIx
+13:25:40 [INFO] ============================================================
+13:25:40 [INFO] 📷 Scraping camera: Ricoh-GR-IIIx
+13:25:40 [INFO]   → Fetching: https://cameradecision.com/specs/Ricoh-GR-IIIx
+13:25:42 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:42 [INFO]   ✓ Extracted 86 spec fields across 1 sections
+13:25:42 [INFO]   → Fetching: https://cameradecision.com/review/Ricoh-GR-IIIx
+13:25:43 [INFO]   ✓ Found 24 pros, 3 cons
+13:25:43 [INFO]   ✓ Mapped to Prisma: Ricoh GR IIIx (ricoh-gr-iiix)
+13:25:43 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:43 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/ricoh-gr-iiix.json
+13:25:43 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Pentax K-3 Mark III (pentax-k-3-mark-iii)
+    Sensor: APS_C | 26.0MP
+    Video: 3840 x 2160 | Mount: PENTAX_K
+    Pros: 38 | Cons: 2
+
+  • Pentax K-1 Mark II (pentax-k-1-mark-ii)
+    Sensor: FULL_FRAME | 36.0MP
+    Video: 1920 x 1080 | Mount: PENTAX_K
+    Pros: 33 | Cons: 2
+
+  • Pentax KF (pentax-kf)
+    Sensor: APS_C | 24.0MP
+    Video: 1920 x 1080 | Mount: PENTAX_K
+    Pros: 24 | Cons: 2
+
+  • Ricoh GR III (ricoh-gr-iii)
+    Sensor: APS_C | 24.0MP
+    Video: 1920 x 1080 | Mount: OTHER
+    Pros: 24 | Cons: 3
+
+  • Ricoh GR IIIx (ricoh-gr-iiix)
+    Sensor: APS_C | 24.0MP
+    Video: 1920 x 1080 | Mount: OTHER
+    Pros: 24 | Cons: 3
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 14 / 15  (5 cameras)
+  Sigma-fp Sigma-fp-L Hasselblad-X2D-100C Hasselblad-X1D-II-50C Hasselblad-907X-50C
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:25:47 [INFO] 🎯 Scraping 5 camera(s): Sigma-fp, Sigma-fp-L, Hasselblad-X2D-100C, Hasselblad-X1D-II-50C, Hasselblad-907X-50C
+13:25:47 [INFO] 
+============================================================
+13:25:47 [INFO]   [1/5] Processing: Sigma-fp
+13:25:47 [INFO] ============================================================
+13:25:47 [INFO] 📷 Scraping camera: Sigma-fp
+13:25:47 [INFO]   → Fetching: https://cameradecision.com/specs/Sigma-fp
+13:25:48 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:48 [INFO]   ✓ Extracted 90 spec fields across 1 sections
+13:25:48 [INFO]   → Fetching: https://cameradecision.com/review/Sigma-fp
+13:25:50 [INFO]   ✓ Found 21 pros, 5 cons
+13:25:50 [INFO]   ✓ Mapped to Prisma: Sigma fp (sigma-fp)
+13:25:50 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:50 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sigma-fp.json
+13:25:50 [INFO] 
+============================================================
+13:25:50 [INFO]   [2/5] Processing: Sigma-fp-L
+13:25:50 [INFO] ============================================================
+13:25:50 [INFO] 📷 Scraping camera: Sigma-fp-L
+13:25:50 [INFO]   → Fetching: https://cameradecision.com/specs/Sigma-fp-L
+13:25:52 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:52 [INFO]   ✓ Extracted 91 spec fields across 1 sections
+13:25:52 [INFO]   → Fetching: https://cameradecision.com/review/Sigma-fp-L
+13:25:54 [INFO]   ✓ Found 26 pros, 4 cons
+13:25:54 [INFO]   ✓ Mapped to Prisma: Sigma fp L (sigma-fp-l)
+13:25:54 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:54 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/sigma-fp-l.json
+13:25:54 [INFO] 
+============================================================
+13:25:54 [INFO]   [3/5] Processing: Hasselblad-X2D-100C
+13:25:54 [INFO] ============================================================
+13:25:54 [INFO] 📷 Scraping camera: Hasselblad-X2D-100C
+13:25:54 [INFO]   → Fetching: https://cameradecision.com/specs/Hasselblad-X2D-100C
+13:25:55 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:55 [INFO]   ✓ Extracted 88 spec fields across 1 sections
+13:25:55 [INFO]   → Fetching: https://cameradecision.com/review/Hasselblad-X2D-100C
+13:25:57 [INFO]   ✓ Found 22 pros, 5 cons
+13:25:57 [INFO]   ✓ Mapped to Prisma: Hasselblad X2D 100c (hasselblad-x2d-100c)
+13:25:57 [INFO]   ✓ Korean translation applied (79 terms)
+13:25:57 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/hasselblad-x2d-100c.json
+13:25:57 [INFO] 
+============================================================
+13:25:57 [INFO]   [4/5] Processing: Hasselblad-X1D-II-50C
+13:25:57 [INFO] ============================================================
+13:25:57 [INFO] 📷 Scraping camera: Hasselblad-X1D-II-50C
+13:25:57 [INFO]   → Fetching: https://cameradecision.com/specs/Hasselblad-X1D-II-50C
+13:25:58 [INFO]   → Using fallback: extracting specs from all tables...
+13:25:58 [INFO]   ✓ Extracted 90 spec fields across 1 sections
+13:25:58 [INFO]   → Fetching: https://cameradecision.com/review/Hasselblad-X1D-II-50C
+13:26:00 [INFO]   ✓ Found 20 pros, 5 cons
+13:26:00 [INFO]   ✓ Mapped to Prisma: Hasselblad X1D II 50C (hasselblad-x1d-ii-50c)
+13:26:00 [INFO]   ✓ Korean translation applied (79 terms)
+13:26:00 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/hasselblad-x1d-ii-50c.json
+13:26:00 [INFO] 
+============================================================
+13:26:00 [INFO]   [5/5] Processing: Hasselblad-907X-50C
+13:26:00 [INFO] ============================================================
+13:26:00 [INFO] 📷 Scraping camera: Hasselblad-907X-50C
+13:26:00 [INFO]   → Fetching: https://cameradecision.com/specs/Hasselblad-907X-50C
+13:26:01 [INFO]   → Using fallback: extracting specs from all tables...
+13:26:01 [WARNING]   ⚠ No specs extracted from page!
+13:26:01 [INFO]   ✓ Extracted 0 spec fields across 0 sections
+13:26:01 [INFO]   → Fetching: https://cameradecision.com/review/Hasselblad-907X-50C
+13:26:01 [INFO]   ✓ Found 0 pros, 0 cons
+13:26:01 [INFO]   ✓ Mapped to Prisma: Hasselblad 907X 50C (hasselblad-907x-50c)
+13:26:01 [INFO]   ✓ Korean translation applied (79 terms)
+13:26:01 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/hasselblad-907x-50c.json
+13:26:01 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (5 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 5 cameras processed
+============================================================
+  • Sigma fp (sigma-fp)
+    Sensor: FULL_FRAME | 25.0MP
+    Video: 3840 x 2160 | Mount: LEICA_L
+    Pros: 21 | Cons: 5
+
+  • Sigma fp L (sigma-fp-l)
+    Sensor: FULL_FRAME | 61.0MP
+    Video: 3840 x 2160 | Mount: LEICA_L
+    Pros: 26 | Cons: 4
+
+  • Hasselblad X2D 100c (hasselblad-x2d-100c)
+    Sensor: MEDIUM_FORMAT | 100.0MP
+    Video: None | Mount: OTHER
+    Pros: 22 | Cons: 5
+
+  • Hasselblad X1D II 50C (hasselblad-x1d-ii-50c)
+    Sensor: MEDIUM_FORMAT | 51.0MP
+    Video: 2720 x 1530 | Mount: OTHER
+    Pros: 20 | Cons: 5
+
+  • Hasselblad 907X 50C (hasselblad-907x-50c)
+    Sensor: OTHER | 0.0MP
+    Video:  | Mount: OTHER
+    Pros: 0 | Cons: 0
+
+  ⏳  Waiting 3s before next batch...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Batch 15 / 15  (4 cameras)
+  GoPro-HERO13-Black GoPro-HERO12-Black DJI-Osmo-Action-5-Pro DJI-Osmo-Pocket-3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+13:26:04 [INFO] 🎯 Scraping 4 camera(s): GoPro-HERO13-Black, GoPro-HERO12-Black, DJI-Osmo-Action-5-Pro, DJI-Osmo-Pocket-3
+13:26:05 [INFO] 
+============================================================
+13:26:05 [INFO]   [1/4] Processing: GoPro-HERO13-Black
+13:26:05 [INFO] ============================================================
+13:26:05 [INFO] 📷 Scraping camera: GoPro-HERO13-Black
+13:26:05 [INFO]   → Fetching: https://cameradecision.com/specs/GoPro-HERO13-Black
+13:26:06 [INFO]   → Using fallback: extracting specs from all tables...
+13:26:06 [INFO]   ✓ Extracted 88 spec fields across 1 sections
+13:26:06 [INFO]   → Fetching: https://cameradecision.com/review/GoPro-HERO13-Black
+13:26:08 [INFO]   ✓ Found 20 pros, 8 cons
+13:26:08 [INFO]   ✓ Mapped to Prisma: Gopro GoPro Hero13 Black (gopro-gopro-hero13-black)
+13:26:08 [INFO]   ✓ Korean translation applied (79 terms)
+13:26:08 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/gopro-gopro-hero13-black.json
+13:26:08 [INFO] 
+============================================================
+13:26:08 [INFO]   [2/4] Processing: GoPro-HERO12-Black
+13:26:08 [INFO] ============================================================
+13:26:08 [INFO] 📷 Scraping camera: GoPro-HERO12-Black
+13:26:08 [INFO]   → Fetching: https://cameradecision.com/specs/GoPro-HERO12-Black
+13:26:10 [INFO]   → Using fallback: extracting specs from all tables...
+13:26:10 [INFO]   ✓ Extracted 89 spec fields across 1 sections
+13:26:10 [INFO]   → Fetching: https://cameradecision.com/review/GoPro-HERO12-Black
+13:26:12 [INFO]   ✓ Found 20 pros, 8 cons
+13:26:12 [INFO]   ✓ Mapped to Prisma: Gopro GoPro Hero12 Black (gopro-gopro-hero12-black)
+13:26:12 [INFO]   ✓ Korean translation applied (79 terms)
+13:26:12 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/gopro-gopro-hero12-black.json
+13:26:12 [INFO] 
+============================================================
+13:26:12 [INFO]   [3/4] Processing: DJI-Osmo-Action-5-Pro
+13:26:12 [INFO] ============================================================
+13:26:12 [INFO] 📷 Scraping camera: DJI-Osmo-Action-5-Pro
+13:26:12 [INFO]   → Fetching: https://cameradecision.com/specs/DJI-Osmo-Action-5-Pro
+13:26:13 [INFO]   → Using fallback: extracting specs from all tables...
+13:26:13 [INFO]   ✓ Extracted 90 spec fields across 1 sections
+13:26:13 [INFO]   → Fetching: https://cameradecision.com/review/DJI-Osmo-Action-5-Pro
+13:26:15 [INFO]   ✓ Found 26 pros, 8 cons
+13:26:15 [INFO]   ✓ Mapped to Prisma: Dji DJI Osmo Action 5 Pro (dji-dji-osmo-action-5-pro)
+13:26:15 [INFO]   ✓ Korean translation applied (79 terms)
+13:26:15 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/dji-dji-osmo-action-5-pro.json
+13:26:15 [INFO] 
+============================================================
+13:26:15 [INFO]   [4/4] Processing: DJI-Osmo-Pocket-3
+13:26:15 [INFO] ============================================================
+13:26:15 [INFO] 📷 Scraping camera: DJI-Osmo-Pocket-3
+13:26:15 [INFO]   → Fetching: https://cameradecision.com/specs/DJI-Osmo-Pocket-3
+13:26:16 [INFO]   → Using fallback: extracting specs from all tables...
+13:26:16 [INFO]   ✓ Extracted 88 spec fields across 1 sections
+13:26:16 [INFO]   → Fetching: https://cameradecision.com/review/DJI-Osmo-Pocket-3
+13:26:18 [INFO]   ✓ Found 19 pros, 10 cons
+13:26:18 [INFO]   ✓ Mapped to Prisma: Dji DJI Osmo Pocket 3 (dji-dji-osmo-pocket-3)
+13:26:18 [INFO]   ✓ Korean translation applied (79 terms)
+13:26:18 [INFO]   💾 Saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/dji-dji-osmo-pocket-3.json
+13:26:18 [INFO] 
+✅ Combined seed saved: /Users/user/Desktop/DSLReview/camera-specs/data/seeds/all_cameras_seed.json (4 cameras)
+
+============================================================
+  SCRAPE COMPLETE — 4 cameras processed
+============================================================
+  • Gopro GoPro Hero13 Black (gopro-gopro-hero13-black)
+    Sensor: OTHER | 27.0MP
+    Video: 5312 x 2988 | Mount: OTHER
+    Pros: 20 | Cons: 8
+
+  • Gopro GoPro Hero12 Black (gopro-gopro-hero12-black)
+    Sensor: OTHER | 27.0MP
+    Video: 5312 x 2988 | Mount: OTHER
+    Pros: 20 | Cons: 8
+
+  • Dji DJI Osmo Action 5 Pro (dji-dji-osmo-action-5-pro)
+    Sensor: OTHER | 40.0MP
+    Video: 3840 x 2160 | Mount: OTHER
+    Pros: 26 | Cons: 8
+
+  • Dji DJI Osmo Pocket 3 (dji-dji-osmo-pocket-3)
+    Sensor: ONE_INCH | 9.4MP
+    Video: 3840 x 2160 | Mount: OTHER
+    Pros: 19 | Cons: 10
+
+
+════════════════════════════════════════════
+  BULK SCRAPE COMPLETE
+  ✅ Success: ~74  ❌ Failed: ~0
+════════════════════════════════════════════

@@ -1,0 +1,101 @@
+# ============================================
+# Comprehensive Camera Slug List for Scraping
+# cameradecision.com URL slug format
+# ============================================
+
+# === SONY ===
+Sony-Alpha-A9-III
+Sony-Alpha-A7-V
+Sony-Alpha-A7C-R
+Sony-Alpha-A7S-III
+Sony-Alpha-A7-III
+Sony-Alpha-A7R-IV
+Sony-ZV-E1
+Sony-ZV-E10-II
+Sony-Alpha-A6600
+Sony-Alpha-A6500
+Sony-Alpha-A6400
+Sony-Alpha-A6100
+
+# === CANON ===
+Canon-EOS-R1
+Canon-EOS-R5-Mark-II
+Canon-EOS-R6
+Canon-EOS-R10
+Canon-EOS-R100
+Canon-EOS-R5-C
+Canon-EOS-90D
+Canon-EOS-5D-Mark-IV
+Canon-EOS-6D-Mark-II
+Canon-PowerShot-V10
+
+# === NIKON ===
+Nikon-Z50-II
+Nikon-Z50
+Nikon-Z30
+Nikon-Z-fc
+Nikon-Z5
+Nikon-Z6-II
+Nikon-Z7-II
+Nikon-Z7
+Nikon-D850
+Nikon-D780
+Nikon-D7500
+Nikon-D500
+
+# === FUJIFILM ===
+Fujifilm-X-T50
+Fujifilm-X-T4
+Fujifilm-X-T3
+Fujifilm-X-T30-II
+Fujifilm-X-H2
+Fujifilm-X-S10
+Fujifilm-X-E4
+Fujifilm-X100-V
+Fujifilm-GFX-50S-II
+Fujifilm-GFX-100S
+
+# === PANASONIC ===
+Panasonic-Lumix-S5-IIX
+Panasonic-Lumix-S1
+Panasonic-Lumix-S1R
+Panasonic-Lumix-GH6
+Panasonic-Lumix-GH5-II
+Panasonic-Lumix-G100
+Panasonic-Lumix-G95
+
+# === OM SYSTEM / OLYMPUS ===
+OM-System-OM-5
+OM-System-OM-1-Mark-II
+Olympus-OM-D-E-M1-Mark-III
+Olympus-OM-D-E-M5-Mark-III
+Olympus-OM-D-E-M10-Mark-IV
+Olympus-PEN-E-PL10
+
+# === LEICA ===
+Leica-M11-P
+Leica-M11-Monochrom
+Leica-SL2
+Leica-CL
+
+# === PENTAX / RICOH ===
+Pentax-K-3-Mark-III
+Pentax-K-1-Mark-II
+Pentax-KF
+Ricoh-GR-III
+Ricoh-GR-IIIx
+
+# === SIGMA ===
+Sigma-fp
+Sigma-fp-L
+
+# === HASSELBLAD ===
+Hasselblad-X2D-100C
+Hasselblad-X1D-II-50C
+Hasselblad-907X-50C
+
+# === GOPRO / DJI ===
+GoPro-HERO13-Black
+GoPro-HERO12-Black
+DJI-Osmo-Action-5-Pro
+DJI-Osmo-Pocket-3

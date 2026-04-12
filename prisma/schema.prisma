@@ -1,0 +1,209 @@
+// =============================================================================
+// Camera Specs & Review Community — Prisma Schema
+// =============================================================================
+// This schema defines the core data models for the application:
+//   • User    — registered community members who can author reviews
+//   • Camera  — detailed technical specifications for camera bodies
+//   • Review  — user-submitted ratings (1–5) and text reviews on cameras
+//
+// Database: PostgreSQL (Supabase)
+// =============================================================================
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// =============================================================================
+// ENUMS
+// =============================================================================
+
+/// Sensor size classification used across camera bodies.
+enum SensorSize {
+  FULL_FRAME
+  APS_C
+  MICRO_FOUR_THIRDS
+  MEDIUM_FORMAT
+  ONE_INCH
+  OTHER
+}
+
+/// Lens mount system. Covers the most common modern mirrorless & DSLR mounts.
+enum LensMount {
+  SONY_E
+  CANON_RF
+  NIKON_Z
+  FUJIFILM_X
+  FUJIFILM_GFX
+  MICRO_FOUR_THIRDS
+  LEICA_L
+  LEICA_M
+  CANON_EF
+  NIKON_F
+  PENTAX_K
+  OTHER
+}
+
+/// Camera body type classification.
+enum BodyType {
+  MIRRORLESS
+  DSLR
+  COMPACT
+  MEDIUM_FORMAT
+  CINEMA
+  ACTION
+  OTHER
+}
+
+// =============================================================================
+// USER MODEL
+// =============================================================================
+
+/// Represents a registered member of the review community.
+/// A user can author many reviews, but each review belongs to exactly one user.
+model User {
+  id        String  @id @default(cuid())
+  email     String  @unique
+  username  String  @unique
+  name      String?
+  avatarUrl String? @map("avatar_url")
+  bio       String?
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  // ── Relations ──────────────────────────────────────────────────────────────
+  reviews Review[]
+
+  @@map("users")
+}
+
+// =============================================================================
+// CAMERA MODEL
+// =============================================================================
+
+/// Stores the full technical specification sheet for a single camera body.
+/// Serves as the central entity that users browse, compare, and review.
+model Camera {
+  id   String @id @default(cuid())
+  slug String @unique /// URL-friendly identifier (e.g. "sony-a7rv")
+
+  // ── Brand & Model ─────────────────────────────────────────────────────────
+  brand String /// e.g. "Sony", "Canon", "Nikon"
+  model String /// e.g. "A7R V", "EOS R5"
+
+  // ── Body ──────────────────────────────────────────────────────────────────
+  bodyType BodyType @default(MIRRORLESS) @map("body_type")
+
+  // ── Sensor & Image ────────────────────────────────────────────────────────
+  sensorSize         SensorSize @map("sensor_size")
+  megapixels         Float /// Effective megapixels (e.g. 61.0)
+  isoMin             Int        @map("iso_min") /// Minimum native ISO (e.g. 100)
+  isoMax             Int        @map("iso_max") /// Maximum native ISO (e.g. 102400)
+  imageStabilization Boolean    @default(false) @map("image_stabilization")
+
+  // ── Autofocus ─────────────────────────────────────────────────────────────
+  afPoints Int    @map("af_points") /// Number of AF points (e.g. 693)
+  afType   String @map("af_type") /// e.g. "Hybrid Phase-Detection"
+
+  // ── Video ─────────────────────────────────────────────────────────────────
+  maxVideoResolution String  @map("max_video_resolution") /// e.g. "8K 30fps"
+  videoFeatures      String? @map("video_features") /// e.g. "10-bit 4:2:2, S-Log3"
+
+  // ── Viewfinder & Display ──────────────────────────────────────────────────
+  viewfinderType          String  @map("viewfinder_type") /// e.g. "OLED EVF"
+  viewfinderMagnification Float?  @map("viewfinder_magnification") /// e.g. 0.90
+  lcdSize                 Float   @map("lcd_size") /// inches (e.g. 3.2)
+  lcdResolution           String  @map("lcd_resolution") /// e.g. "2.1M dots"
+  touchscreen             Boolean @default(true)
+
+  // ── Lens Mount ────────────────────────────────────────────────────────────
+  mount LensMount
+
+  // ── Performance ───────────────────────────────────────────────────────────
+  continuousShootingSpeed Float  @map("continuous_shooting_speed") /// fps (e.g. 10.0)
+  shutterSpeedMin         String @map("shutter_speed_min") /// e.g. "1/8000"
+  shutterSpeedMax         String @map("shutter_speed_max") /// e.g. "30\""
+
+  // ── Connectivity ──────────────────────────────────────────────────────────
+  cardSlots Int     @map("card_slots")
+  cardType  String  @map("card_type") /// e.g. "CFexpress Type A / SD UHS-II"
+  wifi      Boolean @default(true)
+  bluetooth Boolean @default(true)
+  usb       String? /// e.g. "USB-C 3.2 Gen 2"
+
+  // ── Physical ──────────────────────────────────────────────────────────────
+  weightGrams   Int     @map("weight_grams") /// Body-only weight in grams
+  dimensions    String /// e.g. "131 x 97 x 82 mm"
+  weatherSealed Boolean @default(true) @map("weather_sealed")
+
+  // ── Pricing & Availability ────────────────────────────────────────────────
+  priceMsrp   Int?     @map("price_msrp") /// Launch MSRP in USD cents (e.g. 389900 = $3,899)
+  releaseDate DateTime @map("release_date")
+
+  // ── Media ─────────────────────────────────────────────────────────────────
+  imageUrl     String? @map("image_url") /// Hero product image URL
+  thumbnailUrl String? @map("thumbnail_url") /// Smaller thumbnail
+
+  // ── Metadata ──────────────────────────────────────────────────────────────
+  description String?  @db.Text /// Rich-text marketing / editorial description
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  // ── Relations ──────────────────────────────────────────────────────────────
+  reviews Review[]
+
+  // ── Indexes ───────────────────────────────────────────────────────────────
+  @@unique([brand, model])
+  @@index([brand])
+  @@index([sensorSize])
+  @@index([mount])
+  @@index([releaseDate])
+  @@map("cameras")
+}
+
+// =============================================================================
+// REVIEW MODEL
+// =============================================================================
+
+/// A user's rating and written review for a specific camera.
+/// Each review is linked to exactly one User (author) and one Camera.
+/// A user may only review a given camera once (enforced via unique constraint).
+model Review {
+  id String @id @default(cuid())
+
+  // ── Rating ────────────────────────────────────────────────────────────────
+  rating  Int /// 1–5 star rating (validated at app level)
+  title   String /// Short headline (e.g. "Best landscape camera ever")
+  comment String @db.Text /// Full review body
+
+  // ── Supplementary ─────────────────────────────────────────────────────────
+  pros String? @db.Text /// Comma or newline-separated pros
+  cons String? @db.Text /// Comma or newline-separated cons
+
+  // ── Moderation ────────────────────────────────────────────────────────────
+  verified Boolean @default(false) /// Verified purchase flag
+  helpful  Int     @default(0) /// "Was this helpful?" vote count
+
+  // ── Timestamps ────────────────────────────────────────────────────────────
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  // ── Relations ──────────────────────────────────────────────────────────────
+  author   User   @relation(fields: [authorId], references: [id], onDelete: Cascade)
+  authorId String @map("author_id")
+
+  camera   Camera @relation(fields: [cameraId], references: [id], onDelete: Cascade)
+  cameraId String @map("camera_id")
+
+  // ── Constraints ───────────────────────────────────────────────────────────
+  /// A user may only leave one review per camera.
+  @@unique([authorId, cameraId])
+  @@index([cameraId])
+  @@index([authorId])
+  @@index([rating])
+  @@map("reviews")
+}
