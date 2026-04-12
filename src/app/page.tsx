@@ -172,22 +172,25 @@ export default async function HomePage() {
            ══════════════════════════════════════════════════════════════ */}
       <section
         id="community-stats"
-        className="py-16"
+        className="py-10"
         style={{
-          background: "var(--bg-secondary)",
+          background: "var(--bg-primary)",
           borderTop: "1px solid var(--border-subtle)",
         }}
       >
         <div className="container-custom">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
             {stats.map((stat) => (
-              <div key={stat.label} className="space-y-1">
-                <div className="text-3xl font-extrabold gradient-text">
+              <div key={stat.label} className="space-y-1.5 flex flex-col items-center justify-center">
+                <div 
+                  className="text-2xl font-bold"
+                  style={{ color: "var(--accent-primary)" }}
+                >
                   {stat.value}
                 </div>
                 <p
-                  className="text-xs font-medium uppercase tracking-wider"
-                  style={{ color: "var(--text-tertiary)" }}
+                  className="text-xs font-semibold"
+                  style={{ color: "var(--text-secondary)" }}
                 >
                   {stat.label}
                 </p>
