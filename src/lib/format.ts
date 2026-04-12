@@ -8,12 +8,16 @@
 /** Format price in cents to a human-readable KRW string. */
 export function formatPrice(cents: number | null): string {
   if (cents === null) return "가격 미정";
+  // 1 USD = 1400 KRW (Approximate exchange rate)
+  const EXCHANGE_RATE = 1400;
+  const priceInKrw = (cents / 100) * EXCHANGE_RATE;
+  
   return new Intl.NumberFormat("ko-KR", {
     style: "currency",
     currency: "KRW",
     minimumFractionDigits: 0,
     maximumFractionDigits: 0,
-  }).format(cents / 100);
+  }).format(priceInKrw);
 }
 
 /** Format a sensor size enum value to a display string. */

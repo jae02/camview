@@ -91,7 +91,7 @@ body {
   font-family: var(--font-sans);
   background-color: var(--bg-primary);
   color: var(--text-primary);
-  line-height: 1.5; /* Slightly tighter leading */
+  line-height: 1.6; /* Increased for better breathing room */
   min-height: 100vh;
   overflow-x: hidden;
 }

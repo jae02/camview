@@ -170,7 +170,7 @@ export default function SpecsTable({ camera }: SpecsTableProps) {
             >
               {/* Section Header */}
               <div
-                className="flex items-center gap-2.5 px-5 py-4"
+                className="flex items-center gap-3 px-6 py-5"
                 style={{
                   background: "var(--gradient-brand-subtle)",
                   borderBottom: "1px solid var(--border-subtle)",
@@ -193,7 +193,7 @@ export default function SpecsTable({ camera }: SpecsTableProps) {
                 {section.rows.map((row, rowIdx) => (
                   <div
                     key={row.label}
-                    className="flex items-center justify-between px-5 py-3"
+                    className="flex items-center justify-between px-6 py-4"
                     style={{
                       background:
                         rowIdx % 2 === 0

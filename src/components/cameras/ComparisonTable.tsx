@@ -212,7 +212,7 @@ export default function ComparisonTable({ cameras }: ComparisonTableProps) {
         >
           {/* Group Header */}
           <div
-            className="px-5 py-3"
+            className="px-6 py-4"
             style={{
               background: "var(--gradient-brand-subtle)",
               borderBottom: "1px solid var(--border-subtle)",
@@ -251,7 +251,7 @@ export default function ComparisonTable({ cameras }: ComparisonTableProps) {
                 >
                   {/* Label col */}
                   <div
-                    className="px-5 py-3 flex-shrink-0"
+                    className="px-6 py-5 flex-shrink-0"
                     style={{
                       width: "200px",
                       minWidth: "200px",
@@ -270,7 +270,7 @@ export default function ComparisonTable({ cameras }: ComparisonTableProps) {
                     return (
                       <div
                         key={camera.slug}
-                        className="px-5 py-3 text-center"
+                        className="px-6 py-5 text-center"
                         style={{
                           flex: `1 1 ${100 / colCount}%`,
                           borderLeft: "1px solid var(--border-subtle)",
