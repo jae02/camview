@@ -77,8 +77,6 @@
 /* ─── Base Reset & Typography ───────────────────────────────────────────────── */
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 html {
@@ -91,7 +89,7 @@ body {
   font-family: var(--font-sans);
   background-color: var(--bg-primary);
   color: var(--text-primary);
-  line-height: 1.6; /* Increased for better breathing room */
+  line-height: 1.5; /* Slightly tighter leading */
   min-height: 100vh;
   overflow-x: hidden;
 }
