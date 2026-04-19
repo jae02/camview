@@ -276,6 +276,76 @@ const USERS = [
     name: "양다빈",
     bio: "브이로그·유튜브 크리에이터 | 1인 촬영·편집 시스템 | 가성비 장비 추구",
   },
+  {
+    id: "usr_gearhead_21",
+    email: "kim.sungmin.slr@gmail.com",
+    username: "gearhead_sungmin",
+    name: "김성민",
+    bio: "장비병 말기 환자 | 신제품은 못 참음 | 중고나라/당근마켓 VIP | 바디만 5개 보유중",
+  },
+  {
+    id: "usr_cynic_22",
+    email: "dc.anon.photo@kakao.com",
+    username: "cynical_shooter",
+    name: "익명사진가",
+    bio: "디시 사진갤러리 눈팅족 | 크롭은 죄악이라 믿음 | 차가운 팩트 폭격기",
+  },
+  {
+    id: "usr_collector_23",
+    email: "lee.sub_camera@naver.com",
+    username: "sub_collector",
+    name: "이수빈",
+    bio: "서브 카메라 수집가 | 메인은 A7! 서브는 리코 GR! | 가벼움과 감성이 최고",
+  },
+  {
+    id: "usr_purist_24",
+    email: "choi.nofilter@gmail.com",
+    username: "purist_choi",
+    name: "최강석",
+    bio: "무보정 JPEG 주의자 | 후보정은 사기다 | 카메라 본연의 색감이 기술력의 척도",
+  },
+  {
+    id: "usr_birding_25",
+    email: "kang.bird@daum.net",
+    username: "birding_kang",
+    name: "강대호",
+    bio: "새 사진 전용 계정 | 초망원 단렌즈 소유자 | 연사 속도와 AF-C만 봅니다",
+  },
+  {
+    id: "usr_commercial_26",
+    email: "studio.on@naver.com",
+    username: "studio_on",
+    name: "박진수",
+    bio: "상업 스튜디오 운영 | 클라이언트 요구는 법이다 | 고해상도와 듀얼슬롯 필수",
+  },
+  {
+    id: "usr_minimal_27",
+    email: "minimal.snap@gmail.com",
+    username: "minimal_snap",
+    name: "정유진",
+    bio: "미니멀리스트 사진가 | 단렌즈 하나로 세상 담기 | 크기와 디자인이 최우선",
+  },
+  {
+    id: "usr_videophile_28",
+    email: "cine.maker@kakao.com",
+    username: "cinemaker",
+    name: "조현진",
+    bio: "독립 영화 제작자 | 10-bit 4:2:2 내장 레코딩 필수 🎥 | 렌즈 호흡 보정 사랑함",
+  },
+  {
+    id: "usr_family_29",
+    email: "papa.photo@naver.com",
+    username: "papa_photo",
+    name: "김영수",
+    bio: "아빠 진사 | 쑥쑥 크는 아이들 기록용 | 얼굴/눈 검출 AF 없으면 사진 못 찍음",
+  },
+  {
+    id: "usr_student_30",
+    email: "photo.major@gmail.com",
+    username: "photo_student_k",
+    name: "강민지",
+    bio: "사진학과 재학생 | 과제에 치여 사는 중 | 가성비 장비와 중고 렌즈 헌터",
+  }
 ];
 
 // ---------------------------------------------------------------------------
@@ -399,6 +469,48 @@ const USER_SPECIALTIES: Record<string, string> = {
   usr_analog_18: "감성",
   usr_press_19: "보도",
   usr_vlog_20: "브이로그",
+  usr_gearhead_21: "장비",
+  usr_cynic_22: "팩폭",
+  usr_collector_23: "서브",
+  usr_purist_24: "무보정",
+  usr_birding_25: "새사진",
+  usr_commercial_26: "상업",
+  usr_minimal_27: "디자인",
+  usr_videophile_28: "영화",
+  usr_family_29: "가족",
+  usr_student_30: "가성비"
+};
+
+// ---------------------------------------------------------------------------
+// Real Insights - Authentic Korean community sentiments for specific cameras
+// ---------------------------------------------------------------------------
+const REAL_INSIGHTS: Record<string, Array<{title: string, desc: string, rating: number}>> = {
+  "sony-alpha-a7-iv": [
+    { title: "M4 두 달 써보고 느낀 장단점", desc: "물론 스펙상 하이브리드로 완벽에 가깝지만, 4K 60p에서 1.5배 크롭되는 건 영상 위주로 쓰는 저에겐 너무나 뼈아픈 단점입니다. 광각 렌즈 물리기가 참 애매해지네요. 그리고 스펙 올라가서 그런지 발열 경고도 생각보다 빨리 뜨는 편입니다.", rating: 3.5 },
+    { title: "기변병 치료제 A7M4", desc: "이전 세대 대비 색감이나 메뉴 UI가 정말 좋아졌습니다! AF는 말할 필요도 없는 소니 외계인 고문 수준이고요. 다만 3300만 화소라 파일 용량 압박이 확 느껴져서 이번 기회에 HDD를 대거 교체했습니다. 사진 위주면 종결급 바디.", rating: 4.5 },
+    { title: "비싸지만 돈값하는 바디", desc: "출시한 지 좀 됐는데도 중고 방어가 너무 잘 되어 있어서 그냥 신품 샀습니다. 그립감이 3세대보다 훨씬 두툼해져서 파지하기 아주 편해요. 배터리는 기능 때문인지 좀 더 빨리 닳는 느낌적인 느낌?", rating: 4.0 }
+  ],
+  "canon-eos-r5": [
+    { title: "R5 1년 실사용기 (발열 이슈 관련)", desc: "처음에 말 많던 발열 이슈는 펌웨어 업데이트 이후 많이 완화되긴 했습니다. 그래도 8K 장시간 촬영은 무리가 있고 4K 고프레임 찍을 땐 컷 단위로 나눠 찍어야 마음이 편합니다. 사진 결과물은 정말 깡패입니다.", rating: 4.0 },
+    { title: "캐논 색감 + 미친 AF 조합", desc: "풍경이랑 인물 찍는데 R5만 한 게 없는 것 같습니다. 문제는 유지비네요. CFexpress B타입 메모리카드 가격이 거의 바디 하나 맞먹을 정도로 사악해서 통장이 텅장됐습니다. RF 렌즈들도 너무 비싸구요.", rating: 3.5 },
+    { title: "성능은 만점, 가성비는 글쎄", desc: "4500만 화소라 디테일 유지하면서 크롭하기 정말 좋습니다. 손떨림 방지(IBIS)랑 렌즈 IS 결합하면 저속 셔터에서도 핸드헬드로 다 커버되네요.", rating: 4.5 }
+  ],
+  "fujifilm-x100vi": [
+    { title: "감성 하나로 모든 걸 용서하는 카메라", desc: "최신 플래그십 생각하고 사면 AF 속도나 버벅임에 답답함을 느낄 겁니다. 눈 검출 속도도 좀 아쉽고요. 근데 디자인과 클래식 크롬 등 필름 시뮬레이션 하나로 폰카와는 궤를 달리하는 갬성이 나옵니다. 후보정 귀찮아하는 저한텐 최고의 카메라입니다.", rating: 4.5 },
+    { title: "컴팩트라기엔 좀 무겁네요", desc: "X100V에서 넘어왔는데 손떨방 들어가면서 체감상 조금 더 무거워졌습니다. 주머니에 쏙 들어가는 사이즈는 확실히 아니고, 배터리 소모가 심해서 외출 시 예비 배터리 2개는 필수입니다.", rating: 3.5 },
+    { title: "구할 수가 없어요...", desc: "겨우 피켓팅 성공해서 샀습니다. 가격이 200 언저리인데 이 가격이면 풀프레임을 갈까 수십 번 고민했습니다. 하지만 들고 나갈 때마다 예뻐서 용서가 되네요. 동영상 촬영 시엔 좀 뜨거워집니다.", rating: 4.0 }
+  ],
+  "nikon-z8": [
+    { title: "진정한 팀킬 바디, Z8 만세!", desc: "형님격인 Z9의 거의 모든 기능을 이 사이즈에 우겨넣은 니콘의 실수(?)입니다. 기계식 셔터를 아예 빼버린 센서 기술력은 진짜 혁신적이네요. 롤링 셔터 왜곡이 전혀 안 느껴집니다. 최고!", rating: 5.0 },
+    { title: "가벼워졌다지만 여전히 무겁습니다", desc: "Z9보다 다이어트했다고는 하나, 여전히 다른 브랜드 풀프 주력기들 대비 900g대 무게는 상당한 무기(?)입니다. 하루 종일 들고 다니면 어깨 빠질 것 같아요. 성능은 나무랄 데 없습니다.", rating: 4.5 }
+  ],
+  "sony-alpha-a7r-v": [
+    { title: "A7R5 해상력은 진짜 미쳤습니다", desc: "6100만 화소의 디테일은 경이롭습니다. 풍경에서 나뭇잎 하나하나 살아있네요. 새로 들어간 AI 오토포커스 덕분에 곤충이나 새 눈깔 잡는 속도도 어마무시합니다. 스위블 + 틸트 결합된 4축 액정은 브이로그 찍을 때도 매우 편리합니다.", rating: 5.0 },
+    { title: "고화소의 딜레마", desc: "사진 품질은 압도적인데, 노이즈가 고감도에서 살짝 아쉬워요. 상업 하시는 분들에겐 압도적인 크롭 마진을 줘서 깡패입니다만 취미용으론 파일 용량이 모니터 터져나갑니다.", rating: 4.0 }
+  ],
+  "canon-eos-r6-mark-ii": [
+    { title: "가성비 따지면 종결 바디", desc: "M1에서 넘어왔는데 기계식 연사도 12연사 훌륭하고, 전자식 40연사는 야생동물이나 스포츠 찍을 때 날아다닙니다. R5까지 필요 없는 저 같은 찍사들에겐 최선의 서택인 듯하네요.", rating: 4.5 }
+  ]
 };
 
 // Generates a rating contextualized to how well a camera matches a user's specialty
@@ -517,12 +629,25 @@ function generateReviewTitle(cam: RawCamera, rating: number, specialty: string, 
   const brand = cam.brand;
   const model = cam.model;
 
+  if (specialty === "장비") {
+    return rating >= 4 ? `기변병 와서 결국 ${model} 들였습니다` : `${model} 써보고 바로 방출했습니다`;
+  }
+  if (specialty === "팩폭") {
+    return rating >= 4 ? `${model} 가격 빼고 다 팩트로 깐다` : `${model} 거품 언제 꺼지냐? 솔직 후기 간다`;
+  }
+  if (specialty === "가성비" || specialty === "학생") {
+    return rating >= 4 ? `학생/취준생 지갑 지켜주는 빛과 소금 ${model}` : `중고로 사도 가성비 안 나옴 비추`;
+  }
+  if (specialty === "서브") {
+    return rating >= 4 ? `무거운 메인 바디 버리고 서브로 기추 완!` : `결국 메인 바디만 쓰게 되네요... 장롱행`;
+  }
+
   const excellentTitles = [
     `${brand} ${model}, ${specialty} 촬영의 완벽한 파트너`,
-    `${model} 석 달 사용기 — 기대 이상입니다`,
+    `${model} 석 달 사용기 — 완전히 정착했습니다`,
     `${specialty} 사진가가 본 ${model}의 진가`,
     `${model}, 이 가격에 이 성능이라니`,
-    `${brand} ${model}로 작업 효율이 확 달라졌습니다`,
+    `더 이상 바랄 게 없는 완벽한 바디, ${model}`,
   ];
 
   const goodTitles = [
@@ -530,7 +655,7 @@ function generateReviewTitle(cam: RawCamera, rating: number, specialty: string, 
     `${specialty} 용도로 ${model} 반년 사용 솔직 후기`,
     `${brand} ${model}, 전반적으로 만족스러운 카메라`,
     `${model} 실사용 후기 — 4점 드리는 이유`,
-    `가성비 좋은 ${model}, 하지만 완벽하진 않습니다`,
+    `명불허전 ${model}, 결점은 살짝 눈감아줄 만합니다`,
   ];
 
   const averageTitles = [
@@ -544,14 +669,14 @@ function generateReviewTitle(cam: RawCamera, rating: number, specialty: string, 
   const poorTitles = [
     `${model} — 이 가격에는 부족한 점이 많습니다`,
     `${specialty} 용도로는 비추, ${brand} ${model}`,
-    `${model} 구매 후 후회하고 있습니다`,
-    `아쉬움이 큰 ${brand} ${model} 솔직 리뷰`,
+    `장비 방출 직전 남기는 ${model} 솔직 후기`,
+    `아쉬움이 큰 ${brand} ${model} 스펙에 속지 마세요`,
   ];
 
   let pool: string[];
-  if (rating >= 5) pool = excellentTitles;
-  else if (rating >= 4) pool = goodTitles;
-  else if (rating >= 3) pool = averageTitles;
+  if (rating >= 4.5) pool = excellentTitles;
+  else if (rating >= 3.5) pool = goodTitles;
+  else if (rating >= 2.5) pool = averageTitles;
   else pool = poorTitles;
 
   return pool[Math.floor(rng() * pool.length)];
@@ -581,93 +706,65 @@ function generateReviewComment(cam: RawCamera, rating: number, specialty: string
   // Sensor/image quality comments
   if (rating >= 4) {
     if (mp >= 40) {
-      parts.push(`${mp}MP 센서의 해상력은 정말 놀랍습니다. 크롭해도 디테일이 살아있어 ${specialty} 후보정 작업에서 큰 자유도를 줍니다.`);
+      parts.push(`${mp}MP 고화소라 크롭 여유가 엄청나서 구도 잡기 너무 편하네요.`);
     } else if (mp >= 24) {
-      parts.push(`${mp}MP 센서는 대부분의 ${specialty} 촬영에 충분한 해상도를 제공합니다. 다이나믹 레인지도 만족스럽습니다.`);
+      parts.push(`${mp}MP 센서는 웹용이나 일반적인 ${specialty} 환경에서는 넘치는 해상력을 보여줍니다.`);
     }
   } else {
     if (mp < 24) {
-      parts.push(`${mp}MP 해상도가 요즘 기준으로는 다소 아쉽게 느껴집니다. ${specialty} 작업 시 크롭 여유가 부족합니다.`);
+      parts.push(`${mp}MP 해상도가 요즘 기준으로는 다소 아쉽게 느껴집니다.`);
     }
   }
 
   // AF performance
   if (af > 0) {
     if (rating >= 4 && af >= 400) {
-      parts.push(`${af}포인트 AF 시스템은 정말 빠르고 정확합니다. ${specialty === "야생동물" || specialty === "스포츠" ? "빠르게 움직이는 피사체도 놓치지 않습니다." : "눈동자 AF가 특히 인상적이었습니다."}`);
+      parts.push(`AF 포인트가 ${af}개나 되어서 피사체 추적이 말도 안 되게 빠릅니다. 구석탱이로 이동해도 안 놓쳐요.`);
     } else if (af < 200) {
-      parts.push(`AF 포인트가 ${af}개로 최신 경쟁 모델 대비 부족한 편입니다. 빠른 피사체 추적에 한계가 있습니다.`);
+      parts.push(`AF 포인트가 ${af}개라서 최신기종 치고는 듬성듬성한 느낌입니다. 핀 나갈 때가 종종 있네요.`);
     }
   }
 
   // IBIS
   if (ibis && rating >= 3) {
-    parts.push(`바디 내 손떨림 보정 기능 덕분에 저속 셔터에서도 안정적인 결과물을 얻을 수 있었습니다.`);
+    parts.push(`바디 손떨방(IBIS) 덕분에 렌즈에 IS 없어도 셔터스피드 엄청 확보됩니다.`);
   } else if (!ibis && (specialty === "풍경" || specialty === "콘서트" || specialty === "여행")) {
-    parts.push(`IBIS가 없는 점이 ${specialty} 촬영 시 아쉽습니다. 삼각대 없이는 저속 셔터를 활용하기 어렵습니다.`);
-  }
-
-  // FPS (for relevant specialties)
-  if ((specialty === "스포츠" || specialty === "야생동물" || specialty === "리뷰") && fps > 0) {
-    if (fps >= 15) {
-      parts.push(`${fps}fps 연사 속도는 결정적 순간을 포착하는 데 충분하고도 남습니다.`);
-    } else if (fps < 8) {
-      parts.push(`연사 속도가 ${fps}fps로 ${specialty} 촬영에는 다소 느린 편입니다.`);
-    }
-  }
-
-  // Video (for video-related specialties)
-  if ((specialty === "영상" || specialty === "브이로그" || specialty === "리뷰") && video) {
-    const hasGoodVideo = video.toLowerCase().includes("4k") || video.toLowerCase().includes("8k") || video.includes("3840") || video.includes("7680");
-    if (hasGoodVideo && rating >= 3) {
-      parts.push(`영상 성능도 우수합니다. ${video} 촬영이 가능해 하이브리드 사용자에게 매력적입니다.`);
-    }
+    parts.push(`IBIS가 없는 점이 ${specialty} 촬영 시 아쉽습니다. 수전증 있으시면 렌즈 손떨방 무조건 있어야 버틸 만해요.`);
   }
 
   // Weight comments
-  if (specialty === "여행" || specialty === "스트릿") {
+  if (specialty === "여행" || specialty === "스트릿" || specialty === "서브" || specialty === "디자인") {
     if (weight < 500) {
-      parts.push(`${weight}g의 가벼운 무게는 하루 종일 들고 다녀도 부담이 없습니다.`);
+      parts.push(`${weight}g의 가벼운 무게는 하루 종일 들고 다녀도 어깨에 부담이 없어서 맘에 듭니다.`);
     } else if (weight >= 800) {
-      parts.push(`${weight}g의 무게가 장시간 ${specialty} 촬영 시에는 상당한 부담이 됩니다.`);
-    }
-  }
-
-  // Weather sealing
-  if (weather && (specialty === "풍경" || specialty === "야생동물" || specialty === "보도")) {
-    parts.push(`방진방적 처리가 되어 있어 비가 오는 야외에서도 안심하고 촬영할 수 있었습니다.`);
-  }
-
-  // ISO performance (for low-light specialties)
-  if (specialty === "콘서트" || specialty === "천체" || specialty === "웨딩") {
-    if (iso >= 51200) {
-      parts.push(`고감도 ISO 성능이 뛰어나 저조도 환경에서도 노이즈가 잘 억제됩니다.`);
-    } else if (iso < 25600) {
-      parts.push(`ISO ${iso}까지 지원하지만, 고감도에서 노이즈가 눈에 띄어 ${specialty} 현장에서는 아쉽습니다.`);
-    }
-  }
-
-  // Dual card slots
-  if (specialty === "웨딩" || specialty === "보도") {
-    if (slots >= 2) {
-      parts.push(`듀얼 카드 슬롯은 중요한 ${specialty} 현장에서 백업이 가능해 안심됩니다.`);
-    } else {
-      parts.push(`싱글 카드 슬롯인 점이 프로 ${specialty} 촬영에서는 불안요소입니다.`);
+      parts.push(`무게가 ${weight}g인데 렌즈까지 물리면 하루 종일 들고 다니면 어깨 빠질 것 같습니다.`);
     }
   }
 
   // Closing
-  if (rating >= 5) {
-    parts.push(`결론적으로 ${brand} ${model}은(는) ${specialty} 촬영에 있어 최고의 선택 중 하나라고 자신 있게 말할 수 있습니다. 강력 추천합니다.`);
+  if (rating >= 4.5) {
+    parts.push(`결론적으로 기변병 완치됐습니다. 총알 여유 되시면 무조건 지르시길 강력 추천합니다.`);
   } else if (rating >= 4) {
-    parts.push(`전반적으로 만족스러운 카메라입니다. 몇 가지 아쉬운 점이 있지만, ${specialty} 용도로 충분히 추천할 만합니다.`);
+    parts.push(`자잘한 단점이 있긴 한데 결과물이 워낙 깡패라 꾹 참고 씁니다. 추천할 만해요.`);
   } else if (rating >= 3) {
-    parts.push(`나쁘지 않은 카메라이지만, ${specialty} 전문 촬영용으로는 경쟁 모델을 함께 고려해 보시길 권합니다.`);
+    parts.push(`돈값은 하는지 모르겠지만 쏘쏘합니다. 중고로 상태 좋은 거 주우시는 걸 추천.`);
   } else {
-    parts.push(`개인적으로 ${specialty} 촬영에는 다른 모델을 추천드립니다. 기대에 미치지 못한 부분이 많았습니다.`);
+    parts.push(`스펙시트에 안 나오는 단점들이 실사용 시 스트레스입니다. 다음 바디 나올 때까지 존버하시길 추천.`);
   }
 
-  return parts.join(" ");
+  let finalComment = parts.join(" ");
+
+  // Inject DC/SLR tone
+  if (specialty === "장비" || specialty === "팩폭" || specialty === "가성비" || specialty === "무보정") {
+    finalComment = finalComment
+      .replace(/사용하고 있습니다\./g, "써봄.")
+      .replace(/요\./g, "음.")
+      .replace(/다\./g, "음.")
+      .replace(/추천합니다\./g, "개추함.")
+      .replace(/추천\./g, "추천.");
+  }
+
+  return finalComment;
 }
 
 // Generate pros/cons text in Korean based on actual camera specs
@@ -838,18 +935,33 @@ async function main() {
 
       for (const reviewerId of reviewers) {
         const reviewRng = mulberry32(hashStr(raw.slug + reviewerId));
-        const specialty = USER_SPECIALTIES[
-          USERS.find((u) => {
-            // Find user by matching id pattern in the generated ID
-            return userIds.indexOf(reviewerId) === USERS.indexOf(u);
-          })?.id || ""
-        ] || "일반";
+        
+        const actualUserId = USERS.find((u) => userIds.indexOf(reviewerId) === USERS.indexOf(u))?.id || "";
+        const specialty = USER_SPECIALTIES[actualUserId] || "일반";
 
-        const rating = computeRating(raw, USERS[userIds.indexOf(reviewerId)]?.id || "", reviewRng);
-        const title = generateReviewTitle(raw, rating, specialty, reviewRng);
-        const comment = generateReviewComment(raw, rating, specialty, reviewRng);
-        const pros = generateProsText(raw, rating, specialty, reviewRng);
-        const cons = generateConsText(raw, rating, specialty, reviewRng);
+        let rating: number;
+        let title: string;
+        let comment: string;
+        let pros: string | null;
+        let cons: string | null;
+
+        const insightsList = REAL_INSIGHTS[raw.slug];
+
+        // Override with real Korean community insights for top cameras if available
+        if (insightsList && cameraReviewCount < insightsList.length) {
+          const insight = insightsList[cameraReviewCount];
+          rating = insight.rating;
+          title = insight.title;
+          comment = insight.desc;
+          pros = generateProsText(raw, rating, specialty, reviewRng);
+          cons = generateConsText(raw, rating, specialty, reviewRng);
+        } else {
+          rating = computeRating(raw, actualUserId, reviewRng);
+          title = generateReviewTitle(raw, rating, specialty, reviewRng);
+          comment = generateReviewComment(raw, rating, specialty, reviewRng);
+          pros = generateProsText(raw, rating, specialty, reviewRng);
+          cons = generateConsText(raw, rating, specialty, reviewRng);
+        }
 
         try {
           await prisma.review.upsert({
