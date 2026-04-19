@@ -1,7 +1,7 @@
 "use client";
 
-import { useState, useMemo } from "react";
-import { Search, SlidersHorizontal, X, Camera } from "lucide-react";
+import { useState, useMemo, useEffect, useRef, useCallback } from "react";
+import { Search, SlidersHorizontal, X, Camera, Loader2 } from "lucide-react";
 import CameraCard from "@/components/cameras/CameraCard";
 import type { CameraWithStats } from "@/lib/queries";
 import {
@@ -38,6 +38,8 @@ interface CamerasPageClientProps {
   cameras: CameraWithStats[];
 }
 
+const PAGE_SIZE = 12;
+
 export default function CamerasPageClient({ cameras }: CamerasPageClientProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedBrand, setSelectedBrand] = useState<string>("all");
@@ -45,6 +47,10 @@ export default function CamerasPageClient({ cameras }: CamerasPageClientProps) {
   const [selectedBody, setSelectedBody] = useState<string>("all");
   const [sortBy, setSortBy] = useState<SortOption>("newest");
   const [showFilters, setShowFilters] = useState(false);
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+
+  // Ref for the infinite scroll sentinel element
+  const sentinelRef = useRef<HTMLDivElement>(null);
 
   // ── Derive filter options from actual data ─────────────────────────────
   const brands = useMemo(() => {
@@ -119,6 +125,42 @@ export default function CamerasPageClient({ cameras }: CamerasPageClientProps) {
 
     return result;
   }, [cameras, searchQuery, selectedBrand, selectedSensor, selectedBody, sortBy]);
+
+  // Reset visible count when filters/search/sort change
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE);
+  }, [searchQuery, selectedBrand, selectedSensor, selectedBody, sortBy]);
+
+  // Cameras currently visible (sliced for infinite scroll)
+  const visibleCameras = useMemo(
+    () => filteredCameras.slice(0, visibleCount),
+    [filteredCameras, visibleCount]
+  );
+
+  const hasMore = visibleCount < filteredCameras.length;
+
+  // Load more callback
+  const loadMore = useCallback(() => {
+    setVisibleCount((prev) => Math.min(prev + PAGE_SIZE, filteredCameras.length));
+  }, [filteredCameras.length]);
+
+  // IntersectionObserver for infinite scroll
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting && hasMore) {
+          loadMore();
+        }
+      },
+      { rootMargin: "200px" }
+    );
+
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [hasMore, loadMore]);
 
   // Active filter count (excluding "all")
   const activeFilterCount = [selectedBrand, selectedSensor, selectedBody].filter((v) => v !== "all").length;
@@ -391,15 +433,55 @@ export default function CamerasPageClient({ cameras }: CamerasPageClientProps) {
               </span>
             )}
           </p>
+          {filteredCameras.length > 0 && (
+            <p className="text-xs" style={{ color: "var(--text-muted)" }}>
+              {visibleCameras.length} / {filteredCameras.length} 표시
+            </p>
+          )}
         </div>
 
         {/* ── Camera Grid ──────────────────────────────────────────── */}
         {filteredCameras.length > 0 ? (
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-            {filteredCameras.map((camera, idx) => (
-              <CameraCard key={camera.id} camera={camera} index={idx < 12 ? idx : 0} />
-            ))}
-          </div>
+          <>
+            <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+              {visibleCameras.map((camera, idx) => (
+                <CameraCard key={camera.id} camera={camera} index={idx < PAGE_SIZE ? idx : 0} />
+              ))}
+            </div>
+
+            {/* Infinite scroll sentinel + loading indicator */}
+            {hasMore && (
+              <div
+                ref={sentinelRef}
+                className="flex flex-col items-center justify-center py-12 gap-3"
+              >
+                <Loader2
+                  className="w-6 h-6 animate-spin"
+                  style={{ color: "var(--accent-primary)" }}
+                />
+                <p className="text-xs" style={{ color: "var(--text-muted)" }}>
+                  스크롤하여 더 보기...
+                </p>
+              </div>
+            )}
+
+            {/* End of list message */}
+            {!hasMore && filteredCameras.length > PAGE_SIZE && (
+              <div className="flex items-center justify-center py-10 gap-2">
+                <div
+                  className="h-px flex-1 max-w-[100px]"
+                  style={{ background: "var(--border-subtle)" }}
+                />
+                <p className="text-xs font-medium" style={{ color: "var(--text-muted)" }}>
+                  총 {filteredCameras.length}개 카메라 전부 표시됨
+                </p>
+                <div
+                  className="h-px flex-1 max-w-[100px]"
+                  style={{ background: "var(--border-subtle)" }}
+                />
+              </div>
+            )}
+          </>
         ) : (
           <div
             className="flex flex-col items-center justify-center py-20 rounded-xl"
