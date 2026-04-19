@@ -68,7 +68,7 @@ export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
 
         {/* Price badge */}
         <div
-          className="absolute top-3 right-3 px-3 py-1.5 rounded-lg text-xs font-bold shadow-sm whitespace-nowrap"
+          className="absolute top-3 right-3 px-3 py-1.5 rounded-lg text-xs font-bold shadow-sm"
           style={{
             background: "var(--error)",
             color: "#ffffff",
@@ -79,7 +79,7 @@ export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
       </div>
 
       {/* ── Content Section ────────────────────────────────────────── */}
-      <div className="p-6 space-y-5">
+      <div className="p-5 space-y-3">
         {/* Brand tag */}
         <div className="flex items-center gap-2">
           <Tag label={camera.brand} variant="accent" />
@@ -103,7 +103,7 @@ export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
 
         {/* Quick specs */}
         <div
-          className="grid grid-cols-2 gap-4 pt-4 mt-2"
+          className="grid grid-cols-2 gap-2 pt-2"
           style={{ borderTop: "1px solid var(--border-subtle)" }}
         >
           {[
