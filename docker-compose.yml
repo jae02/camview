@@ -8,6 +8,10 @@ services:
     environment:
       - NODE_ENV=production
     
+    # 임시: 도메인 연결 전 IP 주소로 확인하기 위해 포트를 외부로 개방합니다.
+    ports:
+      - "3000:3000"
+    
     deploy:
       resources:
         limits:
