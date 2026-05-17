@@ -5,8 +5,6 @@ WORKDIR /app
 
 # package.json 및 잠금 파일 복사
 COPY package.json package-lock.json ./
-# Prisma 클라이언트 생성을 위해 스키마 복사
-COPY prisma ./prisma
 
 RUN npm ci
 
@@ -22,12 +20,7 @@ RUN tar -xzf data/cameras.tar.gz -C public/images/
 # Next.js 텔레메트리 비활성화 (선택 사항)
 ENV NEXT_TELEMETRY_DISABLED 1
 
-# 빌드 시 프리렌더링(Static Generation)을 위해 DB 접근이 필요하므로 ARG 주입
-ARG DATABASE_URL
-ENV DATABASE_URL=${DATABASE_URL}
-
-# Prisma 클라이언트 생성 및 Next.js 앱 빌드
-RUN npx prisma generate
+# Next.js 앱 빌드
 RUN npm run build
 
 # 3. 프로덕션 실행 단계

@@ -3,10 +3,7 @@ version: '3.8'
 services:
   app:
     # 1. 앱 빌드가 필요하면 아래 주석 해제, 이미지가 있다면 image: my-image:latest 사용
-    build:
-      context: .
-      args:
-        - DATABASE_URL=${DATABASE_URL}
+    build: .
     
     # 2. 고유한 컨테이너 이름 지정 (예: camera-specs-app)
     container_name: my-new-service-app 
