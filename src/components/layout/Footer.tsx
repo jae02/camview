@@ -17,28 +17,28 @@ export default function Footer() {
     {
       title: "둘러보기",
       links: [
-        { label: "전체 카메라", href: "/cameras" },
+        { label: "카메라 도감", href: "/cameras" },
         { label: "모델 비교", href: "/compare" },
-        { label: "최신 리뷰", href: "/reviews" },
-        { label: "높은 평점순", href: "/cameras?sort=rating" },
+        { label: "개인정보처리방침", href: "/privacy" },
+        { label: "이용약관", href: "/terms" },
       ],
     },
     {
-      title: "브랜드",
+      title: "브랜드별 탐색",
       links: [
-        { label: "소니", href: "/cameras?brand=sony" },
-        { label: "캐논", href: "/cameras?brand=canon" },
-        { label: "니콘", href: "/cameras?brand=nikon" },
-        { label: "후지필름", href: "/cameras?brand=fujifilm" },
+        { label: "소니 (Sony)", href: "/cameras?brand=sony" },
+        { label: "캐논 (Canon)", href: "/cameras?brand=canon" },
+        { label: "니콘 (Nikon)", href: "/cameras?brand=nikon" },
+        { label: "후지필름 (Fujifilm)", href: "/cameras?brand=fujifilm" },
       ],
     },
     {
-      title: "커뮤니티",
+      title: "카메라 유형",
       links: [
-        { label: "리뷰 작성", href: "/reviews/new" },
-        { label: "토론 게시판", href: "/forum" },
-        { label: "기여자 가이드", href: "/contribute" },
-        { label: "API 문서", href: "/docs/api" },
+        { label: "풀프레임 미러리스", href: "/cameras?sensor=full_frame" },
+        { label: "APS-C 미러리스", href: "/cameras?sensor=aps_c" },
+        { label: "중형 포맷", href: "/cameras?sensor=medium_format" },
+        { label: "컴팩트 / 액션캠", href: "/cameras?body=compact" },
       ],
     },
   ];
@@ -78,13 +78,13 @@ export default function Footer() {
                   className="text-sm font-bold tracking-tight"
                   style={{ color: "var(--text-primary)" }}
                 >
-                  카메라스펙
+                  카메라 백과
                 </span>
                 <span
                   className="text-[10px] font-medium tracking-widest uppercase"
                   style={{ color: "var(--text-tertiary)" }}
                 >
-                  리뷰
+                  ENCYCLOPEDIA
                 </span>
               </div>
             </Link>
@@ -93,9 +93,9 @@ export default function Footer() {
               className="text-sm leading-relaxed max-w-sm"
               style={{ color: "var(--text-tertiary)" }}
             >
-              카메라 마니아를 위한 최고의 커뮤니티입니다. 상세 사양을
-              확인하고, 모델을 비교하며, 실제 촬영 경험을 동료 사진가들과
-              나눠보세요.
+              역대 디지털 카메라의 상세 제원과 스펙을 총망라한
+              온라인 백과사전입니다. 브랜드별, 센서별로 검색하고
+              모델 간 사양을 비교해 보세요.
             </p>
 
             {/* Social Icons */}
@@ -173,7 +173,7 @@ export default function Footer() {
           style={{ borderTop: "1px solid var(--border-subtle)" }}
         >
           <p className="text-xs" style={{ color: "var(--text-muted)" }}>
-            © {currentYear} 카메라스펙 리뷰. All rights reserved.
+            © {currentYear} 카메라 백과사전. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             {["개인정보처리방침", "이용약관", "쿠키 설정"].map(

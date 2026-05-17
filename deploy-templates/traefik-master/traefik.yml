@@ -1,0 +1,28 @@
+api:
+  dashboard: false # Production에서는 보안상 비활성화 또는 BasicAuth 적용 권장
+  insecure: false
+
+entryPoints:
+  web:
+    address: ":80"
+    http:
+      redirections:
+        entryPoint:
+          to: websecure
+          scheme: https
+  websecure:
+    address: ":443"
+
+providers:
+  docker:
+    endpoint: "unix:///var/run/docker.sock"
+    exposedByDefault: false
+    network: traefik-public
+
+certificatesResolvers:
+  myresolver:
+    acme:
+      email: "YOUR_EMAIL@EXAMPLE.COM" # 실제 이메일로 변경하세요 (Let's Encrypt 만료 알림용)
+      storage: acme.json
+      httpChallenge:
+        entryPoint: web

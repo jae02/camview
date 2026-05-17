@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  app:
+    # 1. 앱 빌드가 필요하면 아래 주석 해제, 이미지가 있다면 image: my-image:latest 사용
+    build: .
+    
+    # 2. 고유한 컨테이너 이름 지정 (예: camera-specs-app)
+    container_name: my-new-service-app 
+    restart: unless-stopped
+    
+    # 3. 환경 변수 지정 (.env 파일을 사용해도 무방합니다)
+    environment:
+      - NODE_ENV=production
+    
+    # 4. 자원 제한 설정 (서버 다운 방지)
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 500M
+        reservations:
+          memory: 200M
+
+    # 5. Traefik 라우팅을 위한 라벨 설정
+    labels:
+      - "traefik.enable=true"
+      
+      # [주의] 'my-new-service' 부분을 각 서비스별 고유한 이름으로 변경하세요!
+      - "traefik.http.routers.my-new-service.rule=Host(`service.yourdomain.com`)"
+      - "traefik.http.routers.my-new-service.entrypoints=websecure"
+      - "traefik.http.routers.my-new-service.tls.certresolver=myresolver"
+      
+      # 포워딩할 컨테이너 내부 포트 (Next.js/Node.js 기본 3000)
+      - "traefik.http.services.my-new-service.loadbalancer.server.port=3000"
+
+    networks:
+      - traefik-public
+
+# 공용 네트워크 연결
+networks:
+  traefik-public:
+    external: true

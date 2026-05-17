@@ -3,7 +3,7 @@ import ComparePageClient from "./ComparePageClient";
 import { getComparisonData, getAllCameras } from "@/lib/queries";
 
 export const metadata: Metadata = {
-  title: "카메라 비교 — 카메라스펙 리뷰",
+  title: "카메라 비교",
   description:
     "카메라 사양을 나란히 비교해 보세요. 화소수, 오토포커스, 동영상, 무게, 가격 등을 비교하여 최적의 카메라를 찾아보세요.",
 };

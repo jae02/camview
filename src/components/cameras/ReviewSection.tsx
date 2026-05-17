@@ -46,7 +46,7 @@ export default function ReviewSection({
             style={{ background: "var(--gradient-brand)" }}
           />
           <h2 className="heading-lg" style={{ color: "var(--text-primary)" }}>
-            커뮤니티 리뷰
+            사용자 평가
           </h2>
           <span
             className="ml-2 px-2.5 py-0.5 rounded-full text-xs font-semibold"

@@ -35,7 +35,7 @@ export default function HeroSection() {
             }}
           >
             <span className="pulse-dot" />
-            6개 브랜드, 30개 이상의 카메라 수록
+            6개 브랜드, 133개 카메라 모델 수록
           </div>
         </div>
 
@@ -44,8 +44,8 @@ export default function HeroSection() {
           className="heading-xl max-w-3xl mx-auto"
           style={{ color: "var(--text-primary)" }}
         >
-          <span className="gradient-text">카메라 마니아</span>를 위한{" "}
-          최고의 플랫폼
+          모든 카메라를 한눈에,{" "}
+          <span className="gradient-text">카메라 백과사전</span>
         </h1>
 
         {/* Subtitle */}
@@ -53,8 +53,8 @@ export default function HeroSection() {
           className="body-lg max-w-xl mx-auto"
           style={{ color: "var(--text-secondary)" }}
         >
-          상세 사양을 확인하고, 카메라를 나란히 비교하고,
-          실제 사진가들의 생생한 리뷰를 만나보세요.
+          역대 디지털 카메라의 상세 스펙을 검색하고,
+          모델 간 사양을 나란히 비교해 보세요.
         </p>
 
         {/* CTAs */}

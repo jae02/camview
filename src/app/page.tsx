@@ -11,7 +11,7 @@ import { getFeaturedCameras } from "@/lib/queries";
 import HeroSection from "@/components/layout/HeroSection";
 
 /**
- * Home page — the main landing experience for CameraSpec Reviews.
+ * Home page — the main landing experience for 카메라 백과사전.
  *
  * Sections:
  * 1. Hero with headline, tagline, and CTA (Client Component for interactivity)
@@ -35,19 +35,16 @@ export default async function HomePage() {
     },
     {
       icon: "Users" as const,
-      title: "커뮤니티 리뷰",
-      description: "매일 촬영하는 사진가들의 생생한 후기",
+      title: "브랜드별 도감",
+      description: "Sony, Canon, Nikon 등 주요 브랜드 카메라 총망라",
     },
   ];
 
   const stats = [
-    { value: `${cameras.length}+`, label: "등록 카메라" },
-    {
-      value: `${cameras.reduce((sum, c) => sum + c.reviewCount, 0)}+`,
-      label: "커뮤니티 리뷰",
-    },
+    { value: "133+", label: "수록 카메라" },
+    { value: "6", label: "브랜드" },
+    { value: "50+", label: "상세 스펙 항목" },
     { value: "98%", label: "데이터 정확도" },
-    { value: "15k+", label: "활성 회원" },
   ];
 
   return (
@@ -134,14 +131,14 @@ export default async function HomePage() {
                   className="heading-lg"
                   style={{ color: "var(--text-primary)" }}
                 >
-                  추천 카메라
+                  카메라 도감
                 </h2>
               </div>
               <p
                 className="text-sm ml-4"
                 style={{ color: "var(--text-tertiary)" }}
               >
-                세계 최고 카메라 제조사의 플래그십 모델을 만나보세요.
+                다양한 카메라 모델의 상세 사양을 확인해 보세요.
               </p>
             </div>
 

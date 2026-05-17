@@ -127,9 +127,17 @@ export default function CamerasPageClient({ cameras }: CamerasPageClientProps) {
   }, [cameras, searchQuery, selectedBrand, selectedSensor, selectedBody, sortBy]);
 
   // Reset visible count when filters/search/sort change
-  useEffect(() => {
+  const [prevFilters, setPrevFilters] = useState({ searchQuery, selectedBrand, selectedSensor, selectedBody, sortBy });
+  if (
+    searchQuery !== prevFilters.searchQuery ||
+    selectedBrand !== prevFilters.selectedBrand ||
+    selectedSensor !== prevFilters.selectedSensor ||
+    selectedBody !== prevFilters.selectedBody ||
+    sortBy !== prevFilters.sortBy
+  ) {
+    setPrevFilters({ searchQuery, selectedBrand, selectedSensor, selectedBody, sortBy });
     setVisibleCount(PAGE_SIZE);
-  }, [searchQuery, selectedBrand, selectedSensor, selectedBody, sortBy]);
+  }
 
   // Cameras currently visible (sliced for infinite scroll)
   const visibleCameras = useMemo(

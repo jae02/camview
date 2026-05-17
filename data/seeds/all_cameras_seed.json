@@ -32,7 +32,7 @@
     "weatherSealed": true,
     "priceMsrp": 315999,
     "releaseDate": "2016-02-02T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-1D-X-Mark-II.jpg",
+    "imageUrl": "/images/cameras/canon-eos-1d-x-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-1D-X-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -301,7 +301,7 @@
     "weatherSealed": true,
     "priceMsrp": 649900,
     "releaseDate": "2020-01-07T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-1D-X-Mark-III.jpg",
+    "imageUrl": "/images/cameras/canon-eos-1d-x-mark-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-1D-X-Mark-III.jpg",
     "description": null,
     "_prosCons": {
@@ -579,7 +579,7 @@
     "weatherSealed": true,
     "priceMsrp": 299000,
     "releaseDate": "2012-05-22T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-5D-Mark-III.jpg",
+    "imageUrl": "/images/cameras/canon-eos-5d-mark-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-5D-Mark-III.jpg",
     "description": null,
     "_prosCons": {
@@ -848,7 +848,7 @@
     "weatherSealed": true,
     "priceMsrp": 224900,
     "releaseDate": "2016-08-25T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-5D-Mark-IV.jpg",
+    "imageUrl": "/images/cameras/canon-eos-5d-mark-iv.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-5D-Mark-IV.jpg",
     "description": null,
     "_prosCons": {
@@ -1122,7 +1122,7 @@
     "weatherSealed": true,
     "priceMsrp": 119900,
     "releaseDate": "2017-06-29T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-6D-Mark-II.jpg",
+    "imageUrl": "/images/cameras/canon-eos-6d-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-6D-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -1388,7 +1388,7 @@
     "weatherSealed": true,
     "priceMsrp": 55999,
     "releaseDate": "2013-02-12T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_no_lens/Canon_EOS_6D_0.jpg",
+    "imageUrl": "/images/cameras/canon-eos-6d.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_no_lens/Canon_EOS_6D_0.jpg",
     "description": null,
     "_prosCons": {
@@ -1649,7 +1649,7 @@
     "weatherSealed": true,
     "priceMsrp": 162400,
     "releaseDate": "2014-09-15T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-7D-Mark-II.jpg",
+    "imageUrl": "/images/cameras/canon-eos-7d-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-7D-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -1919,7 +1919,7 @@
     "weatherSealed": true,
     "priceMsrp": 89900,
     "releaseDate": "2016-02-18T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-80D.jpg",
+    "imageUrl": "/images/cameras/canon-eos-80d.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-80D.jpg",
     "description": null,
     "_prosCons": {
@@ -2185,7 +2185,7 @@
     "weatherSealed": true,
     "priceMsrp": 119900,
     "releaseDate": "2019-08-28T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-90D.jpg",
+    "imageUrl": "/images/cameras/canon-eos-90d.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-90D.jpg",
     "description": null,
     "_prosCons": {
@@ -2454,7 +2454,7 @@
     "weatherSealed": false,
     "priceMsrp": 58899,
     "releaseDate": "2020-10-14T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-M50-Mark-II.jpg",
+    "imageUrl": "/images/cameras/canon-eos-m50-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-M50-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -2713,7 +2713,7 @@
     "weatherSealed": false,
     "priceMsrp": 84993,
     "releaseDate": "2019-08-28T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-M6-Mark-II.jpg",
+    "imageUrl": "/images/cameras/canon-eos-m6-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-M6-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -2977,7 +2977,7 @@
     "weatherSealed": true,
     "priceMsrp": 149999,
     "releaseDate": "2018-09-05T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R.jpg",
     "description": null,
     "_prosCons": {
@@ -3247,7 +3247,7 @@
     "weatherSealed": true,
     "priceMsrp": 629900,
     "releaseDate": "2024-07-17T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R1.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r1.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R1.jpg",
     "description": null,
     "_prosCons": {
@@ -3548,7 +3548,7 @@
     "weatherSealed": false,
     "priceMsrp": 97900,
     "releaseDate": "2022-05-24T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R10.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r10.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R10.jpg",
     "description": null,
     "_prosCons": {
@@ -3818,7 +3818,7 @@
     "weatherSealed": false,
     "priceMsrp": 39900,
     "releaseDate": "2023-05-24T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R100.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r100.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R100.jpg",
     "description": null,
     "_prosCons": {
@@ -4079,7 +4079,7 @@
     "weatherSealed": true,
     "priceMsrp": 449900,
     "releaseDate": "2021-09-14T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R3.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r3.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R3.jpg",
     "description": null,
     "_prosCons": {
@@ -4373,7 +4373,7 @@
     "weatherSealed": true,
     "priceMsrp": 339900,
     "releaseDate": "2022-01-19T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R5-C.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r5-c.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R5-C.jpg",
     "description": null,
     "_prosCons": {
@@ -4663,7 +4663,7 @@
     "weatherSealed": true,
     "priceMsrp": 429900,
     "releaseDate": "2024-07-17T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R5-Mark-II.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r5-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R5-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -4963,7 +4963,7 @@
     "weatherSealed": true,
     "priceMsrp": 389900,
     "releaseDate": "2020-07-09T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R5.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r5.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R5.jpg",
     "description": null,
     "_prosCons": {
@@ -5251,7 +5251,7 @@
     "weatherSealed": false,
     "priceMsrp": 67900,
     "releaseDate": "2023-02-08T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R50.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r50.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R50.jpg",
     "description": null,
     "_prosCons": {
@@ -5526,7 +5526,7 @@
     "weatherSealed": true,
     "priceMsrp": 249900,
     "releaseDate": "2022-11-02T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R6-Mark-II.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r6-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R6-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -5816,7 +5816,7 @@
     "weatherSealed": true,
     "priceMsrp": 249900,
     "releaseDate": "2020-07-09T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R6.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r6.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R6.jpg",
     "description": null,
     "_prosCons": {
@@ -6096,7 +6096,7 @@
     "weatherSealed": true,
     "priceMsrp": 149900,
     "releaseDate": "2022-05-24T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R7.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r7.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R7.jpg",
     "description": null,
     "_prosCons": {
@@ -6370,7 +6370,7 @@
     "weatherSealed": true,
     "priceMsrp": 109900,
     "releaseDate": "2023-02-08T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-R8.jpg",
+    "imageUrl": "/images/cameras/canon-eos-r8.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-R8.jpg",
     "description": null,
     "_prosCons": {
@@ -6652,7 +6652,7 @@
     "weatherSealed": true,
     "priceMsrp": 99900,
     "releaseDate": "2019-02-14T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-RP.jpg",
+    "imageUrl": "/images/cameras/canon-eos-rp.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Canon-EOS-RP.jpg",
     "description": null,
     "_prosCons": {
@@ -7145,7 +7145,7 @@
     "weatherSealed": true,
     "priceMsrp": 34900,
     "releaseDate": "2024-09-19T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/DJI-Osmo-Action-5 Pro.jpg",
+    "imageUrl": "/images/cameras/dji-dji-osmo-action-5-pro.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/DJI-Osmo-Action-5 Pro.jpg",
     "description": null,
     "_prosCons": {
@@ -7410,7 +7410,7 @@
     "weatherSealed": false,
     "priceMsrp": 51900,
     "releaseDate": "2023-10-25T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/DJI-Osmo-Pocket-3.jpg",
+    "imageUrl": "/images/cameras/dji-dji-osmo-pocket-3.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/DJI-Osmo-Pocket-3.jpg",
     "description": null,
     "_prosCons": {
@@ -7666,7 +7666,7 @@
     "weatherSealed": true,
     "priceMsrp": 749900,
     "releaseDate": "2023-09-12T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-GFX-100-II.jpg",
+    "imageUrl": "/images/cameras/fujifilm-gfx-100-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-GFX-100-II.jpg",
     "description": null,
     "_prosCons": {
@@ -7948,7 +7948,7 @@
     "weatherSealed": true,
     "priceMsrp": 469900,
     "releaseDate": "2021-01-27T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-GFX-100S.jpg",
+    "imageUrl": "/images/cameras/fujifilm-gfx-100s.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-GFX-100S.jpg",
     "description": null,
     "_prosCons": {
@@ -8219,7 +8219,7 @@
     "weatherSealed": true,
     "priceMsrp": 349900,
     "releaseDate": "2021-09-02T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-GFX-50S-II.jpg",
+    "imageUrl": "/images/cameras/fujifilm-gfx-50s-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-GFX-50S-II.jpg",
     "description": null,
     "_prosCons": {
@@ -8491,7 +8491,7 @@
     "weatherSealed": false,
     "priceMsrp": 149500,
     "releaseDate": "2021-01-27T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-E4.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-e4.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-E4.jpg",
     "description": null,
     "_prosCons": {
@@ -8759,7 +8759,7 @@
     "weatherSealed": true,
     "priceMsrp": 199900,
     "releaseDate": "2022-09-08T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-H2.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-h2.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-H2.jpg",
     "description": null,
     "_prosCons": {
@@ -9048,7 +9048,7 @@
     "weatherSealed": true,
     "priceMsrp": 249900,
     "releaseDate": "2022-05-31T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-H2S.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-h2s.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-H2S.jpg",
     "description": null,
     "_prosCons": {
@@ -9340,7 +9340,7 @@
     "weatherSealed": true,
     "priceMsrp": 169900,
     "releaseDate": "2016-01-15T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-Pro2.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-pro2.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-Pro2.jpg",
     "description": null,
     "_prosCons": {
@@ -9608,7 +9608,7 @@
     "weatherSealed": true,
     "priceMsrp": 199999,
     "releaseDate": "2019-10-23T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-Pro3.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-pro3.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-Pro3.jpg",
     "description": null,
     "_prosCons": {
@@ -10142,7 +10142,7 @@
     "weatherSealed": false,
     "priceMsrp": 149900,
     "releaseDate": "2023-05-24T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-S20.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-s20.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-S20.jpg",
     "description": null,
     "_prosCons": {
@@ -10425,7 +10425,7 @@
     "weatherSealed": true,
     "priceMsrp": 89900,
     "releaseDate": "2014-04-14T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T1.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-t1.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-T1.jpg",
     "description": null,
     "_prosCons": {
@@ -10689,7 +10689,7 @@
     "weatherSealed": true,
     "priceMsrp": 69795,
     "releaseDate": "2016-07-07T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T2.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-t2.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-T2.jpg",
     "description": null,
     "_prosCons": {
@@ -10965,7 +10965,7 @@
     "weatherSealed": false,
     "priceMsrp": 69800,
     "releaseDate": "2017-01-18T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T20.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-t20.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-T20.jpg",
     "description": null,
     "_prosCons": {
@@ -11227,7 +11227,7 @@
     "weatherSealed": true,
     "priceMsrp": 85000,
     "releaseDate": "2018-09-06T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T3.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-t3.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-T3.jpg",
     "description": null,
     "_prosCons": {
@@ -11504,7 +11504,7 @@
     "weatherSealed": false,
     "priceMsrp": 109900,
     "releaseDate": "2021-09-01T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T30.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-t30-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-T30.jpg",
     "description": null,
     "_prosCons": {
@@ -11776,7 +11776,7 @@
     "weatherSealed": true,
     "priceMsrp": 129400,
     "releaseDate": "2020-02-24T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T4.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-t4.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-T4.jpg",
     "description": null,
     "_prosCons": {
@@ -12057,7 +12057,7 @@
     "weatherSealed": true,
     "priceMsrp": 169900,
     "releaseDate": "2022-11-02T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T5.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-t5.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-T5.jpg",
     "description": null,
     "_prosCons": {
@@ -12342,7 +12342,7 @@
     "weatherSealed": false,
     "priceMsrp": 159900,
     "releaseDate": "2024-05-16T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T50.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x-t50.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X-T50.jpg",
     "description": null,
     "_prosCons": {
@@ -12622,7 +12622,7 @@
     "weatherSealed": false,
     "priceMsrp": 169500,
     "releaseDate": "2020-02-04T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X100V.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x100v.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X100V.jpg",
     "description": null,
     "_prosCons": {
@@ -12900,7 +12900,7 @@
     "weatherSealed": false,
     "priceMsrp": 179900,
     "releaseDate": "2024-02-20T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X100VI.jpg",
+    "imageUrl": "/images/cameras/fujifilm-x100vi.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Fujifilm-X100VI.jpg",
     "description": null,
     "_prosCons": {
@@ -13437,7 +13437,7 @@
     "weatherSealed": true,
     "priceMsrp": 49900,
     "releaseDate": "2024-09-04T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/GoPro-Hero13-Black.jpg",
+    "imageUrl": "/images/cameras/gopro-gopro-hero13-black.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/GoPro-Hero13-Black.jpg",
     "description": null,
     "_prosCons": {
@@ -13692,7 +13692,7 @@
     "weatherSealed": true,
     "priceMsrp": 449500,
     "releaseDate": "2019-06-19T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Hasselblad-X1D-II-50C.jpg",
+    "imageUrl": "/images/cameras/hasselblad-x1d-ii-50c.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Hasselblad-X1D-II-50C.jpg",
     "description": null,
     "_prosCons": {
@@ -13948,7 +13948,7 @@
     "weatherSealed": true,
     "priceMsrp": 819900,
     "releaseDate": "2022-09-07T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Hasselblad-X2D-100c.jpg",
+    "imageUrl": "/images/cameras/hasselblad-x2d-100c.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Hasselblad-X2D-100c.jpg",
     "description": null,
     "_prosCons": {
@@ -14202,7 +14202,7 @@
     "weatherSealed": false,
     "priceMsrp": 699500,
     "releaseDate": "2017-11-21T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-CL.jpg",
+    "imageUrl": "/images/cameras/leica-cl.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-CL.jpg",
     "description": null,
     "_prosCons": {
@@ -14454,7 +14454,7 @@
     "weatherSealed": true,
     "priceMsrp": 924995,
     "releaseDate": "2023-04-14T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-M11-Monochrome.jpg",
+    "imageUrl": "/images/cameras/leica-m11-monochrom.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-M11-Monochrome.jpg",
     "description": null,
     "_prosCons": {
@@ -14704,7 +14704,7 @@
     "weatherSealed": true,
     "priceMsrp": 919500,
     "releaseDate": "2023-10-26T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-M11-P.jpg",
+    "imageUrl": "/images/cameras/leica-m11-p.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-M11-P.jpg",
     "description": null,
     "_prosCons": {
@@ -14954,7 +14954,7 @@
     "weatherSealed": true,
     "priceMsrp": 949500,
     "releaseDate": "2022-01-13T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-M11.jpg",
+    "imageUrl": "/images/cameras/leica-m11.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-M11.jpg",
     "description": null,
     "_prosCons": {
@@ -15202,7 +15202,7 @@
     "weatherSealed": true,
     "priceMsrp": 601995,
     "releaseDate": "2020-11-10T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-Q2-Monochrom.jpg",
+    "imageUrl": "/images/cameras/leica-q2-monochrom.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-Q2-Monochrom.jpg",
     "description": null,
     "_prosCons": {
@@ -15466,7 +15466,7 @@
     "weatherSealed": true,
     "priceMsrp": 576995,
     "releaseDate": "2019-03-07T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-Q2.jpg",
+    "imageUrl": "/images/cameras/leica-q2.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-Q2.jpg",
     "description": null,
     "_prosCons": {
@@ -15733,7 +15733,7 @@
     "weatherSealed": true,
     "priceMsrp": 673500,
     "releaseDate": "2023-05-25T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-Q3.jpg",
+    "imageUrl": "/images/cameras/leica-q3.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-Q3.jpg",
     "description": null,
     "_prosCons": {
@@ -16002,7 +16002,7 @@
     "weatherSealed": true,
     "priceMsrp": 261994,
     "releaseDate": "2020-12-10T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-SL2-S.jpg",
+    "imageUrl": "/images/cameras/leica-sl2-s.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-SL2-S.jpg",
     "description": null,
     "_prosCons": {
@@ -16272,7 +16272,7 @@
     "weatherSealed": true,
     "priceMsrp": 272995,
     "releaseDate": "2019-11-06T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-SL2.jpg",
+    "imageUrl": "/images/cameras/leica-sl2.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-SL2.jpg",
     "description": null,
     "_prosCons": {
@@ -16539,7 +16539,7 @@
     "weatherSealed": true,
     "priceMsrp": 699500,
     "releaseDate": "2024-03-07T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Leica-SL3.jpg",
+    "imageUrl": "/images/cameras/leica-sl3.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Leica-SL3.jpg",
     "description": null,
     "_prosCons": {
@@ -16813,7 +16813,7 @@
     "weatherSealed": true,
     "priceMsrp": 385999,
     "releaseDate": "2016-01-05T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-D5.jpg",
+    "imageUrl": "/images/cameras/nikon-d5.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-D5.jpg",
     "description": null,
     "_prosCons": {
@@ -17084,7 +17084,7 @@
     "weatherSealed": true,
     "priceMsrp": 104999,
     "releaseDate": "2016-01-05T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-D500.jpg",
+    "imageUrl": "/images/cameras/nikon-d500.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-D500.jpg",
     "description": null,
     "_prosCons": {
@@ -17359,7 +17359,7 @@
     "weatherSealed": true,
     "priceMsrp": 649695,
     "releaseDate": "2020-02-11T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-D6.jpg",
+    "imageUrl": "/images/cameras/nikon-d6.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-D6.jpg",
     "description": null,
     "_prosCons": {
@@ -17631,7 +17631,7 @@
     "weatherSealed": true,
     "priceMsrp": 99995,
     "releaseDate": "2013-10-08T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon_D610_0.jpg",
+    "imageUrl": "/images/cameras/nikon-d610.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon_D610_0.jpg",
     "description": null,
     "_prosCons": {
@@ -17894,7 +17894,7 @@
     "weatherSealed": true,
     "priceMsrp": 149695,
     "releaseDate": "2014-09-12T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-D750.jpg",
+    "imageUrl": "/images/cameras/nikon-d750.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-D750.jpg",
     "description": null,
     "_prosCons": {
@@ -18165,7 +18165,7 @@
     "weatherSealed": true,
     "priceMsrp": 69695,
     "releaseDate": "2017-04-12T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-D7500.jpg",
+    "imageUrl": "/images/cameras/nikon-d7500.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-D7500.jpg",
     "description": null,
     "_prosCons": {
@@ -18434,7 +18434,7 @@
     "weatherSealed": true,
     "priceMsrp": 159695,
     "releaseDate": "2020-01-07T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-D780.jpg",
+    "imageUrl": "/images/cameras/nikon-d780.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-D780.jpg",
     "description": null,
     "_prosCons": {
@@ -18705,7 +18705,7 @@
     "weatherSealed": true,
     "priceMsrp": 119999,
     "releaseDate": "2014-06-26T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-D810-0.jpg",
+    "imageUrl": "/images/cameras/nikon-d810.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-D810-0.jpg",
     "description": null,
     "_prosCons": {
@@ -18979,7 +18979,7 @@
     "weatherSealed": true,
     "priceMsrp": 219694,
     "releaseDate": "2017-08-24T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-D850.jpg",
+    "imageUrl": "/images/cameras/nikon-d850.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-D850.jpg",
     "description": null,
     "_prosCons": {
@@ -19259,7 +19259,7 @@
     "weatherSealed": false,
     "priceMsrp": 95900,
     "releaseDate": "2021-06-29T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z-fc.jpg",
+    "imageUrl": "/images/cameras/nikon-z-fc.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z-fc.jpg",
     "description": null,
     "_prosCons": {
@@ -19518,7 +19518,7 @@
     "weatherSealed": true,
     "priceMsrp": 60695,
     "releaseDate": "2022-06-29T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z30.jpg",
+    "imageUrl": "/images/cameras/nikon-z30.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z30.jpg",
     "description": null,
     "_prosCons": {
@@ -19778,7 +19778,7 @@
     "weatherSealed": true,
     "priceMsrp": 169900,
     "releaseDate": "2025-04-02T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z5-II.jpg",
+    "imageUrl": "/images/cameras/nikon-z5-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z5-II.jpg",
     "description": null,
     "_prosCons": {
@@ -20058,7 +20058,7 @@
     "weatherSealed": true,
     "priceMsrp": 99695,
     "releaseDate": "2020-07-20T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z5.jpg",
+    "imageUrl": "/images/cameras/nikon-z5.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z5.jpg",
     "description": null,
     "_prosCons": {
@@ -20325,7 +20325,7 @@
     "weatherSealed": true,
     "priceMsrp": 90900,
     "releaseDate": "2024-11-07T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z50-II.jpg",
+    "imageUrl": "/images/cameras/nikon-z50-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z50-II.jpg",
     "description": null,
     "_prosCons": {
@@ -20599,7 +20599,7 @@
     "weatherSealed": true,
     "priceMsrp": 75695,
     "releaseDate": "2019-10-10T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z50.jpg",
+    "imageUrl": "/images/cameras/nikon-z50.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z50.jpg",
     "description": null,
     "_prosCons": {
@@ -20857,7 +20857,7 @@
     "weatherSealed": true,
     "priceMsrp": 149695,
     "releaseDate": "2020-10-14T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z6-Mark-II.jpg",
+    "imageUrl": "/images/cameras/nikon-z6-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z6-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -21138,7 +21138,7 @@
     "weatherSealed": true,
     "priceMsrp": 199695,
     "releaseDate": "2020-10-14T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z7-Mark-II.jpg",
+    "imageUrl": "/images/cameras/nikon-z7-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z7-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -21413,7 +21413,7 @@
     "weatherSealed": true,
     "priceMsrp": 127500,
     "releaseDate": "2018-08-23T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z-7.jpg",
+    "imageUrl": "/images/cameras/nikon-z7.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z-7.jpg",
     "description": null,
     "_prosCons": {
@@ -21685,7 +21685,7 @@
     "weatherSealed": true,
     "priceMsrp": 349695,
     "releaseDate": "2023-05-10T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z8.jpg",
+    "imageUrl": "/images/cameras/nikon-z8.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z8.jpg",
     "description": null,
     "_prosCons": {
@@ -21978,7 +21978,7 @@
     "weatherSealed": true,
     "priceMsrp": 499695,
     "releaseDate": "2021-10-29T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Z9.jpg",
+    "imageUrl": "/images/cameras/nikon-z9.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Z9.jpg",
     "description": null,
     "_prosCons": {
@@ -22270,7 +22270,7 @@
     "weatherSealed": true,
     "priceMsrp": 199900,
     "releaseDate": "2023-09-20T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Zf.jpg",
+    "imageUrl": "/images/cameras/nikon-zf.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Nikon-Zf.jpg",
     "description": null,
     "_prosCons": {
@@ -22549,7 +22549,7 @@
     "weatherSealed": true,
     "priceMsrp": 49000,
     "releaseDate": "2016-09-19T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Olympus-OM-D-E-M1-Mark-II.jpg",
+    "imageUrl": "/images/cameras/olympus-om-d-e-m1-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Olympus-OM-D-E-M1-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -22826,7 +22826,7 @@
     "weatherSealed": true,
     "priceMsrp": 66000,
     "releaseDate": "2020-02-11T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Olympus-OM-D-E-M1-Mark-III.jpg",
+    "imageUrl": "/images/cameras/olympus-om-d-e-m1-mark-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Olympus-OM-D-E-M1-Mark-III.jpg",
     "description": null,
     "_prosCons": {
@@ -23107,7 +23107,7 @@
     "weatherSealed": false,
     "priceMsrp": 69999,
     "releaseDate": "2020-08-04T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Olympus-OM-D-E-M10-IV.jpg",
+    "imageUrl": "/images/cameras/olympus-om-d-e-m10-iv.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Olympus-OM-D-E-M10-IV.jpg",
     "description": null,
     "_prosCons": {
@@ -23374,7 +23374,7 @@
     "weatherSealed": true,
     "priceMsrp": 119999,
     "releaseDate": "2019-10-17T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Olympus-OM-D-E-M5-III.jpg",
+    "imageUrl": "/images/cameras/olympus-om-d-e-m5-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Olympus-OM-D-E-M5-III.jpg",
     "description": null,
     "_prosCons": {
@@ -23647,7 +23647,7 @@
     "weatherSealed": true,
     "priceMsrp": 219900,
     "releaseDate": "2024-01-30T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/OM-System-OM-1-Mark-II.jpg",
+    "imageUrl": "/images/cameras/om-om-system-om-1-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/OM-System-OM-1-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -23940,7 +23940,7 @@
     "weatherSealed": true,
     "priceMsrp": 139999,
     "releaseDate": "2022-02-15T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/OM-System-OM-1.jpg",
+    "imageUrl": "/images/cameras/om-om-system-om-1.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/OM-System-OM-1.jpg",
     "description": null,
     "_prosCons": {
@@ -24232,7 +24232,7 @@
     "weatherSealed": true,
     "priceMsrp": 99999,
     "releaseDate": "2022-10-26T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/OM-System-OM-5.jpg",
+    "imageUrl": "/images/cameras/om-om-system-om-5.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/OM-System-OM-5.jpg",
     "description": null,
     "_prosCons": {
@@ -24508,7 +24508,7 @@
     "weatherSealed": false,
     "priceMsrp": 54799,
     "releaseDate": "2020-06-24T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DC-G100.jpg",
+    "imageUrl": "/images/cameras/panasonic-lumix-dc-g100.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Panasonic-Lumix-DC-G100.jpg",
     "description": null,
     "_prosCons": {
@@ -24772,7 +24772,7 @@
     "weatherSealed": true,
     "priceMsrp": 169799,
     "releaseDate": "2023-09-12T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DC-G9-Mark-II.jpg",
+    "imageUrl": "/images/cameras/panasonic-lumix-dc-g9-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Panasonic-Lumix-DC-G9-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -25057,7 +25057,7 @@
     "weatherSealed": true,
     "priceMsrp": 55954,
     "releaseDate": "2019-04-05T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DMC-G95.jpg",
+    "imageUrl": "/images/cameras/panasonic-lumix-dc-g95.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Panasonic-Lumix-DMC-G95.jpg",
     "description": null,
     "_prosCons": {
@@ -25616,7 +25616,7 @@
     "weatherSealed": true,
     "priceMsrp": 209798,
     "releaseDate": "2022-02-22T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DMC-GH6.jpg",
+    "imageUrl": "/images/cameras/panasonic-lumix-dc-gh6.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Panasonic-Lumix-DMC-GH6.jpg",
     "description": null,
     "_prosCons": {
@@ -26192,7 +26192,7 @@
     "weatherSealed": true,
     "priceMsrp": 269900,
     "releaseDate": "2019-08-28T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DC-S1H.jpg",
+    "imageUrl": "/images/cameras/panasonic-lumix-dc-s1h.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Panasonic-Lumix-DC-S1H.jpg",
     "description": null,
     "_prosCons": {
@@ -26485,7 +26485,7 @@
     "weatherSealed": true,
     "priceMsrp": 219798,
     "releaseDate": "2024-06-05T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-GH7.jpg",
+    "imageUrl": "/images/cameras/panasonic-lumix-gh7.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Panasonic-Lumix-GH7.jpg",
     "description": null,
     "_prosCons": {
@@ -26781,7 +26781,7 @@
     "weatherSealed": true,
     "priceMsrp": 369799,
     "releaseDate": "2019-02-01T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DC-S1R.jpg",
+    "imageUrl": "/images/cameras/panasonic-s1r.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Panasonic-Lumix-DC-S1R.jpg",
     "description": null,
     "_prosCons": {
@@ -27062,7 +27062,7 @@
     "weatherSealed": true,
     "priceMsrp": 179695,
     "releaseDate": "2018-02-22T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Pentax-K-1-Mark-II.jpg",
+    "imageUrl": "/images/cameras/pentax-k-1-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Pentax-K-1-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -27330,7 +27330,7 @@
     "weatherSealed": true,
     "priceMsrp": 136500,
     "releaseDate": "2021-03-31T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Pentax-K-3-Mark-III.jpg",
+    "imageUrl": "/images/cameras/pentax-k-3-mark-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Pentax-K-3-Mark-III.jpg",
     "description": null,
     "_prosCons": {
@@ -27605,7 +27605,7 @@
     "weatherSealed": true,
     "priceMsrp": 69695,
     "releaseDate": "2022-11-09T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Pentax-KF.jpg",
+    "imageUrl": "/images/cameras/pentax-kf.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Pentax-KF.jpg",
     "description": null,
     "_prosCons": {
@@ -27862,7 +27862,7 @@
     "weatherSealed": false,
     "priceMsrp": 116995,
     "releaseDate": "2018-09-25T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Ricoh-GR-III.jpg",
+    "imageUrl": "/images/cameras/ricoh-gr-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Ricoh-GR-III.jpg",
     "description": null,
     "_prosCons": {
@@ -28116,7 +28116,7 @@
     "weatherSealed": false,
     "priceMsrp": 99900,
     "releaseDate": "2021-09-09T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Ricoh-GR-IIIx.jpg",
+    "imageUrl": "/images/cameras/ricoh-gr-iiix.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Ricoh-GR-IIIx.jpg",
     "description": null,
     "_prosCons": {
@@ -28366,7 +28366,7 @@
     "weatherSealed": true,
     "priceMsrp": 249900,
     "releaseDate": "2021-03-25T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sigma-fp-L.jpg",
+    "imageUrl": "/images/cameras/sigma-fp-l.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sigma-fp-L.jpg",
     "description": null,
     "_prosCons": {
@@ -28629,7 +28629,7 @@
     "weatherSealed": true,
     "priceMsrp": 191382,
     "releaseDate": "2019-07-11T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sigma-fp.jpg",
+    "imageUrl": "/images/cameras/sigma-fp.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sigma-fp.jpg",
     "description": null,
     "_prosCons": {
@@ -28886,7 +28886,7 @@
     "weatherSealed": true,
     "priceMsrp": 549800,
     "releaseDate": "2021-01-26T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-a1.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a1.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-a1.jpg",
     "description": null,
     "_prosCons": {
@@ -29178,7 +29178,7 @@
     "weatherSealed": false,
     "priceMsrp": 79999,
     "releaseDate": "2014-04-23T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony_Alpha_a6000_0.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a6000.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony_Alpha_a6000_0.jpg",
     "description": null,
     "_prosCons": {
@@ -29441,7 +29441,7 @@
     "weatherSealed": false,
     "priceMsrp": 59800,
     "releaseDate": "2019-08-28T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-a6100.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a6100.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-a6100.jpg",
     "description": null,
     "_prosCons": {
@@ -29707,7 +29707,7 @@
     "weatherSealed": true,
     "priceMsrp": 64367,
     "releaseDate": "2016-02-03T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-a6300.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a6300.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-a6300.jpg",
     "description": null,
     "_prosCons": {
@@ -29969,7 +29969,7 @@
     "weatherSealed": true,
     "priceMsrp": 74800,
     "releaseDate": "2019-01-15T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-a6400.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a6400.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-a6400.jpg",
     "description": null,
     "_prosCons": {
@@ -30236,7 +30236,7 @@
     "weatherSealed": true,
     "priceMsrp": 58900,
     "releaseDate": "2016-10-06T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-a6500.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a6500.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-a6500.jpg",
     "description": null,
     "_prosCons": {
@@ -30500,7 +30500,7 @@
     "weatherSealed": true,
     "priceMsrp": 99800,
     "releaseDate": "2019-08-28T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-a6600.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a6600.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-a6600.jpg",
     "description": null,
     "_prosCons": {
@@ -30765,7 +30765,7 @@
     "weatherSealed": true,
     "priceMsrp": 139900,
     "releaseDate": "2023-07-12T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-a6700.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a6700.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-a6700.jpg",
     "description": null,
     "_prosCons": {
@@ -31051,7 +31051,7 @@
     "weatherSealed": true,
     "priceMsrp": 89800,
     "releaseDate": "2014-11-20T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-7-II.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-7-II.jpg",
     "description": null,
     "_prosCons": {
@@ -31314,7 +31314,7 @@
     "weatherSealed": true,
     "priceMsrp": 129800,
     "releaseDate": "2018-02-27T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A7-III.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A7-III.jpg",
     "description": null,
     "_prosCons": {
@@ -31585,7 +31585,7 @@
     "weatherSealed": true,
     "priceMsrp": 209800,
     "releaseDate": "2021-10-21T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A7-IV.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7-iv.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A7-IV.jpg",
     "description": null,
     "_prosCons": {
@@ -31875,7 +31875,7 @@
     "weatherSealed": true,
     "priceMsrp": 289900,
     "releaseDate": "2025-12-01T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A7-V.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7-v.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A7-V.jpg",
     "description": null,
     "_prosCons": {
@@ -32175,7 +32175,7 @@
     "weatherSealed": true,
     "priceMsrp": 229900,
     "releaseDate": "2023-08-29T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A7C-Mark-II.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7c-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A7C-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -32462,7 +32462,7 @@
     "weatherSealed": true,
     "priceMsrp": 299800,
     "releaseDate": "2023-08-29T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A7CR.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7cr.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A7CR.jpg",
     "description": null,
     "_prosCons": {
@@ -32746,7 +32746,7 @@
     "weatherSealed": true,
     "priceMsrp": 119800,
     "releaseDate": "2015-06-10T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-7R-II.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7r-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-7R-II.jpg",
     "description": null,
     "_prosCons": {
@@ -33009,7 +33009,7 @@
     "weatherSealed": true,
     "priceMsrp": 169495,
     "releaseDate": "2017-10-25T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A7R-III.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7r-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A7R-III.jpg",
     "description": null,
     "_prosCons": {
@@ -33280,7 +33280,7 @@
     "weatherSealed": true,
     "priceMsrp": 269900,
     "releaseDate": "2019-07-16T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A7R-IV.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7r-iv.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A7R-IV.jpg",
     "description": null,
     "_prosCons": {
@@ -33556,7 +33556,7 @@
     "weatherSealed": true,
     "priceMsrp": null,
     "releaseDate": "2022-01-01T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A7R-V.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7r-v-detailed.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A7R-V.jpg",
     "description": null,
     "_prosCons": {
@@ -33791,7 +33791,7 @@
     "weatherSealed": true,
     "priceMsrp": 339800,
     "releaseDate": "2022-10-26T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A7R-V.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7r-v.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A7R-V.jpg",
     "description": null,
     "_prosCons": {
@@ -34087,7 +34087,7 @@
     "weatherSealed": true,
     "priceMsrp": 199800,
     "releaseDate": "2015-10-12T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-7S-II.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7s-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-7S-II.jpg",
     "description": null,
     "_prosCons": {
@@ -34351,7 +34351,7 @@
     "weatherSealed": true,
     "priceMsrp": 319800,
     "releaseDate": "2020-07-21T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-7S-III.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a7s-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-7S-III.jpg",
     "description": null,
     "_prosCons": {
@@ -34633,7 +34633,7 @@
     "weatherSealed": true,
     "priceMsrp": 599800,
     "releaseDate": "2023-11-07T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A9-III.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a9-mark-iii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A9-III.jpg",
     "description": null,
     "_prosCons": {
@@ -34934,7 +34934,7 @@
     "weatherSealed": true,
     "priceMsrp": 299900,
     "releaseDate": "2017-04-19T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-A9.jpg",
+    "imageUrl": "/images/cameras/sony-alpha-a9.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-Alpha-A9.jpg",
     "description": null,
     "_prosCons": {
@@ -35211,7 +35211,7 @@
     "weatherSealed": false,
     "priceMsrp": 79800,
     "releaseDate": "2023-05-27T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-ZV-1-Mark-II.jpg",
+    "imageUrl": "/images/cameras/sony-zv-1-mark-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-ZV-1-Mark-II.jpg",
     "description": null,
     "_prosCons": {
@@ -35498,7 +35498,7 @@
     "weatherSealed": false,
     "priceMsrp": 64800,
     "releaseDate": "2020-05-27T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-ZV-1.jpg",
+    "imageUrl": "/images/cameras/sony-zv-1.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-ZV-1.jpg",
     "description": null,
     "_prosCons": {
@@ -35786,7 +35786,7 @@
     "weatherSealed": true,
     "priceMsrp": 219900,
     "releaseDate": "2023-03-29T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-ZV-E1.jpg",
+    "imageUrl": "/images/cameras/sony-zv-e1.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-ZV-E1.jpg",
     "description": null,
     "_prosCons": {
@@ -36074,7 +36074,7 @@
     "weatherSealed": false,
     "priceMsrp": 99900,
     "releaseDate": "2024-07-10T00:00:00.000Z",
-    "imageUrl": "https://cameradecision.com/img/px300_300/front_straight/Sony-ZV-E10-II.jpg",
+    "imageUrl": "/images/cameras/sony-zv-e10-ii.jpg",
     "thumbnailUrl": "https://cameradecision.com/img/px100_100/front_straight/Sony-ZV-E10-II.jpg",
     "description": null,
     "_prosCons": {
