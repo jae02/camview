@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: camera-specs-app 
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+    
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 500M
+        reservations:
+          memory: 200M
+
+    labels:
+      - "traefik.enable=true"
+      # 호스트 도메인을 설정해주세요 (예: camera.yourdomain.com)
+      # 현재는 테스트용으로 모든 트래픽을 받도록 설정하거나 임시 도메인으로 설정할 수 있습니다.
+      - "traefik.http.routers.camera-specs.rule=Host(`camera.example.com`)"
+      - "traefik.http.routers.camera-specs.entrypoints=websecure"
+      - "traefik.http.routers.camera-specs.tls.certresolver=myresolver"
+      - "traefik.http.services.camera-specs.loadbalancer.server.port=3000"
+
+    networks:
+      - traefik-public
+
+networks:
+  traefik-public:
+    external: true
