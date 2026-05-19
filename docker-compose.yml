@@ -18,7 +18,7 @@ services:
     labels:
       - "traefik.enable=true"
       # dslreview.co.kr 및 www.dslreview.co.kr 모두 연결
-      - "traefik.http.routers.camera-specs.rule=Host(`dslreview.co.kr`, `www.dslreview.co.kr`)"
+      - "traefik.http.routers.camera-specs.rule=Host(`dslreview.co.kr`) || Host(`www.dslreview.co.kr`)"
       - "traefik.http.routers.camera-specs.entrypoints=websecure"
       - "traefik.http.routers.camera-specs.tls.certresolver=myresolver"
       - "traefik.http.services.camera-specs.loadbalancer.server.port=3000"
