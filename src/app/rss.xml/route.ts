@@ -20,16 +20,16 @@ export async function GET() {
   });
 
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>카메라 백과사전 — 디지털 카메라 상세 스펙 도감</title>
-      <link>${site_url}</link>
-      <description>역대 디지털 카메라의 상세 기술 사양을 검색하고, 모델 간 스펙을 비교하고, 브랜드별 카메라 도감을 탐색해 보세요.</description>
-      <language>ko</language>
-      <atom:link href="${site_url}/rss.xml" rel="self" type="application/rss+xml" />
-      ${feedItems.join("")}
-    </channel>
-  </rss>`;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>카메라 백과사전 — 디지털 카메라 상세 스펙 도감</title>
+    <link>${site_url}</link>
+    <description>역대 디지털 카메라의 상세 기술 사양을 검색하고, 모델 간 스펙을 비교하고, 브랜드별 카메라 도감을 탐색해 보세요.</description>
+    <language>ko</language>
+    <atom:link href="${site_url}/rss.xml" rel="self" type="application/rss+xml" />
+${feedItems.join("")}
+  </channel>
+</rss>`;
 
   return new NextResponse(rss, {
     headers: {
