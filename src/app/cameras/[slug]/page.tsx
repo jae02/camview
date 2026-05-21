@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import CameraHero from "@/components/cameras/CameraHero";
 import SpecsTable from "@/components/cameras/SpecsTable";
 import ReviewSection from "@/components/cameras/ReviewSection";
+import ExpertReviewSection from "@/components/cameras/ExpertReviewSection";
 import { getCameraBySlug, getAllCameraSlugs } from "@/lib/queries";
 
 // ---------------------------------------------------------------------------
@@ -97,6 +98,11 @@ export default async function CameraDetailPage({
 
       {/* Technical Specifications Table */}
       <SpecsTable camera={camera} />
+
+      {/* Expert Review Section */}
+      {camera.slrReview && (
+        <ExpertReviewSection review={camera.slrReview} cameraName={`${camera.brand} ${camera.model}`} />
+      )}
 
       {/* Community Reviews Section */}
       <ReviewSection

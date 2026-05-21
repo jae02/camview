@@ -61,8 +61,18 @@ export interface ReviewWithAuthor {
   };
 }
 
+export interface SlrReview {
+  title: string;
+  critique_html?: string;
+  critique_text?: string;
+  critique_summary?: string;
+  downloaded_images?: string[];
+  url: string;
+}
+
 export interface CameraDetail extends CameraWithStats {
   reviews: ReviewWithAuthor[];
+  slrReview?: SlrReview;
 }
 
 let cachedCameras: CameraWithStats[] | null = null;
@@ -144,9 +154,21 @@ export async function getCameraBySlug(slug: string): Promise<CameraDetail | null
   const camera = cameras.find(c => c.slug === slug);
   if (!camera) return null;
 
+  let slrReview: SlrReview | undefined = undefined;
+  const slrDataPath = path.join(process.cwd(), `data/slrclub/${slug}.json`);
+  if (fs.existsSync(slrDataPath)) {
+    try {
+      const rawSlr = fs.readFileSync(slrDataPath, 'utf-8');
+      slrReview = JSON.parse(rawSlr) as SlrReview;
+    } catch (e) {
+      console.warn(`Failed to parse slr data for ${slug}`);
+    }
+  }
+
   return {
     ...camera,
-    reviews: []
+    reviews: [],
+    slrReview
   };
 }
 
