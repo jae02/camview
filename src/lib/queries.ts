@@ -66,6 +66,7 @@ export interface SlrReview {
   critique_html?: string;
   critique_text?: string;
   critique_summary?: string;
+  critique_ocr_text?: string;
   downloaded_images?: string[];
   url: string;
 }
