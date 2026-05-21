@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { getReviewsByCameraSlug, getReviewCountAndAvg, findUserById } from '@/lib/db';
 
 export interface CameraWithStats {
   id: string;
@@ -160,15 +161,43 @@ export async function getCameraBySlug(slug: string): Promise<CameraDetail | null
     try {
       const rawSlr = fs.readFileSync(slrDataPath, 'utf-8');
       slrReview = JSON.parse(rawSlr) as SlrReview;
-    } catch (e) {
+    } catch {
       console.warn(`Failed to parse slr data for ${slug}`);
     }
   }
 
+  // Load reviews from DB
+  const dbReviews = getReviewsByCameraSlug(slug);
+  const reviews: ReviewWithAuthor[] = dbReviews.map(r => {
+    const author = findUserById(r.user_id);
+    return {
+      id: r.id,
+      rating: r.rating,
+      title: r.title,
+      comment: r.comment,
+      pros: r.pros,
+      cons: r.cons,
+      helpful: r.helpful,
+      verified: true,
+      createdAt: r.created_at,
+      cameraId: r.camera_slug,
+      author: {
+        id: author?.id || '',
+        username: author?.username || '탈퇴한 사용자',
+        name: author?.name || null,
+        avatarUrl: author?.avatar_url || null,
+      },
+    };
+  });
+
+  const { count, avg } = getReviewCountAndAvg(slug);
+
   return {
     ...camera,
-    reviews: [],
-    slrReview
+    avgRating: avg,
+    reviewCount: count,
+    reviews,
+    slrReview,
   };
 }
 

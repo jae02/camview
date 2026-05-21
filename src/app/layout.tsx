@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
+import { AuthProvider } from "@/lib/AuthContext";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -63,16 +64,18 @@ export default function RootLayout({
         ></script>
       </head>
       <body>
-        {/* ── Fixed Navbar ──────────────────────────────────────────── */}
-        <Navbar />
+        <AuthProvider>
+          {/* ── Fixed Navbar ──────────────────────────────────────────── */}
+          <Navbar />
 
-        {/* ── Main Content (offset for fixed navbar) ───────────────── */}
-        <main style={{ minHeight: "100vh", position: "relative", zIndex: 1 }}>
-          {children}
-        </main>
+          {/* ── Main Content (offset for fixed navbar) ───────────────── */}
+          <main style={{ minHeight: "100vh", position: "relative", zIndex: 1 }}>
+            {children}
+          </main>
 
-        {/* ── Footer ───────────────────────────────────────────────── */}
-        <Footer />
+          {/* ── Footer ───────────────────────────────────────────────── */}
+          <Footer />
+        </AuthProvider>
       </body>
     </html>
   );

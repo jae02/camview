@@ -2,23 +2,28 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Camera, Menu, X, Search } from "lucide-react";
+import { Camera, Menu, X, Search, LogOut, User } from "lucide-react";
+import { useAuth } from "@/lib/AuthContext";
 
 /**
- * Premium dark-themed navigation bar with:
- * - Frosted glass background on scroll
- * - Brand logo with gradient accent
- * - Responsive mobile hamburger menu
- * - Subtle hover animations on nav links
+ * Navigation bar with auth integration:
+ * - Shows login button when logged out
+ * - Shows user avatar + logout when logged in
  */
 export default function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const { user, isLoading, logout } = useAuth();
 
   const navLinks = [
     { href: "/", label: "홈" },
     { href: "/cameras", label: "카메라 도감" },
     { href: "/compare", label: "비교" },
   ];
+
+  const handleLogout = async () => {
+    await logout();
+    setIsMobileMenuOpen(false);
+  };
 
   return (
     <nav
@@ -118,31 +123,63 @@ export default function Navbar() {
               <Search className="w-4 h-4" />
             </button>
 
-            {/* Sign in button */}
-            <button
-              id="nav-signin-btn"
-              className="px-4 py-2 text-sm font-semibold rounded-lg"
-              style={{
-                background: "var(--gradient-brand)",
-                color: "white",
-                border: "none",
-                cursor: "pointer",
-                transition: "var(--transition-fast)",
-                boxShadow: "0 0 20px var(--accent-glow)",
-              }}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.boxShadow =
-                  "0 0 30px var(--accent-glow-strong)";
-                e.currentTarget.style.transform = "translateY(-1px)";
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.boxShadow =
-                  "0 0 20px var(--accent-glow)";
-                e.currentTarget.style.transform = "translateY(0)";
-              }}
-            >
-              로그인
-            </button>
+            {/* Auth buttons */}
+            {isLoading ? (
+              <div className="w-20 h-9 rounded-lg shimmer" />
+            ) : user ? (
+              <div className="flex items-center gap-2">
+                <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg" style={{ background: 'var(--bg-tertiary)' }}>
+                  <div
+                    className="flex items-center justify-center w-6 h-6 rounded-full text-[10px] font-bold text-white"
+                    style={{ background: 'var(--gradient-brand)' }}
+                  >
+                    {(user.name || user.username).charAt(0).toUpperCase()}
+                  </div>
+                  <span className="text-sm font-medium" style={{ color: 'var(--text-primary)' }}>
+                    {user.name || user.username}
+                  </span>
+                </div>
+                <button
+                  onClick={handleLogout}
+                  className="flex items-center justify-center w-9 h-9 rounded-lg"
+                  style={{
+                    color: "var(--text-tertiary)",
+                    background: "transparent",
+                    border: "1px solid var(--border-subtle)",
+                    cursor: "pointer",
+                    transition: "var(--transition-fast)",
+                  }}
+                  onMouseEnter={(e) => {
+                    e.currentTarget.style.color = "var(--error)";
+                    e.currentTarget.style.borderColor = "var(--error)";
+                  }}
+                  onMouseLeave={(e) => {
+                    e.currentTarget.style.color = "var(--text-tertiary)";
+                    e.currentTarget.style.borderColor = "var(--border-subtle)";
+                  }}
+                  title="로그아웃"
+                >
+                  <LogOut className="w-4 h-4" />
+                </button>
+              </div>
+            ) : (
+              <Link
+                href="/login"
+                id="nav-signin-btn"
+                className="px-4 py-2 text-sm font-semibold rounded-lg"
+                style={{
+                  background: "var(--gradient-brand)",
+                  color: "white",
+                  border: "none",
+                  cursor: "pointer",
+                  transition: "var(--transition-fast)",
+                  boxShadow: "0 0 20px var(--accent-glow)",
+                  display: "inline-block",
+                }}
+              >
+                로그인
+              </Link>
+            )}
           </div>
 
           {/* ── Mobile Menu Toggle ──────────────────────────────────────── */}
@@ -195,17 +232,40 @@ export default function Navbar() {
               </Link>
             ))}
             <div className="pt-3 px-4">
-              <button
-                className="w-full py-2.5 text-sm font-semibold rounded-lg"
-                style={{
-                  background: "var(--gradient-brand)",
-                  color: "white",
-                  border: "none",
-                  cursor: "pointer",
-                }}
-              >
-                로그인
-              </button>
+              {user ? (
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <User className="w-4 h-4" style={{ color: 'var(--text-tertiary)' }} />
+                    <span className="text-sm font-medium" style={{ color: 'var(--text-primary)' }}>
+                      {user.name || user.username}
+                    </span>
+                  </div>
+                  <button
+                    onClick={handleLogout}
+                    className="text-sm font-medium px-3 py-1.5 rounded-lg"
+                    style={{
+                      color: 'var(--error)',
+                      background: 'transparent',
+                      border: '1px solid rgba(220, 38, 38, 0.2)',
+                      cursor: 'pointer',
+                    }}
+                  >
+                    로그아웃
+                  </button>
+                </div>
+              ) : (
+                <Link
+                  href="/login"
+                  className="block w-full py-2.5 text-sm font-semibold rounded-lg text-center"
+                  style={{
+                    background: "var(--gradient-brand)",
+                    color: "white",
+                  }}
+                  onClick={() => setIsMobileMenuOpen(false)}
+                >
+                  로그인
+                </Link>
+              )}
             </div>
           </div>
         </div>

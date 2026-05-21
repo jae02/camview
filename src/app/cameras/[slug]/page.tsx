@@ -108,6 +108,7 @@ export default async function CameraDetailPage({
       <ReviewSection
         reviews={camera.reviews}
         cameraName={`${camera.brand} ${camera.model}`}
+        cameraSlug={camera.slug}
       />
     </div>
   );

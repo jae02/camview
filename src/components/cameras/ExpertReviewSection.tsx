@@ -7,26 +7,20 @@ interface ExpertReviewSectionProps {
 }
 
 export default function ExpertReviewSection({ review, cameraName }: ExpertReviewSectionProps) {
-  // Prefer summary -> html -> text.
-  // Actually, we should show the HTML if available since it contains the table structure, 
-  // but if they just wanted the summary we could show that at the top.
-  
-  const hasHtml = !!review.critique_html;
   const hasText = !!review.critique_text;
   const hasSummary = !!review.critique_summary;
   
-  // Skip if we have no content
-  if (!hasHtml && !hasText && !hasSummary) return null;
+  if (!hasText && !hasSummary) return null;
 
   return (
     <section className="container-custom py-12">
       <div className="flex items-center justify-between mb-8">
         <div>
-          <h2 className="heading-lg text-[var(--text-primary)]">
-            전문가 평가 <span className="text-[var(--brand-primary)]">총평</span>
+          <h2 className="heading-lg" style={{ color: 'var(--text-primary)' }}>
+            에디터 <span style={{ color: 'var(--accent-primary)' }}>총평</span>
           </h2>
-          <p className="text-sm text-[var(--text-secondary)] mt-1">
-            {cameraName}에 대한 SLRClub 전문 리뷰어의 종합 평가입니다.
+          <p className="text-sm mt-1" style={{ color: 'var(--text-tertiary)' }}>
+            {cameraName}에 대한 전문 리뷰어의 종합 평가입니다.
           </p>
         </div>
         {review.url && (
@@ -34,27 +28,44 @@ export default function ExpertReviewSection({ review, cameraName }: ExpertReview
             href={review.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm text-[var(--brand-primary)] hover:underline"
+            className="text-sm hover:underline"
+            style={{ color: 'var(--accent-primary)' }}
           >
-            원본 리뷰 보기 &rarr;
+            원문 보기 &rarr;
           </a>
         )}
       </div>
 
-      <div className="bg-[var(--surface-primary)] border border-[var(--border-color)] rounded-xl p-6 md:p-8 shadow-sm">
+      <div
+        className="rounded-xl p-6 md:p-8"
+        style={{
+          background: 'var(--bg-card)',
+          border: '1px solid var(--border-subtle)',
+          boxShadow: 'var(--shadow-sm)',
+        }}
+      >
         
-        {/* If we have a summary generated, display it prominently at the top */}
+        {/* AI Summary */}
         {hasSummary && (
-          <div className="mb-8 p-6 bg-[var(--surface-secondary)] rounded-lg border border-[var(--border-color)]">
-            <h3 className="text-lg font-bold mb-3 flex items-center gap-2 text-[var(--brand-primary)]">
+          <div
+            className="mb-8 p-6 rounded-lg"
+            style={{
+              background: 'var(--bg-tertiary)',
+              border: '1px solid var(--border-subtle)',
+            }}
+          >
+            <h3
+              className="text-lg font-bold mb-3 flex items-center gap-2"
+              style={{ color: 'var(--accent-primary)' }}
+            >
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                 <path d="M12 16V12" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                 <path d="M12 8H12.01" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
               </svg>
-              핵심 요약 (AI)
+              핵심 요약
             </h3>
-            <p className="text-[var(--text-primary)] leading-relaxed text-sm">
+            <p className="text-sm leading-relaxed" style={{ color: 'var(--text-primary)' }}>
               {review.critique_summary}
             </p>
           </div>
@@ -62,7 +73,13 @@ export default function ExpertReviewSection({ review, cameraName }: ExpertReview
 
         {/* Full Critique Text */}
         {hasText && (
-          <div className="whitespace-pre-wrap text-[var(--text-primary)] leading-[1.8] text-[0.95rem] tracking-wide mt-6 pt-6 border-t border-[var(--border-color)]">
+          <div
+            className="whitespace-pre-wrap text-[0.95rem] leading-[1.8] tracking-wide"
+            style={{
+              color: 'var(--text-secondary)',
+              ...(hasSummary ? { marginTop: '1.5rem', paddingTop: '1.5rem', borderTop: '1px solid var(--border-subtle)' } : {}),
+            }}
+          >
             {review.critique_text}
           </div>
         )}
