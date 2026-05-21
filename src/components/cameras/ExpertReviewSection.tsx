@@ -71,18 +71,6 @@ export default function ExpertReviewSection({ review, cameraName }: ExpertReview
             {review.critique_text}
           </div>
         ) : null}
-
-        {/* OCR Extracted Text (From deleted images) */}
-        {review.critique_ocr_text && (
-          <div className="mt-8 pt-8 border-t border-[var(--border-color)]">
-            <h3 className="text-md font-bold mb-4 text-[var(--text-primary)]">이미지에서 추출된 텍스트 (OCR)</h3>
-            <div className="p-4 bg-[var(--surface-secondary)] rounded-md border border-[var(--border-color)] overflow-x-auto">
-              <pre className="text-xs text-[var(--text-secondary)] whitespace-pre-wrap font-mono leading-relaxed">
-                {review.critique_ocr_text}
-              </pre>
-            </div>
-          </div>
-        )}
       </div>
     </section>
   );
