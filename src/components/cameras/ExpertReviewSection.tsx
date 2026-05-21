@@ -60,17 +60,12 @@ export default function ExpertReviewSection({ review, cameraName }: ExpertReview
           </div>
         )}
 
-        {/* Full Critique HTML */}
-        {hasHtml ? (
-          <div 
-            className="expert-review-html prose prose-sm md:prose-base max-w-none text-[var(--text-primary)] prose-headings:text-[var(--text-primary)] prose-strong:text-[var(--text-primary)] prose-a:text-[var(--brand-primary)] prose-img:rounded-lg prose-img:shadow-md"
-            dangerouslySetInnerHTML={{ __html: review.critique_html! }}
-          />
-        ) : hasText ? (
-          <div className="whitespace-pre-line text-sm text-[var(--text-primary)] leading-relaxed">
+        {/* Full Critique Text */}
+        {hasText && (
+          <div className="whitespace-pre-wrap text-[var(--text-primary)] leading-[1.8] text-[0.95rem] tracking-wide mt-6 pt-6 border-t border-[var(--border-color)]">
             {review.critique_text}
           </div>
-        ) : null}
+        )}
       </div>
     </section>
   );
