@@ -1,0 +1,289 @@
+{
+  "slug": "Panasonic-AW-UB50",
+  "camera_name": "Panasonic AW-UB50",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Panasonic-AW-UB50.jpg",
+  "pros": [
+    "Genlock Connection",
+    "Timecode Terminal (1x BNC Input/Output)",
+    "Sync Port",
+    "IP Streaming",
+    "1 x  SDI (1x BNC (3G-SDI) Output)",
+    "Dual Native ISO: 640, 4000",
+    "Shutter Angle Setting",
+    "DMW-XLR1 XLR adapter",
+    "On-body Mounting Points",
+    "Real-time LUT Applied Shooting",
+    "Anamorphic Support",
+    "Unlimited Video Recording (no 30min limit)",
+    "Active Cooling ensures no overheating during Video",
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "4K at 60fps  and FHD at 120fps  Video Recording",
+    "No crop on 4K Videos",
+    "10-bit 4:2:2 Color Sampling",
+    "Electronic (Optional)   Optional Viewfinder",
+    "Face Detection Focusing",
+    "24.2MP - High Resolution Sensor",
+    "51.200   Max ISO",
+    "225   Focus Points",
+    "1/16000s High Shutter Speed",
+    "1/16000s Electronic Shutter Speed",
+    "585g Light Body",
+    "External Microphone Port",
+    "External Headphone Port",
+    "2 Storage Slots",
+    "Up to 120fps High Speed Video",
+    "Multi-function Hotshoe",
+    "Remote control with a smartphone",
+    "Compatible with fast UHS-II cards",
+    "Tally/Front recording light",
+    "S-Log Recording",
+    "HLG/HDR Video Recording",
+    "USB 3.1 Gen1 Type-C",
+    "Full-size HDMI Port",
+    "Ethernet Port"
+  ],
+  "cons": [
+    "No Rear LCD Screen",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Built-in Viewfinder",
+    "Slow Continuous Shooting: 1.0fps",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2024-10-04",
+    "Body Type": "Box-Style Cinema",
+    "MSRP": "$3497.00",
+    "Lens Mount": "Leica L",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1×",
+    "Screen Type": "No Screen",
+    "Screen Size": "\"",
+    "Screen Resolution": "0k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon L20Compare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic AW-UB50",
+    "Announced": "2024-10-04",
+    "Body Type": "Box-Style Cinema",
+    "MSRP": "$3497.00",
+    "Manual Focus": true,
+    "Lens Mount": "Leica L",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "No Screen",
+    "Screen Size": "\"",
+    "Screen Resolution": "0k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Genlock Connection",
+      "ko": "Genlock Connection"
+    },
+    {
+      "en": "Timecode Terminal (1x BNC Input/Output)",
+      "ko": "Timecode Terminal (1x BNC Input/Output)"
+    },
+    {
+      "en": "Sync Port",
+      "ko": "Sync Port"
+    },
+    {
+      "en": "IP Streaming",
+      "ko": "IP Streaming"
+    },
+    {
+      "en": "1 x  SDI (1x BNC (3G-SDI) Output)",
+      "ko": "SD 카드"
+    },
+    {
+      "en": "Dual Native ISO: 640, 4000",
+      "ko": "듀얼 네이티브 ISO"
+    },
+    {
+      "en": "Shutter Angle Setting",
+      "ko": "Shutter Angle Setting"
+    },
+    {
+      "en": "DMW-XLR1 XLR adapter",
+      "ko": "DMW-XLR1 XLR adapter"
+    },
+    {
+      "en": "On-body Mounting Points",
+      "ko": "On-body Mounting Points"
+    },
+    {
+      "en": "Real-time LUT Applied Shooting",
+      "ko": "Real-time LUT Applied Shooting"
+    },
+    {
+      "en": "Anamorphic Support",
+      "ko": "Anamorphic Support"
+    },
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Active Cooling ensures no overheating during Video",
+      "ko": "Active Cooling ensures no overheating during Video"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "4K at 60fps  and FHD at 120fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "No crop on 4K Videos",
+      "ko": "크롭 없음"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.2MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "51.200   Max ISO",
+      "ko": "51.200   Max ISO"
+    },
+    {
+      "en": "225   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1/16000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "1/16000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "585g Light Body",
+      "ko": "585g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Multi-function Hotshoe",
+      "ko": "Multi-function Hotshoe"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "Tally/Front recording light",
+      "ko": "Tally/Front recording light"
+    },
+    {
+      "en": "S-Log Recording",
+      "ko": "S-Log"
+    },
+    {
+      "en": "HLG/HDR Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "USB 3.1 Gen1 Type-C",
+      "ko": "USB"
+    },
+    {
+      "en": "Full-size HDMI Port",
+      "ko": "HDMI"
+    },
+    {
+      "en": "Ethernet Port",
+      "ko": "Ethernet Port"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Rear LCD Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2024-10-04",
+    "바디 형태": "Box-Style Cinema",
+    "출시 가격": "$3497.00",
+    "렌즈 마운트": "Leica L",
+    "호환 렌즈 수": "138",
+    "크롭 팩터": "1×",
+    "LCD 방식": "No Screen",
+    "LCD 크기": "\"",
+    "LCD 해상도": "0k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic AW UB50",
+  "scraped_at": "2026-05-27T14:09:03.151372"
+}

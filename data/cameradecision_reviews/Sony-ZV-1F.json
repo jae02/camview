@@ -1,0 +1,275 @@
+{
+  "slug": "Sony-ZV-1F",
+  "camera_name": "Sony ZV-1F",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sony-ZV-1F.jpg",
+  "pros": [
+    "Product Showcase Mode",
+    "Gyroscopic Stabilization",
+    "Unlimited Video Recording (no 30min limit)",
+    "Photo/Video Mode Switch",
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "Fully Articulated Screen",
+    "External Flash Shoe",
+    "4K (UHD) Video",
+    "Touch Screen",
+    "Face Detection Focusing",
+    "20.0MP - High Resolution Sensor",
+    "12.800   Max ISO",
+    "425   Focus Points",
+    "922k dots LCD Resolution",
+    "1/32000s Electronic Shutter Speed",
+    "16.0fps Shooting w/ Mechanical Shutter",
+    "Long Battery Life (360 shots)",
+    "256g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "20mm Wide Angle Lens",
+    "Fast 2.00  Lens at Wide",
+    "Fast 2.00 Lens at Tele",
+    "Up to 120fps High Speed Video",
+    "AE Bracketing",
+    "Wide AE Bracketing Range: ±5 EV",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Remote control with a smartphone",
+    "Digital video stabilization",
+    "UHS-I Memory Card Support",
+    "Real time Animal Eye AF",
+    "Webcam Functionality",
+    "Tally/Front recording light",
+    "Directional Microphone",
+    "Included Mic Windscreen",
+    "USB Charging",
+    "USB 3.0 Gen 1 (5 GBit/sec)"
+  ],
+  "cons": [
+    "No Image Stabilization",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2022-10-13",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$398.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "922k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Canon V1Compare",
+    "Brand": "Sony",
+    "Model": "Sony ZV-1F",
+    "Announced": "2022-10-13",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$398.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "20 mm (1.0x)",
+    "Max Aperture": "F2",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "922k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Product Showcase Mode",
+      "ko": "Product Showcase Mode"
+    },
+    {
+      "en": "Gyroscopic Stabilization",
+      "ko": "Gyroscopic Stabilization"
+    },
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Photo/Video Mode Switch",
+      "ko": "Photo/Video Mode Switch"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "Fully Articulated Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "4K (UHD) Video",
+      "ko": "4K 동영상"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "20.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "425   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "922k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/32000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "16.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Long Battery Life (360 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "256g Light Body",
+      "ko": "256g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "20mm Wide Angle Lens",
+      "ko": "20mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 2.00  Lens at Wide",
+      "ko": "Fast 2.00  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.00 Lens at Tele",
+      "ko": "Fast 2.00 Lens at Tele"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Wide AE Bracketing Range: ±5 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Digital video stabilization",
+      "ko": "Digital video stabilization"
+    },
+    {
+      "en": "UHS-I Memory Card Support",
+      "ko": "UHS-I Memory Card Support"
+    },
+    {
+      "en": "Real time Animal Eye AF",
+      "ko": "동물 눈 인식 AF"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "Tally/Front recording light",
+      "ko": "Tally/Front recording light"
+    },
+    {
+      "en": "Directional Microphone",
+      "ko": "Directional Microphone"
+    },
+    {
+      "en": "Included Mic Windscreen",
+      "ko": "화면"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    },
+    {
+      "en": "USB 3.0 Gen 1 (5 GBit/sec)",
+      "ko": "USB"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2022-10-13",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$398.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "922k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony ZV 1F",
+  "scraped_at": "2026-05-27T14:13:53.137247"
+}

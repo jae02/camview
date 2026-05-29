@@ -1,0 +1,147 @@
+{
+  "slug": "Panasonic-Lumix-DMC-GH2",
+  "camera_name": "Panasonic GH2",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DMC-GH2.jpg",
+  "pros": [
+    "Fully Articulated   Screen",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "12.800   Max ISO",
+    "23   Focus Points",
+    "442g Light Body",
+    "External Microphone Port",
+    "0.71x magnification - Large Viewfinder",
+    "3D Shooting Capability",
+    "Selfie & Vlogger Friendly LCD Screen"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "Slow Continuous Shooting: 3.0fps",
+    "Low Battery Life: 330 shots",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-03-23",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$0.00",
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Olympus E-M5Compare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-GH2",
+    "Predecessor Model": "Panasonic GH1",
+    "Successor Model": "Panasonic GH3",
+    "Announced": "2011-03-23",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Technology": "TFT Color LCD with wide-viewing angle",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "23   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "442g Light Body",
+      "ko": "442g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "0.71x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "3D Shooting Capability",
+      "ko": "3D Shooting Capability"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Slow Continuous Shooting: 3.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 330 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-03-23",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Micro Four Thirds",
+    "호환 렌즈 수": "132",
+    "크롭 팩터": "2×",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC GH2",
+  "scraped_at": "2026-05-27T15:30:24.030764"
+}

@@ -1,0 +1,255 @@
+{
+  "slug": "Fujifilm-GFX-100S-II",
+  "camera_name": "Fujifilm GFX 100S II",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Fujifilm-GFX-100S-II.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "5-axis    Image Stabilization",
+    "Tilting   Screen",
+    "4K at 30fps  and FHD at 60fps  Video Recording",
+    "10-bit 4:2:2 Color Sampling",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "102.0MP - High Resolution Sensor",
+    "12.800   Max ISO",
+    "425   Focus Points",
+    "Large 3.20\" Screen",
+    "2.360k dots LCD Resolution",
+    "1/32000s Electronic Shutter Speed",
+    "7.0fps Max Continuous Shooting Speed",
+    "Long Battery Life (530 shots)",
+    "External Microphone Port",
+    "External Headphone Port",
+    "Environmental Sealing",
+    "Timelapse Recording",
+    "5760kdot Viewfinder Resolution",
+    "0.84x magnification - Large Viewfinder",
+    "2 Storage Slots",
+    "Top LCD Display",
+    "Wide AE Bracketing Range: ±5 EV",
+    "Flash Sync Port",
+    "400 MP Sensor Shift High Resolution Mode",
+    "Focus Bracketing",
+    "Remote control with a smartphone",
+    "High Video bit rate of  720mbps",
+    "Magnesium alloy body elements",
+    "Real time Animal Eye AF",
+    "Compatible with fast UHS-II cards",
+    "Webcam Functionality",
+    "USB 3.2 Gen 2 (10 GBit/sec)",
+    "Vehicle Tracking AF Mode",
+    "Insect Tracking AF Mode"
+  ],
+  "cons": [
+    "Heavy Body: 883g"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2024-05-16",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$4999.00",
+    "Lens Mount": "Fujifilm G",
+    "Number of Lenses": "23",
+    "Focal Length Multiplier": "0.79x",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.20\"",
+    "Screen Resolution": "2,360k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Fujifilm X-T5Compare",
+    "Brand": "Fujifilm",
+    "Model": "Fujifilm GFX 100S II",
+    "Predecessor Model": "Fujifilm GFX 100S",
+    "Announced": "2024-05-16",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$4999.00",
+    "Manual Focus": true,
+    "Lens Mount": "Fujifilm G",
+    "Number of Lenses": "23",
+    "Focal Length Multiplier": "0.79x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.20\"",
+    "Screen Resolution": "2,360k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "5-axis    Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "4K at 30fps  and FHD at 60fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "102.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "425   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Large 3.20\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "2.360k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/32000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "7.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "Long Battery Life (530 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "5760kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "0.84x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    },
+    {
+      "en": "Wide AE Bracketing Range: ±5 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    },
+    {
+      "en": "400 MP Sensor Shift High Resolution Mode",
+      "ko": "고해상도 모드"
+    },
+    {
+      "en": "Focus Bracketing",
+      "ko": "포커스 브라케팅"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "High Video bit rate of  720mbps",
+      "ko": "동영상 비트레이트"
+    },
+    {
+      "en": "Magnesium alloy body elements",
+      "ko": "마그네슘 합금 바디"
+    },
+    {
+      "en": "Real time Animal Eye AF",
+      "ko": "동물 눈 인식 AF"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "USB 3.2 Gen 2 (10 GBit/sec)",
+      "ko": "USB"
+    },
+    {
+      "en": "Vehicle Tracking AF Mode",
+      "ko": "차량 추적 AF"
+    },
+    {
+      "en": "Insect Tracking AF Mode",
+      "ko": "Insect Tracking AF Mode"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "Heavy Body: 883g",
+      "ko": "Heavy Body: 883g"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2024-05-16",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$4999.00",
+    "렌즈 마운트": "Fujifilm G",
+    "호환 렌즈 수": "23",
+    "크롭 팩터": "0.79x",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.20\"",
+    "LCD 해상도": "2,360k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Fujifilm",
+  "timeline_name": "Fujifilm GFX 100S II",
+  "scraped_at": "2026-05-27T14:10:33.381442"
+}

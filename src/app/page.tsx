@@ -36,13 +36,13 @@ export default async function HomePage() {
     {
       icon: "Users" as const,
       title: "브랜드별 도감",
-      description: "Sony, Canon, Nikon 등 주요 브랜드 카메라 총망라",
+      description: "Sony, Canon, Nikon, Fujifilm, Panasonic, Leica 등 25개 이상 브랜드 카메라 총망라",
     },
   ];
 
   const stats = [
-    { value: "133+", label: "수록 카메라" },
-    { value: "6", label: "브랜드" },
+    { value: "1,300+", label: "수록 카메라" },
+    { value: "25+", label: "브랜드" },
     { value: "50+", label: "상세 스펙 항목" },
     { value: "98%", label: "데이터 정확도" },
   ];

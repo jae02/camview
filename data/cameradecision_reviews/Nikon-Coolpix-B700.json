@@ -1,0 +1,208 @@
+{
+  "slug": "Nikon-Coolpix-B700",
+  "camera_name": "Nikon B700",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Coolpix-B700.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "NFC Connectivity",
+    "Image Stabilization",
+    "Fully Articulated Screen",
+    "4K (UHD) Video",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "20.0MP - High Resolution Sensor",
+    "921k dots LCD Resolution",
+    "1/4000s High Shutter Speed",
+    "Long Battery Life (350 shots)",
+    "Manual Focusing",
+    "Manual Exposure",
+    "Timelapse Recording",
+    "24mm Wide Angle Lens",
+    "1440mm Good Tele Lens",
+    "60.0X Optical Zoom",
+    "921kdot Viewfinder Resolution",
+    "AE Bracketing",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Remote control with a smartphone"
+  ],
+  "cons": [
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "Max Sensitivity only ISO 3.200",
+    "Heavy Body: 565g.",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.30",
+    "Slow Lens at Tele: f6.50"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2016-02-23",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$799.99",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Panasonic FZ80DCompare",
+    "Brand": "Nikon",
+    "Model": "Nikon Coolpix B700",
+    "Announced": "2016-02-23",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$799.99",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "24-1440 mm (60x)",
+    "Max Aperture": "F3.3-6.5",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "4K (UHD) Video",
+      "ko": "4K 동영상"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "20.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/4000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Long Battery Life (350 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "1440mm Good Tele Lens",
+      "ko": "1440mm Good Tele Lens"
+    },
+    {
+      "en": "60.0X Optical Zoom",
+      "ko": "60.0X Optical Zoom"
+    },
+    {
+      "en": "921kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Heavy Body: 565g.",
+      "ko": "Heavy Body: 565g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.30",
+      "ko": "Slow Lens at Wide: f3.30"
+    },
+    {
+      "en": "Slow Lens at Tele: f6.50",
+      "ko": "Slow Lens at Tele: f6.50"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2016-02-23",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$799.99",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon Coolpix B700",
+  "scraped_at": "2026-05-27T14:38:44.133200"
+}

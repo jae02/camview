@@ -1,0 +1,147 @@
+{
+  "slug": "Olympus-PEN-E-PL1s",
+  "camera_name": "Olympus E-PL1s",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Olympus-PEN-E-PL9.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Electronic (Optional)   Optional Viewfinder",
+    "Face Detection Focusing",
+    "11   Focus Points",
+    "334g Light Body"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "Low Resolution Sensor: 12.0MP",
+    "Small LCD Screen ( 2.70\")",
+    "Low Screen Resolution ( 230kdots )",
+    "Low Max Shutter Speed: 1/2000s",
+    "Slow Continuous Shooting: 3.0fps",
+    "Low Battery Life: 290 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-11-16",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$229.95",
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon 1Ds MIICompare",
+    "Brand": "Olympus",
+    "Model": "Olympus PEN E-PL1s",
+    "Predecessor Model": "Olympus E-PL1",
+    "Successor Model": "Olympus E-PL2",
+    "Announced": "2010-11-16",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$229.95",
+    "Manual Focus": true,
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "HyperCrystal LCD AR (Anti-Reflective) coating",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "11   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "334g Light Body",
+      "ko": "334g Light Body"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Small LCD Screen ( 2.70\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Max Shutter Speed: 1/2000s",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 3.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 290 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-11-16",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$229.95",
+    "렌즈 마운트": "Micro Four Thirds",
+    "호환 렌즈 수": "132",
+    "크롭 팩터": "2×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.70\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Olympus",
+  "timeline_name": "Olympus PEN E PL1s",
+  "scraped_at": "2026-05-27T15:41:31.334501"
+}

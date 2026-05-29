@@ -1,0 +1,180 @@
+{
+  "slug": "Canon-PowerShot-ELPH-190-IS",
+  "camera_name": "Canon ELPH 190 IS",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Canon-PowerShot-ELPH-190-IS.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "NFC Connectivity",
+    "Image Stabilization",
+    "Face Detection Focusing",
+    "20.0MP - High Resolution Sensor",
+    "138g Light Body",
+    "24mm Wide Angle Lens",
+    "240mm Good Tele Lens",
+    "Remote control with a smartphone"
+  ],
+  "cons": [
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Max Sensitivity only ISO 1.600",
+    "Small LCD Screen ( 2.70\")",
+    "Low Screen Resolution ( 230kdots )",
+    "Slow Continuous Shooting: 0.8fps",
+    "Low Battery Life: 190 shots",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.00",
+    "Slow Lens at Tele: f6.90"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2016-01-05",
+    "Body Type": "Ultracompact",
+    "MSRP": "$179.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony W800Compare",
+    "Brand": "Canon",
+    "Model": "Canon PowerShot ELPH 190 IS",
+    "Announced": "2016-01-05",
+    "Body Type": "Ultracompact",
+    "MSRP": "$179.00",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-240 mm (10×)",
+    "Max Aperture": "F3.0-6.9",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "20.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "138g Light Body",
+      "ko": "138g Light Body"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "240mm Good Tele Lens",
+      "ko": "240mm Good Tele Lens"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Small LCD Screen ( 2.70\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Slow Continuous Shooting: 0.8fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 190 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.00",
+      "ko": "Slow Lens at Wide: f3.00"
+    },
+    {
+      "en": "Slow Lens at Tele: f6.90",
+      "ko": "Slow Lens at Tele: f6.90"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2016-01-05",
+    "바디 형태": "Ultracompact",
+    "출시 가격": "$179.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.70\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon PowerShot ELPH 190 IS",
+  "scraped_at": "2026-05-27T14:40:20.465729"
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "Pentax-MX-1",
+  "camera_name": "Pentax MX-1",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Pentax_MX-1_2.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Tilting Screen",
+    "Full HD Video",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "12.800   Max ISO",
+    "25   Focus Points",
+    "920k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "Manual Focusing",
+    "Manual Exposure",
+    "75.3 MB Internal Storage",
+    "Fast 1.80  Lens at Wide",
+    "Fast 2.50 Lens at Tele",
+    "AE Bracketing"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "Low Resolution Sensor: 12.0MP",
+    "Slow Continuous Shooting: 1.0fps",
+    "Low Battery Life: 290 shots",
+    "Heavy Body: 391g.",
+    "No Environmental Sealing",
+    "Poor Low Light image quality"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2013-07-01",
+    "Body Type": "Compact",
+    "MSRP": "$389.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Panasonic LX5Compare",
+    "Brand": "Pentax",
+    "Model": "Pentax MX-1",
+    "Announced": "2013-07-01",
+    "Body Type": "Compact",
+    "MSRP": "$389.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28-112 mm (4×)",
+    "Max Aperture": "F1.8-2.5",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Tilting",
+    "Screen Technology": "TFT LCD with AR coating",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting Screen",
+      "ko": "틸트 LCD"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "25   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "920k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "75.3 MB Internal Storage",
+      "ko": "75.3 MB Internal Storage"
+    },
+    {
+      "en": "Fast 1.80  Lens at Wide",
+      "ko": "Fast 1.80  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.50 Lens at Tele",
+      "ko": "Fast 2.50 Lens at Tele"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 290 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "Heavy Body: 391g.",
+      "ko": "Heavy Body: 391g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light image quality",
+      "ko": "Poor Low Light image quality"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2013-07-01",
+    "바디 형태": "Compact",
+    "출시 가격": "$389.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "920k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Pentax",
+  "timeline_name": "Pentax MX 1",
+  "scraped_at": "2026-05-27T14:57:44.354995"
+}

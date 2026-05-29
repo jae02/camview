@@ -1,0 +1,264 @@
+{
+  "slug": "Z-CAM-E2-S6-Mark-II-6K",
+  "camera_name": "Z CAM E2-S6 II 6K",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Z-CAM-E2-S6-Mark-II-6K.jpg",
+  "pros": [
+    "Genlock Connection",
+    "Timecode Terminal (LTC Timecode Input via BNC)",
+    "Sync Port",
+    "IP Streaming",
+    "1 x  SDI (3G)",
+    "Dual Native ISO: 400,1250",
+    "RAW Video Recording Capability",
+    "Shutter Angle Setting",
+    "5-pin LEMO port for dual channel XLR microphone",
+    "On-body Mounting Points",
+    "Gyroscopic Stabilization",
+    "Unlimited Video Recording (no 30min limit)",
+    "Built-in Wireless (Wi-fi)",
+    "6K at 60fps , 4K at 100fps  and FHD at 240fps  Video Recording",
+    "No crop on 4K Videos",
+    "10-bit 4:2:2 Color Sampling",
+    "Electronic (Optional)   Optional Viewfinder",
+    "26.1MP - High Resolution Sensor",
+    "128.000   Max ISO",
+    "External Microphone Port",
+    "Up to 120fps High Speed Video",
+    "Top LCD Display",
+    "Remote control with a smartphone",
+    "Aluminum Alloy body elements",
+    "Compatible with ultra fast Type B CFexpress cards",
+    "Tally/Front recording light",
+    "S-Log Recording",
+    "HLG/HDR Video Recording",
+    "USB 3.0 (5 GBit/sec) Type C",
+    "Full-size HDMI Port",
+    "Ethernet Port"
+  ],
+  "cons": [
+    "No Rear LCD Screen",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Built-in Viewfinder",
+    "No Face Detection Focusing",
+    "Low Max Shutter Speed: 1/s",
+    "Slow Continuous Shooting: 1.0fps",
+    "Heavy Body: 1210g",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2025-01-22",
+    "Body Type": "Box-Style Cinema",
+    "MSRP": "$2499.00",
+    "Lens Mount": "Canon EF",
+    "Number of Lenses": "257",
+    "Focal Length Multiplier": "1.5×",
+    "Screen Type": "No Screen",
+    "Screen Size": "\"",
+    "Screen Resolution": "0k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Z CAM E2 4KCompare",
+    "Brand": "Z CAM",
+    "Model": "Z CAM E2-S6 Mark II 6K",
+    "Announced": "2025-01-22",
+    "Body Type": "Box-Style Cinema",
+    "MSRP": "$2499.00",
+    "Manual Focus": true,
+    "Lens Mount": "Canon EF",
+    "Number of Lenses": "257",
+    "Focal Length Multiplier": "1.5×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "No Screen",
+    "Screen Size": "\"",
+    "Screen Resolution": "0k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Genlock Connection",
+      "ko": "Genlock Connection"
+    },
+    {
+      "en": "Timecode Terminal (LTC Timecode Input via BNC)",
+      "ko": "Timecode Terminal (LTC Timecode Input via BNC)"
+    },
+    {
+      "en": "Sync Port",
+      "ko": "Sync Port"
+    },
+    {
+      "en": "IP Streaming",
+      "ko": "IP Streaming"
+    },
+    {
+      "en": "1 x  SDI (3G)",
+      "ko": "SD 카드"
+    },
+    {
+      "en": "Dual Native ISO: 400,1250",
+      "ko": "듀얼 네이티브 ISO"
+    },
+    {
+      "en": "RAW Video Recording Capability",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Shutter Angle Setting",
+      "ko": "Shutter Angle Setting"
+    },
+    {
+      "en": "5-pin LEMO port for dual channel XLR microphone",
+      "ko": "5-pin LEMO port for dual channel XLR microphone"
+    },
+    {
+      "en": "On-body Mounting Points",
+      "ko": "On-body Mounting Points"
+    },
+    {
+      "en": "Gyroscopic Stabilization",
+      "ko": "Gyroscopic Stabilization"
+    },
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "6K at 60fps , 4K at 100fps  and FHD at 240fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "No crop on 4K Videos",
+      "ko": "크롭 없음"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "26.1MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "128.000   Max ISO",
+      "ko": "128.000   Max ISO"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Aluminum Alloy body elements",
+      "ko": "Aluminum Alloy body elements"
+    },
+    {
+      "en": "Compatible with ultra fast Type B CFexpress cards",
+      "ko": "CFexpress"
+    },
+    {
+      "en": "Tally/Front recording light",
+      "ko": "Tally/Front recording light"
+    },
+    {
+      "en": "S-Log Recording",
+      "ko": "S-Log"
+    },
+    {
+      "en": "HLG/HDR Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "USB 3.0 (5 GBit/sec) Type C",
+      "ko": "USB"
+    },
+    {
+      "en": "Full-size HDMI Port",
+      "ko": "HDMI"
+    },
+    {
+      "en": "Ethernet Port",
+      "ko": "Ethernet Port"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Rear LCD Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Max Shutter Speed: 1/s",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Heavy Body: 1210g",
+      "ko": "Heavy Body: 1210g"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2025-01-22",
+    "바디 형태": "Box-Style Cinema",
+    "출시 가격": "$2499.00",
+    "렌즈 마운트": "Canon EF",
+    "호환 렌즈 수": "257",
+    "크롭 팩터": "1.5×",
+    "LCD 방식": "No Screen",
+    "LCD 크기": "\"",
+    "LCD 해상도": "0k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Z",
+  "timeline_name": "Z CAM E2 S6 Mark II 6K",
+  "scraped_at": "2026-05-27T14:08:18.866156"
+}

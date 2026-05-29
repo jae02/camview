@@ -1,0 +1,166 @@
+{
+  "slug": "Fujifilm-X-T20",
+  "camera_name": "Fujifilm X-T20",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T20.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Tilting   Screen",
+    "4K at 30fps  and FHD at 60fps  Video Recording",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "12.800   Max ISO",
+    "325   Focus Points",
+    "920k dots LCD Resolution",
+    "1/32000s Electronic Shutter Speed",
+    "14.0fps Max Continuous Shooting Speed",
+    "383g Light Body",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "2360kdot Viewfinder Resolution",
+    "Remote control with a smartphone",
+    "Compatible with fast UHS-II cards"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "Low Battery Life: 350 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2017-01-18",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$698.00",
+    "Lens Mount": "Fujifilm X",
+    "Number of Lenses": "147",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Fujifilm X-T1Compare",
+    "Brand": "Fujifilm",
+    "Model": "Fujifilm X-T20",
+    "Predecessor Model": "Fujifilm X-T10",
+    "Successor Model": "Fujifilm X-T30",
+    "Announced": "2017-01-18",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$698.00",
+    "Manual Focus": true,
+    "Lens Mount": "Fujifilm X",
+    "Number of Lenses": "147",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "4K at 30fps  and FHD at 60fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "325   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "920k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/32000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "14.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "383g Light Body",
+      "ko": "383g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "2360kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Low Battery Life: 350 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2017-01-18",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$698.00",
+    "렌즈 마운트": "Fujifilm X",
+    "호환 렌즈 수": "147",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "920k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Fujifilm",
+  "timeline_name": "Fujifilm X T20",
+  "scraped_at": "2026-05-27T14:35:51.082314"
+}

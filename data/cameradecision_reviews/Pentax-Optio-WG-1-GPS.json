@@ -1,0 +1,204 @@
+{
+  "slug": "Pentax-Optio-WG-1-GPS",
+  "camera_name": "Pentax WG-1 GPS",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Pentax_Optio_WG-1_GPS_1.jpg",
+  "pros": [
+    "Water Proof",
+    "Shock Proof",
+    "Crush Proof",
+    "Freeze Proof",
+    "Built-in GPS",
+    "167g Light Body",
+    "Manual Focusing",
+    "Environmental Sealing",
+    "97 MB Internal Storage",
+    "Timelapse Recording"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 14.0MP",
+    "Only 9  Focus Points",
+    "Small LCD Screen ( 2.70\")",
+    "Low Screen Resolution ( 230kdots )",
+    "1/1500s Low Max Shutter Speed",
+    "Slow Continuous Shooting: 1.0fps",
+    "Low Battery Life: 260 shots",
+    "No Manual Exposure",
+    "Slow Lens at Wide: f3.50",
+    "Slow Lens at Tele: f5.50"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-08-16",
+    "Body Type": "Compact",
+    "MSRP": "$0.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon 80DCompare",
+    "Brand": "Pentax",
+    "Model": "Pentax Optio WG-1 GPS",
+    "Announced": "2011-08-16",
+    "Body Type": "Compact",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "28-140 mm (5×)",
+    "Max Aperture": "F3.5-5.5",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT color LCD with Anti-reflective coating",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Water Proof",
+      "ko": "Water Proof"
+    },
+    {
+      "en": "Shock Proof",
+      "ko": "Shock Proof"
+    },
+    {
+      "en": "Crush Proof",
+      "ko": "Crush Proof"
+    },
+    {
+      "en": "Freeze Proof",
+      "ko": "Freeze Proof"
+    },
+    {
+      "en": "Built-in GPS",
+      "ko": "GPS"
+    },
+    {
+      "en": "167g Light Body",
+      "ko": "167g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "97 MB Internal Storage",
+      "ko": "97 MB Internal Storage"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 14.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Small LCD Screen ( 2.70\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "1/1500s Low Max Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 260 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.50",
+      "ko": "Slow Lens at Wide: f3.50"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.50",
+      "ko": "Slow Lens at Tele: f5.50"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-08-16",
+    "바디 형태": "Compact",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.70\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Pentax",
+  "timeline_name": "Pentax Optio WG 1 GPS",
+  "scraped_at": "2026-05-27T15:27:09.513688"
+}

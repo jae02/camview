@@ -1,0 +1,178 @@
+{
+  "slug": "Canon-PowerShot-SX1-IS",
+  "camera_name": "Canon SX1 IS",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Canon-PowerShot-SX1-IS.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Fully Articulated Screen",
+    "External Flash Shoe",
+    "Full HD Video",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "1/3200s High Shutter Speed",
+    "Manual Focusing",
+    "Manual Exposure",
+    "560mm Good Tele Lens",
+    "20.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide",
+    "Selfie & Vlogger Friendly LCD Screen"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Touch Screen",
+    "Low Resolution Sensor: 10.0MP",
+    "Max Sensitivity only ISO 1.600",
+    "Only 9  Focus Points",
+    "Small LCD Screen ( 2.80\")",
+    "Low Screen Resolution ( 230kdots )",
+    "Heavy Body: 615g.",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.70"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2009-03-27",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$179.99",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "2.80\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon SX40 HSCompare",
+    "Brand": "Canon",
+    "Model": "Canon PowerShot SX1 IS",
+    "Announced": "2009-03-27",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$179.99",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "28-560 mm (20×)",
+    "Max Aperture": "F2.8-5.7",
+    "Macro Focus Range": "0cm",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "2.80\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "1/3200s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "560mm Good Tele Lens",
+      "ko": "560mm Good Tele Lens"
+    },
+    {
+      "en": "20.0X Optical Zoom",
+      "ko": "20.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Small LCD Screen ( 2.80\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Heavy Body: 615g.",
+      "ko": "Heavy Body: 615g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.70",
+      "ko": "Slow Lens at Tele: f5.70"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2009-03-27",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$179.99",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "2.80\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon PowerShot SX1 IS",
+  "scraped_at": "2026-05-27T15:59:34.343291"
+}

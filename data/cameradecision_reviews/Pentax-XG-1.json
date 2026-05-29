@@ -1,0 +1,168 @@
+{
+  "slug": "Pentax-XG-1",
+  "camera_name": "Pentax XG-1",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Pentax-XG-1.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Full HD Video",
+    "Electronic Built-in Viewfinder",
+    "9.0fps Shooting w/ Mechanical Shutter",
+    "Manual Focusing",
+    "Manual Exposure",
+    "15.4 MB Internal Storage",
+    "24mm Wide Angle Lens",
+    "1248mm Good Tele Lens",
+    "52.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Max Sensitivity only ISO 3.200",
+    "Low Battery Life: 240 shots",
+    "Heavy Body: 567g.",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.60"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2014-07-15",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$335.99",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Panasonic ZS80Compare",
+    "Brand": "Pentax",
+    "Model": "Pentax XG-1",
+    "Announced": "2014-07-15",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$335.99",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "24-1248 mm (52×)",
+    "Max Aperture": "F2.8-5.6",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "9.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "15.4 MB Internal Storage",
+      "ko": "15.4 MB Internal Storage"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "1248mm Good Tele Lens",
+      "ko": "1248mm Good Tele Lens"
+    },
+    {
+      "en": "52.0X Optical Zoom",
+      "ko": "52.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Low Battery Life: 240 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "Heavy Body: 567g.",
+      "ko": "Heavy Body: 567g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.60",
+      "ko": "Slow Lens at Tele: f5.60"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2014-07-15",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$335.99",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Pentax",
+  "timeline_name": "Pentax XG 1",
+  "scraped_at": "2026-05-27T14:48:09.871940"
+}

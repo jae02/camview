@@ -1,0 +1,178 @@
+{
+  "slug": "Nikon-Coolpix-P310",
+  "camera_name": "Nikon P310",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon_Coolpix_P310_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Full HD Video",
+    "Face Detection Focusing",
+    "99   Focus Points",
+    "921k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "6.0fps Shooting w/ Mechanical Shutter",
+    "194g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "24mm Wide Angle Lens",
+    "Fast 1.80  Lens at Wide",
+    "3D Shooting Capability",
+    "Panorama Shooting"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Max Sensitivity only ISO 3.200",
+    "Low Battery Life: 230 shots",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f4.90"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-06-22",
+    "Body Type": "Compact",
+    "MSRP": "$699.99",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon P510Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon Coolpix P310",
+    "Predecessor Model": "Nikon P300",
+    "Successor Model": "Nikon P330",
+    "Announced": "2012-06-22",
+    "Body Type": "Compact",
+    "MSRP": "$699.99",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-100 mm (4.2×)",
+    "Max Aperture": "F1.8-4.9",
+    "Macro Focus Range": "2cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT-LCD with Anti-reflection coating",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "99   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "6.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "194g Light Body",
+      "ko": "194g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 1.80  Lens at Wide",
+      "ko": "Fast 1.80  Lens at Wide"
+    },
+    {
+      "en": "3D Shooting Capability",
+      "ko": "3D Shooting Capability"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Low Battery Life: 230 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f4.90",
+      "ko": "Slow Lens at Tele: f4.90"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-06-22",
+    "바디 형태": "Compact",
+    "출시 가격": "$699.99",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon Coolpix P310",
+  "scraped_at": "2026-05-27T15:09:18.581213"
+}

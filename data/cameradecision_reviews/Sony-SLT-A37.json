@@ -1,0 +1,165 @@
+{
+  "slug": "Sony-SLT-A37",
+  "camera_name": "Sony A37",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sony-SLT-A37.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Tilting   Screen",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "25.600   Max ISO",
+    "15   Focus Points",
+    "6.0fps Max Continuous Shooting Speed",
+    "506g Light Body",
+    "External Microphone Port",
+    "1440kdot Viewfinder Resolution",
+    "0.73x magnification - Large Viewfinder",
+    "3   Cross Type Focus Points",
+    "3D Shooting Capability",
+    "Panorama Shooting"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Touch Screen",
+    "Small LCD Screen ( 2.60\")",
+    "Low Screen Resolution ( 230.4kdots )",
+    "No Environmental Sealing",
+    "Poor Low Light Performance",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-05-16",
+    "Body Type": "Compact SLR",
+    "MSRP": "$329.95",
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5×",
+    "Screen Type": "Tilting",
+    "Screen Size": "2.60\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony A390Compare",
+    "Brand": "Sony",
+    "Model": "Sony SLT-A37",
+    "Predecessor Model": "Sony A35",
+    "Announced": "2012-05-16",
+    "Body Type": "Compact SLR",
+    "MSRP": "$329.95",
+    "Manual Focus": true,
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "2.60\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "15   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "6.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "506g Light Body",
+      "ko": "506g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "1440kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "0.73x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "3   Cross Type Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "3D Shooting Capability",
+      "ko": "3D Shooting Capability"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Small LCD Screen ( 2.60\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230.4kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-05-16",
+    "바디 형태": "Compact SLR",
+    "출시 가격": "$329.95",
+    "렌즈 마운트": "Sony/Minolta Alpha",
+    "호환 렌즈 수": "143",
+    "크롭 팩터": "1.5×",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "2.60\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony SLT A37",
+  "scraped_at": "2026-05-27T15:09:56.312719"
+}

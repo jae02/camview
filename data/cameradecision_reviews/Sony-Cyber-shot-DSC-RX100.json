@@ -1,0 +1,207 @@
+{
+  "slug": "Sony-Cyber-shot-DSC-RX100",
+  "camera_name": "Sony RX100",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Sony_Cyber-shot_DSC-RX100_0.jpg",
+  "pros": [
+    "NFC Connectivity",
+    "Image Stabilization",
+    "Full HD Video",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "20.0MP - High Resolution Sensor",
+    "25.600   Max ISO",
+    "25   Focus Points",
+    "1.229k dots LCD Resolution",
+    "10.0fps Shooting w/ Mechanical Shutter",
+    "Long Battery Life (330 shots)",
+    "240g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "Timelapse with optional downloadable app",
+    "Fast 1.80  Lens at Wide",
+    "Good Low Light ISO - 390",
+    "Panorama Shooting",
+    "AE Bracketing",
+    "Dual-axis Electronic Level",
+    "Remote control with a smartphone",
+    "Tiltable Flash"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No Environmental Sealing",
+    "Optical Zoom only 3.6X",
+    "Slow Lens at Tele: f4.90"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-08-28",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$218.95",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,229k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony RX10Compare",
+    "Brand": "Sony",
+    "Model": "Sony Cyber-shot DSC-RX100",
+    "Successor Model": "Sony RX100 II",
+    "Announced": "2012-08-28",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$218.95",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28-100 mm (3.6x)",
+    "Max Aperture": "F1.8-4.9",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "WhiteMagic TFT LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,229k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "20.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "25   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.229k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "10.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Long Battery Life (330 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "240g Light Body",
+      "ko": "240g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "Timelapse with optional downloadable app",
+      "ko": "Timelapse with optional downloadable app"
+    },
+    {
+      "en": "Fast 1.80  Lens at Wide",
+      "ko": "Fast 1.80  Lens at Wide"
+    },
+    {
+      "en": "Good Low Light ISO - 390",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Dual-axis Electronic Level",
+      "ko": "Dual-axis Electronic Level"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Tiltable Flash",
+      "ko": "플래시"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Optical Zoom only 3.6X",
+      "ko": "Optical Zoom only 3.6X"
+    },
+    {
+      "en": "Slow Lens at Tele: f4.90",
+      "ko": "Slow Lens at Tele: f4.90"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-08-28",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$218.95",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,229k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Cyber shot DSC RX100",
+  "scraped_at": "2026-05-27T15:07:14.203712"
+}

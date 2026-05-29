@@ -1,0 +1,152 @@
+{
+  "slug": "Nikon-D3200",
+  "camera_name": "Nikon D3200",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon_D3200_0.jpg",
+  "pros": [
+    "Optical Built-in Viewfinder",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "11   Focus Points",
+    "921k dots LCD Resolution",
+    "Long Battery Life (540 shots)",
+    "505g Light Body",
+    "External Microphone Port",
+    "Good Low Light ISO - 1131",
+    "1   Cross Type Focus Points",
+    "Compatible with fast UHS-I cards"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "0.53x magnification - Small Viewfinder",
+    "No Environmental Sealing",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-07-25",
+    "Body Type": "Compact SLR",
+    "MSRP": "$0.00",
+    "Lens Mount": "Nikon F",
+    "Number of Lenses": "316",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon 1200DCompare",
+    "Brand": "Nikon",
+    "Model": "Nikon D3200",
+    "Predecessor Model": "Nikon D3100",
+    "Successor Model": "Nikon D3300",
+    "Announced": "2012-07-25",
+    "Body Type": "Compact SLR",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Nikon F",
+    "Number of Lenses": "316",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT LCD with 160� viewing angle",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "11   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "Long Battery Life (540 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "505g Light Body",
+      "ko": "505g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Good Low Light ISO - 1131",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "1   Cross Type Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Compatible with fast UHS-I cards",
+      "ko": "화소"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.53x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-07-25",
+    "바디 형태": "Compact SLR",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Nikon F",
+    "호환 렌즈 수": "316",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon D3200",
+  "scraped_at": "2026-05-27T15:08:16.033746"
+}

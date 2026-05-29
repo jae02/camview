@@ -1,0 +1,176 @@
+{
+  "slug": "Olympus-SP-800-UZ",
+  "camera_name": "Olympus SP-800 UZ",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Olympus-Stylus-SH-3.jpg",
+  "pros": [
+    "Image Stabilization",
+    "143   Focus Points",
+    "10.0fps Shooting w/ Mechanical Shutter",
+    "2 GB Internal Storage",
+    "Timelapse Recording",
+    "840mm Good Tele Lens",
+    "30.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 14.0MP",
+    "Max Sensitivity only ISO 3.200",
+    "Low Screen Resolution ( 230kdots )",
+    "Heavy Body: 455g.",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.60"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-02-02",
+    "Body Type": "Compact",
+    "MSRP": "$94.54",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon D3SCompare",
+    "Brand": "Olympus",
+    "Model": "Olympus SP-800 UZ",
+    "Successor Model": "Olympus SP-810 UZ",
+    "Announced": "2010-02-02",
+    "Body Type": "Compact",
+    "MSRP": "$94.54",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28-840 mm (30×)",
+    "Max Aperture": "F2.8-5.6",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "143   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "10.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "2 GB Internal Storage",
+      "ko": "2 GB Internal Storage"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "840mm Good Tele Lens",
+      "ko": "840mm Good Tele Lens"
+    },
+    {
+      "en": "30.0X Optical Zoom",
+      "ko": "30.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 14.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Heavy Body: 455g.",
+      "ko": "Heavy Body: 455g."
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.60",
+      "ko": "Slow Lens at Tele: f5.60"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-02-02",
+    "바디 형태": "Compact",
+    "출시 가격": "$94.54",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Olympus",
+  "timeline_name": "Olympus SP 800 UZ",
+  "scraped_at": "2026-05-27T15:49:01.781242"
+}

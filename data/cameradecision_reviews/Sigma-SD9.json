@@ -1,0 +1,140 @@
+{
+  "slug": "Sigma-SD9",
+  "camera_name": "Sigma SD9",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sigma-SD1-Merrill-ek-fs.jpg",
+  "pros": [
+    "Optical Built-in Viewfinder",
+    "1/6000s High Shutter Speed",
+    "0.77x magnification - Large Viewfinder"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Video Mode",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 3.0MP",
+    "Max Sensitivity only ISO 400",
+    "Small LCD Screen ( 1.80\")",
+    "Low Screen Resolution ( 130kdots )",
+    "Heavy Body: 950g",
+    "No Environmental Sealing",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2002-11-26",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$0.00",
+    "Lens Mount": "Sigma SA Bayonet",
+    "Number of Lenses": "77",
+    "Focal Length Multiplier": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "1.80\"",
+    "Screen Resolution": "130k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon D300Compare",
+    "Brand": "Sigma",
+    "Model": "Sigma SD9",
+    "Successor Model": "Sigma SD10",
+    "Announced": "2002-11-26",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Sigma SA Bayonet",
+    "Number of Lenses": "77",
+    "Focal Length Multiplier": "n/a",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "1.80\"",
+    "Screen Resolution": "130k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "1/6000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "0.77x magnification - Large Viewfinder",
+      "ko": "배율"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 3.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 400",
+      "ko": "Max Sensitivity only ISO 400"
+    },
+    {
+      "en": "Small LCD Screen ( 1.80\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 130kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Heavy Body: 950g",
+      "ko": "Heavy Body: 950g"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2002-11-26",
+    "바디 형태": "Mid-size SLR",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Sigma SA Bayonet",
+    "호환 렌즈 수": "77",
+    "크롭 팩터": "n/a",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "1.80\"",
+    "LCD 해상도": "130k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sigma",
+  "timeline_name": "Sigma SD9",
+  "scraped_at": "2026-05-27T16:12:53.904539"
+}

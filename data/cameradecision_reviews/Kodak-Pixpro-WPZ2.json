@@ -1,0 +1,188 @@
+{
+  "slug": "Kodak-Pixpro-WPZ2",
+  "camera_name": "Kodak WPZ2",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Kodak-Pixpro-WPZ2.jpg",
+  "pros": [
+    "Water Proof  down to 15m",
+    "Shock Proof up to 2.0m",
+    "Built-in Wireless (Wi-fi)",
+    "Full HD Video",
+    "Face Detection Focusing",
+    "176g Light Body",
+    "Manual Exposure",
+    "Environmental Sealing",
+    "8MB Internal Storage",
+    "27mm Wide Angle Lens",
+    "AE Bracketing",
+    "Remote control with a smartphone",
+    "Digital video stabilization"
+  ],
+  "cons": [
+    "No Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Max Sensitivity only ISO 3.200",
+    "Small LCD Screen ( 2.70\")",
+    "Low Screen Resolution ( 230kdots )",
+    "Low Battery Life: 200 shots",
+    "No Manual Focusing",
+    "Slow Lens at Wide: f3.00",
+    "Slow Lens at Tele: f6.60"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2019-11-09",
+    "Body Type": "Compact",
+    "MSRP": "$149.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "GoPro Hero12 BlackCompare",
+    "Brand": "Kodak",
+    "Model": "Kodak Pixpro WPZ2",
+    "Announced": "2019-11-09",
+    "Body Type": "Compact",
+    "MSRP": "$149.00",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "27-108 mm (4x)",
+    "Max Aperture": "F3.0-6.6",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Water Proof  down to 15m",
+      "ko": "Water Proof  down to 15m"
+    },
+    {
+      "en": "Shock Proof up to 2.0m",
+      "ko": "Shock Proof up to 2.0m"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "176g Light Body",
+      "ko": "176g Light Body"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "8MB Internal Storage",
+      "ko": "8MB Internal Storage"
+    },
+    {
+      "en": "27mm Wide Angle Lens",
+      "ko": "27mm Wide Angle Lens"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Digital video stabilization",
+      "ko": "Digital video stabilization"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Small LCD Screen ( 2.70\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Battery Life: 200 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.00",
+      "ko": "Slow Lens at Wide: f3.00"
+    },
+    {
+      "en": "Slow Lens at Tele: f6.60",
+      "ko": "Slow Lens at Tele: f6.60"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2019-11-09",
+    "바디 형태": "Compact",
+    "출시 가격": "$149.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.70\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Kodak",
+  "timeline_name": "Kodak Pixpro WPZ2",
+  "scraped_at": "2026-05-27T14:28:35.492900"
+}

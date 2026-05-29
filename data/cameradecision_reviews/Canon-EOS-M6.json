@@ -1,0 +1,191 @@
+{
+  "slug": "Canon-EOS-M6",
+  "camera_name": "Canon M6",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-M6.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "NFC Connectivity",
+    "Tilting   Screen",
+    "and FHD at 60fps  Video Recording",
+    "Touch Screen",
+    "Electronic (Optional)   Optional Viewfinder",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "25.600   Max ISO",
+    "49   Focus Points",
+    "1.040k dots LCD Resolution",
+    "Digital video stabilization",
+    "9.0fps Max Continuous Shooting Speed",
+    "390g Light Body",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "Good Low Light ISO - 1317",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Remote control with a smartphone",
+    "Compatible with fast UHS-1 cards"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No Built-in Viewfinder",
+    "Low Battery Life: 295 shots",
+    "No Environmental Sealing",
+    "Not so wide AE Bracketing Range: ±2 EV"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2017-02-15",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$679.00",
+    "Lens Mount": "Canon EF-M",
+    "Number of Lenses": "29",
+    "Focal Length Multiplier": "1.6x",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Canon M10Compare",
+    "Brand": "Canon",
+    "Model": "Canon EOS M6",
+    "Predecessor Model": "Canon M3",
+    "Successor Model": "Canon M6 MII",
+    "Announced": "2017-02-15",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$679.00",
+    "Manual Focus": true,
+    "Lens Mount": "Canon EF-M",
+    "Number of Lenses": "29",
+    "Focal Length Multiplier": "1.6x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "and FHD at 60fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "49   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.040k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "Digital video stabilization",
+      "ko": "Digital video stabilization"
+    },
+    {
+      "en": "9.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "390g Light Body",
+      "ko": "390g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "Good Low Light ISO - 1317",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Compatible with fast UHS-1 cards",
+      "ko": "화소"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Battery Life: 295 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Not so wide AE Bracketing Range: ±2 EV",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2017-02-15",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$679.00",
+    "렌즈 마운트": "Canon EF-M",
+    "호환 렌즈 수": "29",
+    "크롭 팩터": "1.6x",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,040k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon EOS M6",
+  "scraped_at": "2026-05-27T14:35:32.151181"
+}

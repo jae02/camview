@@ -1,0 +1,189 @@
+{
+  "slug": "Panasonic-Lumix-DMC-TS10",
+  "camera_name": "Panasonic TS10",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DMC-TS10-ek-fs.jpg",
+  "pros": [
+    "Water Proof",
+    "Shock Proof",
+    "Freeze Proof",
+    "Image Stabilization",
+    "188g Light Body",
+    "Environmental Sealing",
+    "40 MB Internal Storage"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 14.0MP",
+    "Only 9  Focus Points",
+    "Small LCD Screen ( 2.70\")",
+    "Low Screen Resolution ( 230kdots )",
+    "1/1600s Low Max Shutter Speed",
+    "Slow Continuous Shooting: 2.0fps",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "35  mm - Poor Wide Angle Coverage",
+    "Slow Lens at Wide: f3.50",
+    "Slow Lens at Tele: f5.60"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-01-21",
+    "Body Type": "Compact",
+    "MSRP": "$0.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon Z6 IIICompare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-TS10",
+    "Also known as": "Lumix DMC-FT10",
+    "Announced": "2010-01-21",
+    "Body Type": "Compact",
+    "MSRP": "$0.00",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "35-140 mm (4×)",
+    "Max Aperture": "F3.5-5.6",
+    "Macro Focus Range": "10cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Water Proof",
+      "ko": "Water Proof"
+    },
+    {
+      "en": "Shock Proof",
+      "ko": "Shock Proof"
+    },
+    {
+      "en": "Freeze Proof",
+      "ko": "Freeze Proof"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "188g Light Body",
+      "ko": "188g Light Body"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "40 MB Internal Storage",
+      "ko": "40 MB Internal Storage"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 14.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Small LCD Screen ( 2.70\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "1/1600s Low Max Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 2.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "35  mm - Poor Wide Angle Coverage",
+      "ko": "35  mm - Poor Wide Angle Coverage"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.50",
+      "ko": "Slow Lens at Wide: f3.50"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.60",
+      "ko": "Slow Lens at Tele: f5.60"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-01-21",
+    "바디 형태": "Compact",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.70\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC TS10",
+  "scraped_at": "2026-05-27T15:50:16.746693"
+}

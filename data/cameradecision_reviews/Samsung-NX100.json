@@ -1,0 +1,141 @@
+{
+  "slug": "Samsung-NX100",
+  "camera_name": "Samsung NX100",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Samsung-NX100.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Electronic (Optional)   Optional Viewfinder",
+    "Face Detection Focusing",
+    "15   Focus Points",
+    "614k dots LCD Resolution",
+    "282g Light Body"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "Low Resolution Sensor: 15.0MP",
+    "Slow Continuous Shooting: 3.0fps",
+    "Low Battery Life: 420 shots",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-09-14",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$385.90",
+    "Lens Mount": "Samsung NX",
+    "Number of Lenses": "34",
+    "Focal Length Multiplier": "1.5×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "614k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Leica M Edition 60Compare",
+    "Brand": "Samsung",
+    "Model": "Samsung NX100",
+    "Successor Model": "Samsung NX200",
+    "Announced": "2010-09-14",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$385.90",
+    "Manual Focus": true,
+    "Lens Mount": "Samsung NX",
+    "Number of Lenses": "34",
+    "Focal Length Multiplier": "1.5×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "VGA AMOLED",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "614k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "15   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "614k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "282g Light Body",
+      "ko": "282g Light Body"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Resolution Sensor: 15.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 3.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 420 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-09-14",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$385.90",
+    "렌즈 마운트": "Samsung NX",
+    "호환 렌즈 수": "34",
+    "크롭 팩터": "1.5×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "614k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Samsung",
+  "timeline_name": "Samsung NX100",
+  "scraped_at": "2026-05-27T15:42:22.685971"
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "Canon-PowerShot-A1100-IS",
+  "camera_name": "Canon A1100 IS",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Canon-PowerShot-A1100-IS.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Optical Built-in Viewfinder",
+    "Face Detection Focusing",
+    "150g Light Body",
+    "128 MB Internal Storage",
+    "Fast 2.70  Lens at Wide"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No RAW Shooting",
+    "Low Resolution Sensor: 12.0MP",
+    "Max Sensitivity only ISO 1.600",
+    "Only 9  Focus Points",
+    "Small LCD Screen ( 2.50\")",
+    "Low Screen Resolution ( 115kdots )",
+    "1/1600s Low Max Shutter Speed",
+    "Slow Continuous Shooting: 1.0fps",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "35  mm - Poor Wide Angle Coverage",
+    "Slow Lens at Tele: f5.60"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2009-02-18",
+    "Body Type": "Compact",
+    "MSRP": "$57.69",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "115k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon D800ECompare",
+    "Brand": "Canon",
+    "Model": "Canon PowerShot A1100 IS",
+    "Announced": "2009-02-18",
+    "Body Type": "Compact",
+    "MSRP": "$57.69",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "35-140 mm (4×)",
+    "Max Aperture": "F2.7-5.6",
+    "Macro Focus Range": "3cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "115k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "150g Light Body",
+      "ko": "150g Light Body"
+    },
+    {
+      "en": "128 MB Internal Storage",
+      "ko": "128 MB Internal Storage"
+    },
+    {
+      "en": "Fast 2.70  Lens at Wide",
+      "ko": "Fast 2.70  Lens at Wide"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Small LCD Screen ( 2.50\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 115kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "1/1600s Low Max Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "35  mm - Poor Wide Angle Coverage",
+      "ko": "35  mm - Poor Wide Angle Coverage"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.60",
+      "ko": "Slow Lens at Tele: f5.60"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2009-02-18",
+    "바디 형태": "Compact",
+    "출시 가격": "$57.69",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.50\"",
+    "LCD 해상도": "115k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon PowerShot A1100 IS",
+  "scraped_at": "2026-05-27T16:01:16.588918"
+}

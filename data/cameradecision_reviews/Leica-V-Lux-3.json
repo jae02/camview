@@ -1,0 +1,210 @@
+{
+  "slug": "Leica-V-Lux-3",
+  "camera_name": "Leica V-Lux 3",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Leica_V-Lux_30_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Fully Articulated Screen",
+    "External Flash Shoe",
+    "Full HD Video",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "23   Focus Points",
+    "461k dots LCD Resolution",
+    "12.0fps Shooting w/ Mechanical Shutter",
+    "Long Battery Life (410 shots)",
+    "Manual Focusing",
+    "Manual Exposure",
+    "External Microphone Port",
+    "70 MB Internal Storage",
+    "25mm Wide Angle Lens",
+    "600mm Good Tele Lens",
+    "24.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide",
+    "3D Shooting Capability",
+    "Panorama Shooting",
+    "Up to 220fps High Speed Video",
+    "AE Bracketing",
+    "Selfie & Vlogger Friendly LCD Screen"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 12.0MP",
+    "Heavy Body: 540g.",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.20"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-12-08",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$430.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Leica D-Lux 7Compare",
+    "Brand": "Leica",
+    "Model": "Leica V-Lux 3",
+    "Predecessor Model": "Leica V-Lux 2",
+    "Successor Model": "Leica V-Lux 4",
+    "Announced": "2011-12-08",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$430.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "25-600 mm (24×)",
+    "Max Aperture": "F2.8-5.2",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "23   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "461k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "12.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Long Battery Life (410 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "70 MB Internal Storage",
+      "ko": "70 MB Internal Storage"
+    },
+    {
+      "en": "25mm Wide Angle Lens",
+      "ko": "25mm Wide Angle Lens"
+    },
+    {
+      "en": "600mm Good Tele Lens",
+      "ko": "600mm Good Tele Lens"
+    },
+    {
+      "en": "24.0X Optical Zoom",
+      "ko": "24.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "3D Shooting Capability",
+      "ko": "3D Shooting Capability"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Up to 220fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Heavy Body: 540g.",
+      "ko": "Heavy Body: 540g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.20",
+      "ko": "Slow Lens at Tele: f5.20"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-12-08",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$430.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "461k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Leica",
+  "timeline_name": "Leica V Lux 3",
+  "scraped_at": "2026-05-27T15:24:54.036277"
+}

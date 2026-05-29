@@ -1,0 +1,209 @@
+{
+  "slug": "Canon-EOS-R100",
+  "camera_name": "Canon EOS R100",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Canon-EOS-R100.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "4K at 24fps  and FHD at 120fps  Video Recording",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "12.800   Max ISO",
+    "143   Focus Points",
+    "1.040k dots LCD Resolution",
+    "1/4000s Electronic Shutter Speed",
+    "Digital video stabilization",
+    "6.5fps Max Continuous Shooting Speed",
+    "356g Light Body",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "2360kdot Viewfinder Resolution",
+    "Up to 120fps High Speed Video",
+    "Remote control with a smartphone",
+    "High Video bit rate of  120mbps",
+    "Compatible with fast UHS-I cards",
+    "Webcam Functionality",
+    "USB Charging"
+  ],
+  "cons": [
+    "No Mechanical Shutter",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "0.59x magnification - Small Viewfinder",
+    "Low Battery Life: 370 shots",
+    "No Environmental Sealing",
+    "Not so wide AE Bracketing Range: ±2 EV"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2023-05-24",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$399.00",
+    "Lens Mount": "Canon RF",
+    "Number of Lenses": "103",
+    "Focal Length Multiplier": "1.6x",
+    "Screen Type": "Fixed",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon M50 IICompare",
+    "Brand": "Canon",
+    "Model": "Canon EOS R100",
+    "Announced": "2023-05-24",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$399.00",
+    "Manual Focus": true,
+    "Lens Mount": "Canon RF",
+    "Number of Lenses": "103",
+    "Focal Length Multiplier": "1.6x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "4K at 24fps  and FHD at 120fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "143   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.040k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/4000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "Digital video stabilization",
+      "ko": "Digital video stabilization"
+    },
+    {
+      "en": "6.5fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "356g Light Body",
+      "ko": "356g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "2360kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "High Video bit rate of  120mbps",
+      "ko": "동영상 비트레이트"
+    },
+    {
+      "en": "Compatible with fast UHS-I cards",
+      "ko": "화소"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.59x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Low Battery Life: 370 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Not so wide AE Bracketing Range: ±2 EV",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2023-05-24",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$399.00",
+    "렌즈 마운트": "Canon RF",
+    "호환 렌즈 수": "103",
+    "크롭 팩터": "1.6x",
+    "LCD 방식": "Fixed",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,040k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon EOS R100",
+  "scraped_at": "2026-05-27T14:12:30.332931"
+}

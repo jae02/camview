@@ -1,0 +1,186 @@
+{
+  "slug": "Nikon-Coolpix-S9900",
+  "camera_name": "Nikon S9900",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Coolpix-S9900.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "NFC Connectivity",
+    "Image Stabilization",
+    "Fully Articulated Screen",
+    "Full HD Video",
+    "Built-in GPS",
+    "Face Detection Focusing",
+    "921k dots LCD Resolution",
+    "1/4000s High Shutter Speed",
+    "7.0fps Shooting w/ Mechanical Shutter",
+    "289g Light Body",
+    "Manual Exposure",
+    "Timelapse Recording",
+    "25mm Wide Angle Lens",
+    "750mm Good Tele Lens",
+    "30.0X Optical Zoom",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Remote control with a smartphone"
+  ],
+  "cons": [
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Manual Focusing",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.70",
+    "Slow Lens at Tele: f6.40"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2015-02-10",
+    "Body Type": "Compact",
+    "MSRP": "$223.48",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Panasonic ZS99Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon Coolpix S9900",
+    "Predecessor Model": "Nikon S9700",
+    "Announced": "2015-02-10",
+    "Body Type": "Compact",
+    "MSRP": "$223.48",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "25-750 mm (30×)",
+    "Max Aperture": "F3.7-6.4",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Built-in GPS",
+      "ko": "GPS"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/4000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "7.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "289g Light Body",
+      "ko": "289g Light Body"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "25mm Wide Angle Lens",
+      "ko": "25mm Wide Angle Lens"
+    },
+    {
+      "en": "750mm Good Tele Lens",
+      "ko": "750mm Good Tele Lens"
+    },
+    {
+      "en": "30.0X Optical Zoom",
+      "ko": "30.0X Optical Zoom"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.70",
+      "ko": "Slow Lens at Wide: f3.70"
+    },
+    {
+      "en": "Slow Lens at Tele: f6.40",
+      "ko": "Slow Lens at Tele: f6.40"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2015-02-10",
+    "바디 형태": "Compact",
+    "출시 가격": "$223.48",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon Coolpix S9900",
+  "scraped_at": "2026-05-27T14:43:19.803348"
+}

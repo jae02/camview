@@ -1,0 +1,300 @@
+{
+  "slug": "Canon-EOS-C80",
+  "camera_name": "Canon EOS C80",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Canon-EOS-C80.jpg",
+  "pros": [
+    "Timecode Terminal (1x BNC Input/Output)",
+    "IP Streaming",
+    "1 x  SDI (12G-SDI)",
+    "Triple Native ISO: 800,3200,12800",
+    "RAW Video Recording Capability",
+    "Shutter Angle Setting",
+    "2 x Mini XLR Input",
+    "Waveform for Video",
+    "Vector Scope for Video",
+    "10.0-stops Built-in ND Filter",
+    "On-body Mounting Points",
+    "Stacked Type Sensor",
+    "Real-time LUT Applied Shooting",
+    "Unlimited Video Recording (no 30min limit)",
+    "Active Cooling ensures no overheating during Video",
+    "Built-in Wireless (Wi-fi)",
+    "Fully Articulated   Screen",
+    "6K at 30fps , 4K at 120fps , 2K at 180fps  and FHD at 180fps  Video Recording",
+    "10-bit 4:2:2 Color Sampling",
+    "Touch Screen",
+    "Electronic (Optional)   Optional Viewfinder",
+    "Face Detection Focusing",
+    "19.0MP - High Resolution Sensor",
+    "25.600   Max ISO",
+    "Large 3.50\" Screen",
+    "2.760k dots LCD Resolution",
+    "Digital video stabilization",
+    "External Microphone Port",
+    "External Headphone Port",
+    "2 Storage Slots",
+    "Up to 180fps High Speed Video",
+    "Multi-function Hotshoe",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Remote control with a smartphone",
+    "Real time Animal Eye AF",
+    "Compatible with fast UHS-II cards",
+    "Tally/Front recording light",
+    "S-Log Recording",
+    "HLG/HDR Video Recording",
+    "Full-size HDMI Port",
+    "Ethernet Port"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No External Flash Shoe",
+    "No Built-in Viewfinder",
+    "Low Max Shutter Speed: 1/2000s",
+    "Slow Continuous Shooting: 1.0fps",
+    "Heavy Body: 1310g",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2024-09-09",
+    "Body Type": "Compact Cinema",
+    "MSRP": "$5499.00",
+    "Lens Mount": "Canon RF",
+    "Number of Lenses": "103",
+    "Focal Length Multiplier": "1x",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.50\"",
+    "Screen Resolution": "2,760k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Canon R5Compare",
+    "Brand": "Canon",
+    "Model": "Canon EOS C80",
+    "Predecessor Model": "Canon EOS C70",
+    "Announced": "2024-09-09",
+    "Body Type": "Compact Cinema",
+    "MSRP": "$5499.00",
+    "Manual Focus": true,
+    "Lens Mount": "Canon RF",
+    "Number of Lenses": "103",
+    "Focal Length Multiplier": "1x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.50\"",
+    "Screen Resolution": "2,760k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Timecode Terminal (1x BNC Input/Output)",
+      "ko": "Timecode Terminal (1x BNC Input/Output)"
+    },
+    {
+      "en": "IP Streaming",
+      "ko": "IP Streaming"
+    },
+    {
+      "en": "1 x  SDI (12G-SDI)",
+      "ko": "SD 카드"
+    },
+    {
+      "en": "Triple Native ISO: 800,3200,12800",
+      "ko": "Triple Native ISO: 800,3200,12800"
+    },
+    {
+      "en": "RAW Video Recording Capability",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Shutter Angle Setting",
+      "ko": "Shutter Angle Setting"
+    },
+    {
+      "en": "2 x Mini XLR Input",
+      "ko": "2 x Mini XLR Input"
+    },
+    {
+      "en": "Waveform for Video",
+      "ko": "Waveform for Video"
+    },
+    {
+      "en": "Vector Scope for Video",
+      "ko": "Vector Scope for Video"
+    },
+    {
+      "en": "10.0-stops Built-in ND Filter",
+      "ko": "10.0-stops Built-in ND Filter"
+    },
+    {
+      "en": "On-body Mounting Points",
+      "ko": "On-body Mounting Points"
+    },
+    {
+      "en": "Stacked Type Sensor",
+      "ko": "센서"
+    },
+    {
+      "en": "Real-time LUT Applied Shooting",
+      "ko": "Real-time LUT Applied Shooting"
+    },
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Active Cooling ensures no overheating during Video",
+      "ko": "Active Cooling ensures no overheating during Video"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "6K at 30fps , 4K at 120fps , 2K at 180fps  and FHD at 180fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "19.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "Large 3.50\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "2.760k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "Digital video stabilization",
+      "ko": "Digital video stabilization"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Up to 180fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Multi-function Hotshoe",
+      "ko": "Multi-function Hotshoe"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Real time Animal Eye AF",
+      "ko": "동물 눈 인식 AF"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "Tally/Front recording light",
+      "ko": "Tally/Front recording light"
+    },
+    {
+      "en": "S-Log Recording",
+      "ko": "S-Log"
+    },
+    {
+      "en": "HLG/HDR Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Full-size HDMI Port",
+      "ko": "HDMI"
+    },
+    {
+      "en": "Ethernet Port",
+      "ko": "Ethernet Port"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Max Shutter Speed: 1/2000s",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Heavy Body: 1310g",
+      "ko": "Heavy Body: 1310g"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2024-09-09",
+    "바디 형태": "Compact Cinema",
+    "출시 가격": "$5499.00",
+    "렌즈 마운트": "Canon RF",
+    "호환 렌즈 수": "103",
+    "크롭 팩터": "1x",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.50\"",
+    "LCD 해상도": "2,760k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon EOS C80",
+  "scraped_at": "2026-05-27T14:09:25.196662"
+}

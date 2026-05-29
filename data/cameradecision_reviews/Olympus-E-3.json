@@ -1,0 +1,166 @@
+{
+  "slug": "Olympus-E-3",
+  "camera_name": "Olympus E-3",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Olympus-E-3.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Fully Articulated   Screen",
+    "Optical Built-in Viewfinder",
+    "11   Focus Points",
+    "1/8000s High Shutter Speed",
+    "Environmental Sealing",
+    "Top LCD Display",
+    "Flash Sync Port",
+    "AF Micro Adjustment (Fine Tune)",
+    "Selfie & Vlogger Friendly LCD Screen"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Video Mode",
+    "No Touch Screen",
+    "0.58x magnification - Small Viewfinder",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 10.0MP",
+    "Max Sensitivity only ISO 3.200",
+    "Small LCD Screen ( 2.50\")",
+    "Low Screen Resolution ( 230kdots )",
+    "Heavy Body: 890g",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2008-02-20",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$590.00",
+    "Lens Mount": "Four Thirds",
+    "Number of Lenses": "47",
+    "Focal Length Multiplier": "2×",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Olympus E-410Compare",
+    "Brand": "Olympus",
+    "Model": "Olympus E-3",
+    "Predecessor Model": "Olympus E-1",
+    "Successor Model": "Olympus E-5",
+    "Announced": "2008-02-20",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$590.00",
+    "Manual Focus": true,
+    "Lens Mount": "Four Thirds",
+    "Number of Lenses": "47",
+    "Focal Length Multiplier": "2×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "11   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    },
+    {
+      "en": "AF Micro Adjustment (Fine Tune)",
+      "ko": "AF Micro Adjustment (Fine Tune)"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.58x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Small LCD Screen ( 2.50\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Heavy Body: 890g",
+      "ko": "Heavy Body: 890g"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2008-02-20",
+    "바디 형태": "Mid-size SLR",
+    "출시 가격": "$590.00",
+    "렌즈 마운트": "Four Thirds",
+    "호환 렌즈 수": "47",
+    "크롭 팩터": "2×",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "2.50\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Olympus",
+  "timeline_name": "Olympus E 3",
+  "scraped_at": "2026-05-27T16:07:58.298445"
+}

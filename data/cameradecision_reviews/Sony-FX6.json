@@ -1,0 +1,294 @@
+{
+  "slug": "Sony-FX6",
+  "camera_name": "Sony FX6",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sony-FX6.jpg",
+  "pros": [
+    "Timecode Terminal (1x BNC)",
+    "IP Streaming",
+    "1 x  SDI (BNC (12G-SDI) Output)",
+    "Dual Native ISO: 800,12800",
+    "RAW Video Recording Capability",
+    "Shutter Angle Setting",
+    "2 x XLR 3-Pin Mic/Line (+48 V Phantom Power) Input",
+    "Waveform for Video",
+    "Vector Scope for Video",
+    "7.0-stops Built-in ND Filter",
+    "On-body Mounting Points",
+    "Gyroscopic Stabilization",
+    "Lens Breathing Correction",
+    "Real-time LUT Applied Shooting",
+    "Anamorphic Support",
+    "Unlimited Video Recording (no 30min limit)",
+    "Active Cooling ensures no overheating during Video",
+    "Built-in Wireless (Wi-fi)",
+    "NFC Connectivity",
+    "Fully Articulated   Screen",
+    "4K DCI at 60fps , 4K UHD at 120fps  and FHD at 240fps  Video Recording",
+    "No crop on 4K Videos",
+    "10-bit 4:2:2 Color Sampling",
+    "Touch Screen",
+    "Electronic (Optional)   Optional Viewfinder",
+    "Face Detection Focusing",
+    "12.800   Max ISO",
+    "Large 3.50\" Screen",
+    "2.760k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "External Microphone Port",
+    "External Headphone Port",
+    "2 Storage Slots",
+    "Up to 240fps High Speed Video",
+    "Remote control with a smartphone",
+    "Compatible with ultra fast Type A CFexpress cards",
+    "Tally/Front recording light",
+    "S-Log Recording",
+    "HLG/HDR Video Recording",
+    "USB-C (USB 3.2 / 3.1 Gen 1)",
+    "Full-size HDMI Port"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No External Flash Shoe",
+    "No Built-in Viewfinder",
+    "Low Resolution Sensor: 10.9MP",
+    "Heavy Body: 890g",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2020-11-17",
+    "Body Type": "Box-Style Cinema",
+    "MSRP": "$5999.00",
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1x",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.50\"",
+    "Screen Resolution": "2,760k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Canon C50Compare",
+    "Brand": "Sony",
+    "Model": "Sony FX6",
+    "Announced": "2020-11-17",
+    "Body Type": "Box-Style Cinema",
+    "MSRP": "$5999.00",
+    "Manual Focus": true,
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.50\"",
+    "Screen Resolution": "2,760k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Timecode Terminal (1x BNC)",
+      "ko": "Timecode Terminal (1x BNC)"
+    },
+    {
+      "en": "IP Streaming",
+      "ko": "IP Streaming"
+    },
+    {
+      "en": "1 x  SDI (BNC (12G-SDI) Output)",
+      "ko": "SD 카드"
+    },
+    {
+      "en": "Dual Native ISO: 800,12800",
+      "ko": "듀얼 네이티브 ISO"
+    },
+    {
+      "en": "RAW Video Recording Capability",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Shutter Angle Setting",
+      "ko": "Shutter Angle Setting"
+    },
+    {
+      "en": "2 x XLR 3-Pin Mic/Line (+48 V Phantom Power) Input",
+      "ko": "2 x XLR 3-Pin Mic/Line (+48 V Phantom Power) Input"
+    },
+    {
+      "en": "Waveform for Video",
+      "ko": "Waveform for Video"
+    },
+    {
+      "en": "Vector Scope for Video",
+      "ko": "Vector Scope for Video"
+    },
+    {
+      "en": "7.0-stops Built-in ND Filter",
+      "ko": "7.0-stops Built-in ND Filter"
+    },
+    {
+      "en": "On-body Mounting Points",
+      "ko": "On-body Mounting Points"
+    },
+    {
+      "en": "Gyroscopic Stabilization",
+      "ko": "Gyroscopic Stabilization"
+    },
+    {
+      "en": "Lens Breathing Correction",
+      "ko": "Lens Breathing Correction"
+    },
+    {
+      "en": "Real-time LUT Applied Shooting",
+      "ko": "Real-time LUT Applied Shooting"
+    },
+    {
+      "en": "Anamorphic Support",
+      "ko": "Anamorphic Support"
+    },
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Active Cooling ensures no overheating during Video",
+      "ko": "Active Cooling ensures no overheating during Video"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "4K DCI at 60fps , 4K UHD at 120fps  and FHD at 240fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "No crop on 4K Videos",
+      "ko": "크롭 없음"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "Large 3.50\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "2.760k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Up to 240fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Compatible with ultra fast Type A CFexpress cards",
+      "ko": "CFexpress"
+    },
+    {
+      "en": "Tally/Front recording light",
+      "ko": "Tally/Front recording light"
+    },
+    {
+      "en": "S-Log Recording",
+      "ko": "S-Log"
+    },
+    {
+      "en": "HLG/HDR Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "USB-C (USB 3.2 / 3.1 Gen 1)",
+      "ko": "USB"
+    },
+    {
+      "en": "Full-size HDMI Port",
+      "ko": "HDMI"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.9MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Heavy Body: 890g",
+      "ko": "Heavy Body: 890g"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2020-11-17",
+    "바디 형태": "Box-Style Cinema",
+    "출시 가격": "$5999.00",
+    "렌즈 마운트": "Sony E",
+    "호환 렌즈 수": "353",
+    "크롭 팩터": "1x",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.50\"",
+    "LCD 해상도": "2,760k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony FX6",
+  "scraped_at": "2026-05-27T14:16:29.159603"
+}

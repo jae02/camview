@@ -1,0 +1,165 @@
+{
+  "slug": "Samsung-NX-mini",
+  "camera_name": "Samsung NX mini",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Samsung_NX_mini_1.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Tilting   Screen",
+    "and FHD at 30fps  Video Recording",
+    "Touch Screen",
+    "Face Detection Focusing",
+    "20.5MP - High Resolution Sensor",
+    "12.800   Max ISO",
+    "21   Focus Points",
+    "461k dots LCD Resolution",
+    "1/16000s High Shutter Speed",
+    "6.0fps Max Continuous Shooting Speed",
+    "Long Battery Life (650 shots)",
+    "196g Light Body",
+    "External Microphone Port",
+    "Panorama Shooting",
+    "Compatible with fast UHS-I cards"
+  ],
+  "cons": [
+    "No Mechanical Shutter",
+    "No Sensor shift Image Stabilization",
+    "No Built-in Viewfinder",
+    "No External Viewfinder Option",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2014-03-19",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$549.00",
+    "Lens Mount": "Samsung NX-M",
+    "Number of Lenses": "2",
+    "Focal Length Multiplier": "2.7×",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Samsung NX100Compare",
+    "Brand": "Samsung",
+    "Model": "Samsung NX mini",
+    "Announced": "2014-03-19",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$549.00",
+    "Manual Focus": true,
+    "Lens Mount": "Samsung NX-M",
+    "Number of Lenses": "2",
+    "Focal Length Multiplier": "2.7×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Technology": "TFT-LCD (180 degree tilt)",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "and FHD at 30fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "20.5MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "21   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "461k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/16000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "6.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "Long Battery Life (650 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "196g Light Body",
+      "ko": "196g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Compatible with fast UHS-I cards",
+      "ko": "화소"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No External Viewfinder Option",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2014-03-19",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$549.00",
+    "렌즈 마운트": "Samsung NX-M",
+    "호환 렌즈 수": "2",
+    "크롭 팩터": "2.7×",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "461k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Samsung",
+  "timeline_name": "Samsung NX mini",
+  "scraped_at": "2026-05-27T14:49:48.060171"
+}

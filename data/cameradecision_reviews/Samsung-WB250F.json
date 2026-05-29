@@ -1,0 +1,171 @@
+{
+  "slug": "Samsung-WB250F",
+  "camera_name": "Samsung WB250F",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Samsung_WB250F_1.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Image Stabilization",
+    "Full HD Video",
+    "Touch Screen",
+    "Face Detection Focusing",
+    "8.0fps Shooting w/ Mechanical Shutter",
+    "226g Light Body",
+    "Manual Exposure",
+    "24mm Wide Angle Lens",
+    "432mm Good Tele Lens",
+    "18.0X Optical Zoom",
+    "Panorama Shooting"
+  ],
+  "cons": [
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Low Resolution Sensor: 14.0MP",
+    "Max Sensitivity only ISO 3.200",
+    "Only Unknown  Focus Points",
+    "No Manual Focusing",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.20",
+    "Slow Lens at Tele: f5.80"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2013-01-07",
+    "Body Type": "Compact",
+    "MSRP": "$94.99",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Samsung WB700Compare",
+    "Brand": "Samsung",
+    "Model": "Samsung WB250F",
+    "Announced": "2013-01-07",
+    "Body Type": "Compact",
+    "MSRP": "$94.99",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-432 mm (18×)",
+    "Max Aperture": "F3.2-5.8",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "8.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "226g Light Body",
+      "ko": "226g Light Body"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "432mm Good Tele Lens",
+      "ko": "432mm Good Tele Lens"
+    },
+    {
+      "en": "18.0X Optical Zoom",
+      "ko": "18.0X Optical Zoom"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Low Resolution Sensor: 14.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Only Unknown  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.20",
+      "ko": "Slow Lens at Wide: f3.20"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.80",
+      "ko": "Slow Lens at Tele: f5.80"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2013-01-07",
+    "바디 형태": "Compact",
+    "출시 가격": "$94.99",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Samsung",
+  "timeline_name": "Samsung WB250F",
+  "scraped_at": "2026-05-27T15:03:40.545482"
+}

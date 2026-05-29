@@ -1,0 +1,150 @@
+{
+  "slug": "Fujifilm-FinePix-S5-Pro",
+  "camera_name": "Fujifilm S5 Pro",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-FinePix-S5-Pro-ek-fs.jpg",
+  "pros": [
+    "Optical Built-in Viewfinder",
+    "11   Focus Points",
+    "1/8000s High Shutter Speed",
+    "Top LCD Display",
+    "Flash Sync Port"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Video Mode",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 6.0MP",
+    "Max Sensitivity only ISO 3.200",
+    "Small LCD Screen ( 2.50\")",
+    "Low Screen Resolution ( 230kdots )",
+    "Heavy Body: 920g",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2007-07-05",
+    "Body Type": "Large SLR",
+    "MSRP": "$548.00",
+    "Lens Mount": "Nikon F",
+    "Number of Lenses": "316",
+    "Focal Length Multiplier": "1.5×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon D2XCompare",
+    "Brand": "Fujifilm",
+    "Model": "Fujifilm FinePix S5 Pro",
+    "Predecessor Model": "Fujifilm S3 Pro",
+    "Announced": "2007-07-05",
+    "Body Type": "Large SLR",
+    "MSRP": "$548.00",
+    "Manual Focus": true,
+    "Lens Mount": "Nikon F",
+    "Number of Lenses": "316",
+    "Focal Length Multiplier": "1.5×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "230k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "11   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 6.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Small LCD Screen ( 2.50\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Heavy Body: 920g",
+      "ko": "Heavy Body: 920g"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2007-07-05",
+    "바디 형태": "Large SLR",
+    "출시 가격": "$548.00",
+    "렌즈 마운트": "Nikon F",
+    "호환 렌즈 수": "316",
+    "크롭 팩터": "1.5×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.50\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Fujifilm",
+  "timeline_name": "Fujifilm FinePix S5 Pro",
+  "scraped_at": "2026-05-27T16:08:37.519287"
+}

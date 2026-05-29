@@ -1,0 +1,182 @@
+{
+  "slug": "Canon-PowerShot-SX270-HS",
+  "camera_name": "Canon SX270 HS",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Canon-PowerShot-SX270-HS-ek-fs.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Full HD Video",
+    "Face Detection Focusing",
+    "461k dots LCD Resolution",
+    "1/3200s High Shutter Speed",
+    "233g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "25mm Wide Angle Lens",
+    "500mm Good Tele Lens",
+    "20.0X Optical Zoom",
+    "Panorama Shooting",
+    "Up to 240fps High Speed Video"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Low Resolution Sensor: 12.0MP",
+    "Only Unknown  Focus Points",
+    "Low Battery Life: 210 shots",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.50",
+    "Slow Lens at Tele: f6.80"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2013-03-21",
+    "Body Type": "Compact",
+    "MSRP": "$99.99",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon SX710 HSCompare",
+    "Brand": "Canon",
+    "Model": "Canon PowerShot SX270 HS",
+    "Predecessor Model": "Canon SX260 HS",
+    "Successor Model": "Canon SX280 HS",
+    "Announced": "2013-03-21",
+    "Body Type": "Compact",
+    "MSRP": "$99.99",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "25-500 mm (20�)",
+    "Max Aperture": "F3.5-6.8",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "461k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/3200s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "233g Light Body",
+      "ko": "233g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "25mm Wide Angle Lens",
+      "ko": "25mm Wide Angle Lens"
+    },
+    {
+      "en": "500mm Good Tele Lens",
+      "ko": "500mm Good Tele Lens"
+    },
+    {
+      "en": "20.0X Optical Zoom",
+      "ko": "20.0X Optical Zoom"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Up to 240fps High Speed Video",
+      "ko": "고속 동영상"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Only Unknown  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Low Battery Life: 210 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.50",
+      "ko": "Slow Lens at Wide: f3.50"
+    },
+    {
+      "en": "Slow Lens at Tele: f6.80",
+      "ko": "Slow Lens at Tele: f6.80"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2013-03-21",
+    "바디 형태": "Compact",
+    "출시 가격": "$99.99",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "461k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon PowerShot SX270 HS",
+  "scraped_at": "2026-05-27T15:00:18.589344"
+}

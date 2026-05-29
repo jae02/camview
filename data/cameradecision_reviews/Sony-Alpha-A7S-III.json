@@ -1,0 +1,305 @@
+{
+  "slug": "Sony-Alpha-A7S-III",
+  "camera_name": "Sony A7S III",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sony-Alpha-7S-III.jpg",
+  "pros": [
+    "Dual Native ISO: 640,12800",
+    "RAW Video Recording Capability",
+    "Gyroscopic Stabilization",
+    "Lens Breathing Correction",
+    "Front Dial",
+    "Unlimited Video Recording (no 30min limit)",
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "NFC Connectivity",
+    "5-axis    Image Stabilization",
+    "Fully articulated   Screen",
+    "4K at 120fps  and FHD at 240fps  Video Recording",
+    "No crop on 4K Videos",
+    "10-bit 4:2:2 Color Sampling",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "102.400   Max ISO",
+    "759   Focus Points",
+    "1.229k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "Digital video stabilization",
+    "10.0fps Max Continuous Shooting Speed",
+    "Long Battery Life (600 shots)",
+    "External Microphone Port",
+    "External Headphone Port",
+    "Environmental Sealing",
+    "Timelapse with optional downloadable app",
+    "9440kdot Viewfinder Resolution",
+    "0.9x magnification - Large Viewfinder",
+    "Good Low Light ISO - 3900",
+    "2 Storage Slots",
+    "Up to 240fps High Speed Video",
+    "Wide AE Bracketing Range: ±5 EV",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "92% Focus Coverage",
+    "Dual-axis Electronic Level",
+    "Remote control with a smartphone",
+    "EV -6  Focus Sensitivity",
+    "High Video bit rate of  500mbps",
+    "Real time Animal Eye AF",
+    "Compatible with fast UHS-II cards",
+    "Compatible with ultra fast Type A CFexpress cards",
+    "Webcam Functionality",
+    "S-Log Recording",
+    "USB Charging",
+    "USB 3.2 Gen 1 (5 GBit/sec)",
+    "Full-size HDMI Port"
+  ],
+  "cons": [
+    "Low Resolution Sensor: 12.0MP"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2020-07-21",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$3198.00",
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1x",
+    "Screen Type": "Fully articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,229k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Sony FX30Compare",
+    "Brand": "Sony",
+    "Model": "Sony Alpha A7S III",
+    "Predecessor Model": "Sony A7S II",
+    "Announced": "2020-07-21",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$3198.00",
+    "Manual Focus": true,
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,229k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Dual Native ISO: 640,12800",
+      "ko": "듀얼 네이티브 ISO"
+    },
+    {
+      "en": "RAW Video Recording Capability",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Gyroscopic Stabilization",
+      "ko": "Gyroscopic Stabilization"
+    },
+    {
+      "en": "Lens Breathing Correction",
+      "ko": "Lens Breathing Correction"
+    },
+    {
+      "en": "Front Dial",
+      "ko": "Front Dial"
+    },
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "5-axis    Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "4K at 120fps  and FHD at 240fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "No crop on 4K Videos",
+      "ko": "크롭 없음"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "102.400   Max ISO",
+      "ko": "102.400   Max ISO"
+    },
+    {
+      "en": "759   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.229k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Digital video stabilization",
+      "ko": "Digital video stabilization"
+    },
+    {
+      "en": "10.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "Long Battery Life (600 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "Timelapse with optional downloadable app",
+      "ko": "Timelapse with optional downloadable app"
+    },
+    {
+      "en": "9440kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "0.9x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Good Low Light ISO - 3900",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Up to 240fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Wide AE Bracketing Range: ±5 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "92% Focus Coverage",
+      "ko": "AF 커버리지"
+    },
+    {
+      "en": "Dual-axis Electronic Level",
+      "ko": "Dual-axis Electronic Level"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "EV -6  Focus Sensitivity",
+      "ko": "AF 감도"
+    },
+    {
+      "en": "High Video bit rate of  500mbps",
+      "ko": "동영상 비트레이트"
+    },
+    {
+      "en": "Real time Animal Eye AF",
+      "ko": "동물 눈 인식 AF"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "Compatible with ultra fast Type A CFexpress cards",
+      "ko": "CFexpress"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "S-Log Recording",
+      "ko": "S-Log"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    },
+    {
+      "en": "USB 3.2 Gen 1 (5 GBit/sec)",
+      "ko": "USB"
+    },
+    {
+      "en": "Full-size HDMI Port",
+      "ko": "HDMI"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2020-07-21",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$3198.00",
+    "렌즈 마운트": "Sony E",
+    "호환 렌즈 수": "353",
+    "크롭 팩터": "1x",
+    "LCD 방식": "Fully articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,229k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Alpha A7S III",
+  "scraped_at": "2026-05-27T14:27:12.925457"
+}

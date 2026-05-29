@@ -1,0 +1,155 @@
+{
+  "slug": "Ricoh-CX1",
+  "camera_name": "Ricoh CX1",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Ricoh_CX1_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "920k dots LCD Resolution",
+    "180g Light Body",
+    "Manual Focusing",
+    "88 MB Internal Storage",
+    "Timelapse Recording"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 9.0MP",
+    "Max Sensitivity only ISO 1.600",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.30",
+    "Slow Lens at Tele: f5.20"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2009-02-19",
+    "Body Type": "Compact",
+    "MSRP": "$198.99",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Fujifilm S8500Compare",
+    "Brand": "Ricoh",
+    "Model": "Ricoh CX1",
+    "Announced": "2009-02-19",
+    "Body Type": "Compact",
+    "MSRP": "$198.99",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28-200 mm (7.1×)",
+    "Max Aperture": "F3.3-5.2",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "920k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "180g Light Body",
+      "ko": "180g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "88 MB Internal Storage",
+      "ko": "88 MB Internal Storage"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 9.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.30",
+      "ko": "Slow Lens at Wide: f3.30"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.20",
+      "ko": "Slow Lens at Tele: f5.20"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2009-02-19",
+    "바디 형태": "Compact",
+    "출시 가격": "$198.99",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "920k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Ricoh",
+  "timeline_name": "Ricoh CX1",
+  "scraped_at": "2026-05-27T16:00:46.396837"
+}

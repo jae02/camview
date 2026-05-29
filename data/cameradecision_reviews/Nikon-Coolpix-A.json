@@ -1,0 +1,171 @@
+{
+  "slug": "Nikon-Coolpix-A",
+  "camera_name": "Nikon A",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon_Coolpix_A_0.jpg",
+  "pros": [
+    "External Flash Shoe",
+    "Full HD Video",
+    "Optical (Optional)   Optional Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "921k dots LCD Resolution",
+    "299g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "Timelapse Recording",
+    "Fast 2.80  Lens at Wide",
+    "Fast 2.80 Lens at Tele",
+    "Good Low Light ISO - 1164",
+    "AE Bracketing",
+    "Flash Sync Port"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Image Stabilization",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "Only Unknown  Focus Points",
+    "Low Battery Life: 230 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2013-06-06",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$554.95",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon S9900Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon Coolpix A",
+    "Announced": "2013-06-06",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$554.95",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28 mm (1×)",
+    "Max Aperture": "F2.8",
+    "Macro Focus Range": "10cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT LCD monitor",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Optical (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "299g Light Body",
+      "ko": "299g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.80 Lens at Tele",
+      "ko": "Fast 2.80 Lens at Tele"
+    },
+    {
+      "en": "Good Low Light ISO - 1164",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Only Unknown  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Low Battery Life: 230 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2013-06-06",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$554.95",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon Coolpix A",
+  "scraped_at": "2026-05-27T14:58:57.576021"
+}

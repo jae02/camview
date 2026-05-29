@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import CameraHero from "@/components/cameras/CameraHero";
 import SpecsTable from "@/components/cameras/SpecsTable";
+import ProsCons from "@/components/cameras/ProsCons";
 import ReviewSection from "@/components/cameras/ReviewSection";
 import ExpertReviewSection from "@/components/cameras/ExpertReviewSection";
 import { getCameraBySlug, getAllCameraSlugs } from "@/lib/queries";
@@ -89,6 +90,27 @@ export default async function CameraDetailPage({
           </p>
         </section>
       </div>
+
+      {/* Pros & Cons Section */}
+      {(camera.pros.length > 0 || camera.cons.length > 0) && (
+        <div className="container-custom py-8">
+          <div className="flex items-center gap-3 mb-6 max-w-4xl mx-auto">
+            <div
+              className="w-1 h-8 rounded-full"
+              style={{ background: "var(--gradient-brand)" }}
+            />
+            <h2 className="heading-md" style={{ color: "var(--text-primary)" }}>
+              장점 & 단점
+            </h2>
+          </div>
+          <ProsCons
+            pros={camera.pros}
+            cons={camera.cons}
+            prosKo={camera.prosKo}
+            consKo={camera.consKo}
+          />
+        </div>
+      )}
 
       {/* Divider with gradient */}
       <div

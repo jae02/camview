@@ -1,0 +1,155 @@
+{
+  "slug": "Samsung-Galaxy-NX",
+  "camera_name": "Samsung Galaxy NX",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Samsung_Galaxy_NX_0.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Built-in GPS",
+    "Face Detection Focusing",
+    "20.0MP - High Resolution Sensor",
+    "25.600   Max ISO",
+    "Large 4.80\" Screen",
+    "922k dots LCD Resolution",
+    "1/6000s High Shutter Speed",
+    "9.0fps Max Continuous Shooting Speed",
+    "495g Light Body",
+    "External Microphone Port",
+    "External Headphone Port",
+    "16GB Internal Storage"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "Low Battery Life: 440 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2013-06-20",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$1199.99",
+    "Lens Mount": "Samsung NX",
+    "Number of Lenses": "34",
+    "Focal Length Multiplier": "1.5×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "4.80\"",
+    "Screen Resolution": "922k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Samsung NX2000Compare",
+    "Brand": "Samsung",
+    "Model": "Samsung Galaxy NX",
+    "Announced": "2013-06-20",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$1199.99",
+    "Manual Focus": true,
+    "Lens Mount": "Samsung NX",
+    "Number of Lenses": "34",
+    "Focal Length Multiplier": "1.5×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "HD TFT LCD",
+    "Screen Size": "4.80\"",
+    "Screen Resolution": "922k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Built-in GPS",
+      "ko": "GPS"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "20.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "Large 4.80\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "922k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/6000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "9.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "495g Light Body",
+      "ko": "495g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "16GB Internal Storage",
+      "ko": "16GB Internal Storage"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Battery Life: 440 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2013-06-20",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$1199.99",
+    "렌즈 마운트": "Samsung NX",
+    "호환 렌즈 수": "34",
+    "크롭 팩터": "1.5×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "4.80\"",
+    "LCD 해상도": "922k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Samsung",
+  "timeline_name": "Samsung Galaxy NX",
+  "scraped_at": "2026-05-27T14:58:41.071137"
+}

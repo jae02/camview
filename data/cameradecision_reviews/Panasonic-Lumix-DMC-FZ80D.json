@@ -1,0 +1,235 @@
+{
+  "slug": "Panasonic-Lumix-DMC-FZ80D",
+  "camera_name": "Panasonic FZ80D",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Panasonic-Lumix-DMC-FZ80D.jpg",
+  "pros": [
+    "Image Stabilization",
+    "External Flash Shoe",
+    "4K (UHD) Video",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "18.0MP - High Resolution Sensor",
+    "49   Focus Points",
+    "1.840k dots LCD Resolution",
+    "1/16000s Electronic Shutter Speed",
+    "10.0fps Shooting w/ Mechanical Shutter",
+    "Long Battery Life (330 shots)",
+    "Manual Focusing",
+    "Manual Exposure",
+    "Timelapse Recording",
+    "20mm Wide Angle Lens",
+    "1200mm Good Tele Lens",
+    "60.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide",
+    "2360kdot Viewfinder Resolution",
+    "Up to 240fps High Speed Video",
+    "AE Bracketing",
+    "4K Photo (8MP photos)",
+    "Post Focus Mode - Change focus point after taking a photo",
+    "Focus Bracketing",
+    "In-Camera Focus Stacking",
+    "UHS-I Memory Card Support",
+    "USB 3.0 (5 GBit/sec)"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "Max Sensitivity only ISO 3.200",
+    "Heavy Body: 616g.",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.90"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2024-07-02",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$479.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,840k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Canon SX740 HSCompare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-FZ80D",
+    "Also known as": "Lumix DMC-FZ82D/Lumix DMC-FZ85D",
+    "Predecessor Model": "Panasonic FZ80",
+    "Announced": "2024-07-02",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$479.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "20-1200 mm (60x)",
+    "Max Aperture": "F2.8-5.9",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,840k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "4K (UHD) Video",
+      "ko": "4K 동영상"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "18.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "49   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.840k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/16000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "10.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Long Battery Life (330 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "20mm Wide Angle Lens",
+      "ko": "20mm Wide Angle Lens"
+    },
+    {
+      "en": "1200mm Good Tele Lens",
+      "ko": "1200mm Good Tele Lens"
+    },
+    {
+      "en": "60.0X Optical Zoom",
+      "ko": "60.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "2360kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "Up to 240fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "4K Photo (8MP photos)",
+      "ko": "화소"
+    },
+    {
+      "en": "Post Focus Mode - Change focus point after taking a photo",
+      "ko": "Post Focus Mode - Change focus point after taking a photo"
+    },
+    {
+      "en": "Focus Bracketing",
+      "ko": "포커스 브라케팅"
+    },
+    {
+      "en": "In-Camera Focus Stacking",
+      "ko": "In-Camera Focus Stacking"
+    },
+    {
+      "en": "UHS-I Memory Card Support",
+      "ko": "UHS-I Memory Card Support"
+    },
+    {
+      "en": "USB 3.0 (5 GBit/sec)",
+      "ko": "USB"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Heavy Body: 616g.",
+      "ko": "Heavy Body: 616g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.90",
+      "ko": "Slow Lens at Tele: f5.90"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2024-07-02",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$479.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,840k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC FZ80D",
+  "scraped_at": "2026-05-27T14:09:52.938017"
+}

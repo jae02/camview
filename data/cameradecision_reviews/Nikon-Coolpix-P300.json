@@ -1,0 +1,182 @@
+{
+  "slug": "Nikon-Coolpix-P300",
+  "camera_name": "Nikon P300",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon-Coolpix-P300.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Full HD Video",
+    "Face Detection Focusing",
+    "922k dots LCD Resolution",
+    "7.0fps Shooting w/ Mechanical Shutter",
+    "189g Light Body",
+    "Manual Exposure",
+    "90 MB Internal Storage",
+    "24mm Wide Angle Lens",
+    "Fast 1.80  Lens at Wide",
+    "Panorama Shooting",
+    "Up to 120fps High Speed Video"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Low Resolution Sensor: 12.0MP",
+    "Max Sensitivity only ISO 3.200",
+    "Only 9  Focus Points",
+    "Low Battery Life: 240 shots",
+    "No Manual Focusing",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f4.90"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-05-31",
+    "Body Type": "Compact",
+    "MSRP": "$599.99",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "922k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Casio EX-H15Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon Coolpix P300",
+    "Successor Model": "Nikon P310",
+    "Announced": "2011-05-31",
+    "Body Type": "Compact",
+    "MSRP": "$599.99",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-100 mm (4.2×)",
+    "Max Aperture": "F1.8-4.9",
+    "Macro Focus Range": "3cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT-LCD with anti-reflection coating",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "922k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "922k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "7.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "189g Light Body",
+      "ko": "189g Light Body"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "90 MB Internal Storage",
+      "ko": "90 MB Internal Storage"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 1.80  Lens at Wide",
+      "ko": "Fast 1.80  Lens at Wide"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Low Battery Life: 240 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f4.90",
+      "ko": "Slow Lens at Tele: f4.90"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-05-31",
+    "바디 형태": "Compact",
+    "출시 가격": "$599.99",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "922k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon Coolpix P300",
+  "scraped_at": "2026-05-27T15:29:42.269321"
+}

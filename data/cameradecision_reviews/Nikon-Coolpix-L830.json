@@ -1,0 +1,191 @@
+{
+  "slug": "Nikon-Coolpix-L830",
+  "camera_name": "Nikon L830",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon_Coolpix_L830_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Tilting Screen",
+    "Full HD Video",
+    "Face Detection Focusing",
+    "921k dots LCD Resolution",
+    "7.0fps Shooting w/ Mechanical Shutter",
+    "Long Battery Life (390 shots)",
+    "23mm Wide Angle Lens",
+    "765mm Good Tele Lens",
+    "33.3X Optical Zoom",
+    "Panorama Shooting",
+    "Up to 240fps High Speed Video"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Max Sensitivity only ISO 3.200",
+    "Only Unknown  Focus Points",
+    "1/1500s Low Max Shutter Speed",
+    "Heavy Body: 508g.",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.00",
+    "Slow Lens at Tele: f5.90"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2014-01-07",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$329.99",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon D3100Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon Coolpix L830",
+    "Predecessor Model": "Nikon L820",
+    "Successor Model": "Nikon L840",
+    "Announced": "2014-01-07",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$329.99",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "23-765 mm (34×)",
+    "Max Aperture": "F3.0-5.9",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Tilting",
+    "Screen Technology": "TFT LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting Screen",
+      "ko": "틸트 LCD"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "7.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Long Battery Life (390 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "23mm Wide Angle Lens",
+      "ko": "23mm Wide Angle Lens"
+    },
+    {
+      "en": "765mm Good Tele Lens",
+      "ko": "765mm Good Tele Lens"
+    },
+    {
+      "en": "33.3X Optical Zoom",
+      "ko": "33.3X Optical Zoom"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Up to 240fps High Speed Video",
+      "ko": "고속 동영상"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Only Unknown  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1/1500s Low Max Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Heavy Body: 508g.",
+      "ko": "Heavy Body: 508g."
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.00",
+      "ko": "Slow Lens at Wide: f3.00"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.90",
+      "ko": "Slow Lens at Tele: f5.90"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2014-01-07",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$329.99",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon Coolpix L830",
+  "scraped_at": "2026-05-27T14:53:02.279375"
+}

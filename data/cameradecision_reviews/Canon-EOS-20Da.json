@@ -1,0 +1,149 @@
+{
+  "slug": "Canon-EOS-20Da",
+  "camera_name": "Canon 20Da",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Canon-EOS-90D.jpg",
+  "pros": [
+    "Optical Built-in Viewfinder",
+    "1/8000s High Shutter Speed",
+    "Top LCD Display"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Video Mode",
+    "No Touch Screen",
+    "0.56x magnification - Small Viewfinder",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 8.0MP",
+    "Max Sensitivity only ISO 1.600",
+    "Only 9  Focus Points",
+    "Small LCD Screen ( 1.80\")",
+    "Low Screen Resolution ( 118kdots )",
+    "Heavy Body: 770g",
+    "No Environmental Sealing",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2005-06-01",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$0.00",
+    "Lens Mount": "Canon EF/EF-S",
+    "Number of Lenses": "333",
+    "Focal Length Multiplier": "1.6×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "1.80\"",
+    "Screen Resolution": "118k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon 6D MIICompare",
+    "Brand": "Canon",
+    "Model": "Canon EOS 20Da",
+    "Announced": "2005-06-01",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Canon EF/EF-S",
+    "Number of Lenses": "333",
+    "Focal Length Multiplier": "1.6×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "1.80\"",
+    "Screen Resolution": "118k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.56x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 8.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Small LCD Screen ( 1.80\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 118kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Heavy Body: 770g",
+      "ko": "Heavy Body: 770g"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2005-06-01",
+    "바디 형태": "Mid-size SLR",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Canon EF/EF-S",
+    "호환 렌즈 수": "333",
+    "크롭 팩터": "1.6×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "1.80\"",
+    "LCD 해상도": "118k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon EOS 20Da",
+  "scraped_at": "2026-05-27T16:11:30.247867"
+}

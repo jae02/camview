@@ -1,0 +1,196 @@
+{
+  "slug": "Sony-SLT-A77",
+  "camera_name": "Sony A77",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sony-Alpha-A99-II.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Fully Articulated   Screen",
+    "Electronic Built-in Viewfinder",
+    "Built-in GPS",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "16.000   Max ISO",
+    "19   Focus Points",
+    "921k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "12.0fps Max Continuous Shooting Speed",
+    "External Microphone Port",
+    "Environmental Sealing",
+    "2359kdot Viewfinder Resolution",
+    "0.73x magnification - Large Viewfinder",
+    "11   Cross Type Focus Points",
+    "3D Shooting Capability",
+    "Panorama Shooting",
+    "Top LCD Display",
+    "Flash Sync Port",
+    "AF Micro Adjustment (Fine Tune)",
+    "High Shutter Life Expectancy - 150000 cycles",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Magnesium alloy body elements"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Touch Screen",
+    "Low Battery Life: 470 shots"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-10-25",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$1295.99",
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony A55Compare",
+    "Brand": "Sony",
+    "Model": "Sony SLT-A77",
+    "Predecessor Model": "Sony A700",
+    "Successor Model": "Sony A77 II",
+    "Announced": "2011-10-25",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$1295.99",
+    "Manual Focus": true,
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Built-in GPS",
+      "ko": "GPS"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "16.000   Max ISO",
+      "ko": "16.000   Max ISO"
+    },
+    {
+      "en": "19   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "12.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "2359kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "0.73x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "11   Cross Type Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "3D Shooting Capability",
+      "ko": "3D Shooting Capability"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    },
+    {
+      "en": "AF Micro Adjustment (Fine Tune)",
+      "ko": "AF Micro Adjustment (Fine Tune)"
+    },
+    {
+      "en": "High Shutter Life Expectancy - 150000 cycles",
+      "ko": "셔터 내구성"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Magnesium alloy body elements",
+      "ko": "마그네슘 합금 바디"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Low Battery Life: 470 shots",
+      "ko": "짧은 배터리 수명"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-10-25",
+    "바디 형태": "Mid-size SLR",
+    "출시 가격": "$1295.99",
+    "렌즈 마운트": "Sony/Minolta Alpha",
+    "호환 렌즈 수": "143",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony SLT A77",
+  "scraped_at": "2026-05-27T15:25:20.814999"
+}

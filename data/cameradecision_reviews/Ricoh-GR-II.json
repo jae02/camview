@@ -1,0 +1,197 @@
+{
+  "slug": "Ricoh-GR-II",
+  "camera_name": "Ricoh GR II",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Ricoh-GR-II.jpg",
+  "pros": [
+    "Built-in ND Filter",
+    "Built-in Wireless (Wi-fi)",
+    "NFC Connectivity",
+    "External Flash Shoe",
+    "Full HD Video",
+    "Optical (Optional)   Optional Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "25.600   Max ISO",
+    "1.230k dots LCD Resolution",
+    "1/4000s High Shutter Speed",
+    "Long Battery Life (320 shots)",
+    "251g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "54MB Internal Storage",
+    "Fast 2.80  Lens at Wide",
+    "Fast 2.80 Lens at Tele",
+    "Good Low Light ISO - 1078",
+    "AE Bracketing",
+    "Wide AE Bracketing Range: ±4 EV",
+    "Remote control with a smartphone"
+  ],
+  "cons": [
+    "No Image Stabilization",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "Only 9  Focus Points",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2015-06-17",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$639.95",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony RX100 IIICompare",
+    "Brand": "Ricoh",
+    "Model": "Ricoh GR II",
+    "Predecessor Model": "Ricoh GR",
+    "Successor Model": "Ricoh GR III",
+    "Announced": "2015-06-17",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$639.95",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28 mm (1×)",
+    "Max Aperture": "F2.8",
+    "Macro Focus Range": "10cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in ND Filter",
+      "ko": "Built-in ND Filter"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Optical (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "1.230k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/4000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Long Battery Life (320 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "251g Light Body",
+      "ko": "251g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "54MB Internal Storage",
+      "ko": "54MB Internal Storage"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.80 Lens at Tele",
+      "ko": "Fast 2.80 Lens at Tele"
+    },
+    {
+      "en": "Good Low Light ISO - 1078",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Wide AE Bracketing Range: ±4 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2015-06-17",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$639.95",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Ricoh",
+  "timeline_name": "Ricoh GR II",
+  "scraped_at": "2026-05-27T14:41:45.329719"
+}
