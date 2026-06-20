@@ -4,29 +4,30 @@ import {
   Sparkles,
   BarChart3,
   Users,
+  BookOpen,
 } from "lucide-react";
 import Link from "next/link";
-import CameraCard from "@/components/cameras/CameraCard";
-import { getFeaturedCameras } from "@/lib/queries";
+import ArticleCard from "@/components/blog/ArticleCard";
+import { getAllArticles } from "@/lib/articles";
 import HeroSection from "@/components/layout/HeroSection";
 
 /**
- * Home page — the main landing experience for 카메라 백과사전.
+ * Home page — the main landing experience for Dlsrivew.
  *
  * Sections:
  * 1. Hero with headline, tagline, and CTA (Client Component for interactivity)
  * 2. Feature highlights strip
- * 3. Camera grid showcasing all listed models
+ * 3. Articles grid showcasing all latest reviews/guides
  * 4. Community stats bar
  */
 export default async function HomePage() {
-  const cameras = await getFeaturedCameras(6);
+  const articles = await getAllArticles();
 
   const features = [
     {
-      icon: "Sparkles" as const,
-      title: "상세 스펙",
-      description: "모든 모델의 종합적인 기술 데이터 제공",
+      icon: "BookOpen" as const,
+      title: "심층 리뷰",
+      description: "현업 전문가가 작성한 상세한 카메라 분석 및 가이드",
     },
     {
       icon: "BarChart3" as const,
@@ -34,16 +35,16 @@ export default async function HomePage() {
       description: "스펙을 나란히 비교하여 최적의 카메라를 찾아보세요",
     },
     {
-      icon: "Users" as const,
-      title: "브랜드별 도감",
-      description: "Sony, Canon, Nikon 등 주요 브랜드 카메라 총망라",
+      icon: "Sparkles" as const,
+      title: "상세 스펙",
+      description: "130개 이상의 카메라 모델에 대한 기술 데이터 제공",
     },
   ];
 
   const stats = [
     { value: "133+", label: "수록 카메라" },
     { value: "6", label: "브랜드" },
-    { value: "50+", label: "상세 스펙 항목" },
+    { value: "100%", label: "전문가 리뷰" },
     { value: "98%", label: "데이터 정확도" },
   ];
 
@@ -69,7 +70,7 @@ export default async function HomePage() {
         <div className="container-custom">
           <div className="grid md:grid-cols-3 gap-6">
             {features.map((feature) => {
-              const IconMap = { Sparkles, BarChart3, Users };
+              const IconMap = { Sparkles, BarChart3, Users, BookOpen };
               const Icon = IconMap[feature.icon];
               return (
                 <div
@@ -115,9 +116,9 @@ export default async function HomePage() {
       </section>
 
       {/* ══════════════════════════════════════════════════════════════
-           SECTION 3 — CAMERA GRID
+           SECTION 3 — ARTICLES GRID
            ══════════════════════════════════════════════════════════════ */}
-      <section id="cameras" className="py-20">
+      <section id="articles" className="py-20 bg-gray-50 dark:bg-[#0a0a0a]">
         <div className="container-custom">
           {/* Section Header */}
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-12">
@@ -131,34 +132,22 @@ export default async function HomePage() {
                   className="heading-lg"
                   style={{ color: "var(--text-primary)" }}
                 >
-                  카메라 도감
+                  최신 리뷰 & 가이드
                 </h2>
               </div>
               <p
                 className="text-sm ml-4"
                 style={{ color: "var(--text-tertiary)" }}
               >
-                다양한 카메라 모델의 상세 사양을 확인해 보세요.
+                전문가가 분석한 깊이 있는 아티클을 만나보세요.
               </p>
             </div>
-
-            <Link
-              href="/cameras"
-              className="inline-flex items-center gap-1.5 text-sm font-medium ml-4 sm:ml-0 view-all-link"
-              style={{
-                color: "var(--accent-secondary)",
-                transition: "var(--transition-fast)",
-              }}
-            >
-              전체 카메라 보기
-              <ArrowRight className="w-4 h-4" />
-            </Link>
           </div>
 
-          {/* Camera Cards Grid */}
+          {/* Article Cards Grid */}
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 stagger-children">
-            {cameras.map((camera, idx) => (
-              <CameraCard key={camera.id} camera={camera} index={idx} />
+            {articles.map((article, idx) => (
+              <ArticleCard key={article.id} article={article} index={idx} />
             ))}
           </div>
         </div>

@@ -35,7 +35,7 @@ export default function HeroSection() {
             }}
           >
             <span className="pulse-dot" />
-            6개 브랜드, 133개 카메라 모델 수록
+            가장 빠르고 정확한 카메라 리뷰 & 가이드
           </div>
         </div>
 
@@ -44,8 +44,8 @@ export default function HeroSection() {
           className="heading-xl max-w-3xl mx-auto"
           style={{ color: "var(--text-primary)" }}
         >
-          모든 카메라를 한눈에,{" "}
-          <span className="gradient-text">카메라 백과사전</span>
+          당신에게 꼭 맞는 카메라,{" "}
+          <span className="gradient-text">리뷰로 찾아보세요</span>
         </h1>
 
         {/* Subtitle */}
@@ -53,14 +53,14 @@ export default function HeroSection() {
           className="body-lg max-w-xl mx-auto"
           style={{ color: "var(--text-secondary)" }}
         >
-          역대 디지털 카메라의 상세 스펙을 검색하고,
-          모델 간 사양을 나란히 비교해 보세요.
+          현업 전문가가 분석한 생생한 리뷰부터 상세 스펙 비교까지. 
+          나에게 최적화된 카메라를 발견하는 가장 현명한 방법.
         </p>
 
         {/* CTAs */}
         <div className="flex flex-wrap justify-center gap-4">
           <Link
-            href="#cameras"
+            href="#articles"
             id="hero-browse-btn"
             className="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl text-sm font-semibold"
             style={{
@@ -80,12 +80,12 @@ export default function HeroSection() {
               el.style.transform = "translateY(0)";
             }}
           >
-            카메라 둘러보기
+            최신 리뷰 보기
             <ArrowRight className="w-4 h-4" />
           </Link>
 
           <Link
-            href="/compare"
+            href="/cameras"
             id="hero-compare-btn"
             className="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl text-sm font-semibold"
             style={{
@@ -108,7 +108,7 @@ export default function HeroSection() {
             }}
           >
             <BarChart3 className="w-4 h-4" />
-            모델 비교하기
+            카메라 도감 검색
           </Link>
         </div>
       </div>

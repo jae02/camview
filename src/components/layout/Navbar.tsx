@@ -16,6 +16,7 @@ export default function Navbar() {
 
   const navLinks = [
     { href: "/", label: "홈" },
+    { href: "/blog", label: "블로그" },
     { href: "/cameras", label: "카메라 도감" },
     { href: "/compare", label: "비교" },
   ];
@@ -54,13 +55,13 @@ export default function Navbar() {
                 className="text-sm font-bold tracking-tight"
                 style={{ color: "var(--text-primary)" }}
               >
-                카메라 백과
+                Dlsrivew
               </span>
               <span
                 className="text-[10px] font-medium tracking-widest uppercase"
                 style={{ color: "var(--text-tertiary)" }}
               >
-                ENCYCLOPEDIA
+                MAGAZINE
               </span>
             </div>
           </Link>

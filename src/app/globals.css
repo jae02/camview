@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+@plugin "@tailwindcss/typography";
 /* =============================================================================
    Camera Specs & Review Community — Korean UI Theme
    =============================================================================
