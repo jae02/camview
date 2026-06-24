@@ -8,6 +8,8 @@ import {
 import Link from "next/link";
 import CameraCard from "@/components/cameras/CameraCard";
 import { getFeaturedCameras } from "@/lib/queries";
+// @ts-ignore
+import { getAllArticles } from "@/lib/articles";
 import HeroSection from "@/components/layout/HeroSection";
 
 /**
@@ -21,6 +23,8 @@ import HeroSection from "@/components/layout/HeroSection";
  */
 export default async function HomePage() {
   const cameras = await getFeaturedCameras(6);
+  // @ts-ignore
+  const articles = await getAllArticles();
 
   const features = [
     {
@@ -165,7 +169,83 @@ export default async function HomePage() {
       </section>
 
       {/* ══════════════════════════════════════════════════════════════
-           SECTION 4 — COMMUNITY STATS
+           SECTION 4 — LATEST BLOG POSTS
+           ══════════════════════════════════════════════════════════════ */}
+      <section id="blog" className="py-20" style={{ background: "var(--bg-card)" }}>
+        <div className="container-custom">
+          {/* Section Header */}
+          <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-12">
+            <div>
+              <div className="flex items-center gap-3 mb-3">
+                <div
+                  className="w-1 h-8 rounded-full"
+                  style={{ background: "var(--gradient-brand)" }}
+                />
+                <h2
+                  className="heading-lg"
+                  style={{ color: "var(--text-primary)" }}
+                >
+                  최신 블로그 기사
+                </h2>
+              </div>
+              <p
+                className="text-sm ml-4"
+                style={{ color: "var(--text-tertiary)" }}
+              >
+                카메라 전문 에디터들의 최신 소식과 리뷰를 확인하세요.
+              </p>
+            </div>
+
+            <Link
+              href="/blog"
+              className="inline-flex items-center gap-1.5 text-sm font-medium ml-4 sm:ml-0 view-all-link"
+              style={{
+                color: "var(--accent-secondary)",
+                transition: "var(--transition-fast)",
+              }}
+            >
+              블로그 전체 보기
+              <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
+
+          {/* Articles Grid */}
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {articles.slice(0, 3).map((article: any) => (
+              <Link
+                key={article.slug}
+                href={`/blog/${article.slug}`}
+                className="group flex flex-col rounded-xl overflow-hidden"
+                style={{
+                  background: "var(--bg-primary)",
+                  border: "1px solid var(--border-subtle)",
+                  transition: "var(--transition-normal)",
+                  boxShadow: "var(--shadow-sm)",
+                }}
+              >
+                <div className="p-6 flex flex-col h-full">
+                  <h3 className="font-bold text-lg mb-2" style={{ color: "var(--text-primary)" }}>
+                    {article.title}
+                  </h3>
+                  {article.description && (
+                    <p className="text-sm mb-4 line-clamp-2" style={{ color: "var(--text-secondary)" }}>
+                      {article.description}
+                    </p>
+                  )}
+                  {article.date && (
+                    <div className="mt-auto text-xs" style={{ color: "var(--text-tertiary)" }}>
+                      {new Date(article.date).toLocaleDateString()}
+                    </div>
+                  )}
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ══════════════════════════════════════════════════════════════
+           SECTION 5 — COMMUNITY STATS
            ══════════════════════════════════════════════════════════════ */}
       <section
         id="community-stats"
