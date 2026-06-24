@@ -18,6 +18,7 @@ export default function Navbar() {
     { href: "/", label: "홈" },
     { href: "/cameras", label: "카메라 도감" },
     { href: "/compare", label: "비교" },
+    { href: "/blog", label: "블로그" },
   ];
 
   const handleLogout = async () => {
