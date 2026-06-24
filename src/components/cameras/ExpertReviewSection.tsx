@@ -1,5 +1,7 @@
 import React from 'react';
 import { SlrReview } from '@/lib/queries';
+import Markdown from 'markdown-to-jsx';
+import CompareWidget from './CompareWidget';
 
 interface ExpertReviewSectionProps {
   review: SlrReview;
@@ -80,7 +82,9 @@ export default function ExpertReviewSection({ review, cameraName }: ExpertReview
               ...(hasSummary ? { marginTop: '1.5rem', paddingTop: '1.5rem', borderTop: '1px solid var(--border-subtle)' } : {}),
             }}
           >
-            {review.critique_text}
+            <Markdown options={{ overrides: { CompareWidget } }}>
+              {review.critique_text}
+            </Markdown>
           </div>
         )}
       </div>
