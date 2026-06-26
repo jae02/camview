@@ -1,0 +1,24 @@
+{
+  "id": "sony-cyber-shot-dsc-s30",
+  "slug": "sony-cyber-shot-dsc-s30",
+  "brand": "Sony",
+  "model": "Cyber-shot DSC-S30",
+  "imageUrl": "",
+  "priceMsrp": 450000,
+  "weightGrams": 240,
+  "dimensions": "115 x 71 x 55 mm",
+  "specs": {
+    "type": "Compact",
+    "megapixels": 1.3,
+    "sensorSize": "1/2.7-inch",
+    "sensorType": "CCD",
+    "iso": "100",
+    "focalLengthEquiv": "39–117 mm",
+    "maxAperture": "F2.8",
+    "screenSize": "2.0\"",
+    "screenDots": 122000,
+    "maxVideoRes": "320 x 240",
+    "storageTypes": "Memory Stick",
+    "battery": "NP-FM50 Lithium-ion"
+  }
+}

@@ -18,7 +18,7 @@ export default function CompareWidget({ cameras }: { cameras: Camera[] }) {
     <div className="space-y-4">
       <div className="flex items-center justify-between gap-4">
         {/* Model A */}
-        <div className="flex-1 text-center">
+        <div className="flex-1 text-center min-w-0">
           <div className="w-full aspect-square relative bg-white rounded-lg border border-gray-200 mb-2 overflow-hidden flex items-center justify-center">
             {modelA.imageUrl ? (
               <Image src={modelA.imageUrl} alt={modelA.name} fill className="object-contain p-2" sizes="(max-width: 768px) 100vw, 50vw" />
@@ -36,7 +36,7 @@ export default function CompareWidget({ cameras }: { cameras: Camera[] }) {
         </div>
 
         {/* Model B */}
-        <div className="flex-1 text-center">
+        <div className="flex-1 text-center min-w-0">
           <div className="w-full aspect-square relative bg-white rounded-lg border border-gray-200 mb-2 overflow-hidden flex items-center justify-center">
             {modelB.imageUrl ? (
               <Image src={modelB.imageUrl} alt={modelB.name} fill className="object-contain p-2" sizes="(max-width: 768px) 100vw, 50vw" />
