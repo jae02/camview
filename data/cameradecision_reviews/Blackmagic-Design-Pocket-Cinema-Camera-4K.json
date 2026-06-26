@@ -1,0 +1,274 @@
+{
+  "slug": "Blackmagic-Design-Pocket-Cinema-Camera-4K",
+  "camera_name": "Blackmagic Cinema 4K",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Blackmagic-Design-Pocket-Cinema-Camera-4K.jpg",
+  "pros": [
+    "Timecode Terminal",
+    "Dual Native ISO: 400,3200",
+    "RAW Video Recording Capability",
+    "External SSD Recording",
+    "Shutter Angle Setting",
+    "1x Mini XLR Mic/Line (+48 V Phantom Power) Input",
+    "Waveform for Video",
+    "Vector Scope for Video",
+    "On-body Mounting Points",
+    "Real-time LUT Applied Shooting",
+    "Anamorphic Support",
+    "Unlimited Video Recording (no 30min limit)",
+    "Active Cooling ensures no overheating during Video",
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "4K DCI at 60fps , 2.8K at 120fps  and FHD at 120fps  Video Recording",
+    "No crop on 4K Videos",
+    "10-bit 4:2:2 Color Sampling",
+    "Touch Screen",
+    "Electronic (Optional)   Optional Viewfinder",
+    "25.600   Max ISO",
+    "Large 5.00\" Screen",
+    "2.074k dots LCD Resolution",
+    "External Microphone Port",
+    "External Headphone Port",
+    "2 Storage Slots",
+    "Up to 120fps High Speed Video",
+    "Remote control with a smartphone",
+    "carbon fiber polycarbonate composite body elements",
+    "Compatible with fast UHS-II cards",
+    "Tally/Front recording light",
+    "USB Charging",
+    "USB-C 3.1 Gen 1",
+    "Full-size HDMI Port"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Built-in Viewfinder",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 9.0MP",
+    "Low Max Shutter Speed: 1/s",
+    "Slow Continuous Shooting: 1.0fps",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2018-04-09",
+    "Body Type": "Compact Cinema",
+    "MSRP": "$1295.00",
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "5.00\"",
+    "Screen Resolution": "2,074k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Canon R50 VCompare",
+    "Brand": "Blackmagic",
+    "Model": "Blackmagic Design Pocket Cinema Camera 4K",
+    "Announced": "2018-04-09",
+    "Body Type": "Compact Cinema",
+    "MSRP": "$1295.00",
+    "Manual Focus": true,
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "5.00\"",
+    "Screen Resolution": "2,074k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Timecode Terminal",
+      "ko": "Timecode Terminal"
+    },
+    {
+      "en": "Dual Native ISO: 400,3200",
+      "ko": "듀얼 네이티브 ISO"
+    },
+    {
+      "en": "RAW Video Recording Capability",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "External SSD Recording",
+      "ko": "SD 카드"
+    },
+    {
+      "en": "Shutter Angle Setting",
+      "ko": "Shutter Angle Setting"
+    },
+    {
+      "en": "1x Mini XLR Mic/Line (+48 V Phantom Power) Input",
+      "ko": "1x Mini XLR Mic/Line (+48 V Phantom Power) Input"
+    },
+    {
+      "en": "Waveform for Video",
+      "ko": "Waveform for Video"
+    },
+    {
+      "en": "Vector Scope for Video",
+      "ko": "Vector Scope for Video"
+    },
+    {
+      "en": "On-body Mounting Points",
+      "ko": "On-body Mounting Points"
+    },
+    {
+      "en": "Real-time LUT Applied Shooting",
+      "ko": "Real-time LUT Applied Shooting"
+    },
+    {
+      "en": "Anamorphic Support",
+      "ko": "Anamorphic Support"
+    },
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Active Cooling ensures no overheating during Video",
+      "ko": "Active Cooling ensures no overheating during Video"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "4K DCI at 60fps , 2.8K at 120fps  and FHD at 120fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "No crop on 4K Videos",
+      "ko": "크롭 없음"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "Large 5.00\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "2.074k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "carbon fiber polycarbonate composite body elements",
+      "ko": "화소"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "Tally/Front recording light",
+      "ko": "Tally/Front recording light"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    },
+    {
+      "en": "USB-C 3.1 Gen 1",
+      "ko": "USB"
+    },
+    {
+      "en": "Full-size HDMI Port",
+      "ko": "HDMI"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 9.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Low Max Shutter Speed: 1/s",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2018-04-09",
+    "바디 형태": "Compact Cinema",
+    "출시 가격": "$1295.00",
+    "렌즈 마운트": "Micro Four Thirds",
+    "호환 렌즈 수": "132",
+    "크롭 팩터": "2×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "5.00\"",
+    "LCD 해상도": "2,074k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Blackmagic",
+  "timeline_name": "Blackmagic Design Pocket Cinema Camera 4K",
+  "scraped_at": "2026-05-27T14:32:53.018777"
+}

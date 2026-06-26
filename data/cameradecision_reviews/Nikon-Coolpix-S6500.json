@@ -1,0 +1,161 @@
+{
+  "slug": "Nikon-Coolpix-S6500",
+  "camera_name": "Nikon S6500",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon_Coolpix_S6500_0.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Image Stabilization",
+    "Full HD Video",
+    "Built-in GPS",
+    "Face Detection Focusing",
+    "10.0fps Shooting w/ Mechanical Shutter",
+    "250g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "25mm Wide Angle Lens",
+    "300mm Good Tele Lens",
+    "12.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide"
+  ],
+  "cons": [
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Max Sensitivity only ISO 3.200",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.90"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2013-01-08",
+    "Body Type": "Compact",
+    "MSRP": "$299.98",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon S3600Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon Coolpix S6500",
+    "Announced": "2013-01-08",
+    "Body Type": "Compact",
+    "MSRP": "$299.98",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "25-300 mm (12×)",
+    "Max Aperture": "F2.8-5.9",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "AMOLED display",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Built-in GPS",
+      "ko": "GPS"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "10.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "250g Light Body",
+      "ko": "250g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "25mm Wide Angle Lens",
+      "ko": "25mm Wide Angle Lens"
+    },
+    {
+      "en": "300mm Good Tele Lens",
+      "ko": "300mm Good Tele Lens"
+    },
+    {
+      "en": "12.0X Optical Zoom",
+      "ko": "12.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.90",
+      "ko": "Slow Lens at Tele: f5.90"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2013-01-08",
+    "바디 형태": "Compact",
+    "출시 가격": "$299.98",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon Coolpix S6500",
+  "scraped_at": "2026-05-27T15:03:09.865819"
+}

@@ -1,0 +1,210 @@
+{
+  "slug": "Leica-D-Lux-8",
+  "camera_name": "Leica D-Lux 8",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Leica-D-Lux-8.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "Image Stabilization",
+    "External Flash Shoe",
+    "4K (UHD) Video",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "17.0MP - High Resolution Sensor",
+    "25.600   Max ISO",
+    "49   Focus Points",
+    "1.840k dots LCD Resolution",
+    "1/16000s Electronic Shutter Speed",
+    "11.0fps Shooting w/ Mechanical Shutter",
+    "Long Battery Life (340 shots)",
+    "Manual Focusing",
+    "Manual Exposure",
+    "Timelapse Recording",
+    "24mm Wide Angle Lens",
+    "Fast 1.70  Lens at Wide",
+    "Fast 2.80 Lens at Tele",
+    "2760kdot Viewfinder Resolution",
+    "AE Bracketing",
+    "Remote control with a smartphone",
+    "UHS-II Memory Card Support"
+  ],
+  "cons": [
+    "No Articulating Screen",
+    "Heavy Body: 397g.",
+    "No Environmental Sealing",
+    "75  mm - Poor Telezoom Coverage",
+    "Optical Zoom only 3.1X"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2024-05-23",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$1915.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,840k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Panasonic L10Compare",
+    "Brand": "Leica",
+    "Model": "Leica D-Lux 8",
+    "Announced": "2024-05-23",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$1915.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-75 mm (3.1x)",
+    "Max Aperture": "F1.7-2.8",
+    "Macro Focus Range": "3cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,840k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "4K (UHD) Video",
+      "ko": "4K 동영상"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "17.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "49   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.840k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/16000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "11.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Long Battery Life (340 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 1.70  Lens at Wide",
+      "ko": "Fast 1.70  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.80 Lens at Tele",
+      "ko": "Fast 2.80 Lens at Tele"
+    },
+    {
+      "en": "2760kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "UHS-II Memory Card Support",
+      "ko": "UHS-II"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "Heavy Body: 397g.",
+      "ko": "Heavy Body: 397g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "75  mm - Poor Telezoom Coverage",
+      "ko": "75  mm - Poor Telezoom Coverage"
+    },
+    {
+      "en": "Optical Zoom only 3.1X",
+      "ko": "Optical Zoom only 3.1X"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2024-05-23",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$1915.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,840k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Leica",
+  "timeline_name": "Leica D Lux 8",
+  "scraped_at": "2026-05-27T14:10:24.789912"
+}

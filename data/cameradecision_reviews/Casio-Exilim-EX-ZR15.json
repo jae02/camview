@@ -1,0 +1,171 @@
+{
+  "slug": "Casio-Exilim-EX-ZR15",
+  "camera_name": "Casio EX-ZR15",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Casio_Exilim_EX-ZR15_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Full HD Video",
+    "Face Detection Focusing",
+    "461k dots LCD Resolution",
+    "Long Battery Life (325 shots)",
+    "176g Light Body",
+    "52.2MB Internal Storage",
+    "Panorama Shooting",
+    "Up to 480fps High Speed Video"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Max Sensitivity only ISO 3.200",
+    "Only Unknown  Focus Points",
+    "Slow Continuous Shooting: 3.0fps",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.00",
+    "Slow Lens at Tele: f5.90"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-01-09",
+    "Body Type": "Compact",
+    "MSRP": "$0.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon D2XsCompare",
+    "Brand": "Casio",
+    "Model": "Casio Exilim EX-ZR15",
+    "Announced": "2012-01-09",
+    "Body Type": "Compact",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28-196 mm (7×)",
+    "Max Aperture": "F3.0-5.9",
+    "Macro Focus Range": "2cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "Super Clear TFT color LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "461k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "Long Battery Life (325 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "176g Light Body",
+      "ko": "176g Light Body"
+    },
+    {
+      "en": "52.2MB Internal Storage",
+      "ko": "52.2MB Internal Storage"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Up to 480fps High Speed Video",
+      "ko": "고속 동영상"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Only Unknown  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Slow Continuous Shooting: 3.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.00",
+      "ko": "Slow Lens at Wide: f3.00"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.90",
+      "ko": "Slow Lens at Tele: f5.90"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-01-09",
+    "바디 형태": "Compact",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "461k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Casio",
+  "timeline_name": "Casio Exilim EX ZR15",
+  "scraped_at": "2026-05-27T15:23:03.475168"
+}

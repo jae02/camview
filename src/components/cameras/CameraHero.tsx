@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { Calendar, Weight, Cpu, Aperture, ArrowLeft } from "lucide-react";
+import { Calendar, Weight, Cpu, Aperture, ArrowLeft, CheckCircle2 } from "lucide-react";
 import Link from "next/link";
 import StarRating from "@/components/ui/StarRating";
 import { Tag } from "@/components/ui/Badge";
@@ -11,10 +11,10 @@ import {
   formatMount,
   formatBodyType,
 } from "@/lib/format";
-import type { CameraDetail } from "@/lib/queries";
+import type { CameraWithStats } from "@/lib/queries";
 
 interface CameraHeroProps {
-  camera: CameraDetail;
+  camera: CameraWithStats;
 }
 
 /**
@@ -219,6 +219,26 @@ export default function CameraHero({ camera }: CameraHeroProps) {
                 </div>
               ))}
             </div>
+
+            {/* Highlights — top 3 pros as small chips */}
+            {camera.prosKo && camera.prosKo.length > 0 && (
+              <div className="flex flex-wrap gap-2">
+                {camera.prosKo.slice(0, 3).map((pro, idx) => (
+                  <span
+                    key={idx}
+                    className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium"
+                    style={{
+                      background: "rgba(34, 197, 94, 0.1)",
+                      border: "1px solid rgba(34, 197, 94, 0.2)",
+                      color: "#4ade80",
+                    }}
+                  >
+                    <CheckCircle2 className="w-3 h-3" />
+                    {pro.ko !== pro.en ? pro.ko : pro.en}
+                  </span>
+                ))}
+              </div>
+            )}
           </div>
         </div>
       </div>

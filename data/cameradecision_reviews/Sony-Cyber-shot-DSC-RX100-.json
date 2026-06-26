@@ -1,0 +1,240 @@
+{
+  "slug": "Sony-Cyber-shot-DSC-RX100-",
+  "camera_name": "Sony RX100 VA",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sony-Cyber-shot-DSC-RX100-V.jpg",
+  "pros": [
+    "3.0-stops Built-in ND Filter",
+    "Stacked Type Sensor",
+    "Built-in Wireless (Wi-fi)",
+    "NFC Connectivity",
+    "Image Stabilization",
+    "Tilting Screen",
+    "4K (UHD) Video",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "20.0MP - High Resolution Sensor",
+    "12.800   Max ISO",
+    "315   Focus Points",
+    "1.229k dots LCD Resolution",
+    "1/32000s Electronic Shutter Speed",
+    "24.0fps Shooting w/ Mechanical Shutter",
+    "299g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "24mm Wide Angle Lens",
+    "Fast 1.80  Lens at Wide",
+    "Fast 2.80 Lens at Tele",
+    "2359kdot Viewfinder Resolution",
+    "Panorama Shooting",
+    "Up to 1000fps High Speed Video",
+    "AE Bracketing",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Dual-axis Electronic Level",
+    "Remote control with a smartphone",
+    "Retractable Viewfinder",
+    "Tiltable Flash"
+  ],
+  "cons": [
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "Low Battery Life: 220 shots",
+    "No Environmental Sealing",
+    "70  mm - Poor Telezoom Coverage",
+    "Optical Zoom only 2.9X"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2018-07-13",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$759.95",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,229k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony RX100 IIICompare",
+    "Brand": "Sony",
+    "Model": "Sony Cyber-shot DSC-RX100 VA",
+    "Announced": "2018-07-13",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$759.95",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-70 mm (2.9x)",
+    "Max Aperture": "F1.8-2.8",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,229k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "3.0-stops Built-in ND Filter",
+      "ko": "3.0-stops Built-in ND Filter"
+    },
+    {
+      "en": "Stacked Type Sensor",
+      "ko": "센서"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting Screen",
+      "ko": "틸트 LCD"
+    },
+    {
+      "en": "4K (UHD) Video",
+      "ko": "4K 동영상"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "20.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "315   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.229k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/32000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "24.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "299g Light Body",
+      "ko": "299g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 1.80  Lens at Wide",
+      "ko": "Fast 1.80  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.80 Lens at Tele",
+      "ko": "Fast 2.80 Lens at Tele"
+    },
+    {
+      "en": "2359kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Up to 1000fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Dual-axis Electronic Level",
+      "ko": "Dual-axis Electronic Level"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Retractable Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Tiltable Flash",
+      "ko": "플래시"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Low Battery Life: 220 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "70  mm - Poor Telezoom Coverage",
+      "ko": "70  mm - Poor Telezoom Coverage"
+    },
+    {
+      "en": "Optical Zoom only 2.9X",
+      "ko": "Optical Zoom only 2.9X"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2018-07-13",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$759.95",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,229k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Cyber shot DSC RX100 ",
+  "scraped_at": "2026-05-27T14:32:27.679281"
+}

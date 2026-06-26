@@ -1,0 +1,164 @@
+{
+  "slug": "Kodak-EasyShare-Z990",
+  "camera_name": "Kodak Z990",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Kodak_EasyShare_Z990_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Full HD Video",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "6.0fps Shooting w/ Mechanical Shutter",
+    "Manual Focusing",
+    "Manual Exposure",
+    "128 MB Internal Storage",
+    "840mm Good Tele Lens",
+    "30.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide",
+    "AE Bracketing"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "Low Resolution Sensor: 12.0MP",
+    "Heavy Body: 445g.",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.60"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-01-04",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$110.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony HX80Compare",
+    "Brand": "Kodak",
+    "Model": "Kodak EasyShare Z990",
+    "Also known as": "EasyShare Max",
+    "Announced": "2011-01-04",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$110.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "28-840 mm (30×)",
+    "Max Aperture": "F2.8-5.6",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "6.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "128 MB Internal Storage",
+      "ko": "128 MB Internal Storage"
+    },
+    {
+      "en": "840mm Good Tele Lens",
+      "ko": "840mm Good Tele Lens"
+    },
+    {
+      "en": "30.0X Optical Zoom",
+      "ko": "30.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Heavy Body: 445g.",
+      "ko": "Heavy Body: 445g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.60",
+      "ko": "Slow Lens at Tele: f5.60"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-01-04",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$110.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Kodak",
+  "timeline_name": "Kodak EasyShare Z990",
+  "scraped_at": "2026-05-27T15:40:51.164658"
+}

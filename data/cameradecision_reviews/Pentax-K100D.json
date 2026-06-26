@@ -1,0 +1,145 @@
+{
+  "slug": "Pentax-K100D",
+  "camera_name": "Pentax K100D",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Pentax-K100D.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Optical Built-in Viewfinder",
+    "11   Focus Points",
+    "Top LCD Display"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No Video Mode",
+    "No Touch Screen",
+    "0.57x magnification - Small Viewfinder",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 6.0MP",
+    "Max Sensitivity only ISO 3.200",
+    "Small LCD Screen ( 2.50\")",
+    "Low Screen Resolution ( 210kdots )",
+    "Slow Continuous Shooting: 3.0fps",
+    "No Environmental Sealing",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2006-12-03",
+    "Body Type": "Compact SLR",
+    "MSRP": "$0.00",
+    "Lens Mount": "Pentax KAF",
+    "Number of Lenses": "163",
+    "Focal Length Multiplier": "1.5�",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "210k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Pentax K-5Compare",
+    "Brand": "Pentax",
+    "Model": "Pentax K100D",
+    "Successor Model": "Pentax K100D S",
+    "Announced": "2006-12-03",
+    "Body Type": "Compact SLR",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Pentax KAF",
+    "Number of Lenses": "163",
+    "Focal Length Multiplier": "1.5�",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "210k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "11   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.57x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 6.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Small LCD Screen ( 2.50\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 210kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Slow Continuous Shooting: 3.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2006-12-03",
+    "바디 형태": "Compact SLR",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Pentax KAF",
+    "호환 렌즈 수": "163",
+    "크롭 팩터": "1.5�",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.50\"",
+    "LCD 해상도": "210k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Pentax",
+  "timeline_name": "Pentax K100D",
+  "scraped_at": "2026-05-27T16:09:11.632620"
+}

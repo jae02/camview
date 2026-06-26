@@ -1,0 +1,170 @@
+{
+  "slug": "Kodak-EasyShare-M530",
+  "camera_name": "Kodak M530",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Kodak-EasyShare-M530.jpg",
+  "pros": [
+    "150g Light Body",
+    "32 MB Internal Storage",
+    "Fast   Lens at Wide",
+    "Fast  Lens at Tele"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 12.0MP",
+    "Max Sensitivity only ISO 1.000",
+    "Small LCD Screen ( 2.70\")",
+    "Low Screen Resolution ( 230kdots )",
+    "1/1400s Low Max Shutter Speed",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "36  mm - Poor Wide Angle Coverage",
+    "Optical Zoom only 3.0X"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-01-05",
+    "Body Type": "Compact",
+    "MSRP": "$17.75",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Leica Q2Compare",
+    "Brand": "Kodak",
+    "Model": "Kodak EasyShare M530",
+    "Announced": "2010-01-05",
+    "Body Type": "Compact",
+    "MSRP": "$17.75",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "36-108 mm (3×)",
+    "Max Aperture": "",
+    "Macro Focus Range": "10cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "150g Light Body",
+      "ko": "150g Light Body"
+    },
+    {
+      "en": "32 MB Internal Storage",
+      "ko": "32 MB Internal Storage"
+    },
+    {
+      "en": "Fast   Lens at Wide",
+      "ko": "Fast   Lens at Wide"
+    },
+    {
+      "en": "Fast  Lens at Tele",
+      "ko": "Fast  Lens at Tele"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.000",
+      "ko": "Max Sensitivity only ISO 1.000"
+    },
+    {
+      "en": "Small LCD Screen ( 2.70\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "1/1400s Low Max Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "36  mm - Poor Wide Angle Coverage",
+      "ko": "36  mm - Poor Wide Angle Coverage"
+    },
+    {
+      "en": "Optical Zoom only 3.0X",
+      "ko": "Optical Zoom only 3.0X"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-01-05",
+    "바디 형태": "Compact",
+    "출시 가격": "$17.75",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.70\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Kodak",
+  "timeline_name": "Kodak EasyShare M530",
+  "scraped_at": "2026-05-27T15:53:19.021999"
+}

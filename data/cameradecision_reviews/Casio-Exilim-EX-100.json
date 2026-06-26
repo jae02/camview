@@ -1,0 +1,196 @@
+{
+  "slug": "Casio-Exilim-EX-100",
+  "camera_name": "Casio EX-100",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Casio-Exilim-EX-100.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "5-axis    Image Stabilization",
+    "Tilting Screen",
+    "Full HD Video",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "12.800   Max ISO",
+    "25   Focus Points",
+    "Large 3.50\" Screen",
+    "922k dots LCD Resolution",
+    "1/20000s High Shutter Speed",
+    "30.0fps Shooting w/ Mechanical Shutter",
+    "Long Battery Life (390 shots)",
+    "Manual Focusing",
+    "Manual Exposure",
+    "48.9 MB Internal Storage",
+    "Timelapse Recording",
+    "300mm Good Tele Lens",
+    "Fast 2.80  Lens at Wide",
+    "Fast 2.80 Lens at Tele",
+    "Up to 1000fps High Speed Video",
+    "AE Bracketing"
+  ],
+  "cons": [
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "Low Resolution Sensor: 12.0MP",
+    "Heavy Body: 389g.",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2014-02-06",
+    "Body Type": "Compact",
+    "MSRP": "$319.58",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.50\"",
+    "Screen Resolution": "922k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon SX170 ISCompare",
+    "Brand": "Casio",
+    "Model": "Casio Exilim EX-100",
+    "Announced": "2014-02-06",
+    "Body Type": "Compact",
+    "MSRP": "$319.58",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28-300 mm (10.7×)",
+    "Max Aperture": "F2.8",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Tilting",
+    "Screen Technology": "Super Clear LCD",
+    "Screen Size": "3.50\"",
+    "Screen Resolution": "922k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "5-axis    Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting Screen",
+      "ko": "틸트 LCD"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "25   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Large 3.50\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "922k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/20000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "30.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Long Battery Life (390 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "48.9 MB Internal Storage",
+      "ko": "48.9 MB Internal Storage"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "300mm Good Tele Lens",
+      "ko": "300mm Good Tele Lens"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.80 Lens at Tele",
+      "ko": "Fast 2.80 Lens at Tele"
+    },
+    {
+      "en": "Up to 1000fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Heavy Body: 389g.",
+      "ko": "Heavy Body: 389g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2014-02-06",
+    "바디 형태": "Compact",
+    "출시 가격": "$319.58",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.50\"",
+    "LCD 해상도": "922k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Casio",
+  "timeline_name": "Casio Exilim EX 100",
+  "scraped_at": "2026-05-27T14:51:59.391028"
+}

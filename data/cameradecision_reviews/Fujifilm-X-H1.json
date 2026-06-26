@@ -1,0 +1,235 @@
+{
+  "slug": "Fujifilm-X-H1",
+  "camera_name": "Fujifilm X-H1",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Fujifilm-X-H1.jpg",
+  "pros": [
+    "Voice Memo recording",
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "5-axis    Image Stabilization",
+    "Tilting   Screen",
+    "4k at 30fps  and FHD at 60fps  Video Recording",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "12.800   Max ISO",
+    "325   Focus Points",
+    "1.040k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "1/32000s Electronic Shutter Speed",
+    "14.0fps Max Continuous Shooting Speed",
+    "External Microphone Port",
+    "Environmental Sealing",
+    "Timelapse Recording",
+    "3690kdot Viewfinder Resolution",
+    "0.75x magnification - Large Viewfinder",
+    "2 Storage Slots",
+    "Up to 120fps High Speed Video",
+    "Top LCD Display",
+    "Wide AE Bracketing Range: ±5 EV",
+    "Flash Sync Port",
+    "Focus Bracketing",
+    "Focus Stacking",
+    "Remote control with a smartphone",
+    "High Video bit rate of  200mbps",
+    "magnesium-alloy body elements",
+    "Compatible with fast UHS-II cards",
+    "USB Charging"
+  ],
+  "cons": [
+    "Low Battery Life: 310 shots",
+    "1.17x crop on 4K Videos"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2018-02-14",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$1399.99",
+    "Lens Mount": "Fujifilm X",
+    "Number of Lenses": "147",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Fujifilm X-H2SCompare",
+    "Brand": "Fujifilm",
+    "Model": "Fujifilm X-H1",
+    "Successor Model": "Fujifilm X-H2S",
+    "Announced": "2018-02-14",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$1399.99",
+    "Manual Focus": true,
+    "Lens Mount": "Fujifilm X",
+    "Number of Lenses": "147",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Voice Memo recording",
+      "ko": "음성 메모"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "5-axis    Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "4k at 30fps  and FHD at 60fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "325   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.040k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "1/32000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "14.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "3690kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "0.75x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    },
+    {
+      "en": "Wide AE Bracketing Range: ±5 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    },
+    {
+      "en": "Focus Bracketing",
+      "ko": "포커스 브라케팅"
+    },
+    {
+      "en": "Focus Stacking",
+      "ko": "Focus Stacking"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "High Video bit rate of  200mbps",
+      "ko": "동영상 비트레이트"
+    },
+    {
+      "en": "magnesium-alloy body elements",
+      "ko": "magnesium-alloy body elements"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "Low Battery Life: 310 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "1.17x crop on 4K Videos",
+      "ko": "4K 동영상"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2018-02-14",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$1399.99",
+    "렌즈 마운트": "Fujifilm X",
+    "호환 렌즈 수": "147",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,040k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Fujifilm",
+  "timeline_name": "Fujifilm X H1",
+  "scraped_at": "2026-05-27T14:33:36.388396"
+}

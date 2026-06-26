@@ -1,0 +1,146 @@
+{
+  "slug": "Sony-Alpha-DSLR-A700",
+  "camera_name": "Sony A700",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sony-Alpha-A99-II.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Optical Built-in Viewfinder",
+    "11   Focus Points",
+    "920k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "Environmental Sealing",
+    "2 Storage Slots",
+    "Flash Sync Port"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No Video Mode",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 12.0MP",
+    "Heavy Body: 768g",
+    "Poor Low Light Performance",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2007-12-19",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$725.95",
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5�",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony A580Compare",
+    "Brand": "Sony",
+    "Model": "Sony Alpha DSLR-A700",
+    "Predecessor Model": "Konica Minolta 7D",
+    "Successor Model": "Sony A77",
+    "Announced": "2007-12-19",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$725.95",
+    "Manual Focus": true,
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5�",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "11   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "920k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Heavy Body: 768g",
+      "ko": "Heavy Body: 768g"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2007-12-19",
+    "바디 형태": "Mid-size SLR",
+    "출시 가격": "$725.95",
+    "렌즈 마운트": "Sony/Minolta Alpha",
+    "호환 렌즈 수": "143",
+    "크롭 팩터": "1.5�",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "920k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Alpha DSLR A700",
+  "scraped_at": "2026-05-27T16:08:11.820410"
+}

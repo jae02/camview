@@ -1,0 +1,161 @@
+{
+  "slug": "Panasonic-Lumix-DMC-GF7",
+  "camera_name": "Panasonic GF7",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Panasonic-Lumix-DMC-GF7.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "NFC Connectivity",
+    "Tilting   Screen",
+    "and FHD at 60fps  Video Recording",
+    "Touch Screen",
+    "Face Detection Focusing",
+    "25.600   Max ISO",
+    "23   Focus Points",
+    "1.040k dots LCD Resolution",
+    "1/16000s High Shutter Speed",
+    "5.8fps Max Continuous Shooting Speed",
+    "266g Light Body",
+    "Timelapse Recording",
+    "Remote control with a smartphone"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No External Flash Shoe",
+    "No Built-in Viewfinder",
+    "No External Viewfinder Option",
+    "Low Battery Life: 230 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2015-02-01",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$0.00",
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Panasonic G7Compare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-GF7",
+    "Predecessor Model": "Panasonic GF6",
+    "Successor Model": "Panasonic GF8",
+    "Announced": "2015-02-01",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "and FHD at 60fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "23   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.040k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/16000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "5.8fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "266g Light Body",
+      "ko": "266g Light Body"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No External Viewfinder Option",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Battery Life: 230 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2015-02-01",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Micro Four Thirds",
+    "호환 렌즈 수": "132",
+    "크롭 팩터": "2×",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,040k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC GF7",
+  "scraped_at": "2026-05-27T14:44:41.027399"
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Leica-T-Typ-701",
+  "camera_name": "Leica T  Typ 701",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Leica-T-Type701.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "and FHD at 30fps  Video Recording",
+    "Touch Screen",
+    "Electronic (Optional)   Optional Viewfinder",
+    "Face Detection Focusing",
+    "Large 3.70\" Screen",
+    "1.300k dots LCD Resolution",
+    "384g Light Body",
+    "2360kdot Viewfinder Resolution",
+    "0.7x magnification - Large Viewfinder",
+    "Good Low Light ISO - 1082",
+    "Remote control with a smartphone"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Built-in Viewfinder",
+    "Low Battery Life: 400 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2014-04-24",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$725.00",
+    "Lens Mount": "Leica TL",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.70\"",
+    "Screen Resolution": "1,300k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Leica SLCompare",
+    "Brand": "Leica",
+    "Model": "Leica T Typ 701",
+    "Announced": "2014-04-24",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$725.00",
+    "Manual Focus": true,
+    "Lens Mount": "Leica TL",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.70\"",
+    "Screen Resolution": "1,300k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "and FHD at 30fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Large 3.70\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "1.300k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "384g Light Body",
+      "ko": "384g Light Body"
+    },
+    {
+      "en": "2360kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "0.7x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Good Low Light ISO - 1082",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Battery Life: 400 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2014-04-24",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$725.00",
+    "렌즈 마운트": "Leica TL",
+    "호환 렌즈 수": "138",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.70\"",
+    "LCD 해상도": "1,300k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Leica",
+  "timeline_name": "Leica T Typ 701",
+  "scraped_at": "2026-05-27T14:48:47.862363"
+}

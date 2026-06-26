@@ -1,0 +1,140 @@
+{
+  "slug": "Sony-Alpha-DSLR-A550",
+  "camera_name": "Sony A550",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Sony_Alpha_DSLR-A550_4.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Tilting   Screen",
+    "Optical Built-in Viewfinder",
+    "Face Detection Focusing",
+    "12.800   Max ISO",
+    "922k dots LCD Resolution",
+    "7.0fps Max Continuous Shooting Speed"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Video Mode",
+    "No Touch Screen",
+    "0.53x magnification - Small Viewfinder",
+    "Low Resolution Sensor: 14.0MP",
+    "Only 9  Focus Points",
+    "Low Battery Life: 480 shots",
+    "No Environmental Sealing",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2009-12-09",
+    "Body Type": "Compact SLR",
+    "MSRP": "$319.95",
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5×",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "922k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony A560Compare",
+    "Brand": "Sony",
+    "Model": "Sony Alpha DSLR-A550",
+    "Predecessor Model": "Sony A100",
+    "Announced": "2009-12-09",
+    "Body Type": "Compact SLR",
+    "MSRP": "$319.95",
+    "Manual Focus": true,
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "922k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "922k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "7.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.53x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Low Resolution Sensor: 14.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Low Battery Life: 480 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2009-12-09",
+    "바디 형태": "Compact SLR",
+    "출시 가격": "$319.95",
+    "렌즈 마운트": "Sony/Minolta Alpha",
+    "호환 렌즈 수": "143",
+    "크롭 팩터": "1.5×",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "922k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Alpha DSLR A550",
+  "scraped_at": "2026-05-27T15:53:50.957987"
+}

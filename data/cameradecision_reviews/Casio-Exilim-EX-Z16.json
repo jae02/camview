@@ -1,0 +1,155 @@
+{
+  "slug": "Casio-Exilim-EX-Z16",
+  "camera_name": "Casio EX-Z16",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Casio-Exilim-EX-Z16.jpg",
+  "pros": [
+    "Image Stabilization",
+    "148g Light Body",
+    "Manual Focusing"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 12.0MP",
+    "Max Sensitivity only ISO 1.600",
+    "Only Unknown  Focus Points",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "36  mm - Poor Wide Angle Coverage",
+    "Optical Zoom only 3.0X",
+    "Slow Lens at Wide: f3.20",
+    "Slow Lens at Tele: f5.70"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-09-20",
+    "Body Type": "Ultracompact",
+    "MSRP": "$0.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "\"",
+    "Screen Resolution": "0k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon D300Compare",
+    "Brand": "Casio",
+    "Model": "Casio Exilim EX-Z16",
+    "Announced": "2010-09-20",
+    "Body Type": "Ultracompact",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "36-107 mm (3×)",
+    "Max Aperture": "F3.2-5.7",
+    "Macro Focus Range": "7cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "\"",
+    "Screen Resolution": "0k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "148g Light Body",
+      "ko": "148g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Only Unknown  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "36  mm - Poor Wide Angle Coverage",
+      "ko": "36  mm - Poor Wide Angle Coverage"
+    },
+    {
+      "en": "Optical Zoom only 3.0X",
+      "ko": "Optical Zoom only 3.0X"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.20",
+      "ko": "Slow Lens at Wide: f3.20"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.70",
+      "ko": "Slow Lens at Tele: f5.70"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-09-20",
+    "바디 형태": "Ultracompact",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "\"",
+    "LCD 해상도": "0k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Casio",
+  "timeline_name": "Casio Exilim EX Z16",
+  "scraped_at": "2026-05-27T15:42:14.743350"
+}

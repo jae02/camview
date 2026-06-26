@@ -1,0 +1,214 @@
+{
+  "slug": "Nikon-Coolpix-P1000",
+  "camera_name": "Nikon P1000",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Nikon-Coolpix-P1000.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "Image Stabilization",
+    "Fully Articulated Screen",
+    "External Flash Shoe",
+    "4K (UHD) Video",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "Large 3.20\" Screen",
+    "921k dots LCD Resolution",
+    "1/4000s High Shutter Speed",
+    "7.0fps Shooting w/ Mechanical Shutter",
+    "Manual Focusing",
+    "Manual Exposure",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "24mm Wide Angle Lens",
+    "3000mm Good Tele Lens",
+    "125.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide",
+    "2359kdot Viewfinder Resolution",
+    "AE Bracketing",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Remote control with a smartphone",
+    "USB Charging"
+  ],
+  "cons": [
+    "No Touch Screen",
+    "Low Battery Life: 250 shots",
+    "Heavy Body: 1415g.",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f8.00"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2018-07-10",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$1110.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.20\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Panasonic FZ1000Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon Coolpix P1000",
+    "Predecessor Model": "Nikon P900",
+    "Announced": "2018-07-10",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$1110.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "24-3000 mm (125x)",
+    "Max Aperture": "F2.8-8",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.20\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "4K (UHD) Video",
+      "ko": "4K 동영상"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Large 3.20\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/4000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "7.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "3000mm Good Tele Lens",
+      "ko": "3000mm Good Tele Lens"
+    },
+    {
+      "en": "125.0X Optical Zoom",
+      "ko": "125.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "2359kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Low Battery Life: 250 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "Heavy Body: 1415g.",
+      "ko": "Heavy Body: 1415g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f8.00",
+      "ko": "Slow Lens at Tele: f8.00"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2018-07-10",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$1110.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.20\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon Coolpix P1000",
+  "scraped_at": "2026-05-27T14:32:31.621643"
+}

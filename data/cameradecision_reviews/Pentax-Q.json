@@ -1,0 +1,136 @@
+{
+  "slug": "Pentax-Q",
+  "camera_name": "Pentax Q",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Pentax-Q-ek-fs.jpg",
+  "pros": [
+    "Image Stabilization",
+    "25   Focus Points",
+    "180g Light Body"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No External Viewfinder Option",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 12.0MP",
+    "Low Max Shutter Speed: 1/2000s",
+    "Slow Continuous Shooting: 2.0fps",
+    "Low Battery Life: 230 shots",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-06-23",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$249.00",
+    "Lens Mount": "Pentax Q",
+    "Number of Lenses": "8",
+    "Focal Length Multiplier": "5.53×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon D3SCompare",
+    "Brand": "Pentax",
+    "Model": "Pentax Q",
+    "Successor Model": "Pentax Q10",
+    "Announced": "2011-06-23",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$249.00",
+    "Manual Focus": true,
+    "Lens Mount": "Pentax Q",
+    "Number of Lenses": "8",
+    "Focal Length Multiplier": "5.53×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT Color LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "25   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "180g Light Body",
+      "ko": "180g Light Body"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No External Viewfinder Option",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Low Max Shutter Speed: 1/2000s",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 2.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 230 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-06-23",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$249.00",
+    "렌즈 마운트": "Pentax Q",
+    "호환 렌즈 수": "8",
+    "크롭 팩터": "5.53×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Pentax",
+  "timeline_name": "Pentax Q",
+  "scraped_at": "2026-05-27T15:29:34.393000"
+}

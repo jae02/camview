@@ -27,7 +27,20 @@ interface ReviewCardProps {
  */
 export default function ReviewCard({ review }: ReviewCardProps) {
   const [isExpanded, setIsExpanded] = useState(false);
+  const [helpfulCount, setHelpfulCount] = useState(review.helpful);
+  const [hasVoted, setHasVoted] = useState(false);
 
+  const handleHelpful = async () => {
+    if (hasVoted) return;
+    setHasVoted(true);
+    setHelpfulCount(prev => prev + 1);
+    try {
+      await fetch(`/api/reviews/${review.id}/helpful`, { method: 'POST' });
+    } catch {
+      setHelpfulCount(prev => prev - 1);
+      setHasVoted(false);
+    }
+  };
   const formattedDate = new Date(review.createdAt).toLocaleDateString("ko-KR", {
     year: "numeric",
     month: "long",
@@ -226,29 +239,18 @@ export default function ReviewCard({ review }: ReviewCardProps) {
           style={{ borderTop: "1px solid var(--border-subtle)" }}
         >
           <button
+            onClick={handleHelpful}
             className="flex items-center gap-1.5 text-xs font-medium px-3 py-1.5 rounded-lg"
             style={{
-              color: "var(--text-tertiary)",
-              background: "transparent",
-              border: "1px solid var(--border-subtle)",
-              cursor: "pointer",
-              transition: "var(--transition-fast)",
-            }}
-            onMouseEnter={(e) => {
-              const el = e.currentTarget as HTMLElement;
-              el.style.color = "var(--text-primary)";
-              el.style.borderColor = "var(--border-strong)";
-              el.style.background = "var(--bg-tertiary)";
-            }}
-            onMouseLeave={(e) => {
-              const el = e.currentTarget as HTMLElement;
-              el.style.color = "var(--text-tertiary)";
-              el.style.borderColor = "var(--border-subtle)";
-              el.style.background = "transparent";
+              color: hasVoted ? 'var(--accent-primary)' : 'var(--text-tertiary)',
+              background: hasVoted ? 'var(--accent-glow)' : 'transparent',
+              border: `1px solid ${hasVoted ? 'var(--accent-secondary)' : 'var(--border-subtle)'}`,
+              cursor: hasVoted ? 'default' : 'pointer',
+              transition: 'var(--transition-fast)',
             }}
           >
             <ThumbsUp className="w-3.5 h-3.5" />
-            도움이 됐어요 ({review.helpful})
+            도움이 됐어요 ({helpfulCount})
           </button>
 
           <span className="text-xs" style={{ color: "var(--text-muted)" }}>

@@ -1,0 +1,304 @@
+{
+  "slug": "Panasonic-Lumix-S9",
+  "camera_name": "Panasonic S9",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Panasonic-Lumix-S9.jpg",
+  "pros": [
+    "Dual Native ISO: 640, 4000",
+    "Pre-Shooting Buffer",
+    "Real-time LUT Applied Shooting",
+    "Anamorphic Support",
+    "Open-Gate Capture",
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "5-axis    Image Stabilization",
+    "Fully Articulated   Screen",
+    "6K at 30fps , 4K at 60fps  and FHD at 120fps  Video Recording",
+    "No crop on 4K Videos",
+    "10-bit 4:2:2 Color Sampling",
+    "Touch Screen",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "51.200   Max ISO",
+    "779   Focus Points",
+    "1.840k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "1/8000s Electronic Shutter Speed",
+    "Digital video stabilization",
+    "30.0fps Max Continuous Shooting Speed",
+    "486g Light Body",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "96 MP Sensor Shift High Resolution Mode",
+    "4K Photo (8MP photos)",
+    "6K Photo (18MP photos)",
+    "Post Focus Mode",
+    "Focus Bracketing",
+    "Focus Stacking",
+    "Remote control with a smartphone",
+    "EV -6  Focus Sensitivity",
+    "High Video bit rate of  200mbps",
+    "Real time Animal Eye AF",
+    "Compatible with fast UHS-II cards",
+    "Webcam Functionality",
+    "S-Log Recording",
+    "Live Composite Mode",
+    "USB Charging",
+    "USB 3.2 Gen 2 (10 GBit/sec)",
+    "Vehicle Tracking AF Mode"
+  ],
+  "cons": [
+    "No Mechanical Shutter",
+    "No External Flash Shoe",
+    "No Built-in Viewfinder",
+    "No External Viewfinder Option",
+    "Low Battery Life: 470 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2024-05-22",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$1499.00",
+    "Lens Mount": "Leica L",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1x",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,840k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Nikon ZfCompare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix S9",
+    "Announced": "2024-05-22",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$1499.00",
+    "Manual Focus": true,
+    "Lens Mount": "Leica L",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,840k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Dual Native ISO: 640, 4000",
+      "ko": "듀얼 네이티브 ISO"
+    },
+    {
+      "en": "Pre-Shooting Buffer",
+      "ko": "Pre-Shooting Buffer"
+    },
+    {
+      "en": "Real-time LUT Applied Shooting",
+      "ko": "Real-time LUT Applied Shooting"
+    },
+    {
+      "en": "Anamorphic Support",
+      "ko": "Anamorphic Support"
+    },
+    {
+      "en": "Open-Gate Capture",
+      "ko": "Open-Gate Capture"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "5-axis    Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "6K at 30fps , 4K at 60fps  and FHD at 120fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "No crop on 4K Videos",
+      "ko": "크롭 없음"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "51.200   Max ISO",
+      "ko": "51.200   Max ISO"
+    },
+    {
+      "en": "779   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.840k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "1/8000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "Digital video stabilization",
+      "ko": "Digital video stabilization"
+    },
+    {
+      "en": "30.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "486g Light Body",
+      "ko": "486g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "96 MP Sensor Shift High Resolution Mode",
+      "ko": "고해상도 모드"
+    },
+    {
+      "en": "4K Photo (8MP photos)",
+      "ko": "화소"
+    },
+    {
+      "en": "6K Photo (18MP photos)",
+      "ko": "화소"
+    },
+    {
+      "en": "Post Focus Mode",
+      "ko": "Post Focus Mode"
+    },
+    {
+      "en": "Focus Bracketing",
+      "ko": "포커스 브라케팅"
+    },
+    {
+      "en": "Focus Stacking",
+      "ko": "Focus Stacking"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "EV -6  Focus Sensitivity",
+      "ko": "AF 감도"
+    },
+    {
+      "en": "High Video bit rate of  200mbps",
+      "ko": "동영상 비트레이트"
+    },
+    {
+      "en": "Real time Animal Eye AF",
+      "ko": "동물 눈 인식 AF"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "S-Log Recording",
+      "ko": "S-Log"
+    },
+    {
+      "en": "Live Composite Mode",
+      "ko": "화소"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    },
+    {
+      "en": "USB 3.2 Gen 2 (10 GBit/sec)",
+      "ko": "USB"
+    },
+    {
+      "en": "Vehicle Tracking AF Mode",
+      "ko": "차량 추적 AF"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No External Viewfinder Option",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Battery Life: 470 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2024-05-22",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$1499.00",
+    "렌즈 마운트": "Leica L",
+    "호환 렌즈 수": "138",
+    "크롭 팩터": "1x",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,840k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix S9",
+  "scraped_at": "2026-05-27T14:10:28.965628"
+}

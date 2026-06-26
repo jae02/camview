@@ -1,0 +1,143 @@
+{
+  "slug": "Canon-EOS-550D",
+  "camera_name": "Canon 550D",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Canon-EOS-550D-ek-fs.jpg",
+  "pros": [
+    "Optical Built-in Viewfinder",
+    "Face Detection Focusing",
+    "18.0MP - High Resolution Sensor",
+    "1.040k dots LCD Resolution",
+    "530g Light Body",
+    "External Microphone Port"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "0.55x magnification - Small Viewfinder",
+    "Only 9  Focus Points",
+    "Low Battery Life: 470 shots",
+    "No Environmental Sealing",
+    "Not so wide AE Bracketing Range: ±2 EV",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-04-01",
+    "Body Type": "Compact SLR",
+    "MSRP": "$189.99",
+    "Lens Mount": "Canon EF/EF-S",
+    "Number of Lenses": "333",
+    "Focal Length Multiplier": "1.6×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon 650DCompare",
+    "Brand": "Canon",
+    "Model": "Canon EOS 550D",
+    "Also known as": "EOS Rebel T2i / EOS Kiss X4",
+    "Predecessor Model": "Canon 500D",
+    "Successor Model": "Canon 600D",
+    "Announced": "2010-04-01",
+    "Body Type": "Compact SLR",
+    "MSRP": "$189.99",
+    "Manual Focus": true,
+    "Lens Mount": "Canon EF/EF-S",
+    "Number of Lenses": "333",
+    "Focal Length Multiplier": "1.6×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT color liquid-crystal LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "18.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "1.040k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "530g Light Body",
+      "ko": "530g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.55x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Low Battery Life: 470 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Not so wide AE Bracketing Range: ±2 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-04-01",
+    "바디 형태": "Compact SLR",
+    "출시 가격": "$189.99",
+    "렌즈 마운트": "Canon EF/EF-S",
+    "호환 렌즈 수": "333",
+    "크롭 팩터": "1.6×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,040k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon EOS 550D",
+  "scraped_at": "2026-05-27T15:47:11.366027"
+}

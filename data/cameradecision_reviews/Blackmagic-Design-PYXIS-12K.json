@@ -1,0 +1,284 @@
+{
+  "slug": "Blackmagic-Design-PYXIS-12K",
+  "camera_name": "Blackmagic PYXIS 12K",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Blackmagic-Design-PYXIS-12K.jpg",
+  "pros": [
+    "Timecode Terminal",
+    "IP Streaming",
+    "1 x  SDI (12G-SDI up to 2160p60)",
+    "RAW Video Recording Capability",
+    "External SSD Recording",
+    "Shutter Angle Setting",
+    "1 x mini XLR analog audio in",
+    "Waveform for Video",
+    "Vector Scope for Video",
+    "On-body Mounting Points",
+    "Real-time LUT Applied Shooting",
+    "Anamorphic Support",
+    "Open-Gate Capture",
+    "Unlimited Video Recording (no 30min limit)",
+    "Active Cooling ensures no overheating during Video",
+    "Bluetooth Connectivity",
+    "12K OpenGate at 40fps , 12K (2.4:1) at 60fps , 9K at 80fps  and 8K at 112fps  Video Recording",
+    "No crop on 4K Videos",
+    "10-bit 4:2:2 Color Sampling",
+    "Touch Screen",
+    "Electronic (Optional)   Optional Viewfinder",
+    "98.8MP - High Resolution Sensor",
+    "25.600   Max ISO",
+    "Large 4.00\" Screen",
+    "2.074k dots LCD Resolution",
+    "External Microphone Port",
+    "External Headphone Port",
+    "2 Storage Slots",
+    "Up to 112fps High Speed Video",
+    "Remote control with a smartphone",
+    "Compatible with ultra fast Type B CFexpress cards",
+    "Webcam Functionality",
+    "Tally/Front recording light",
+    "USB 3.2 Gen 1 (5 GBit/sec)",
+    "Ethernet Port"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Built-in Viewfinder",
+    "No Face Detection Focusing",
+    "Low Max Shutter Speed: 1/s",
+    "Slow Continuous Shooting: 1.0fps",
+    "Heavy Body: 1500g",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2025-04-12",
+    "Body Type": "Box-Style Cinema",
+    "MSRP": "$4995.00",
+    "Lens Mount": "Leica L",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "4.00\"",
+    "Screen Resolution": "2,074k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Canon EOS C400Compare",
+    "Brand": "Blackmagic",
+    "Model": "Blackmagic Design PYXIS 12K",
+    "Announced": "2025-04-12",
+    "Body Type": "Box-Style Cinema",
+    "MSRP": "$4995.00",
+    "Manual Focus": true,
+    "Lens Mount": "Leica L",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "4.00\"",
+    "Screen Resolution": "2,074k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Timecode Terminal",
+      "ko": "Timecode Terminal"
+    },
+    {
+      "en": "IP Streaming",
+      "ko": "IP Streaming"
+    },
+    {
+      "en": "1 x  SDI (12G-SDI up to 2160p60)",
+      "ko": "SD 카드"
+    },
+    {
+      "en": "RAW Video Recording Capability",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "External SSD Recording",
+      "ko": "SD 카드"
+    },
+    {
+      "en": "Shutter Angle Setting",
+      "ko": "Shutter Angle Setting"
+    },
+    {
+      "en": "1 x mini XLR analog audio in",
+      "ko": "1 x mini XLR analog audio in"
+    },
+    {
+      "en": "Waveform for Video",
+      "ko": "Waveform for Video"
+    },
+    {
+      "en": "Vector Scope for Video",
+      "ko": "Vector Scope for Video"
+    },
+    {
+      "en": "On-body Mounting Points",
+      "ko": "On-body Mounting Points"
+    },
+    {
+      "en": "Real-time LUT Applied Shooting",
+      "ko": "Real-time LUT Applied Shooting"
+    },
+    {
+      "en": "Anamorphic Support",
+      "ko": "Anamorphic Support"
+    },
+    {
+      "en": "Open-Gate Capture",
+      "ko": "Open-Gate Capture"
+    },
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Active Cooling ensures no overheating during Video",
+      "ko": "Active Cooling ensures no overheating during Video"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "12K OpenGate at 40fps , 12K (2.4:1) at 60fps , 9K at 80fps  and 8K at 112fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "No crop on 4K Videos",
+      "ko": "크롭 없음"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "98.8MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "Large 4.00\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "2.074k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Up to 112fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Compatible with ultra fast Type B CFexpress cards",
+      "ko": "CFexpress"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "Tally/Front recording light",
+      "ko": "Tally/Front recording light"
+    },
+    {
+      "en": "USB 3.2 Gen 1 (5 GBit/sec)",
+      "ko": "USB"
+    },
+    {
+      "en": "Ethernet Port",
+      "ko": "Ethernet Port"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Max Shutter Speed: 1/s",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Heavy Body: 1500g",
+      "ko": "Heavy Body: 1500g"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2025-04-12",
+    "바디 형태": "Box-Style Cinema",
+    "출시 가격": "$4995.00",
+    "렌즈 마운트": "Leica L",
+    "호환 렌즈 수": "138",
+    "크롭 팩터": "1×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "4.00\"",
+    "LCD 해상도": "2,074k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Blackmagic",
+  "timeline_name": "Blackmagic Design PYXIS 12K",
+  "scraped_at": "2026-05-27T14:07:16.520588"
+}

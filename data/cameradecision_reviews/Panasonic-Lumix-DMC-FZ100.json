@@ -1,0 +1,189 @@
+{
+  "slug": "Panasonic-Lumix-DMC-FZ100",
+  "camera_name": "Panasonic FZ100",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Panasonic_Lumix_DMC-FZ100_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Fully Articulated Screen",
+    "External Flash Shoe",
+    "Full HD Video",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "11.0fps Shooting w/ Mechanical Shutter",
+    "Manual Focusing",
+    "Manual Exposure",
+    "External Microphone Port",
+    "40 MB Internal Storage",
+    "25mm Wide Angle Lens",
+    "600mm Good Tele Lens",
+    "24.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide",
+    "Up to 220fps High Speed Video",
+    "AE Bracketing",
+    "Selfie & Vlogger Friendly LCD Screen"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Touch Screen",
+    "Low Resolution Sensor: 14.0MP",
+    "Only Unknown  Focus Points",
+    "Heavy Body: 540g.",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.20"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-07-21",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$229.95",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Panasonic FZ47Compare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-FZ100",
+    "Successor Model": "Panasonic FZ200",
+    "Announced": "2010-07-21",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$229.95",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "25-600 mm (24x)",
+    "Max Aperture": "F2.8-5.2",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "11.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "40 MB Internal Storage",
+      "ko": "40 MB Internal Storage"
+    },
+    {
+      "en": "25mm Wide Angle Lens",
+      "ko": "25mm Wide Angle Lens"
+    },
+    {
+      "en": "600mm Good Tele Lens",
+      "ko": "600mm Good Tele Lens"
+    },
+    {
+      "en": "24.0X Optical Zoom",
+      "ko": "24.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "Up to 220fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Low Resolution Sensor: 14.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Only Unknown  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Heavy Body: 540g.",
+      "ko": "Heavy Body: 540g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.20",
+      "ko": "Slow Lens at Tele: f5.20"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-07-21",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$229.95",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC FZ100",
+  "scraped_at": "2026-05-27T15:43:47.554628"
+}

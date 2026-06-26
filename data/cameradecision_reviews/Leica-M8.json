@@ -1,0 +1,145 @@
+{
+  "slug": "Leica-M8",
+  "camera_name": "Leica M8",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Leica-M8.jpg",
+  "pros": [
+    "Optical Built-in Viewfinder",
+    "1/8000s High Shutter Speed",
+    "Long Battery Life (550 shots)",
+    "591g Light Body"
+  ],
+  "cons": [
+    "No Auto Focus",
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Video Mode",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 10.0MP",
+    "Max Sensitivity only ISO 2.500",
+    "Small LCD Screen ( 2.50\")",
+    "Low Screen Resolution ( 230kdots )",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2007-07-31",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$1648.00",
+    "Lens Mount": "Leica M",
+    "Number of Lenses": "83",
+    "Focal Length Multiplier": "1.3×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Fujifilm X100VICompare",
+    "Brand": "Leica",
+    "Model": "Leica M8",
+    "Successor Model": "Leica M8.2",
+    "Announced": "2007-07-31",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$1648.00",
+    "Manual Focus": true,
+    "Lens Mount": "Leica M",
+    "Number of Lenses": "83",
+    "Focal Length Multiplier": "1.3×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "230k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Long Battery Life (550 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "591g Light Body",
+      "ko": "591g Light Body"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Auto Focus",
+      "ko": "No Auto Focus"
+    },
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 2.500",
+      "ko": "Max Sensitivity only ISO 2.500"
+    },
+    {
+      "en": "Small LCD Screen ( 2.50\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2007-07-31",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$1648.00",
+    "렌즈 마운트": "Leica M",
+    "호환 렌즈 수": "83",
+    "크롭 팩터": "1.3×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.50\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Leica",
+  "timeline_name": "Leica M8",
+  "scraped_at": "2026-05-27T16:06:48.080432"
+}

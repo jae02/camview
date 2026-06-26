@@ -1,0 +1,142 @@
+{
+  "slug": "Nikon-1-V2",
+  "camera_name": "Nikon 1 V2",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon-1-V2-ek-fs.jpg",
+  "pros": [
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "73   Focus Points",
+    "921k dots LCD Resolution",
+    "1/16000s Electronic Shutter Speed",
+    "15.0fps Max Continuous Shooting Speed",
+    "278g Light Body",
+    "1440kdot Viewfinder Resolution"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "Low Resolution Sensor: 14.0MP",
+    "Low Battery Life: 310 shots",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-10-24",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$788.00",
+    "Lens Mount": "Nikon 1",
+    "Number of Lenses": "13",
+    "Focal Length Multiplier": "2.7x",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon 1 AW1Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon 1 V2",
+    "Predecessor Model": "Nikon 1 V1",
+    "Successor Model": "Nikon 1 V3",
+    "Announced": "2012-10-24",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$788.00",
+    "Manual Focus": true,
+    "Lens Mount": "Nikon 1",
+    "Number of Lenses": "13",
+    "Focal Length Multiplier": "2.7x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "73   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/16000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "15.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "278g Light Body",
+      "ko": "278g Light Body"
+    },
+    {
+      "en": "1440kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Low Resolution Sensor: 14.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Low Battery Life: 310 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-10-24",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$788.00",
+    "렌즈 마운트": "Nikon 1",
+    "호환 렌즈 수": "13",
+    "크롭 팩터": "2.7x",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon 1 V2",
+  "scraped_at": "2026-05-27T15:05:55.884483"
+}

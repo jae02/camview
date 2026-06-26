@@ -1,0 +1,266 @@
+{
+  "slug": "Sony-Cyber-shot-DSC-RX1R-III",
+  "camera_name": "Sony RX1R III",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sony-Cyber-shot-DSC-RX1R-III.jpg",
+  "pros": [
+    "Unlimited Video Recording (no 30min limit)",
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "External Flash Shoe",
+    "4K (UHD) Video",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "61.0MP - High Resolution Sensor",
+    "32.000   Max ISO",
+    "693   Focus Points",
+    "2.359k dots LCD Resolution",
+    "1/4000s High Shutter Speed",
+    "1/8000s Electronic Shutter Speed",
+    "Manual Focusing",
+    "Manual Exposure",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "Fast 2.00  Lens at Wide",
+    "Fast 2.00 Lens at Tele",
+    "2360kdot Viewfinder Resolution",
+    "Up to 120fps High Speed Video",
+    "AE Bracketing",
+    "Wide AE Bracketing Range: ±5 EV",
+    "Multi-function Hotshoe",
+    "Focus Bracketing",
+    "Remote control with a smartphone",
+    "High Video bit rate of  300mbps",
+    "10-bit 4:2:2 Color Sampling",
+    "Digital video stabilization",
+    "UHS-II Memory Card Support",
+    "Real time Animal Eye AF",
+    "Webcam Functionality",
+    "S-Log Recording",
+    "USB Charging",
+    "USB 3.2 Gen 1 (5 GBit/sec)",
+    "Vehicle Tracking AF Mode"
+  ],
+  "cons": [
+    "No Image Stabilization",
+    "No Articulating Screen",
+    "Heavy Body: 498g.",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2025-07-15",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$5098.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "2,359k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Sony A7R VCompare",
+    "Brand": "Sony",
+    "Model": "Sony Cyber-shot DSC-RX1R III",
+    "Predecessor Model": "Sony RX1R II",
+    "Announced": "2025-07-15",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$5098.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "35 mm (1x)",
+    "Max Aperture": "F2.0",
+    "Macro Focus Range": "14cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "2,359k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "4K (UHD) Video",
+      "ko": "4K 동영상"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "61.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "32.000   Max ISO",
+      "ko": "32.000   Max ISO"
+    },
+    {
+      "en": "693   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "2.359k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/4000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "1/8000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "Fast 2.00  Lens at Wide",
+      "ko": "Fast 2.00  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.00 Lens at Tele",
+      "ko": "Fast 2.00 Lens at Tele"
+    },
+    {
+      "en": "2360kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Wide AE Bracketing Range: ±5 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Multi-function Hotshoe",
+      "ko": "Multi-function Hotshoe"
+    },
+    {
+      "en": "Focus Bracketing",
+      "ko": "포커스 브라케팅"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "High Video bit rate of  300mbps",
+      "ko": "동영상 비트레이트"
+    },
+    {
+      "en": "10-bit 4:2:2 Color Sampling",
+      "ko": "10비트"
+    },
+    {
+      "en": "Digital video stabilization",
+      "ko": "Digital video stabilization"
+    },
+    {
+      "en": "UHS-II Memory Card Support",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "Real time Animal Eye AF",
+      "ko": "동물 눈 인식 AF"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "S-Log Recording",
+      "ko": "S-Log"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    },
+    {
+      "en": "USB 3.2 Gen 1 (5 GBit/sec)",
+      "ko": "USB"
+    },
+    {
+      "en": "Vehicle Tracking AF Mode",
+      "ko": "차량 추적 AF"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "Heavy Body: 498g.",
+      "ko": "Heavy Body: 498g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2025-07-15",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$5098.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "2,359k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Cyber shot DSC RX1R III",
+  "scraped_at": "2026-05-27T14:06:37.188010"
+}

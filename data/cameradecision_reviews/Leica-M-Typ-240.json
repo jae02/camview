@@ -1,0 +1,120 @@
+{
+  "slug": "Leica-M-Typ-240",
+  "camera_name": "Leica M Typ 240",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Leica_M_Typ_240_0.jpg",
+  "pros": [
+    "Optical Built-in Viewfinder",
+    "24.0MP - High Resolution Sensor",
+    "920k dots LCD Resolution",
+    "Environmental Sealing",
+    "Good Low Light ISO - 1860"
+  ],
+  "cons": [
+    "No Auto Focus",
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Slow Continuous Shooting: 3.0fps"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-09-17",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$3999.99",
+    "Lens Mount": "Leica M",
+    "Number of Lenses": "83",
+    "Focal Length Multiplier": "1×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Leica SLCompare",
+    "Brand": "Leica",
+    "Model": "Leica M Typ 240",
+    "Announced": "2012-09-17",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$3999.99",
+    "Manual Focus": true,
+    "Lens Mount": "Leica M",
+    "Number of Lenses": "83",
+    "Focal Length Multiplier": "1×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT color LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "920k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "Good Low Light ISO - 1860",
+      "ko": "저조도 ISO 성능"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Auto Focus",
+      "ko": "No Auto Focus"
+    },
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Slow Continuous Shooting: 3.0fps",
+      "ko": "연속 촬영"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-09-17",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$3999.99",
+    "렌즈 마운트": "Leica M",
+    "호환 렌즈 수": "83",
+    "크롭 팩터": "1×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "920k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Leica",
+  "timeline_name": "Leica M Typ 240",
+  "scraped_at": "2026-05-27T15:06:10.662684"
+}

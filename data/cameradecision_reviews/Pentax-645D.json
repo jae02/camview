@@ -1,0 +1,181 @@
+{
+  "slug": "Pentax-645D",
+  "camera_name": "Pentax 645D",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Pentax-645D.jpg",
+  "pros": [
+    "Optical Built-in Viewfinder",
+    "40.0MP - High Resolution Sensor",
+    "11   Focus Points",
+    "921k dots LCD Resolution",
+    "Long Battery Life (800 shots)",
+    "Environmental Sealing",
+    "Timelapse Recording",
+    "0.85x magnification - Large Viewfinder",
+    "Good Low Light ISO - 1262",
+    "2 Storage Slots",
+    "Top LCD Display",
+    "Flash Sync Port",
+    "AF Micro Adjustment (Fine Tune)",
+    "Dual-axis Electronic Level"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Video Mode",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Max Sensitivity only ISO 1.600",
+    "Slow Continuous Shooting: 1.0fps",
+    "Heavy Body: 1480g",
+    "Not so wide AE Bracketing Range: ±2 EV"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-03-10",
+    "Body Type": "Large SLR",
+    "MSRP": "$1899.99",
+    "Lens Mount": "Pentax 645AF2",
+    "Number of Lenses": "6",
+    "Focal Length Multiplier": "0.8×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon 760DCompare",
+    "Brand": "Pentax",
+    "Model": "Pentax 645D",
+    "Successor Model": "Pentax 645Z",
+    "Announced": "2010-03-10",
+    "Body Type": "Large SLR",
+    "MSRP": "$1899.99",
+    "Manual Focus": true,
+    "Lens Mount": "Pentax 645AF2",
+    "Number of Lenses": "6",
+    "Focal Length Multiplier": "0.8×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT Color LCD with wide-viewing angle and with AR coating",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "40.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "11   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "Long Battery Life (800 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "0.85x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Good Low Light ISO - 1262",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    },
+    {
+      "en": "AF Micro Adjustment (Fine Tune)",
+      "ko": "AF Micro Adjustment (Fine Tune)"
+    },
+    {
+      "en": "Dual-axis Electronic Level",
+      "ko": "Dual-axis Electronic Level"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Heavy Body: 1480g",
+      "ko": "Heavy Body: 1480g"
+    },
+    {
+      "en": "Not so wide AE Bracketing Range: ±2 EV",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-03-10",
+    "바디 형태": "Large SLR",
+    "출시 가격": "$1899.99",
+    "렌즈 마운트": "Pentax 645AF2",
+    "호환 렌즈 수": "6",
+    "크롭 팩터": "0.8×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Pentax",
+  "timeline_name": "Pentax 645D",
+  "scraped_at": "2026-05-27T15:47:19.555726"
+}

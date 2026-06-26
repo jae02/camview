@@ -1,0 +1,141 @@
+{
+  "slug": "Sony-Alpha-NEX-3",
+  "camera_name": "Sony NEX-3",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-NEX-3.jpg",
+  "pros": [
+    "Tilting   Screen",
+    "Face Detection Focusing",
+    "12.800   Max ISO",
+    "25   Focus Points",
+    "920k dots LCD Resolution",
+    "7.0fps Max Continuous Shooting Speed",
+    "297g Light Body"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No External Viewfinder Option",
+    "Low Resolution Sensor: 14.0MP",
+    "Low Battery Life: 330 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-06-07",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$399.99",
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1.5×",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony NEX-5TCompare",
+    "Brand": "Sony",
+    "Model": "Sony Alpha NEX-3",
+    "Successor Model": "Sony NEX-C3",
+    "Announced": "2010-06-07",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$399.99",
+    "Manual Focus": true,
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1.5×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Technology": "TFT Xtra Fine LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "25   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "920k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "7.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "297g Light Body",
+      "ko": "297g Light Body"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No External Viewfinder Option",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Resolution Sensor: 14.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Low Battery Life: 330 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-06-07",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$399.99",
+    "렌즈 마운트": "Sony E",
+    "호환 렌즈 수": "353",
+    "크롭 팩터": "1.5×",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "920k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Alpha NEX 3",
+  "scraped_at": "2026-05-27T15:46:23.886205"
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "Samsung-HZ35W",
+  "camera_name": "Samsung HZ35W",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Samsung-HZ35W.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Built-in GPS",
+    "Face Detection Focusing",
+    "614k dots LCD Resolution",
+    "245g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "128 MB Internal Storage",
+    "24mm Wide Angle Lens",
+    "360mm Good Tele Lens",
+    "15.0X Optical Zoom"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Low Resolution Sensor: 12.0MP",
+    "Max Sensitivity only ISO 3.200",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.20",
+    "Slow Lens at Tele: f5.80"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-06-16",
+    "Body Type": "Compact",
+    "MSRP": "$0.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "614k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Fujifilm XP200Compare",
+    "Brand": "Samsung",
+    "Model": "Samsung HZ35W",
+    "Also known as": "WB650",
+    "Announced": "2010-06-16",
+    "Body Type": "Compact",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-360 mm (15×)",
+    "Max Aperture": "F3.2-5.8",
+    "Macro Focus Range": "3cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "614k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Built-in GPS",
+      "ko": "GPS"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "614k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "245g Light Body",
+      "ko": "245g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "128 MB Internal Storage",
+      "ko": "128 MB Internal Storage"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "360mm Good Tele Lens",
+      "ko": "360mm Good Tele Lens"
+    },
+    {
+      "en": "15.0X Optical Zoom",
+      "ko": "15.0X Optical Zoom"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.20",
+      "ko": "Slow Lens at Wide: f3.20"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.80",
+      "ko": "Slow Lens at Tele: f5.80"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-06-16",
+    "바디 형태": "Compact",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "614k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Samsung",
+  "timeline_name": "Samsung HZ35W",
+  "scraped_at": "2026-05-27T15:45:58.894140"
+}

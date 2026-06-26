@@ -2,13 +2,12 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, ThumbsUp } from "lucide-react";
 import StarRating from "@/components/ui/StarRating";
 import { Tag } from "@/components/ui/Badge";
 import {
   formatPrice,
   formatSensorSize,
-  formatMount,
 } from "@/lib/format";
 import type { CameraWithStats } from "@/lib/queries";
 
@@ -19,13 +18,11 @@ interface CameraCardProps {
 }
 
 /**
- * Home page camera card with:
- * - Product hero image with hover zoom
- * - Brand, model, key specs at a glance
- * - Rating summary
- * - Glassmorphism hover effect with glow
+ * Camera card with product image, brand, model, key specs, rating, and pros count.
  */
 export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
+  const prosCount = camera.pros?.length || 0;
+
   return (
     <Link
       href={`/cameras/${camera.slug}`}
@@ -67,15 +64,31 @@ export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
         )}
 
         {/* Price badge */}
-        <div
-          className="absolute top-3 right-3 px-3 py-1.5 rounded-lg text-xs font-bold shadow-sm"
-          style={{
-            background: "var(--error)",
-            color: "#ffffff",
-          }}
-        >
-          {formatPrice(camera.priceMsrp)}
-        </div>
+        {camera.priceMsrp && (
+          <div
+            className="absolute top-3 right-3 px-3 py-1.5 rounded-lg text-xs font-bold shadow-sm"
+            style={{
+              background: "var(--error)",
+              color: "#ffffff",
+            }}
+          >
+            {formatPrice(camera.priceMsrp)}
+          </div>
+        )}
+
+        {/* Pros count badge */}
+        {prosCount > 0 && (
+          <div
+            className="absolute top-3 left-3 px-2.5 py-1 rounded-lg text-xs font-bold shadow-sm flex items-center gap-1"
+            style={{
+              background: "rgba(16, 185, 129, 0.9)",
+              color: "#ffffff",
+            }}
+          >
+            <ThumbsUp className="w-3 h-3" />
+            {prosCount}
+          </div>
+        )}
       </div>
 
       {/* ── Content Section ────────────────────────────────────────── */}
@@ -83,7 +96,9 @@ export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
         {/* Brand tag */}
         <div className="flex items-center gap-2">
           <Tag label={camera.brand} variant="accent" />
-          <Tag label={formatSensorSize(camera.sensorSize)} variant="default" />
+          {camera.sensorSize && camera.sensorSize !== "OTHER" && (
+            <Tag label={formatSensorSize(camera.sensorSize)} variant="default" />
+          )}
         </div>
 
         {/* Model name */}
@@ -95,11 +110,13 @@ export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
         </h3>
 
         {/* Rating */}
-        <StarRating
-          rating={camera.avgRating}
-          showValue
-          reviewCount={camera.reviewCount}
-        />
+        {camera.reviewCount > 0 && (
+          <StarRating
+            rating={camera.avgRating}
+            showValue
+            reviewCount={camera.reviewCount}
+          />
+        )}
 
         {/* Quick specs */}
         <div
@@ -107,11 +124,11 @@ export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
           style={{ borderTop: "1px solid var(--border-subtle)" }}
         >
           {[
-            { label: "화소수", value: `${camera.megapixels} MP` },
-            { label: "동영상", value: camera.maxVideoResolution },
-            { label: "마운트", value: formatMount(camera.mount).replace(" 마운트", "").replace("마운트", "") },
-            { label: "무게", value: `${camera.weightGrams}g` },
-          ].map((spec) => (
+            ...(camera.megapixels > 0 ? [{ label: "화소수", value: `${camera.megapixels} MP` }] : []),
+            ...(camera.maxVideoResolution ? [{ label: "동영상", value: camera.maxVideoResolution }] : []),
+            ...(camera.mount && camera.mount !== "OTHER" ? [{ label: "마운트", value: camera.mount.replace("_", " ") }] : []),
+            ...(camera.weightGrams > 0 ? [{ label: "무게", value: `${camera.weightGrams}g` }] : []),
+          ].slice(0, 4).map((spec) => (
             <div key={spec.label}>
               <p
                 className="text-[10px] font-medium uppercase tracking-wider"
@@ -137,7 +154,7 @@ export default function CameraCard({ camera, index = 0 }: CameraCardProps) {
             transition: "var(--transition-fast)",
           }}
         >
-          전체 사양 보기
+          상세 정보 보기
           <ArrowRight
             className="w-4 h-4"
             style={{

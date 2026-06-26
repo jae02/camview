@@ -1,0 +1,136 @@
+{
+  "slug": "Sigma-SD14",
+  "camera_name": "Sigma SD14",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Sigma-SD14.jpg",
+  "pros": [
+    "Optical Built-in Viewfinder",
+    "Top LCD Display"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Video Mode",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 5.0MP",
+    "Max Sensitivity only ISO 800",
+    "Small LCD Screen ( 2.50\")",
+    "Low Screen Resolution ( 150kdots )",
+    "Slow Continuous Shooting: 3.0fps",
+    "No Environmental Sealing",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2006-09-26",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$0.00",
+    "Lens Mount": "Sigma SA Bayonet",
+    "Number of Lenses": "77",
+    "Focal Length Multiplier": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "150k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Panasonic ZS40Compare",
+    "Brand": "Sigma",
+    "Model": "Sigma SD14",
+    "Predecessor Model": "Sigma SD10",
+    "Successor Model": "Sigma SD15",
+    "Announced": "2006-09-26",
+    "Body Type": "Mid-size SLR",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Sigma SA Bayonet",
+    "Number of Lenses": "77",
+    "Focal Length Multiplier": "n/a",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "150k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 5.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 800",
+      "ko": "Max Sensitivity only ISO 800"
+    },
+    {
+      "en": "Small LCD Screen ( 2.50\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 150kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Slow Continuous Shooting: 3.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2006-09-26",
+    "바디 형태": "Mid-size SLR",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Sigma SA Bayonet",
+    "호환 렌즈 수": "77",
+    "크롭 팩터": "n/a",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.50\"",
+    "LCD 해상도": "150k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sigma",
+  "timeline_name": "Sigma SD14",
+  "scraped_at": "2026-05-27T16:09:23.610505"
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "Kodak-PIXPRO-AZ528",
+  "camera_name": "Kodak AZ528",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Kodak-PIXPRO-AZ528.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Image Stabilization",
+    "Full HD Video",
+    "Face Detection Focusing",
+    "6.0fps Shooting w/ Mechanical Shutter",
+    "Manual Exposure",
+    "24mm Wide Angle Lens",
+    "1248mm Good Tele Lens",
+    "52.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide",
+    "Up to 120fps High Speed Video",
+    "AE Bracketing"
+  ],
+  "cons": [
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Max Sensitivity only ISO 3.200",
+    "Low Battery Life: 240 shots",
+    "Heavy Body: 508g.",
+    "No Manual Focusing",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.60"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2022-12-01",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$225.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon R100Compare",
+    "Brand": "Kodak",
+    "Model": "Kodak PIXPRO AZ528",
+    "Announced": "2022-12-01",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$225.00",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "24-1248 mm (52x)",
+    "Max Aperture": "F2.8-5.6",
+    "Macro Focus Range": "3cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "6.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "1248mm Good Tele Lens",
+      "ko": "1248mm Good Tele Lens"
+    },
+    {
+      "en": "52.0X Optical Zoom",
+      "ko": "52.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Low Battery Life: 240 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "Heavy Body: 508g.",
+      "ko": "Heavy Body: 508g."
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.60",
+      "ko": "Slow Lens at Tele: f5.60"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2022-12-01",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$225.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Kodak",
+  "timeline_name": "Kodak PIXPRO AZ528",
+  "scraped_at": "2026-05-27T14:13:24.989132"
+}

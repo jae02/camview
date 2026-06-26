@@ -1,0 +1,171 @@
+{
+  "slug": "Sony-Cyber-shot-DSC-W570",
+  "camera_name": "Sony W570",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Sony_Cyber-shot_DSC-W570_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "116g Light Body",
+    "25mm Wide Angle Lens",
+    "Fast 2.60  Lens at Wide",
+    "Panorama Shooting"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Max Sensitivity only ISO 3.200",
+    "Only 9  Focus Points",
+    "Small LCD Screen ( 2.70\")",
+    "Low Screen Resolution ( 230kdots )",
+    "1/1600s Low Max Shutter Speed",
+    "Slow Continuous Shooting: 1.0fps",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f6.30"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-01-06",
+    "Body Type": "Ultracompact",
+    "MSRP": "$49.99",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony W650Compare",
+    "Brand": "Sony",
+    "Model": "Sony Cyber-shot DSC-W570",
+    "Announced": "2011-01-06",
+    "Body Type": "Ultracompact",
+    "MSRP": "$49.99",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "25-125 mm (5×)",
+    "Max Aperture": "F2.6-6.3",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "Clear Photo LCD",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "116g Light Body",
+      "ko": "116g Light Body"
+    },
+    {
+      "en": "25mm Wide Angle Lens",
+      "ko": "25mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 2.60  Lens at Wide",
+      "ko": "Fast 2.60  Lens at Wide"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Small LCD Screen ( 2.70\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "1/1600s Low Max Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f6.30",
+      "ko": "Slow Lens at Tele: f6.30"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-01-06",
+    "바디 형태": "Ultracompact",
+    "출시 가격": "$49.99",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.70\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Cyber shot DSC W570",
+  "scraped_at": "2026-05-27T15:37:49.375040"
+}

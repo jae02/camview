@@ -1,42 +1,75 @@
 "use client";
 
-import { MessageSquare, TrendingUp, Star } from "lucide-react";
+import { useState, useEffect, useCallback } from "react";
+import Link from "next/link";
+import { MessageSquare, Star } from "lucide-react";
 import ReviewCard from "@/components/cameras/ReviewCard";
+import ReviewForm from "@/components/cameras/ReviewForm";
 import StarRating from "@/components/ui/StarRating";
 import type { ReviewWithAuthor } from "@/lib/queries";
 import { computeAverageRating } from "@/lib/format";
+import { useAuth } from "@/lib/AuthContext";
 
 interface ReviewSectionProps {
   reviews: ReviewWithAuthor[];
   cameraName: string;
+  cameraSlug: string;
 }
 
 /**
- * Full review section for the Camera Detail Page:
- * - Rating summary bar (average, distribution, total)
- * - List of individual ReviewCards
- * - "Write a Review" CTA button
+ * Full review section with:
+ * - Rating summary, distribution bars
+ * - Write review CTA (auth-aware)
+ * - Review form (inline)
+ * - Live-updating review list
  */
 export default function ReviewSection({
-  reviews,
+  reviews: initialReviews,
   cameraName,
+  cameraSlug,
 }: ReviewSectionProps) {
+  const { user } = useAuth();
+  const [reviews, setReviews] = useState<ReviewWithAuthor[]>(initialReviews);
+  const [showForm, setShowForm] = useState(false);
+
   const avgRating = computeAverageRating(reviews.map((r) => r.rating));
 
-  // Calculate rating distribution (how many 5-star, 4-star, etc.)
   const distribution = [5, 4, 3, 2, 1].map((star) => {
     const count = reviews.filter((r) => r.rating === star).length;
     const percentage = reviews.length > 0 ? (count / reviews.length) * 100 : 0;
     return { star, count, percentage };
   });
 
+  const refreshReviews = useCallback(async () => {
+    try {
+      const res = await fetch(`/api/reviews?slug=${cameraSlug}`);
+      const data = await res.json();
+      if (data.reviews) setReviews(data.reviews);
+    } catch {
+      // silently fail
+    }
+  }, [cameraSlug]);
+
+  // Refresh reviews on mount (get live data)
+  useEffect(() => {
+    refreshReviews();
+  }, [refreshReviews]);
+
+  const handleReviewSubmitted = () => {
+    setShowForm(false);
+    refreshReviews();
+  };
+
+  const handleWriteClick = () => {
+    if (!user) return; // Link to login handles this
+    setShowForm(true);
+  };
+
   return (
     <section
       id="reviews-section"
       className="py-16"
-      style={{
-        background: "var(--bg-secondary)",
-      }}
+      style={{ background: "var(--bg-secondary)" }}
     >
       <div className="container-custom">
         {/* ── Section Header ───────────────────────────────────────── */}
@@ -108,14 +141,6 @@ export default function ReviewSection({
                             ? "var(--warning)"
                             : "var(--error)",
                         transition: "width 0.8s ease-out",
-                        boxShadow:
-                          d.percentage > 0
-                            ? `0 0 8px ${
-                                d.star >= 4
-                                  ? "rgba(251, 191, 36, 0.3)"
-                                  : "transparent"
-                              }`
-                            : "none",
                       }}
                     />
                   </div>
@@ -131,31 +156,37 @@ export default function ReviewSection({
 
             {/* Write a Review CTA */}
             <div className="flex flex-col items-center gap-3">
-              <button
-                id="write-review-btn"
-                className="px-6 py-3 rounded-xl text-sm font-semibold flex items-center gap-2"
-                style={{
-                  background: "var(--gradient-brand)",
-                  color: "white",
-                  border: "none",
-                  cursor: "pointer",
-                  boxShadow: "0 0 20px var(--accent-glow)",
-                  transition: "var(--transition-fast)",
-                }}
-                onMouseEnter={(e) => {
-                  const el = e.currentTarget as HTMLElement;
-                  el.style.boxShadow = "0 0 30px var(--accent-glow-strong)";
-                  el.style.transform = "translateY(-2px)";
-                }}
-                onMouseLeave={(e) => {
-                  const el = e.currentTarget as HTMLElement;
-                  el.style.boxShadow = "0 0 20px var(--accent-glow)";
-                  el.style.transform = "translateY(0)";
-                }}
-              >
-                <MessageSquare className="w-4 h-4" />
-                리뷰 작성
-              </button>
+              {user ? (
+                <button
+                  id="write-review-btn"
+                  onClick={handleWriteClick}
+                  className="px-6 py-3 rounded-xl text-sm font-semibold flex items-center gap-2"
+                  style={{
+                    background: "var(--gradient-brand)",
+                    color: "white",
+                    border: "none",
+                    cursor: "pointer",
+                    boxShadow: "0 0 20px var(--accent-glow)",
+                    transition: "var(--transition-fast)",
+                  }}
+                >
+                  <MessageSquare className="w-4 h-4" />
+                  리뷰 작성
+                </button>
+              ) : (
+                <Link
+                  href="/login"
+                  className="px-6 py-3 rounded-xl text-sm font-semibold flex items-center gap-2"
+                  style={{
+                    background: "var(--gradient-brand)",
+                    color: "white",
+                    boxShadow: "0 0 20px var(--accent-glow)",
+                  }}
+                >
+                  <MessageSquare className="w-4 h-4" />
+                  로그인 후 리뷰 작성
+                </Link>
+              )}
               <p
                 className="text-[10px] text-center"
                 style={{ color: "var(--text-muted)" }}
@@ -167,6 +198,16 @@ export default function ReviewSection({
             </div>
           </div>
         </div>
+
+        {/* ── Review Form (inline) ─────────────────────────────────── */}
+        {showForm && user && (
+          <ReviewForm
+            cameraSlug={cameraSlug}
+            cameraName={cameraName}
+            onSubmitted={handleReviewSubmitted}
+            onClose={() => setShowForm(false)}
+          />
+        )}
 
         {/* ── Review List ──────────────────────────────────────────── */}
         <div className="space-y-4 stagger-children">

@@ -1,0 +1,269 @@
+{
+  "slug": "Canon-EOS-R50",
+  "camera_name": "Canon R50",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Canon-EOS-R50.jpg",
+  "pros": [
+    "Product Showcase Mode",
+    "Lens Breathing Correction",
+    "Unlimited Video Recording (no 30min limit)",
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "Fully Articulated   Screen",
+    "4K at 30fps  and FHD at 120fps  Video Recording",
+    "No crop on 4K Videos",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "32.000   Max ISO",
+    "651   Focus Points",
+    "1.620k dots LCD Resolution",
+    "1/8000s Electronic Shutter Speed",
+    "Digital video stabilization",
+    "15.0fps Max Continuous Shooting Speed",
+    "375g Light Body",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "2360kdot Viewfinder Resolution",
+    "Panorama Shooting",
+    "Up to 120fps High Speed Video",
+    "Wide AE Bracketing Range: ±5 EV",
+    "Multi-function Hotshoe",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Focus Bracketing",
+    "Focus Stacking",
+    "Remote control with a smartphone",
+    "EV -4  Focus Sensitivity",
+    "High Video bit rate of  170mbps",
+    "Real time Animal Eye AF",
+    "Compatible with fast UHS-I cards",
+    "Webcam Functionality",
+    "USB Charging",
+    "Vehicle Tracking AF Mode"
+  ],
+  "cons": [
+    "No Mechanical Shutter",
+    "No Sensor shift Image Stabilization",
+    "0.59x magnification - Small Viewfinder",
+    "Low Battery Life: 370 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2023-02-08",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$679.00",
+    "Lens Mount": "Canon RF",
+    "Number of Lenses": "103",
+    "Focal Length Multiplier": "1.6x",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,620k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Canon M50 IICompare",
+    "Brand": "Canon",
+    "Model": "Canon EOS R50",
+    "Announced": "2023-02-08",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$679.00",
+    "Manual Focus": true,
+    "Lens Mount": "Canon RF",
+    "Number of Lenses": "103",
+    "Focal Length Multiplier": "1.6x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,620k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Product Showcase Mode",
+      "ko": "Product Showcase Mode"
+    },
+    {
+      "en": "Lens Breathing Correction",
+      "ko": "Lens Breathing Correction"
+    },
+    {
+      "en": "Unlimited Video Recording (no 30min limit)",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "4K at 30fps  and FHD at 120fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "No crop on 4K Videos",
+      "ko": "크롭 없음"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "32.000   Max ISO",
+      "ko": "32.000   Max ISO"
+    },
+    {
+      "en": "651   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.620k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "Digital video stabilization",
+      "ko": "Digital video stabilization"
+    },
+    {
+      "en": "15.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "375g Light Body",
+      "ko": "375g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "2360kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Wide AE Bracketing Range: ±5 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Multi-function Hotshoe",
+      "ko": "Multi-function Hotshoe"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Focus Bracketing",
+      "ko": "포커스 브라케팅"
+    },
+    {
+      "en": "Focus Stacking",
+      "ko": "Focus Stacking"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "EV -4  Focus Sensitivity",
+      "ko": "AF 감도"
+    },
+    {
+      "en": "High Video bit rate of  170mbps",
+      "ko": "동영상 비트레이트"
+    },
+    {
+      "en": "Real time Animal Eye AF",
+      "ko": "동물 눈 인식 AF"
+    },
+    {
+      "en": "Compatible with fast UHS-I cards",
+      "ko": "화소"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    },
+    {
+      "en": "Vehicle Tracking AF Mode",
+      "ko": "차량 추적 AF"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "0.59x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Low Battery Life: 370 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2023-02-08",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$679.00",
+    "렌즈 마운트": "Canon RF",
+    "호환 렌즈 수": "103",
+    "크롭 팩터": "1.6x",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,620k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon EOS R50",
+  "scraped_at": "2026-05-27T14:13:04.741920"
+}

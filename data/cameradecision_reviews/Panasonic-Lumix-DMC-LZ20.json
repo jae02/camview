@@ -1,0 +1,185 @@
+{
+  "slug": "Panasonic-Lumix-DMC-LZ20",
+  "camera_name": "Panasonic LZ20",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Panasonic_Lumix_DMC-LZ20_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Face Detection Focusing",
+    "Long Battery Life (380 shots)",
+    "Manual Exposure",
+    "109 MB Internal Storage",
+    "25mm Wide Angle Lens",
+    "525mm Good Tele Lens",
+    "21.0X Optical Zoom",
+    "Panorama Shooting",
+    "AE Bracketing"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "Max Sensitivity only ISO 1.600",
+    "Only 9  Focus Points",
+    "Slow Continuous Shooting: 1.0fps",
+    "Heavy Body: 499g.",
+    "No Manual Focusing",
+    "No Environmental Sealing",
+    "Slow Lens at Wide: f3.10",
+    "Slow Lens at Tele: f5.80"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-07-18",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$0.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Casio EX-FH25Compare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-LZ20",
+    "Successor Model": "Panasonic LZ30",
+    "Announced": "2012-07-18",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$0.00",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "25-525 mm (21×)",
+    "Max Aperture": "F3.1-5.8",
+    "Macro Focus Range": "2cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT Screen LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Long Battery Life (380 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "109 MB Internal Storage",
+      "ko": "109 MB Internal Storage"
+    },
+    {
+      "en": "25mm Wide Angle Lens",
+      "ko": "25mm Wide Angle Lens"
+    },
+    {
+      "en": "525mm Good Tele Lens",
+      "ko": "525mm Good Tele Lens"
+    },
+    {
+      "en": "21.0X Optical Zoom",
+      "ko": "21.0X Optical Zoom"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Heavy Body: 499g.",
+      "ko": "Heavy Body: 499g."
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.10",
+      "ko": "Slow Lens at Wide: f3.10"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.80",
+      "ko": "Slow Lens at Tele: f5.80"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-07-18",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC LZ20",
+  "scraped_at": "2026-05-27T15:08:38.425566"
+}

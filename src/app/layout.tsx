@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
+import { AuthProvider } from "@/lib/AuthContext";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -19,6 +20,14 @@ export const metadata: Metadata = {
     "캐논",
     "니콘",
   ],
+  openGraph: {
+    title: "카메라 백과사전 — 디지털 카메라 상세 스펙 도감",
+    description: "역대 디지털 카메라의 상세 기술 사양을 검색하고, 모델 간 스펙을 비교하고, 브랜드별 카메라 도감을 탐색해 보세요.",
+    url: "https://dslreview.co.kr",
+    siteName: "카메라 백과사전",
+    locale: "ko_KR",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
@@ -47,18 +56,26 @@ export default function RootLayout({
           crossOrigin="anonymous"
           href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
         />
+        {/* Google AdSense */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2600243388009689"
+          crossOrigin="anonymous"
+        ></script>
       </head>
       <body>
-        {/* ── Fixed Navbar ──────────────────────────────────────────── */}
-        <Navbar />
+        <AuthProvider>
+          {/* ── Fixed Navbar ──────────────────────────────────────────── */}
+          <Navbar />
 
-        {/* ── Main Content (offset for fixed navbar) ───────────────── */}
-        <main style={{ minHeight: "100vh", position: "relative", zIndex: 1 }}>
-          {children}
-        </main>
+          {/* ── Main Content (offset for fixed navbar) ───────────────── */}
+          <main style={{ minHeight: "100vh", position: "relative", zIndex: 1 }}>
+            {children}
+          </main>
 
-        {/* ── Footer ───────────────────────────────────────────────── */}
-        <Footer />
+          {/* ── Footer ───────────────────────────────────────────────── */}
+          <Footer />
+        </AuthProvider>
       </body>
     </html>
   );

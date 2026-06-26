@@ -1,0 +1,141 @@
+{
+  "slug": "Fujifilm-X-E1",
+  "camera_name": "Fujifilm X-E1",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-E1.jpg",
+  "pros": [
+    "Electronic Built-in Viewfinder",
+    "6.0fps Max Continuous Shooting Speed",
+    "350g Light Body",
+    "External Microphone Port",
+    "2360kdot Viewfinder Resolution",
+    "Panorama Shooting"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Only Unknown  Focus Points",
+    "Small LCD Screen ( 2.80\")",
+    "Low Battery Life: 350 shots",
+    "No Environmental Sealing",
+    "Not so wide AE Bracketing Range: ±1 EV"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2013-02-28",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$0.00",
+    "Lens Mount": "Fujifilm X",
+    "Number of Lenses": "147",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.80\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Fujifilm X-E4Compare",
+    "Brand": "Fujifilm",
+    "Model": "Fujifilm X-E1",
+    "Successor Model": "Fujifilm X-E2",
+    "Announced": "2013-02-28",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Fujifilm X",
+    "Number of Lenses": "147",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT color LCD monitor",
+    "Screen Size": "2.80\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "6.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "350g Light Body",
+      "ko": "350g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "2360kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Only Unknown  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Small LCD Screen ( 2.80\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Battery Life: 350 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Not so wide AE Bracketing Range: ±1 EV",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2013-02-28",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Fujifilm X",
+    "호환 렌즈 수": "147",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.80\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Fujifilm",
+  "timeline_name": "Fujifilm X E1",
+  "scraped_at": "2026-05-27T15:00:49.716938"
+}

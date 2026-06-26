@@ -1,0 +1,151 @@
+{
+  "slug": "Nikon-1-S1",
+  "camera_name": "Nikon 1 S1",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Nikon_1_S1_0.jpg",
+  "pros": [
+    "12.800   Max ISO",
+    "135   Focus Points",
+    "1/16000s Electronic Shutter Speed",
+    "15.0fps Max Continuous Shooting Speed",
+    "197g Light Body",
+    "Timelapse Recording"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No External Viewfinder Option",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 10.0MP",
+    "Low Battery Life: 220 shots",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2013-06-21",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$299.99",
+    "Lens Mount": "Nikon 1",
+    "Number of Lenses": "13",
+    "Focal Length Multiplier": "2.7×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon 1 V3Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon 1 S1",
+    "Successor Model": "Nikon 1 S2",
+    "Announced": "2013-06-21",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$299.99",
+    "Manual Focus": true,
+    "Lens Mount": "Nikon 1",
+    "Number of Lenses": "13",
+    "Focal Length Multiplier": "2.7×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "135   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1/16000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "15.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "197g Light Body",
+      "ko": "197g Light Body"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No External Viewfinder Option",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Low Battery Life: 220 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2013-06-21",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$299.99",
+    "렌즈 마운트": "Nikon 1",
+    "호환 렌즈 수": "13",
+    "크롭 팩터": "2.7×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon 1 S1",
+  "scraped_at": "2026-05-27T14:58:12.681252"
+}

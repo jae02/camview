@@ -1,0 +1,183 @@
+{
+  "slug": "Ricoh-GXR-S10-24-72mm-F25-44-VC",
+  "camera_name": "Ricoh GXR S10 24-72mm",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Ricoh-GXR-A16-24-85mm-F35-55.jpg",
+  "pros": [
+    "Image Stabilization",
+    "External Flash Shoe",
+    "Electronic (Optional)   Optional Viewfinder",
+    "RAW Shooting",
+    "920k dots LCD Resolution",
+    "Long Battery Life (410 shots)",
+    "Manual Focusing",
+    "Manual Exposure",
+    "86 MB Internal Storage",
+    "Timelapse Recording",
+    "24mm Wide Angle Lens",
+    "Fast 2.50  Lens at Wide"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 10.0MP",
+    "Max Sensitivity only ISO 3.200",
+    "Slow Continuous Shooting: 2.0fps",
+    "Heavy Body: 355g.",
+    "No Environmental Sealing",
+    "72  mm - Poor Telezoom Coverage",
+    "Optical Zoom only 3.0X"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-03-18",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$258.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Panasonic LX7Compare",
+    "Brand": "Ricoh",
+    "Model": "Ricoh GXR S10 24-72mm F2.5-4.4 VC",
+    "Announced": "2010-03-18",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$258.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "24-72 mm (3×)",
+    "Max Aperture": "F2.5-4.4",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Live View": false,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "920k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "Long Battery Life (410 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "86 MB Internal Storage",
+      "ko": "86 MB Internal Storage"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 2.50  Lens at Wide",
+      "ko": "Fast 2.50  Lens at Wide"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Slow Continuous Shooting: 2.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Heavy Body: 355g.",
+      "ko": "Heavy Body: 355g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "72  mm - Poor Telezoom Coverage",
+      "ko": "72  mm - Poor Telezoom Coverage"
+    },
+    {
+      "en": "Optical Zoom only 3.0X",
+      "ko": "Optical Zoom only 3.0X"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-03-18",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$258.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "920k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Ricoh",
+  "timeline_name": "Ricoh GXR S10 24 72mm F25 44 VC",
+  "scraped_at": "2026-05-27T15:47:15.431935"
+}

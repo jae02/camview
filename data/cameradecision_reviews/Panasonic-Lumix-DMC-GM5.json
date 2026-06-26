@@ -1,0 +1,170 @@
+{
+  "slug": "Panasonic-Lumix-DMC-GM5",
+  "camera_name": "Panasonic GM5",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DMC-GM5.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "NFC Connectivity",
+    "and FHD at 60fps  Video Recording",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "25.600   Max ISO",
+    "23   Focus Points",
+    "921k dots LCD Resolution",
+    "1/16000s Electronic Shutter Speed",
+    "5.8fps Max Continuous Shooting Speed",
+    "211g Light Body",
+    "Timelapse Recording",
+    "1166kdot Viewfinder Resolution",
+    "Dual-axis Electronic Level"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "0.46x magnification - Small Viewfinder",
+    "Low Max Shutter Speed: 1/500s",
+    "Low Battery Life: 220 shots",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2014-09-15",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$0.00",
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2x",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Panasonic GX7Compare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-GM5",
+    "Predecessor Model": "Panasonic GM1",
+    "Announced": "2014-09-15",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "and FHD at 60fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "23   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/16000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "5.8fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "211g Light Body",
+      "ko": "211g Light Body"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "1166kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "Dual-axis Electronic Level",
+      "ko": "Dual-axis Electronic Level"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "0.46x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Low Max Shutter Speed: 1/500s",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Low Battery Life: 220 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2014-09-15",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Micro Four Thirds",
+    "호환 렌즈 수": "132",
+    "크롭 팩터": "2x",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC GM5",
+  "scraped_at": "2026-05-27T14:46:54.763930"
+}

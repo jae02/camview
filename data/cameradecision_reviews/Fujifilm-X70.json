@@ -1,0 +1,185 @@
+{
+  "slug": "Fujifilm-X70",
+  "camera_name": "Fujifilm X70",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Fujifilm-X70.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Tilting Screen",
+    "External Flash Shoe",
+    "Full HD Video",
+    "Touch Screen",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "77   Focus Points",
+    "1.040k dots LCD Resolution",
+    "1/4000s High Shutter Speed",
+    "1/32000s Electronic Shutter Speed",
+    "8.0fps Shooting w/ Mechanical Shutter",
+    "Long Battery Life (330 shots)",
+    "Manual Focusing",
+    "Manual Exposure",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "Fast 2.80  Lens at Wide",
+    "Fast 2.80 Lens at Tele",
+    "AE Bracketing",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Remote control with a smartphone"
+  ],
+  "cons": [
+    "No Image Stabilization",
+    "No Built-in Viewfinder",
+    "Heavy Body: 340g.",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2016-01-15",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$728.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Fujifilm X20Compare",
+    "Brand": "Fujifilm",
+    "Model": "Fujifilm X70",
+    "Announced": "2016-01-15",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$728.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28 mm (1×)",
+    "Max Aperture": "F2.8",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Tilting Screen",
+      "ko": "틸트 LCD"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "77   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.040k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/4000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "1/32000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "8.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Long Battery Life (330 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.80 Lens at Tele",
+      "ko": "Fast 2.80 Lens at Tele"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Heavy Body: 340g.",
+      "ko": "Heavy Body: 340g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2016-01-15",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$728.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,040k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Fujifilm",
+  "timeline_name": "Fujifilm X70",
+  "scraped_at": "2026-05-27T14:39:33.007994"
+}

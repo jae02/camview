@@ -1,0 +1,185 @@
+{
+  "slug": "Sony-SLT-A68",
+  "camera_name": "Sony A68",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Sony-SLT-A68.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Tilting   Screen",
+    "and FHD at 60fps  Video Recording",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "25.600   Max ISO",
+    "79   Focus Points",
+    "461k dots LCD Resolution",
+    "8.0fps Max Continuous Shooting Speed",
+    "Long Battery Life (510 shots)",
+    "External Microphone Port",
+    "1440kdot Viewfinder Resolution",
+    "15   Cross Type Focus Points",
+    "Panorama Shooting",
+    "Top LCD Display",
+    "AF Micro Adjustment (Fine Tune)",
+    "EV -2  Focus Sensitivity",
+    "Webcam Functionality"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Touch Screen",
+    "0.57x magnification - Small Viewfinder",
+    "Small LCD Screen ( 2.70\")",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2015-11-06",
+    "Body Type": "Compact SLR",
+    "MSRP": "$732.00",
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Tilting",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "461k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Nikon D5600Compare",
+    "Brand": "Sony",
+    "Model": "Sony SLT-A68",
+    "Predecessor Model": "Sony A65",
+    "Announced": "2015-11-06",
+    "Body Type": "Compact SLR",
+    "MSRP": "$732.00",
+    "Manual Focus": true,
+    "Lens Mount": "Sony/Minolta Alpha",
+    "Number of Lenses": "143",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "461k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "and FHD at 60fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "79   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "461k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "8.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "Long Battery Life (510 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "1440kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "15   Cross Type Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    },
+    {
+      "en": "AF Micro Adjustment (Fine Tune)",
+      "ko": "AF Micro Adjustment (Fine Tune)"
+    },
+    {
+      "en": "EV -2  Focus Sensitivity",
+      "ko": "AF 감도"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.57x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Small LCD Screen ( 2.70\")",
+      "ko": "화면"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2015-11-06",
+    "바디 형태": "Compact SLR",
+    "출시 가격": "$732.00",
+    "렌즈 마운트": "Sony/Minolta Alpha",
+    "호환 렌즈 수": "143",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "2.70\"",
+    "LCD 해상도": "461k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony SLT A68",
+  "scraped_at": "2026-05-27T14:40:49.502001"
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "Sony-Cyber-shot-DSC-G3",
+  "camera_name": "Sony G3",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Sony_Cyber-shot_DSC-G3_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Touch Screen",
+    "Large 3.50\" Screen",
+    "921k dots LCD Resolution",
+    "185g Light Body",
+    "4 GB Internal Storage"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 10.0MP",
+    "Max Sensitivity only ISO 3.200",
+    "Only 9  Focus Points",
+    "1/1000s Low Max Shutter Speed",
+    "Slow Continuous Shooting: 2.0fps",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "35  mm - Poor Wide Angle Coverage",
+    "Slow Lens at Wide: f3.50",
+    "Slow Lens at Tele: f10.00"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2009-01-08",
+    "Body Type": "Compact",
+    "MSRP": "$390.27",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.50\"",
+    "Screen Resolution": "921k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Sony A290Compare",
+    "Brand": "Sony",
+    "Model": "Sony Cyber-shot DSC-G3",
+    "Announced": "2009-01-08",
+    "Body Type": "Compact",
+    "MSRP": "$390.27",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "35-140 mm (4×)",
+    "Max Aperture": "F3.5-10.0",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.50\"",
+    "Screen Resolution": "921k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Large 3.50\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "921k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "185g Light Body",
+      "ko": "185g Light Body"
+    },
+    {
+      "en": "4 GB Internal Storage",
+      "ko": "4 GB Internal Storage"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 3.200",
+      "ko": "Max Sensitivity only ISO 3.200"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1/1000s Low Max Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 2.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "35  mm - Poor Wide Angle Coverage",
+      "ko": "35  mm - Poor Wide Angle Coverage"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.50",
+      "ko": "Slow Lens at Wide: f3.50"
+    },
+    {
+      "en": "Slow Lens at Tele: f10.00",
+      "ko": "Slow Lens at Tele: f10.00"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2009-01-08",
+    "바디 형태": "Compact",
+    "출시 가격": "$390.27",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.50\"",
+    "LCD 해상도": "921k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Cyber shot DSC G3",
+  "scraped_at": "2026-05-27T16:05:12.118073"
+}

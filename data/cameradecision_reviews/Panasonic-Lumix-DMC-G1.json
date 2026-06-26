@@ -1,0 +1,135 @@
+{
+  "slug": "Panasonic-Lumix-DMC-G1",
+  "camera_name": "Panasonic G1",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Panasonic-Lumix-DC-G97.jpg",
+  "pros": [
+    "Fully Articulated   Screen",
+    "Electronic Built-in Viewfinder",
+    "360g Light Body",
+    "Selfie & Vlogger Friendly LCD Screen"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Video Mode",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 12.0MP",
+    "Max Sensitivity only ISO 1.600",
+    "Slow Continuous Shooting: 3.0fps",
+    "Low Battery Life: 330 shots",
+    "No Environmental Sealing",
+    "Poor Low Light Performance"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2009-01-19",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$0.00",
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Olympus E-PL1Compare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-G1",
+    "Successor Model": "Panasonic G2",
+    "Announced": "2009-01-19",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "n/a",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "360g Light Body",
+      "ko": "360g Light Body"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Slow Continuous Shooting: 3.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 330 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2009-01-19",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Micro Four Thirds",
+    "호환 렌즈 수": "132",
+    "크롭 팩터": "n/a",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC G1",
+  "scraped_at": "2026-05-27T16:03:30.379309"
+}

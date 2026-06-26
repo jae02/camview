@@ -1,0 +1,141 @@
+{
+  "slug": "Sony-Alpha-NEX-3N",
+  "camera_name": "Sony NEX-3N",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Sony_Alpha_NEX-3N_0.jpg",
+  "pros": [
+    "Tilting   Screen",
+    "16.000   Max ISO",
+    "25   Focus Points",
+    "269g Light Body",
+    "Good Low Light ISO - 1067",
+    "3D Shooting Capability",
+    "Panorama Shooting"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No External Viewfinder Option",
+    "No Face Detection Focusing",
+    "Low Battery Life: 480 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2013-02-25",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$599.00",
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1.5×",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony A6000Compare",
+    "Brand": "Sony",
+    "Model": "Sony Alpha NEX-3N",
+    "Predecessor Model": "Sony NEX-F3",
+    "Successor Model": "Sony a5000",
+    "Announced": "2013-02-25",
+    "Body Type": "Rangefinder-style mirrorless",
+    "MSRP": "$599.00",
+    "Manual Focus": true,
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1.5×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "16.000   Max ISO",
+      "ko": "16.000   Max ISO"
+    },
+    {
+      "en": "25   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "269g Light Body",
+      "ko": "269g Light Body"
+    },
+    {
+      "en": "Good Low Light ISO - 1067",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "3D Shooting Capability",
+      "ko": "3D Shooting Capability"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No External Viewfinder Option",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Battery Life: 480 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2013-02-25",
+    "바디 형태": "Rangefinder-style mirrorless",
+    "출시 가격": "$599.00",
+    "렌즈 마운트": "Sony E",
+    "호환 렌즈 수": "353",
+    "크롭 팩터": "1.5×",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Alpha NEX 3N",
+  "scraped_at": "2026-05-27T15:00:56.781371"
+}

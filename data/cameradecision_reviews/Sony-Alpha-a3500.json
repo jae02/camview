@@ -1,0 +1,136 @@
+{
+  "slug": "Sony-Alpha-a3500",
+  "camera_name": "Sony a3500",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Sony-Alpha-a3500.jpg",
+  "pros": [
+    "and FHD at 30fps  Video Recording",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "20.0MP - High Resolution Sensor",
+    "16.000   Max ISO",
+    "25   Focus Points",
+    "411g Light Body"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "0.47x magnification - Small Viewfinder",
+    "Low Screen Resolution ( 230.4kdots )",
+    "Low Battery Life: 470 shots",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2014-03-21",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$329.00",
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony a5100Compare",
+    "Brand": "Sony",
+    "Model": "Sony Alpha a3500",
+    "Predecessor Model": "Sony A3000",
+    "Announced": "2014-03-21",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$329.00",
+    "Manual Focus": true,
+    "Lens Mount": "Sony E",
+    "Number of Lenses": "353",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "and FHD at 30fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "20.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "16.000   Max ISO",
+      "ko": "16.000   Max ISO"
+    },
+    {
+      "en": "25   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "411g Light Body",
+      "ko": "411g Light Body"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.47x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Low Screen Resolution ( 230.4kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Battery Life: 470 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2014-03-21",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$329.00",
+    "렌즈 마운트": "Sony E",
+    "호환 렌즈 수": "353",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Sony",
+  "timeline_name": "Sony Alpha a3500",
+  "scraped_at": "2026-05-27T14:49:39.877097"
+}

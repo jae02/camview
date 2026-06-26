@@ -1,0 +1,165 @@
+{
+  "slug": "Casio-Exilim-EX-Z29",
+  "camera_name": "Casio EX-Z29",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Casio-Exilim-EX-Z29-ek-fs.jpg",
+  "pros": [
+    "125g Light Body",
+    "Manual Focusing",
+    "17.8 MB Internal Storage",
+    "Fast   Lens at Wide",
+    "Fast  Lens at Tele"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 10.0MP",
+    "Max Sensitivity only ISO 1.600",
+    "Small LCD Screen ( 2.70\")",
+    "Low Screen Resolution ( 114.96kdots )",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "38  mm - Poor Wide Angle Coverage",
+    "Optical Zoom only 3.0X"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2009-03-03",
+    "Body Type": "Ultracompact",
+    "MSRP": "$0.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "115k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Fujifilm X-E5Compare",
+    "Brand": "Casio",
+    "Model": "Casio Exilim EX-Z29",
+    "Announced": "2009-03-03",
+    "Body Type": "Ultracompact",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "38-113 mm (3×)",
+    "Max Aperture": "",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.70\"",
+    "Screen Resolution": "115k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "125g Light Body",
+      "ko": "125g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "17.8 MB Internal Storage",
+      "ko": "17.8 MB Internal Storage"
+    },
+    {
+      "en": "Fast   Lens at Wide",
+      "ko": "Fast   Lens at Wide"
+    },
+    {
+      "en": "Fast  Lens at Tele",
+      "ko": "Fast  Lens at Tele"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Small LCD Screen ( 2.70\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 114.96kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "38  mm - Poor Wide Angle Coverage",
+      "ko": "38  mm - Poor Wide Angle Coverage"
+    },
+    {
+      "en": "Optical Zoom only 3.0X",
+      "ko": "Optical Zoom only 3.0X"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2009-03-03",
+    "바디 형태": "Ultracompact",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.70\"",
+    "LCD 해상도": "115k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Casio",
+  "timeline_name": "Casio Exilim EX Z29",
+  "scraped_at": "2026-05-27T15:59:46.626639"
+}

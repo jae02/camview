@@ -1,0 +1,180 @@
+{
+  "slug": "Fujifilm-Instax-Mini-EVO-Hybrid",
+  "camera_name": "Fujifilm Instax Mini EVO",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Fujifilm-Instax-Mini-EVO-Hybrid.jpg",
+  "pros": [
+    "In-Camera Instant Film Printing",
+    "Bluetooth Connectivity",
+    "1/8000s High Shutter Speed",
+    "285g Light Body",
+    "50 MB Internal Storage",
+    "Fast 2.00  Lens at Wide",
+    "Fast 2.00 Lens at Tele",
+    "Remote control with a smartphone",
+    "USB Charging"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Image Stabilization",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Video Mode",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 5.0MP",
+    "Max Sensitivity only ISO 1.600",
+    "Slow Continuous Shooting: 1.0fps",
+    "Low Battery Life: 100 shots",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2021-11-17",
+    "Body Type": "Instant Camera",
+    "MSRP": "$199.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Kodak WPZ2Compare",
+    "Brand": "Fujifilm",
+    "Model": "Fujifilm Instax Mini EVO Hybrid",
+    "Announced": "2021-11-17",
+    "Body Type": "Instant Camera",
+    "MSRP": "$199.00",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "28 mm (1×)",
+    "Max Aperture": "F2",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "In-Camera Instant Film Printing",
+      "ko": "In-Camera Instant Film Printing"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "285g Light Body",
+      "ko": "285g Light Body"
+    },
+    {
+      "en": "50 MB Internal Storage",
+      "ko": "50 MB Internal Storage"
+    },
+    {
+      "en": "Fast 2.00  Lens at Wide",
+      "ko": "Fast 2.00  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.00 Lens at Tele",
+      "ko": "Fast 2.00 Lens at Tele"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Video Mode",
+      "ko": "No Video Mode"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 5.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Slow Continuous Shooting: 1.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 100 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2021-11-17",
+    "바디 형태": "Instant Camera",
+    "출시 가격": "$199.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Fujifilm",
+  "timeline_name": "Fujifilm Instax Mini EVO Hybrid",
+  "scraped_at": "2026-05-27T14:14:56.067927"
+}

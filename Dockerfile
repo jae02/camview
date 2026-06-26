@@ -18,7 +18,7 @@ COPY . .
 RUN tar -xzf data/cameras.tar.gz -C public/images/
 
 # Next.js 텔레메트리 비활성화 (선택 사항)
-ENV NEXT_TELEMETRY_DISABLED 1
+ENV NEXT_TELEMETRY_DISABLED=1
 
 # Next.js 앱 빌드
 RUN npm run build
@@ -27,8 +27,8 @@ RUN npm run build
 FROM node:20-alpine AS runner
 WORKDIR /app
 
-ENV NODE_ENV production
-ENV NEXT_TELEMETRY_DISABLED 1
+ENV NODE_ENV=production
+ENV NEXT_TELEMETRY_DISABLED=1
 
 # next.config.ts에서 output: "standalone"을 사용하므로 필요한 파일만 복사
 COPY --from=builder /app/public ./public
@@ -36,7 +36,7 @@ COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
 
 EXPOSE 3000
-ENV PORT 3000
-ENV HOSTNAME "0.0.0.0"
+ENV PORT=3000
+ENV HOSTNAME="0.0.0.0"
 
 CMD ["node", "server.js"]

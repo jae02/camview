@@ -1,0 +1,172 @@
+{
+  "slug": "Panasonic-Lumix-DMC-GH3",
+  "camera_name": "Panasonic GH3",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DMC-GH3-ek-fs.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Fully Articulated   Screen",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "12.800   Max ISO",
+    "23   Focus Points",
+    "614k dots LCD Resolution",
+    "20.0fps Max Continuous Shooting Speed",
+    "Long Battery Life (540 shots)",
+    "550g Light Body",
+    "External Microphone Port",
+    "External Headphone Port",
+    "Environmental Sealing",
+    "Timelapse Recording",
+    "1744kdot Viewfinder Resolution",
+    "3D Shooting Capability",
+    "Flash Sync Port",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Dual-axis Electronic Level"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "Not so wide AE Bracketing Range: ±1 EV"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-09-17",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$449.89",
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "614k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Olympus E-M5Compare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-GH3",
+    "Predecessor Model": "Panasonic GH2",
+    "Successor Model": "Panasonic GH4",
+    "Announced": "2012-09-17",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$449.89",
+    "Manual Focus": true,
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Technology": "OLED Monitor with static touch control",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "614k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "23   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "614k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "20.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "Long Battery Life (540 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "550g Light Body",
+      "ko": "550g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "1744kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "3D Shooting Capability",
+      "ko": "3D Shooting Capability"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Dual-axis Electronic Level",
+      "ko": "Dual-axis Electronic Level"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Not so wide AE Bracketing Range: ±1 EV",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-09-17",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$449.89",
+    "렌즈 마운트": "Micro Four Thirds",
+    "호환 렌즈 수": "132",
+    "크롭 팩터": "2×",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "614k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC GH3",
+  "scraped_at": "2026-05-27T15:06:29.897577"
+}

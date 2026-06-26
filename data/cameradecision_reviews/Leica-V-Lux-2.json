@@ -1,0 +1,174 @@
+{
+  "slug": "Leica-V-Lux-2",
+  "camera_name": "Leica V-Lux 2",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Leica-V-Lux-2.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Fully Articulated Screen",
+    "External Flash Shoe",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "11.0fps Shooting w/ Mechanical Shutter",
+    "Manual Focusing",
+    "Manual Exposure",
+    "40 MB Internal Storage",
+    "25mm Wide Angle Lens",
+    "600mm Good Tele Lens",
+    "24.0X Optical Zoom",
+    "Fast 2.80  Lens at Wide",
+    "Selfie & Vlogger Friendly LCD Screen"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 14.0MP",
+    "Only Unknown  Focus Points",
+    "Heavy Body: 520g.",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.20"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-09-21",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$750.00",
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Leica V-Lux 30Compare",
+    "Brand": "Leica",
+    "Model": "Leica V-Lux 2",
+    "Successor Model": "Leica V-Lux 3",
+    "Announced": "2010-09-21",
+    "Body Type": "SLR-like (bridge)",
+    "MSRP": "$750.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Number of Lenses": "",
+    "Lens Focal Range": "25-600 mm (24×)",
+    "Max Aperture": "F2.8-5.2",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Fully Articulated Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "11.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "40 MB Internal Storage",
+      "ko": "40 MB Internal Storage"
+    },
+    {
+      "en": "25mm Wide Angle Lens",
+      "ko": "25mm Wide Angle Lens"
+    },
+    {
+      "en": "600mm Good Tele Lens",
+      "ko": "600mm Good Tele Lens"
+    },
+    {
+      "en": "24.0X Optical Zoom",
+      "ko": "24.0X Optical Zoom"
+    },
+    {
+      "en": "Fast 2.80  Lens at Wide",
+      "ko": "Fast 2.80  Lens at Wide"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 14.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Only Unknown  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Heavy Body: 520g.",
+      "ko": "Heavy Body: 520g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.20",
+      "ko": "Slow Lens at Tele: f5.20"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-09-21",
+    "바디 형태": "SLR-like (bridge)",
+    "출시 가격": "$750.00",
+    "렌즈 마운트": "fixed lens",
+    "호환 렌즈 수": "",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Leica",
+  "timeline_name": "Leica V Lux 2",
+  "scraped_at": "2026-05-27T15:42:00.700013"
+}

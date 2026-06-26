@@ -1,0 +1,165 @@
+{
+  "slug": "Olympus-FE-45",
+  "camera_name": "Olympus FE-45",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Olympus-FE-45.jpg",
+  "pros": [
+    "Image Stabilization",
+    "142g Light Body",
+    "19 MB Internal Storage"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No RAW Shooting",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 10.0MP",
+    "Max Sensitivity only ISO 1.600",
+    "Small LCD Screen ( 2.50\")",
+    "Low Screen Resolution ( 230kdots )",
+    "No Manual Focusing",
+    "No Manual Exposure",
+    "No Environmental Sealing",
+    "36  mm - Poor Wide Angle Coverage",
+    "Optical Zoom only 3.0X",
+    "Slow Lens at Wide: f3.10",
+    "Slow Lens at Tele: f5.90"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2009-01-07",
+    "Body Type": "Compact",
+    "MSRP": "$39.25",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "230k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Canon 1D MII NCompare",
+    "Brand": "Olympus",
+    "Model": "Olympus FE-45",
+    "Announced": "2009-01-07",
+    "Body Type": "Compact",
+    "MSRP": "$39.25",
+    "Manual Focus": false,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "36-108 mm (3×)",
+    "Max Aperture": "F3.1-5.9",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.50\"",
+    "Screen Resolution": "230k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "142g Light Body",
+      "ko": "142g Light Body"
+    },
+    {
+      "en": "19 MB Internal Storage",
+      "ko": "19 MB Internal Storage"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No RAW Shooting",
+      "ko": "No RAW Shooting"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Max Sensitivity only ISO 1.600",
+      "ko": "Max Sensitivity only ISO 1.600"
+    },
+    {
+      "en": "Small LCD Screen ( 2.50\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Screen Resolution ( 230kdots )",
+      "ko": "화면"
+    },
+    {
+      "en": "No Manual Focusing",
+      "ko": "No Manual Focusing"
+    },
+    {
+      "en": "No Manual Exposure",
+      "ko": "No Manual Exposure"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "36  mm - Poor Wide Angle Coverage",
+      "ko": "36  mm - Poor Wide Angle Coverage"
+    },
+    {
+      "en": "Optical Zoom only 3.0X",
+      "ko": "Optical Zoom only 3.0X"
+    },
+    {
+      "en": "Slow Lens at Wide: f3.10",
+      "ko": "Slow Lens at Wide: f3.10"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.90",
+      "ko": "Slow Lens at Tele: f5.90"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2009-01-07",
+    "바디 형태": "Compact",
+    "출시 가격": "$39.25",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.50\"",
+    "LCD 해상도": "230k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Olympus",
+  "timeline_name": "Olympus FE 45",
+  "scraped_at": "2026-05-27T16:05:44.556213"
+}

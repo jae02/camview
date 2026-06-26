@@ -1,0 +1,211 @@
+{
+  "slug": "Leica-SL",
+  "camera_name": "Leica SL",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Leica-SL.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "4K at 30fps  and FHD at 120fps  Video Recording",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "Built-in GPS",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "50.000   Max ISO",
+    "49   Focus Points",
+    "1.040k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "11.0fps Max Continuous Shooting Speed",
+    "External Microphone Port",
+    "External Headphone Port",
+    "Environmental Sealing",
+    "Timelapse Recording",
+    "2GB Internal Storage",
+    "4400kdot Viewfinder Resolution",
+    "0.8x magnification - Large Viewfinder",
+    "Good Low Light ISO - 1821",
+    "2 Storage Slots",
+    "Top LCD Display",
+    "Flash Sync Port",
+    "Remote control with a smartphone",
+    "Compatible with fast UHS-II cards",
+    "USB 3.0 (5 GBit/sec)"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "Low Battery Life: 400 shots",
+    "Heavy Body: 847g"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2015-10-21",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$0.00",
+    "Lens Mount": "Leica L",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Panasonic S9Compare",
+    "Brand": "Leica",
+    "Model": "Leica SL",
+    "Also known as": "Typ 601",
+    "Successor Model": "Leica SL2",
+    "Announced": "2015-10-21",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Leica L",
+    "Number of Lenses": "138",
+    "Focal Length Multiplier": "1×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "4K at 30fps  and FHD at 120fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Built-in GPS",
+      "ko": "GPS"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "50.000   Max ISO",
+      "ko": "50.000   Max ISO"
+    },
+    {
+      "en": "49   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1.040k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "11.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "External Headphone Port",
+      "ko": "외장 헤드폰 단자"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "2GB Internal Storage",
+      "ko": "2GB Internal Storage"
+    },
+    {
+      "en": "4400kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "0.8x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Good Low Light ISO - 1821",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Top LCD Display",
+      "ko": "상단 LCD"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "USB 3.0 (5 GBit/sec)",
+      "ko": "USB"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "Low Battery Life: 400 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "Heavy Body: 847g",
+      "ko": "Heavy Body: 847g"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2015-10-21",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Leica L",
+    "호환 렌즈 수": "138",
+    "크롭 팩터": "1×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,040k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Leica",
+  "timeline_name": "Leica SL",
+  "scraped_at": "2026-05-27T14:40:56.170757"
+}

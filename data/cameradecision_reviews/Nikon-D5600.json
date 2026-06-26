@@ -1,0 +1,200 @@
+{
+  "slug": "Nikon-D5600",
+  "camera_name": "Nikon D5600",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Nikon-D5600.jpg",
+  "pros": [
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "NFC Connectivity",
+    "Fully Articulated   Screen",
+    "FHD at 60fps  and HD at 60fps  Video Recording",
+    "Touch Screen",
+    "Optical Built-in Viewfinder",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "25.600   Max ISO",
+    "39   Focus Points",
+    "Large 3.20\" Screen",
+    "1.037k dots LCD Resolution",
+    "Long Battery Life (820 shots)",
+    "465g Light Body",
+    "External Microphone Port",
+    "Timelapse Recording",
+    "Good Low Light ISO - 1306",
+    "9   Cross Type Focus Points",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Remote control with a smartphone",
+    "Carbon fiber composite body elements",
+    "Compatible with fast UHS-1 cards"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "0.55x magnification - Small Viewfinder",
+    "No Environmental Sealing",
+    "Not so wide AE Bracketing Range: ±2 EV",
+    "No AF Micro Adjustment"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2016-11-10",
+    "Body Type": "Compact SLR",
+    "MSRP": "$365.99",
+    "Lens Mount": "Nikon F",
+    "Number of Lenses": "316",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.20\"",
+    "Screen Resolution": "1,037k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Nikon D7000Compare",
+    "Brand": "Nikon",
+    "Model": "Nikon D5600",
+    "Predecessor Model": "Nikon D5500",
+    "Announced": "2016-11-10",
+    "Body Type": "Compact SLR",
+    "MSRP": "$365.99",
+    "Manual Focus": true,
+    "Lens Mount": "Nikon F",
+    "Number of Lenses": "316",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fully Articulated",
+    "Screen Size": "3.20\"",
+    "Screen Resolution": "1,037k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "NFC Connectivity",
+      "ko": "NFC"
+    },
+    {
+      "en": "Fully Articulated   Screen",
+      "ko": "풀 틸트 회전 LCD"
+    },
+    {
+      "en": "FHD at 60fps  and HD at 60fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "25.600   Max ISO",
+      "ko": "25.600   Max ISO"
+    },
+    {
+      "en": "39   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Large 3.20\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "1.037k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "Long Battery Life (820 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "465g Light Body",
+      "ko": "465g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "Good Low Light ISO - 1306",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "9   Cross Type Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "Carbon fiber composite body elements",
+      "ko": "화소"
+    },
+    {
+      "en": "Compatible with fast UHS-1 cards",
+      "ko": "화소"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "0.55x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Not so wide AE Bracketing Range: ±2 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "No AF Micro Adjustment",
+      "ko": "No AF Micro Adjustment"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2016-11-10",
+    "바디 형태": "Compact SLR",
+    "출시 가격": "$365.99",
+    "렌즈 마운트": "Nikon F",
+    "호환 렌즈 수": "316",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Fully Articulated",
+    "LCD 크기": "3.20\"",
+    "LCD 해상도": "1,037k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Nikon",
+  "timeline_name": "Nikon D5600",
+  "scraped_at": "2026-05-27T14:36:36.130581"
+}

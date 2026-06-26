@@ -1,0 +1,187 @@
+{
+  "slug": "Fujifilm-FinePix-X100",
+  "camera_name": "Fujifilm X100",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-FinePix-X100-ek-fs.jpg",
+  "pros": [
+    "3.0-stops Built-in ND Filter",
+    "External Flash Shoe",
+    "Electronic and Optical Built-in Viewfinder",
+    "RAW Shooting",
+    "12.800   Max ISO",
+    "49   Focus Points",
+    "1/4000s High Shutter Speed",
+    "Manual Focusing",
+    "Manual Exposure",
+    "20 MB Internal Storage",
+    "Fast 2.00  Lens at Wide",
+    "Fast 2.00 Lens at Tele",
+    "1440kdot Viewfinder Resolution",
+    "Good Low Light ISO - 1001",
+    "Panorama Shooting",
+    "AE Bracketing"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Image Stabilization",
+    "No Articulating Screen",
+    "No Full HD Video",
+    "No Touch Screen",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 12.0MP",
+    "Small LCD Screen ( 2.80\")",
+    "Heavy Body: 445g.",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-05-16",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$714.95",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "2.80\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Fujifilm X100FCompare",
+    "Brand": "Fujifilm",
+    "Model": "Fujifilm FinePix X100",
+    "Successor Model": "Fujifilm X100S",
+    "Announced": "2011-05-16",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$714.95",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "35 mm (1×)",
+    "Max Aperture": "F2.0",
+    "Macro Focus Range": "10cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT color LCD monitor",
+    "Screen Size": "2.80\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "3.0-stops Built-in ND Filter",
+      "ko": "3.0-stops Built-in ND Filter"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Electronic and Optical Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "49   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "1/4000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "20 MB Internal Storage",
+      "ko": "20 MB Internal Storage"
+    },
+    {
+      "en": "Fast 2.00  Lens at Wide",
+      "ko": "Fast 2.00  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.00 Lens at Tele",
+      "ko": "Fast 2.00 Lens at Tele"
+    },
+    {
+      "en": "1440kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "Good Low Light ISO - 1001",
+      "ko": "저조도 ISO 성능"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Image Stabilization",
+      "ko": "손떨림 보정 없음"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Small LCD Screen ( 2.80\")",
+      "ko": "화면"
+    },
+    {
+      "en": "Heavy Body: 445g.",
+      "ko": "Heavy Body: 445g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-05-16",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$714.95",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "2.80\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Fujifilm",
+  "timeline_name": "Fujifilm FinePix X100",
+  "scraped_at": "2026-05-27T15:29:55.514563"
+}

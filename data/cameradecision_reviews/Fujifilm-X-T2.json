@@ -1,0 +1,236 @@
+{
+  "slug": "Fujifilm-X-T2",
+  "camera_name": "Fujifilm X-T2",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Fujifilm-X-T2.jpg",
+  "pros": [
+    "Voice Memo recording",
+    "Built-in Wireless (Wi-fi)",
+    "Tilting   Screen",
+    "4K at 30fps  and FHD at 60fps  Video Recording",
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "24.0MP - High Resolution Sensor",
+    "12.800   Max ISO",
+    "325   Focus Points",
+    "Large 3.20\" Screen",
+    "1.000k dots LCD Resolution",
+    "1/8000s High Shutter Speed",
+    "1/32000s Electronic Shutter Speed",
+    "14.0fps Max Continuous Shooting Speed",
+    "507g Light Body",
+    "External Microphone Port",
+    "Environmental Sealing",
+    "Timelapse Recording",
+    "2360kdot Viewfinder Resolution",
+    "0.77x magnification - Large Viewfinder",
+    "2 Storage Slots",
+    "Up to 120fps High Speed Video",
+    "Flash Sync Port",
+    "High Shutter Life Expectancy - 150000 cycles",
+    "Focus Bracketing",
+    "Remote control with a smartphone",
+    "High Video bit rate of  100mbps",
+    "Compatible with fast UHS-II cards",
+    "Webcam Functionality",
+    "USB 3.0 (5 GBit/sec)"
+  ],
+  "cons": [
+    "No Sensor shift Image Stabilization",
+    "No Touch Screen",
+    "Low Battery Life: 340 shots",
+    "Not so wide AE Bracketing Range: ±2 EV",
+    "1.17x crop on 4K Videos"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2016-07-07",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$697.95",
+    "Lens Mount": "Fujifilm X",
+    "Number of Lenses": "147",
+    "Focal Length Multiplier": "1.5x",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.20\"",
+    "Screen Resolution": "1,000k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Fujifilm X-T200Compare",
+    "Brand": "Fujifilm",
+    "Model": "Fujifilm X-T2",
+    "Predecessor Model": "Fujifilm X-T1",
+    "Successor Model": "Fujifilm X-T3",
+    "Announced": "2016-07-07",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$697.95",
+    "Manual Focus": true,
+    "Lens Mount": "Fujifilm X",
+    "Number of Lenses": "147",
+    "Focal Length Multiplier": "1.5x",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.20\"",
+    "Screen Resolution": "1,000k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Voice Memo recording",
+      "ko": "음성 메모"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Tilting   Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "4K at 30fps  and FHD at 60fps  Video Recording",
+      "ko": "동영상 촬영"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "24.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "325   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Large 3.20\" Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "1.000k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/8000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "1/32000s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "14.0fps Max Continuous Shooting Speed",
+      "ko": "연사 속도"
+    },
+    {
+      "en": "507g Light Body",
+      "ko": "507g Light Body"
+    },
+    {
+      "en": "External Microphone Port",
+      "ko": "외장 마이크 단자"
+    },
+    {
+      "en": "Environmental Sealing",
+      "ko": "방진방적"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "2360kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "0.77x magnification - Large Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "2 Storage Slots",
+      "ko": "저장 슬롯"
+    },
+    {
+      "en": "Up to 120fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "Flash Sync Port",
+      "ko": "플래시"
+    },
+    {
+      "en": "High Shutter Life Expectancy - 150000 cycles",
+      "ko": "셔터 내구성"
+    },
+    {
+      "en": "Focus Bracketing",
+      "ko": "포커스 브라케팅"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "High Video bit rate of  100mbps",
+      "ko": "동영상 비트레이트"
+    },
+    {
+      "en": "Compatible with fast UHS-II cards",
+      "ko": "UHS-II"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "USB 3.0 (5 GBit/sec)",
+      "ko": "USB"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "Low Battery Life: 340 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "Not so wide AE Bracketing Range: ±2 EV",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "1.17x crop on 4K Videos",
+      "ko": "4K 동영상"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2016-07-07",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$697.95",
+    "렌즈 마운트": "Fujifilm X",
+    "호환 렌즈 수": "147",
+    "크롭 팩터": "1.5x",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.20\"",
+    "LCD 해상도": "1,000k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Fujifilm",
+  "timeline_name": "Fujifilm X T2",
+  "scraped_at": "2026-05-27T14:37:42.548710"
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "Leica-D-Lux-6",
+  "camera_name": "Leica D-Lux 6",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Leica-D-Lux-6.jpg",
+  "pros": [
+    "Image Stabilization",
+    "External Flash Shoe",
+    "Full HD Video",
+    "Electronic (Optional)   Optional Viewfinder",
+    "RAW Shooting",
+    "23   Focus Points",
+    "920k dots LCD Resolution",
+    "1/4000s High Shutter Speed",
+    "11.0fps Shooting w/ Mechanical Shutter",
+    "Long Battery Life (330 shots)",
+    "298g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "70 MB Internal Storage",
+    "Timelapse Recording",
+    "24mm Wide Angle Lens",
+    "Fast 1.40  Lens at Wide",
+    "Fast 2.30 Lens at Tele",
+    "3D Shooting Capability",
+    "Panorama Shooting"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "No Face Detection Focusing",
+    "Low Resolution Sensor: 10.0MP",
+    "No Environmental Sealing",
+    "90  mm - Poor Telezoom Coverage",
+    "Optical Zoom only 3.8X"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2012-09-17",
+    "Body Type": "Compact",
+    "MSRP": "$1199.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Leica V-Lux 3Compare",
+    "Brand": "Leica",
+    "Model": "Leica D-Lux 6",
+    "Predecessor Model": "Leica D-LUX 5",
+    "Successor Model": "Leica D-Lux 7",
+    "Announced": "2012-09-17",
+    "Body Type": "Compact",
+    "MSRP": "$1199.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-90 mm (3.8×)",
+    "Max Aperture": "F1.4-2.3",
+    "Macro Focus Range": "1cm",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT Color LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "920k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Electronic (Optional)   Optional Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "23   Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "920k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/4000s High Shutter Speed",
+      "ko": "셔터 속도"
+    },
+    {
+      "en": "11.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Long Battery Life (330 shots)",
+      "ko": "배터리 수명"
+    },
+    {
+      "en": "298g Light Body",
+      "ko": "298g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "70 MB Internal Storage",
+      "ko": "70 MB Internal Storage"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 1.40  Lens at Wide",
+      "ko": "Fast 1.40  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.30 Lens at Tele",
+      "ko": "Fast 2.30 Lens at Tele"
+    },
+    {
+      "en": "3D Shooting Capability",
+      "ko": "3D Shooting Capability"
+    },
+    {
+      "en": "Panorama Shooting",
+      "ko": "Panorama Shooting"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "No Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "Low Resolution Sensor: 10.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "90  mm - Poor Telezoom Coverage",
+      "ko": "90  mm - Poor Telezoom Coverage"
+    },
+    {
+      "en": "Optical Zoom only 3.8X",
+      "ko": "Optical Zoom only 3.8X"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2012-09-17",
+    "바디 형태": "Compact",
+    "출시 가격": "$1199.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "920k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Leica",
+  "timeline_name": "Leica D Lux 6",
+  "scraped_at": "2026-05-27T15:06:19.639069"
+}

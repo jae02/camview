@@ -1,0 +1,221 @@
+{
+  "slug": "Canon-PowerShot-G5-X-Mark-II",
+  "camera_name": "Canon G5 X MII",
+  "image_url": "https://cameradecision.com/img/px8060/front_straight/Canon-PowerShot-G5-X-Mark-II.jpg",
+  "pros": [
+    "3.0-stops Built-in ND Filter",
+    "Stacked Type Sensor",
+    "Built-in Wireless (Wi-fi)",
+    "Bluetooth Connectivity",
+    "Image Stabilization",
+    "Tilting Screen",
+    "4K (UHD) Video",
+    "Touch Screen",
+    "Electronic Built-in Viewfinder",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "20.0MP - High Resolution Sensor",
+    "12.800   Max ISO",
+    "1.040k dots LCD Resolution",
+    "1/25600s Electronic Shutter Speed",
+    "30.0fps Shooting w/ Mechanical Shutter",
+    "Manual Focusing",
+    "Manual Exposure",
+    "Timelapse Recording",
+    "24mm Wide Angle Lens",
+    "Fast 1.80  Lens at Wide",
+    "Fast 2.80 Lens at Tele",
+    "2360kdot Viewfinder Resolution",
+    "AE Bracketing",
+    "Selfie & Vlogger Friendly LCD Screen",
+    "Remote control with a smartphone",
+    "UHS-I Memory Card Support",
+    "Webcam Functionality",
+    "USB Charging"
+  ],
+  "cons": [
+    "No External Flash Shoe",
+    "Low Battery Life: 230 shots",
+    "Heavy Body: 340g.",
+    "No Environmental Sealing"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2019-07-09",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$829.00",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Touch Screen": true
+  },
+  "all_specs": {
+    "+": "Leica D-Lux 8Compare",
+    "Brand": "Canon",
+    "Model": "Canon PowerShot G5 X Mark II",
+    "Predecessor Model": "Canon G5 X",
+    "Announced": "2019-07-09",
+    "Body Type": "Large sensor compact",
+    "MSRP": "$829.00",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-120 mm (5x)",
+    "Max Aperture": "F1.8-2.8",
+    "Macro Focus Range": "5cm",
+    "Screen Type": "Tilting",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "1,040k dots",
+    "Live View": true,
+    "Touch Screen": true
+  },
+  "pros_ko": [
+    {
+      "en": "3.0-stops Built-in ND Filter",
+      "ko": "3.0-stops Built-in ND Filter"
+    },
+    {
+      "en": "Stacked Type Sensor",
+      "ko": "센서"
+    },
+    {
+      "en": "Built-in Wireless (Wi-fi)",
+      "ko": "내장 Wi-Fi"
+    },
+    {
+      "en": "Bluetooth Connectivity",
+      "ko": "블루투스 연결"
+    },
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Tilting Screen",
+      "ko": "틸트 LCD"
+    },
+    {
+      "en": "4K (UHD) Video",
+      "ko": "4K 동영상"
+    },
+    {
+      "en": "Touch Screen",
+      "ko": "터치스크린"
+    },
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "20.0MP - High Resolution Sensor",
+      "ko": "고해상도 센서"
+    },
+    {
+      "en": "12.800   Max ISO",
+      "ko": "12.800   Max ISO"
+    },
+    {
+      "en": "1.040k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "1/25600s Electronic Shutter Speed",
+      "ko": "전자식 셔터"
+    },
+    {
+      "en": "30.0fps Shooting w/ Mechanical Shutter",
+      "ko": "기계식 셔터"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "Timelapse Recording",
+      "ko": "타임랩스 촬영"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 1.80  Lens at Wide",
+      "ko": "Fast 1.80  Lens at Wide"
+    },
+    {
+      "en": "Fast 2.80 Lens at Tele",
+      "ko": "Fast 2.80 Lens at Tele"
+    },
+    {
+      "en": "2360kdot Viewfinder Resolution",
+      "ko": "뷰파인더 해상도"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    },
+    {
+      "en": "Selfie & Vlogger Friendly LCD Screen",
+      "ko": "브이로그"
+    },
+    {
+      "en": "Remote control with a smartphone",
+      "ko": "리모컨/원격제어"
+    },
+    {
+      "en": "UHS-I Memory Card Support",
+      "ko": "UHS-I Memory Card Support"
+    },
+    {
+      "en": "Webcam Functionality",
+      "ko": "웹캠 기능"
+    },
+    {
+      "en": "USB Charging",
+      "ko": "USB 충전"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "Low Battery Life: 230 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "Heavy Body: 340g.",
+      "ko": "Heavy Body: 340g."
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2019-07-09",
+    "바디 형태": "Large sensor compact",
+    "출시 가격": "$829.00",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Tilting",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "1,040k dots",
+    "터치스크린 지원": true
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon PowerShot G5 X Mark II",
+  "scraped_at": "2026-05-27T14:29:54.500297"
+}

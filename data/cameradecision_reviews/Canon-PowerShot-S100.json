@@ -1,0 +1,182 @@
+{
+  "slug": "Canon-PowerShot-S100",
+  "camera_name": "Canon S100",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Canon_PowerShot_S100_0.jpg",
+  "pros": [
+    "Image Stabilization",
+    "Full HD Video",
+    "Built-in GPS",
+    "RAW Shooting",
+    "Face Detection Focusing",
+    "461k dots LCD Resolution",
+    "198g Light Body",
+    "Manual Focusing",
+    "Manual Exposure",
+    "24mm Wide Angle Lens",
+    "Fast 2.00  Lens at Wide",
+    "Up to 240fps High Speed Video",
+    "AE Bracketing"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Articulating Screen",
+    "No External Flash Shoe",
+    "No Touch Screen",
+    "No Built-in Viewfinder",
+    "Low Resolution Sensor: 12.0MP",
+    "Only 9  Focus Points",
+    "Slow Continuous Shooting: 2.0fps",
+    "Low Battery Life: 200 shots",
+    "No Environmental Sealing",
+    "Slow Lens at Tele: f5.90",
+    "Poor Low Light image quality"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2011-12-22",
+    "Body Type": "Compact",
+    "MSRP": "$69.79",
+    "Lens Mount": "fixed lens",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Panasonic LX7Compare",
+    "Brand": "Canon",
+    "Model": "Canon PowerShot S100",
+    "Predecessor Model": "Canon S95",
+    "Successor Model": "Canon S110",
+    "Announced": "2011-12-22",
+    "Body Type": "Compact",
+    "MSRP": "$69.79",
+    "Manual Focus": true,
+    "Lens Mount": "fixed lens",
+    "Lens Focal Range": "24-120 mm (5×)",
+    "Max Aperture": "F2.0-5.9",
+    "Macro Focus Range": "3cm",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "461k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "Full HD Video",
+      "ko": "Full HD Video"
+    },
+    {
+      "en": "Built-in GPS",
+      "ko": "GPS"
+    },
+    {
+      "en": "RAW Shooting",
+      "ko": "RAW Shooting"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "461k dots LCD Resolution",
+      "ko": "LCD"
+    },
+    {
+      "en": "198g Light Body",
+      "ko": "198g Light Body"
+    },
+    {
+      "en": "Manual Focusing",
+      "ko": "Manual Focusing"
+    },
+    {
+      "en": "Manual Exposure",
+      "ko": "Manual Exposure"
+    },
+    {
+      "en": "24mm Wide Angle Lens",
+      "ko": "24mm Wide Angle Lens"
+    },
+    {
+      "en": "Fast 2.00  Lens at Wide",
+      "ko": "Fast 2.00  Lens at Wide"
+    },
+    {
+      "en": "Up to 240fps High Speed Video",
+      "ko": "고속 동영상"
+    },
+    {
+      "en": "AE Bracketing",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No External Flash Shoe",
+      "ko": "플래시"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "No Built-in Viewfinder",
+      "ko": "뷰파인더"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Only 9  Focus Points",
+      "ko": "측거점"
+    },
+    {
+      "en": "Slow Continuous Shooting: 2.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 200 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Slow Lens at Tele: f5.90",
+      "ko": "Slow Lens at Tele: f5.90"
+    },
+    {
+      "en": "Poor Low Light image quality",
+      "ko": "Poor Low Light image quality"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2011-12-22",
+    "바디 형태": "Compact",
+    "출시 가격": "$69.79",
+    "렌즈 마운트": "fixed lens",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "461k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Canon",
+  "timeline_name": "Canon PowerShot S100",
+  "scraped_at": "2026-05-27T15:24:37.554708"
+}

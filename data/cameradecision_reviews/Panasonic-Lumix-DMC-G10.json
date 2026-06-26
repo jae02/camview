@@ -1,0 +1,135 @@
+{
+  "slug": "Panasonic-Lumix-DMC-G10",
+  "camera_name": "Panasonic G10",
+  "image_url": "https://cameradecision.com/img/px300_300/front_straight/Panasonic-Lumix-DMC-G10.jpg",
+  "pros": [
+    "Electronic Built-in Viewfinder",
+    "Face Detection Focusing",
+    "388g Light Body"
+  ],
+  "cons": [
+    "No Wireless Connection",
+    "No Sensor shift Image Stabilization",
+    "No Articulating Screen",
+    "No Full HD Video",
+    "No Touch Screen",
+    "0.52x magnification - Small Viewfinder",
+    "Low Resolution Sensor: 12.0MP",
+    "Slow Continuous Shooting: 3.0fps",
+    "Low Battery Life: 380 shots",
+    "No Environmental Sealing",
+    "Poor Low Light Performance",
+    "Not so wide AE Bracketing Range: ±2 EV"
+  ],
+  "dxo_scores": null,
+  "key_specs": {
+    "Announced": "2010-08-09",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$0.00",
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Screen Type": "Fixed Type",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Touch Screen": false
+  },
+  "all_specs": {
+    "+": "Sony A6000Compare",
+    "Brand": "Panasonic",
+    "Model": "Panasonic Lumix DMC-G10",
+    "Announced": "2010-08-09",
+    "Body Type": "SLR-style mirrorless",
+    "MSRP": "$0.00",
+    "Manual Focus": true,
+    "Lens Mount": "Micro Four Thirds",
+    "Number of Lenses": "132",
+    "Focal Length Multiplier": "2×",
+    "Macro Focus Range": "n/a",
+    "Screen Type": "Fixed Type",
+    "Screen Technology": "TFT Color LCD",
+    "Screen Size": "3.00\"",
+    "Screen Resolution": "460k dots",
+    "Live View": true,
+    "Touch Screen": false
+  },
+  "pros_ko": [
+    {
+      "en": "Electronic Built-in Viewfinder",
+      "ko": "내장 전자식 뷰파인더"
+    },
+    {
+      "en": "Face Detection Focusing",
+      "ko": "얼굴 인식 AF"
+    },
+    {
+      "en": "388g Light Body",
+      "ko": "388g Light Body"
+    }
+  ],
+  "cons_ko": [
+    {
+      "en": "No Wireless Connection",
+      "ko": "No Wireless Connection"
+    },
+    {
+      "en": "No Sensor shift Image Stabilization",
+      "ko": "손떨림 보정 (IBIS)"
+    },
+    {
+      "en": "No Articulating Screen",
+      "ko": "화면"
+    },
+    {
+      "en": "No Full HD Video",
+      "ko": "No Full HD Video"
+    },
+    {
+      "en": "No Touch Screen",
+      "ko": "터치스크린 없음"
+    },
+    {
+      "en": "0.52x magnification - Small Viewfinder",
+      "ko": "배율"
+    },
+    {
+      "en": "Low Resolution Sensor: 12.0MP",
+      "ko": "센서 해상도"
+    },
+    {
+      "en": "Slow Continuous Shooting: 3.0fps",
+      "ko": "연속 촬영"
+    },
+    {
+      "en": "Low Battery Life: 380 shots",
+      "ko": "짧은 배터리 수명"
+    },
+    {
+      "en": "No Environmental Sealing",
+      "ko": "방진방적 없음"
+    },
+    {
+      "en": "Poor Low Light Performance",
+      "ko": "Poor Low Light Performance"
+    },
+    {
+      "en": "Not so wide AE Bracketing Range: ±2 EV",
+      "ko": "AE 브라케팅"
+    }
+  ],
+  "key_specs_ko": {
+    "발표일": "2010-08-09",
+    "바디 형태": "SLR-style mirrorless",
+    "출시 가격": "$0.00",
+    "렌즈 마운트": "Micro Four Thirds",
+    "호환 렌즈 수": "132",
+    "크롭 팩터": "2×",
+    "LCD 방식": "Fixed Type",
+    "LCD 크기": "3.00\"",
+    "LCD 해상도": "460k dots",
+    "터치스크린 지원": false
+  },
+  "brand": "Panasonic",
+  "timeline_name": "Panasonic Lumix DMC G10",
+  "scraped_at": "2026-05-27T15:43:13.219418"
+}
