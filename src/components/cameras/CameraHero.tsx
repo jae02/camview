@@ -152,16 +152,7 @@ export default function CameraHero({ camera }: CameraHeroProps) {
               <span className="gradient-text">{camera.model}</span>
             </h1>
 
-            {/* Description */}
-            {camera.description && (
-              <p
-                className="body-lg max-w-xl"
-                style={{ color: "var(--text-secondary)" }}
-              >
-                {camera.description.slice(0, 200)}
-                {camera.description.length > 200 ? "…" : ""}
-              </p>
-            )}
+
 
             {/* Rating & Price Row */}
             <div className="flex flex-wrap items-center gap-6">
