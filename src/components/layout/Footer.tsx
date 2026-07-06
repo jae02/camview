@@ -176,11 +176,15 @@ export default function Footer() {
             © {currentYear} 카메라 백과사전. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
-            {["개인정보처리방침", "이용약관", "쿠키 설정"].map(
-              (label) => (
-                <a
-                  key={label}
-                  href="#"
+            {[
+              { label: "사이트 소개", href: "/about" },
+              { label: "개인정보처리방침", href: "/privacy" },
+              { label: "이용약관", href: "/terms" },
+            ].map(
+              (item) => (
+                <Link
+                  key={item.label}
+                  href={item.href}
                   className="text-xs"
                   style={{
                     color: "var(--text-muted)",
@@ -195,8 +199,8 @@ export default function Footer() {
                       "var(--text-muted)";
                   }}
                 >
-                  {label}
-                </a>
+                  {item.label}
+                </Link>
               )
             )}
           </div>
