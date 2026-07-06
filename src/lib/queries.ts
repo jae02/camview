@@ -246,7 +246,7 @@ function buildCamera(index: number, seed: any, review: any | null): CameraWithSt
     releaseDate: seed.releaseDate ? new Date(seed.releaseDate).toISOString() : new Date().toISOString(),
     imageUrl: seed.imageUrl || (review?.image_url ? review.image_url.replace('px8060', 'px300_300') : null) || seed.thumbnailUrl || null,
     thumbnailUrl: seed.thumbnailUrl || (review?.image_url ? review.image_url.replace('px8060', 'px100_100') : null) || null,
-    description: seed.description || null,
+    description: seed.description || review?.description || null,
     avgRating: 0,
     reviewCount: 0,
     // Review data
@@ -346,7 +346,7 @@ function buildCameraFromReview(index: number, review: any): CameraWithStats {
     releaseDate: parseDate(keySpecs['Announced'] || specs['Announced']),
     imageUrl: review.image_url ? review.image_url.replace('px8060', 'px300_300') : null,
     thumbnailUrl: review.image_url ? review.image_url.replace('px8060', 'px100_100') : null,
-    description: null,
+    description: review.description || null,
     avgRating: 0,
     reviewCount: 0,
     // Review data
