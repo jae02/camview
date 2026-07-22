@@ -14,8 +14,6 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 
-# 압축 해제
-RUN tar -xzf data/cameras.tar.gz -C public/images/
 
 # Next.js 텔레메트리 비활성화 (선택 사항)
 ENV NEXT_TELEMETRY_DISABLED=1
