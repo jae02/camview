@@ -1,4 +1,3 @@
-import { ArrowRight, BookOpen, Sparkles, TrendingUp } from "lucide-react";
 import Link from "next/link";
 import { getAllArticles, getAllCategories } from "@/lib/articles";
 import ArticleCard from "@/components/blog/ArticleCard";
@@ -7,170 +6,20 @@ export default async function HomePage() {
   const articles = await getAllArticles();
   const categories = await getAllCategories();
 
-  const features = [
-    {
-      icon: BookOpen,
-      title: "솔직 담백 리뷰",
-      description: "직접 가보고, 입어보고, 맛본 것들에 대한 가감 없는 솔직한 기록",
-    },
-    {
-      icon: TrendingUp,
-      title: "핫플레이스 & 트렌드",
-      description: "감각적인 공간들과 빠르게 변하는 최신 라이프스타일 트렌드",
-    },
-    {
-      icon: Sparkles,
-      title: "배움과 기록",
-      description: "소소한 일상부터 새로운 것을 배워가는 성장의 과정까지",
-    },
-  ];
-
   return (
     <>
-      {/* ══════════════════════════════════════════════════════════════
-           SECTION 1 — HERO
-           ══════════════════════════════════════════════════════════════ */}
-      <section
-        id="hero"
-        className="relative flex flex-col items-center justify-center text-center"
-        style={{
-          minHeight: "70vh",
-          paddingTop: "6rem",
-          paddingBottom: "4rem",
-          overflow: "hidden",
-        }}
-      >
-        <div className="absolute inset-0" style={{ zIndex: -1, background: "var(--bg-primary)" }} />
-        <div
-          className="absolute inset-0"
-          style={{
-            zIndex: 0,
-            background: "radial-gradient(circle at 50% 0%, rgba(99, 102, 241, 0.05) 0%, transparent 70%)"
-          }}
-        />
-
-        <div className="relative z-10 container-custom space-y-8 animate-fade-in-up">
-          <div className="flex justify-center">
-            <div
-              className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold"
-              style={{
-                background: "var(--bg-card)",
-                border: "1px solid var(--border-default)",
-                color: "var(--text-secondary)",
-                boxShadow: "var(--shadow-sm)"
-              }}
-            >
-              <span className="pulse-dot" />
-              다양한 주제를 다루는 오리지널 콘텐츠
-            </div>
-          </div>
-
-          <h1
-            className="heading-xl max-w-3xl mx-auto"
-            style={{ color: "var(--text-primary)" }}
-          >
-            당신의 일상이 새로워지는 시간,{" "}
-            <span className="gradient-text">Dlsrivew</span>
-          </h1>
-
-          <p
-            className="body-lg max-w-xl mx-auto"
-            style={{ color: "var(--text-secondary)" }}
-          >
-            어려운 기술과 스펙 나열은 이제 그만! IT, 리뷰, 일상 등 다채로운 주제의 
-            생생한 이야기와 인사이트를 만나보세요.
-          </p>
-        </div>
-      </section>
-
-      {/* ══════════════════════════════════════════════════════════════
-           SECTION 2 — FEATURES
-           ══════════════════════════════════════════════════════════════ */}
-      <section
-        id="features"
-        className="py-16"
-        style={{
-          background: "var(--bg-secondary)",
-          borderTop: "1px solid var(--border-subtle)",
-          borderBottom: "1px solid var(--border-subtle)",
-        }}
-      >
-        <div className="container-custom">
-          <div className="grid md:grid-cols-3 gap-6">
-            {features.map((feature) => (
-              <div
-                key={feature.title}
-                className="flex items-start gap-4 p-6 rounded-xl feature-card"
-                style={{
-                  background: "var(--bg-card)",
-                  border: "1px solid var(--border-subtle)",
-                  transition: "var(--transition-normal)",
-                }}
-              >
-                <div
-                  className="flex items-center justify-center w-10 h-10 rounded-lg flex-shrink-0"
-                  style={{
-                    background: "rgba(99, 102, 241, 0.1)",
-                    border: "1px solid rgba(99, 102, 241, 0.15)",
-                  }}
-                >
-                  <feature.icon
-                    className="w-5 h-5"
-                    style={{ color: "var(--accent-secondary)" }}
-                  />
-                </div>
-                <div>
-                  <h3
-                    className="text-sm font-bold mb-1"
-                    style={{ color: "var(--text-primary)" }}
-                  >
-                    {feature.title}
-                  </h3>
-                  <p
-                    className="text-xs"
-                    style={{ color: "var(--text-tertiary)" }}
-                  >
-                    {feature.description}
-                  </p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ══════════════════════════════════════════════════════════════
-           SECTION 3 — ALL ARTICLES GRID
-           ══════════════════════════════════════════════════════════════ */}
-      <section id="articles" className="py-20" style={{ background: "var(--bg-primary)" }}>
-        <div className="container-custom">
-          {/* Section Header */}
-          <div className="flex flex-col mb-12">
-            <div className="flex items-center gap-3 mb-3">
-              <div
-                className="w-1 h-8 rounded-full"
-                style={{ background: "var(--gradient-brand)" }}
-              />
-              <h2
-                className="heading-lg"
-                style={{ color: "var(--text-primary)" }}
-              >
-                최신 아티클
-              </h2>
-            </div>
-            <p
-              className="text-sm ml-4 mb-6"
-              style={{ color: "var(--text-tertiary)" }}
-            >
-              새롭게 올라온 다채로운 이야기들을 만나보세요.
-            </p>
+      <section id="articles" className="py-12 md:py-20" style={{ background: "var(--bg-primary)" }}>
+        <div className="container-custom max-w-4xl mx-auto">
+          {/* Section Header & Category Filters */}
+          <div className="flex flex-col mb-10 pb-6 border-b border-gray-200 dark:border-gray-800">
+            <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">
+              전체 글
+            </h2>
             
-            {/* Category Filters */}
-            <div className="flex flex-wrap gap-2 ml-4">
+            <div className="flex flex-wrap gap-2">
               <Link 
                 href="/"
-                className="px-4 py-2 rounded-full text-sm font-medium transition-colors border border-transparent"
-                style={{ background: "var(--bg-tertiary)", color: "var(--text-primary)" }}
+                className="px-4 py-2 rounded-full text-sm font-medium transition-colors bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white"
               >
                 전체
               </Link>
@@ -178,11 +27,7 @@ export default async function HomePage() {
                 <Link
                   key={cat}
                   href={`/category/${cat.toLowerCase()}`}
-                  className="px-4 py-2 rounded-full text-sm font-medium transition-colors border hover:border-gray-900 hover:text-gray-900 dark:hover:border-white dark:hover:text-white"
-                  style={{ 
-                    borderColor: "var(--border-subtle)",
-                    color: "var(--text-secondary)",
-                  }}
+                  className="px-4 py-2 rounded-full text-sm font-medium transition-colors border border-gray-200 dark:border-gray-800 text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-[#1a1a1a] hover:text-gray-900 dark:hover:text-white"
                 >
                   {cat}
                 </Link>
@@ -190,8 +35,8 @@ export default async function HomePage() {
             </div>
           </div>
 
-          {/* Article Cards Grid */}
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 stagger-children">
+          {/* Article List (1 Column) */}
+          <div className="flex flex-col">
             {articles.map((article, idx) => (
               <ArticleCard key={article.id} article={article} index={idx} />
             ))}

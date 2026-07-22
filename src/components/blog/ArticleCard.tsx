@@ -22,38 +22,27 @@ export default function ArticleCard({ article, index = 0 }: ArticleCardProps) {
   return (
     <Link
       href={`/blog/${article.slug}`}
-      className="group flex flex-col justify-between p-6 rounded-2xl bg-white dark:bg-[#111] border border-gray-200 dark:border-gray-800 hover:border-blue-500 transition-all duration-300 hover:shadow-lg relative overflow-hidden"
-      style={{
-        animationDelay: `${index * 50}ms`,
-      }}
+      className="block py-6 border-b border-gray-200 dark:border-gray-800 hover:bg-gray-50 dark:hover:bg-[#1a1a1a] transition-colors"
     >
-      <div className="space-y-4">
-        {/* Category Badge */}
-        <div className="flex items-center justify-between">
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold text-blue-600 bg-blue-50 dark:bg-blue-900/30 dark:text-blue-400">
-            <BookOpen className="w-3 h-3" />
+      <div className="flex flex-col gap-2">
+        {/* Category & Date */}
+        <div className="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+          <span className="font-medium text-blue-600 dark:text-blue-400">
             {article.category}
           </span>
-          <span className="inline-flex items-center gap-1 text-xs text-gray-500 dark:text-gray-400 font-medium">
-            <Calendar className="w-3 h-3" />
-            {formattedDate}
-          </span>
+          <span className="text-gray-300 dark:text-gray-700">|</span>
+          <span>{formattedDate}</span>
         </div>
 
         {/* Title */}
-        <h3 className="text-xl font-bold text-gray-900 dark:text-white leading-tight group-hover:text-blue-600 transition-colors line-clamp-3">
+        <h3 className="text-xl sm:text-2xl font-bold text-gray-900 dark:text-white leading-tight">
           {article.title}
         </h3>
-      </div>
-
-      {/* Footer / CTA */}
-      <div className="mt-6 flex items-center justify-between pt-4 border-t border-gray-100 dark:border-gray-800">
-        <span className="text-sm font-semibold text-gray-600 dark:text-gray-300">
-          Dlsrivew Editor
-        </span>
-        <span className="inline-flex items-center gap-1 text-sm font-bold text-blue-600 group-hover:translate-x-1 transition-transform">
-          읽어보기 <ArrowRight className="w-4 h-4" />
-        </span>
+        
+        {/* Excerpt placeholder if needed in the future */}
+        <p className="text-gray-600 dark:text-gray-400 mt-1 line-clamp-2 text-sm sm:text-base">
+          {article.title}에 관한 자세한 이야기를 확인해보세요.
+        </p>
       </div>
     </Link>
   );

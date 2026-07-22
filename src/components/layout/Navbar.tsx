@@ -23,13 +23,7 @@ export default function Navbar({ categories = [] }: NavbarProps) {
   return (
     <nav
       id="main-navbar"
-      className="fixed top-0 left-0 right-0 z-50 border-b"
-      style={{
-        background: "rgba(255, 255, 255, 0.9)",
-        backdropFilter: "blur(10px)",
-        WebkitBackdropFilter: "blur(10px)",
-        borderBottom: "1px solid var(--border-subtle)",
-      }}
+      className="fixed top-0 left-0 right-0 z-50 bg-white dark:bg-[#111] border-b border-gray-200 dark:border-gray-800"
     >
       <div className="container-custom">
         <div className="flex items-center justify-between h-16">
@@ -41,13 +35,9 @@ export default function Navbar({ categories = [] }: NavbarProps) {
             style={{ transition: "var(--transition-normal)" }}
           >
             <div
-              className="flex items-center justify-center w-9 h-9 rounded-lg"
-              style={{
-                background: "var(--gradient-brand)",
-                boxShadow: "0 0 20px var(--accent-glow)",
-              }}
+              className="flex items-center justify-center w-8 h-8 rounded bg-gray-900 dark:bg-white"
             >
-              <Compass className="w-5 h-5 text-white" strokeWidth={2.5} />
+              <Compass className="w-5 h-5 text-white dark:text-gray-900" strokeWidth={2} />
             </div>
             <div className="flex flex-col -space-y-0.5">
               <span
@@ -72,19 +62,7 @@ export default function Navbar({ categories = [] }: NavbarProps) {
                 key={link.href}
                 href={link.href}
                 id={`nav-link-${link.label.toLowerCase()}`}
-                className="relative px-4 py-2 text-sm font-medium rounded-lg group"
-                style={{
-                  color: "var(--text-secondary)",
-                  transition: "var(--transition-fast)",
-                }}
-                onMouseEnter={(e) => {
-                  e.currentTarget.style.color = "var(--text-primary)";
-                  e.currentTarget.style.background = "var(--bg-tertiary)";
-                }}
-                onMouseLeave={(e) => {
-                  e.currentTarget.style.color = "var(--text-secondary)";
-                  e.currentTarget.style.background = "transparent";
-                }}
+                className="px-4 py-2 text-sm font-medium rounded-md text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
               >
                 {link.label}
               </Link>
@@ -96,24 +74,7 @@ export default function Navbar({ categories = [] }: NavbarProps) {
             {/* Search button */}
             <button
               id="nav-search-btn"
-              className="flex items-center justify-center w-9 h-9 rounded-lg"
-              style={{
-                color: "var(--text-tertiary)",
-                background: "transparent",
-                border: "1px solid var(--border-subtle)",
-                transition: "var(--transition-fast)",
-                cursor: "pointer",
-              }}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.color = "var(--text-primary)";
-                e.currentTarget.style.borderColor = "var(--border-strong)";
-                e.currentTarget.style.background = "var(--bg-tertiary)";
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.color = "var(--text-tertiary)";
-                e.currentTarget.style.borderColor = "var(--border-subtle)";
-                e.currentTarget.style.background = "transparent";
-              }}
+              className="flex items-center justify-center w-9 h-9 rounded-md text-gray-500 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-800 transition-colors"
             >
               <Search className="w-4 h-4" />
             </button>

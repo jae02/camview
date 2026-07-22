@@ -39,8 +39,8 @@ export default async function CategoryPage({
 
   return (
     <div className="pt-24 pb-16 min-h-screen">
-      <div className="container-custom">
-        <div className="mb-12">
+      <div className="container-custom max-w-4xl mx-auto">
+        <div className="mb-10 pb-6 border-b border-gray-200 dark:border-gray-800">
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">
             {originalCategory}
           </h1>
@@ -49,7 +49,7 @@ export default async function CategoryPage({
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
+        <div className="flex flex-col">
           {articles.map((article) => (
             <ArticleCard key={article.id} article={article} />
           ))}
