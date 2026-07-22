@@ -6,21 +6,23 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "Dlsrivew — 프리미엄 매거진",
+    default: "Dlsrivew — 취향과 일상을 담은 블로그",
     template: "%s | Dlsrivew",
   },
   description:
-    "IT, 카메라, 일상 등 다양한 주제를 다루는 프리미엄 매거진 블로그입니다.",
+    "패션, 카페, 여행, 미식, 그리고 배움의 기록까지. 다채로운 취향과 일상을 공유하는 프리미엄 블로그입니다.",
   keywords: [
     "블로그",
-    "매거진",
-    "IT",
-    "리뷰",
+    "패션",
+    "카페",
+    "여행",
+    "미식",
+    "공부",
     "일상",
   ],
   openGraph: {
-    title: "Dlsrivew — 프리미엄 매거진",
-    description: "IT, 카메라, 일상 등 다양한 주제를 다루는 프리미엄 매거진 블로그입니다.",
+    title: "Dlsrivew — 취향과 일상을 담은 블로그",
+    description: "패션, 카페, 여행, 미식, 그리고 배움의 기록까지. 다채로운 취향과 일상을 공유하는 프리미엄 블로그입니다.",
     url: "https://dslreview.co.kr",
     siteName: "Dlsrivew",
     locale: "ko_KR",

@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Camera, Menu, X, Search } from "lucide-react";
+import { Compass, Menu, X, Search } from "lucide-react";
 
 /**
  * Navigation bar for the blog
@@ -47,7 +47,7 @@ export default function Navbar({ categories = [] }: NavbarProps) {
                 boxShadow: "0 0 20px var(--accent-glow)",
               }}
             >
-              <Camera className="w-5 h-5 text-white" strokeWidth={2.5} />
+              <Compass className="w-5 h-5 text-white" strokeWidth={2.5} />
             </div>
             <div className="flex flex-col -space-y-0.5">
               <span

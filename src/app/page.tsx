@@ -10,18 +10,18 @@ export default async function HomePage() {
   const features = [
     {
       icon: BookOpen,
-      title: "심층 리뷰",
-      description: "에디터가 직접 사용해보고 작성한 가감 없는 솔직한 리뷰",
+      title: "솔직 담백 리뷰",
+      description: "직접 가보고, 입어보고, 맛본 것들에 대한 가감 없는 솔직한 기록",
     },
     {
       icon: TrendingUp,
-      title: "최신 트렌드",
-      description: "빠르게 변하는 디지털 시장의 최신 소식과 유행 분석",
+      title: "핫플레이스 & 트렌드",
+      description: "감각적인 공간들과 빠르게 변하는 최신 라이프스타일 트렌드",
     },
     {
       icon: Sparkles,
-      title: "초보자 가이드",
-      description: "어려운 IT 지식을 일상어로 쉽게 풀어낸 맞춤형 가이드",
+      title: "배움과 기록",
+      description: "소소한 일상부터 새로운 것을 배워가는 성장의 과정까지",
     },
   ];
 
