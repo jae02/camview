@@ -38,7 +38,7 @@ export default async function CategoryPage({
   }
 
   return (
-    <div className="pt-24 pb-16 min-h-screen">
+    <div className="py-12 md:py-20 min-h-screen">
       <div className="container-custom max-w-4xl mx-auto">
         <div className="mb-10 pb-6 border-b border-gray-200 dark:border-gray-800">
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">

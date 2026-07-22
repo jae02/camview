@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Navbar from "@/components/layout/Navbar";
+import Sidebar from "@/components/layout/Sidebar";
 import Footer from "@/components/layout/Footer";
 import { getAllCategories } from "@/lib/articles";
 import "./globals.css";
@@ -66,16 +66,20 @@ export default async function RootLayout({
         ></script>
       </head>
       <body>
-        {/* ── Fixed Navbar ──────────────────────────────────────────── */}
-        <Navbar categories={categories} />
+        <div className="flex min-h-screen flex-col md:flex-row">
+          {/* ── Sidebar (Fixed Left on Desktop / Top Bar on Mobile) ── */}
+          <Sidebar categories={categories} />
 
-        {/* ── Main Content (offset for fixed navbar) ───────────────── */}
-        <main style={{ minHeight: "100vh", position: "relative", zIndex: 1 }}>
-          {children}
-        </main>
-
-        {/* ── Footer ───────────────────────────────────────────────── */}
-        <Footer />
+          {/* ── Main Content Area ───────────────────────────────────── */}
+          <div className="flex-1 flex flex-col w-full md:ml-64 pt-16 md:pt-0">
+            <main className="flex-1 relative z-10 min-h-screen">
+              {children}
+            </main>
+            
+            {/* ── Footer ────────────────────────────────────────────── */}
+            <Footer />
+          </div>
+        </div>
       </body>
     </html>
   );

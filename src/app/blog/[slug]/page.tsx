@@ -70,7 +70,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       </article>
 
       {/* 2. 다이내믹 사이드바 (화면 스크롤 시 따라다니는 Sticky 영역) */}
-      <aside className="w-full lg:w-80 flex-shrink-0 space-y-8 sticky top-24 hidden lg:block">
+      <aside className="w-full lg:w-80 flex-shrink-0 space-y-8 sticky top-8 hidden lg:block">
         
         {/* 목차 (Table of Contents) 위젯 */}
         <div className="bg-gray-50 dark:bg-[#111] p-6 rounded-2xl border border-gray-100 dark:border-gray-800">

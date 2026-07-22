@@ -9,23 +9,23 @@
 /* ─── CSS Custom Properties (Design Tokens) ─────────────────────────────────── */
 :root {
   /* Background layers — clean white and structured grays */
-  --bg-primary: #f8f9fa; /* Light gray for main background */
+  --bg-primary: #faf8f5; /* Warm Beige for main background */
   --bg-secondary: #ffffff; /* White for cards/sections */
-  --bg-tertiary: #f1f3f5; /* Hover states, subtle borders */
+  --bg-tertiary: #f2efe9; /* Hover states, subtle borders */
   --bg-card: #ffffff; /* Card background */
-  --bg-card-hover: #f8f9fa;
+  --bg-card-hover: #faf8f5;
   --bg-elevated: #ffffff;
 
-  /* Accent — Trustworthy Blue (common in KR commerce/tech) */
-  --accent-primary: #2563eb; /* Royal blue */
-  --accent-secondary: #3b82f6; 
-  --accent-tertiary: #bfdbfe;
-  --accent-glow: rgba(37, 99, 235, 0.15);
-  --accent-glow-strong: rgba(37, 99, 235, 0.25);
+  /* Accent — Warm Brown */
+  --accent-primary: #8b5e3c; /* Brown */
+  --accent-secondary: #a67c52; 
+  --accent-tertiary: #d2b48c;
+  --accent-glow: rgba(139, 94, 60, 0.15);
+  --accent-glow-strong: rgba(139, 94, 60, 0.25);
 
   /* Brand gradient */
-  --gradient-brand: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
-  --gradient-brand-subtle: linear-gradient(135deg, #f0fdf4 0%, #eff6ff 100%);
+  --gradient-brand: linear-gradient(135deg, #8b5e3c 0%, #a67c52 100%);
+  --gradient-brand-subtle: linear-gradient(135deg, #fdfbf7 0%, #f4eee6 100%);
   --gradient-hero: linear-gradient(180deg, transparent 0%, var(--bg-primary) 100%);
 
   /* Text hierarchy - High contrast for readability */
