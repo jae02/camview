@@ -70,3 +70,16 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
     }
   });
 }
+
+export async function getAllCategories(): Promise<string[]> {
+  const articles = await getAllArticles();
+  const categories = new Set(articles.map(article => article.category));
+  return Array.from(categories).sort();
+}
+
+export async function getArticlesByCategory(category: string): Promise<ArticleMetadata[]> {
+  const articles = await getAllArticles();
+  return articles.filter(
+    (article) => article.category.toLowerCase() === category.toLowerCase()
+  );
+}

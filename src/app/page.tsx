@@ -1,10 +1,11 @@
 import { ArrowRight, BookOpen, Sparkles, TrendingUp } from "lucide-react";
 import Link from "next/link";
-import { getAllArticles } from "@/lib/articles";
+import { getAllArticles, getAllCategories } from "@/lib/articles";
 import ArticleCard from "@/components/blog/ArticleCard";
 
 export default async function HomePage() {
   const articles = await getAllArticles();
+  const categories = await getAllCategories();
 
   const features = [
     {
@@ -15,12 +16,12 @@ export default async function HomePage() {
     {
       icon: TrendingUp,
       title: "최신 트렌드",
-      description: "빠르게 변하는 카메라 시장의 최신 소식과 Y2K 유행 분석",
+      description: "빠르게 변하는 디지털 시장의 최신 소식과 유행 분석",
     },
     {
       icon: Sparkles,
       title: "초보자 가이드",
-      description: "어려운 카메라 스펙을 일상어로 쉽게 풀어낸 맞춤형 가이드",
+      description: "어려운 IT 지식을 일상어로 쉽게 풀어낸 맞춤형 가이드",
     },
   ];
 
@@ -60,7 +61,7 @@ export default async function HomePage() {
               }}
             >
               <span className="pulse-dot" />
-              사진을 사랑하는 당신을 위한 오리지널 콘텐츠
+              다양한 주제를 다루는 오리지널 콘텐츠
             </div>
           </div>
 
@@ -68,7 +69,7 @@ export default async function HomePage() {
             className="heading-xl max-w-3xl mx-auto"
             style={{ color: "var(--text-primary)" }}
           >
-            카메라가 즐거워지는 시간,{" "}
+            당신의 일상이 새로워지는 시간,{" "}
             <span className="gradient-text">Dlsrivew</span>
           </h1>
 
@@ -76,8 +77,8 @@ export default async function HomePage() {
             className="body-lg max-w-xl mx-auto"
             style={{ color: "var(--text-secondary)" }}
           >
-            기계적인 스펙 나열은 이제 그만! 내게 딱 맞는 카메라를 찾고, 
-            사진 찍는 즐거움을 배가시켜줄 생생한 리뷰와 가이드를 만나보세요.
+            어려운 기술과 스펙 나열은 이제 그만! IT, 리뷰, 일상 등 다채로운 주제의 
+            생생한 이야기와 인사이트를 만나보세요.
           </p>
         </div>
       </section>
@@ -144,26 +145,48 @@ export default async function HomePage() {
       <section id="articles" className="py-20" style={{ background: "var(--bg-primary)" }}>
         <div className="container-custom">
           {/* Section Header */}
-          <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-12">
-            <div>
-              <div className="flex items-center gap-3 mb-3">
-                <div
-                  className="w-1 h-8 rounded-full"
-                  style={{ background: "var(--gradient-brand)" }}
-                />
-                <h2
-                  className="heading-lg"
-                  style={{ color: "var(--text-primary)" }}
-                >
-                  최신 아티클
-                </h2>
-              </div>
-              <p
-                className="text-sm ml-4"
-                style={{ color: "var(--text-tertiary)" }}
+          <div className="flex flex-col mb-12">
+            <div className="flex items-center gap-3 mb-3">
+              <div
+                className="w-1 h-8 rounded-full"
+                style={{ background: "var(--gradient-brand)" }}
+              />
+              <h2
+                className="heading-lg"
+                style={{ color: "var(--text-primary)" }}
               >
-                카메라 전문 에디터가 정성껏 작성한 최신 글을 확인하세요.
-              </p>
+                최신 아티클
+              </h2>
+            </div>
+            <p
+              className="text-sm ml-4 mb-6"
+              style={{ color: "var(--text-tertiary)" }}
+            >
+              새롭게 올라온 다채로운 이야기들을 만나보세요.
+            </p>
+            
+            {/* Category Filters */}
+            <div className="flex flex-wrap gap-2 ml-4">
+              <Link 
+                href="/"
+                className="px-4 py-2 rounded-full text-sm font-medium transition-colors border border-transparent"
+                style={{ background: "var(--bg-tertiary)", color: "var(--text-primary)" }}
+              >
+                전체
+              </Link>
+              {categories.map((cat) => (
+                <Link
+                  key={cat}
+                  href={`/category/${cat.toLowerCase()}`}
+                  className="px-4 py-2 rounded-full text-sm font-medium transition-colors border hover:border-gray-900 hover:text-gray-900 dark:hover:border-white dark:hover:text-white"
+                  style={{ 
+                    borderColor: "var(--border-subtle)",
+                    color: "var(--text-secondary)",
+                  }}
+                >
+                  {cat}
+                </Link>
+              ))}
             </div>
           </div>
 

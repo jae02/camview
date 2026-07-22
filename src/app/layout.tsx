@@ -1,25 +1,26 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
+import { getAllCategories } from "@/lib/articles";
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "Dlsrivew — 프리미엄 카메라 매거진",
+    default: "Dlsrivew — 프리미엄 매거진",
     template: "%s | Dlsrivew",
   },
   description:
-    "카메라와 사진을 사랑하는 사람들을 위한 프리미엄 매거진. 거짓 없는 솔직한 리뷰와 트렌디한 카메라 가이드를 제공합니다.",
+    "IT, 카메라, 일상 등 다양한 주제를 다루는 프리미엄 매거진 블로그입니다.",
   keywords: [
-    "카메라 리뷰",
-    "사진",
-    "미러리스 카메라",
-    "빈티지 디카",
-    "카메라 추천",
+    "블로그",
+    "매거진",
+    "IT",
+    "리뷰",
+    "일상",
   ],
   openGraph: {
-    title: "Dlsrivew — 프리미엄 카메라 매거진",
-    description: "카메라와 사진을 사랑하는 사람들을 위한 프리미엄 매거진. 거짓 없는 솔직한 리뷰와 트렌디한 카메라 가이드를 제공합니다.",
+    title: "Dlsrivew — 프리미엄 매거진",
+    description: "IT, 카메라, 일상 등 다양한 주제를 다루는 프리미엄 매거진 블로그입니다.",
     url: "https://dslreview.co.kr",
     siteName: "Dlsrivew",
     locale: "ko_KR",
@@ -27,11 +28,13 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const categories = await getAllCategories();
+
   return (
     <html lang="ko">
       <head>
@@ -62,7 +65,7 @@ export default function RootLayout({
       </head>
       <body>
         {/* ── Fixed Navbar ──────────────────────────────────────────── */}
-        <Navbar />
+        <Navbar categories={categories} />
 
         {/* ── Main Content (offset for fixed navbar) ───────────────── */}
         <main style={{ minHeight: "100vh", position: "relative", zIndex: 1 }}>

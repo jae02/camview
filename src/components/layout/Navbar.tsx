@@ -7,11 +7,16 @@ import { Camera, Menu, X, Search } from "lucide-react";
 /**
  * Navigation bar for the blog
  */
-export default function Navbar() {
+interface NavbarProps {
+  categories?: string[];
+}
+
+export default function Navbar({ categories = [] }: NavbarProps) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const navLinks = [
     { href: "/", label: "홈" },
+    ...categories.map(cat => ({ href: `/category/${cat.toLowerCase()}`, label: cat })),
     { href: "/about", label: "소개" },
   ];
 
