@@ -1,13 +1,15 @@
 import { MetadataRoute } from "next";
-import { getAllCameras } from "@/lib/queries";
+// @ts-ignore
+import { getAllArticles } from "@/lib/articles";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const cameras = await getAllCameras();
+  // @ts-ignore
+  const articles = await getAllArticles();
   const siteUrl = "https://dslreview.co.kr";
 
-  const cameraUrls = cameras.map((camera) => ({
-    url: `${siteUrl}/cameras/${camera.slug}`,
-    lastModified: new Date(camera.releaseDate),
+  const articleUrls = articles.map((article: any) => ({
+    url: `${siteUrl}/blog/${article.slug}`,
+    lastModified: new Date(article.updatedAt || article.createdAt),
     changeFrequency: "weekly" as const,
     priority: 0.8,
   }));
@@ -20,11 +22,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 1,
     },
     {
-      url: `${siteUrl}/cameras`,
+      url: `${siteUrl}/about`,
       lastModified: new Date(),
-      changeFrequency: "daily",
-      priority: 0.9,
+      changeFrequency: "monthly",
+      priority: 0.5,
     },
-    ...cameraUrls,
+    ...articleUrls,
   ];
 }

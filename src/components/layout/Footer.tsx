@@ -15,30 +15,12 @@ export default function Footer() {
 
   const footerSections = [
     {
-      title: "둘러보기",
+      title: "바로가기",
       links: [
-        { label: "카메라 도감", href: "/cameras" },
-        { label: "모델 비교", href: "/compare" },
+        { label: "홈", href: "/" },
+        { label: "블로그 소개", href: "/about" },
         { label: "개인정보처리방침", href: "/privacy" },
         { label: "이용약관", href: "/terms" },
-      ],
-    },
-    {
-      title: "브랜드별 탐색",
-      links: [
-        { label: "소니 (Sony)", href: "/cameras?brand=sony" },
-        { label: "캐논 (Canon)", href: "/cameras?brand=canon" },
-        { label: "니콘 (Nikon)", href: "/cameras?brand=nikon" },
-        { label: "후지필름 (Fujifilm)", href: "/cameras?brand=fujifilm" },
-      ],
-    },
-    {
-      title: "카메라 유형",
-      links: [
-        { label: "풀프레임 미러리스", href: "/cameras?sensor=full_frame" },
-        { label: "APS-C 미러리스", href: "/cameras?sensor=aps_c" },
-        { label: "중형 포맷", href: "/cameras?sensor=medium_format" },
-        { label: "컴팩트 / 액션캠", href: "/cameras?body=compact" },
       ],
     },
   ];
@@ -78,13 +60,13 @@ export default function Footer() {
                   className="text-sm font-bold tracking-tight"
                   style={{ color: "var(--text-primary)" }}
                 >
-                  카메라 백과
+                  Dlsrivew
                 </span>
                 <span
                   className="text-[10px] font-medium tracking-widest uppercase"
                   style={{ color: "var(--text-tertiary)" }}
                 >
-                  ENCYCLOPEDIA
+                  MAGAZINE
                 </span>
               </div>
             </Link>
@@ -93,9 +75,8 @@ export default function Footer() {
               className="text-sm leading-relaxed max-w-sm"
               style={{ color: "var(--text-tertiary)" }}
             >
-              역대 디지털 카메라의 상세 제원과 스펙을 총망라한
-              온라인 백과사전입니다. 브랜드별, 센서별로 검색하고
-              모델 간 사양을 비교해 보세요.
+              카메라와 사진을 사랑하는 사람들을 위한 프리미엄 매거진. 
+              거짓 없는 솔직한 리뷰와 트렌디한 카메라 가이드를 제공합니다.
             </p>
 
             {/* Social Icons */}

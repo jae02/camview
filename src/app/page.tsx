@@ -1,67 +1,89 @@
-import {
-  Camera,
-  ArrowRight,
-  Sparkles,
-  BarChart3,
-  Users,
-  BookOpen,
-} from "lucide-react";
+import { ArrowRight, BookOpen, Sparkles, TrendingUp } from "lucide-react";
 import Link from "next/link";
-import CameraCard from "@/components/cameras/CameraCard";
-import { getFeaturedCameras } from "@/lib/queries";
-// @ts-ignore
 import { getAllArticles } from "@/lib/articles";
 import ArticleCard from "@/components/blog/ArticleCard";
-import HeroSection from "@/components/layout/HeroSection";
 
-/**
- * Home page — the main landing experience for Dlsrivew.
- *
- * Sections:
- * 1. Hero with headline, tagline, and CTA (Client Component for interactivity)
- * 2. Feature highlights strip
- * 3. Articles grid showcasing all latest reviews/guides
- * 4. Community stats bar
- */
 export default async function HomePage() {
-  const cameras = await getFeaturedCameras(6);
-  // @ts-ignore
   const articles = await getAllArticles();
 
   const features = [
     {
-      icon: "BookOpen" as const,
+      icon: BookOpen,
       title: "심층 리뷰",
-      description: "현업 전문가가 작성한 상세한 카메라 분석 및 가이드",
+      description: "에디터가 직접 사용해보고 작성한 가감 없는 솔직한 리뷰",
     },
     {
-      icon: "BarChart3" as const,
-      title: "사양 비교",
-      description: "스펙을 나란히 비교하여 최적의 카메라를 찾아보세요",
+      icon: TrendingUp,
+      title: "최신 트렌드",
+      description: "빠르게 변하는 카메라 시장의 최신 소식과 Y2K 유행 분석",
     },
     {
-      icon: "Users" as const,
-      title: "브랜드별 도감",
-      description: "Sony, Canon, Nikon, Fujifilm, Panasonic, Leica 등 25개 이상 브랜드 카메라 총망라",
+      icon: Sparkles,
+      title: "초보자 가이드",
+      description: "어려운 카메라 스펙을 일상어로 쉽게 풀어낸 맞춤형 가이드",
     },
-  ];
-
-  const stats = [
-    { value: "1,300+", label: "수록 카메라" },
-    { value: "25+", label: "브랜드" },
-    { value: "50+", label: "상세 스펙 항목" },
-    { value: "98%", label: "데이터 정확도" },
   ];
 
   return (
     <>
       {/* ══════════════════════════════════════════════════════════════
-           SECTION 1 — HERO (Client Component for hover interactivity)
+           SECTION 1 — HERO
            ══════════════════════════════════════════════════════════════ */}
-      <HeroSection />
+      <section
+        id="hero"
+        className="relative flex flex-col items-center justify-center text-center"
+        style={{
+          minHeight: "70vh",
+          paddingTop: "6rem",
+          paddingBottom: "4rem",
+          overflow: "hidden",
+        }}
+      >
+        <div className="absolute inset-0" style={{ zIndex: -1, background: "var(--bg-primary)" }} />
+        <div
+          className="absolute inset-0"
+          style={{
+            zIndex: 0,
+            background: "radial-gradient(circle at 50% 0%, rgba(99, 102, 241, 0.05) 0%, transparent 70%)"
+          }}
+        />
+
+        <div className="relative z-10 container-custom space-y-8 animate-fade-in-up">
+          <div className="flex justify-center">
+            <div
+              className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold"
+              style={{
+                background: "var(--bg-card)",
+                border: "1px solid var(--border-default)",
+                color: "var(--text-secondary)",
+                boxShadow: "var(--shadow-sm)"
+              }}
+            >
+              <span className="pulse-dot" />
+              사진을 사랑하는 당신을 위한 오리지널 콘텐츠
+            </div>
+          </div>
+
+          <h1
+            className="heading-xl max-w-3xl mx-auto"
+            style={{ color: "var(--text-primary)" }}
+          >
+            카메라가 즐거워지는 시간,{" "}
+            <span className="gradient-text">Dlsrivew</span>
+          </h1>
+
+          <p
+            className="body-lg max-w-xl mx-auto"
+            style={{ color: "var(--text-secondary)" }}
+          >
+            기계적인 스펙 나열은 이제 그만! 내게 딱 맞는 카메라를 찾고, 
+            사진 찍는 즐거움을 배가시켜줄 생생한 리뷰와 가이드를 만나보세요.
+          </p>
+        </div>
+      </section>
 
       {/* ══════════════════════════════════════════════════════════════
-           SECTION 2 — FEATURE HIGHLIGHTS
+           SECTION 2 — FEATURES
            ══════════════════════════════════════════════════════════════ */}
       <section
         id="features"
@@ -74,56 +96,52 @@ export default async function HomePage() {
       >
         <div className="container-custom">
           <div className="grid md:grid-cols-3 gap-6">
-            {features.map((feature) => {
-              const IconMap = { Sparkles, BarChart3, Users, BookOpen };
-              const Icon = IconMap[feature.icon];
-              return (
+            {features.map((feature) => (
+              <div
+                key={feature.title}
+                className="flex items-start gap-4 p-6 rounded-xl feature-card"
+                style={{
+                  background: "var(--bg-card)",
+                  border: "1px solid var(--border-subtle)",
+                  transition: "var(--transition-normal)",
+                }}
+              >
                 <div
-                  key={feature.title}
-                  className="flex items-start gap-4 p-6 rounded-xl feature-card"
+                  className="flex items-center justify-center w-10 h-10 rounded-lg flex-shrink-0"
                   style={{
-                    background: "var(--bg-card)",
-                    border: "1px solid var(--border-subtle)",
-                    transition: "var(--transition-normal)",
+                    background: "rgba(99, 102, 241, 0.1)",
+                    border: "1px solid rgba(99, 102, 241, 0.15)",
                   }}
                 >
-                  <div
-                    className="flex items-center justify-center w-10 h-10 rounded-lg flex-shrink-0"
-                    style={{
-                      background: "rgba(99, 102, 241, 0.1)",
-                      border: "1px solid rgba(99, 102, 241, 0.15)",
-                    }}
-                  >
-                    <Icon
-                      className="w-5 h-5"
-                      style={{ color: "var(--accent-secondary)" }}
-                    />
-                  </div>
-                  <div>
-                    <h3
-                      className="text-sm font-bold mb-1"
-                      style={{ color: "var(--text-primary)" }}
-                    >
-                      {feature.title}
-                    </h3>
-                    <p
-                      className="text-xs"
-                      style={{ color: "var(--text-tertiary)" }}
-                    >
-                      {feature.description}
-                    </p>
-                  </div>
+                  <feature.icon
+                    className="w-5 h-5"
+                    style={{ color: "var(--accent-secondary)" }}
+                  />
                 </div>
-              );
-            })}
+                <div>
+                  <h3
+                    className="text-sm font-bold mb-1"
+                    style={{ color: "var(--text-primary)" }}
+                  >
+                    {feature.title}
+                  </h3>
+                  <p
+                    className="text-xs"
+                    style={{ color: "var(--text-tertiary)" }}
+                  >
+                    {feature.description}
+                  </p>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       </section>
 
       {/* ══════════════════════════════════════════════════════════════
-           SECTION 3 — ARTICLES GRID
+           SECTION 3 — ALL ARTICLES GRID
            ══════════════════════════════════════════════════════════════ */}
-      <section id="articles" className="py-20 bg-gray-50 dark:bg-[#0a0a0a]">
+      <section id="articles" className="py-20" style={{ background: "var(--bg-primary)" }}>
         <div className="container-custom">
           {/* Section Header */}
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-12">
@@ -137,14 +155,14 @@ export default async function HomePage() {
                   className="heading-lg"
                   style={{ color: "var(--text-primary)" }}
                 >
-                  최신 리뷰 & 가이드
+                  최신 아티클
                 </h2>
               </div>
               <p
                 className="text-sm ml-4"
                 style={{ color: "var(--text-tertiary)" }}
               >
-                전문가가 분석한 깊이 있는 아티클을 만나보세요.
+                카메라 전문 에디터가 정성껏 작성한 최신 글을 확인하세요.
               </p>
             </div>
           </div>
@@ -153,115 +171,6 @@ export default async function HomePage() {
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 stagger-children">
             {articles.map((article, idx) => (
               <ArticleCard key={article.id} article={article} index={idx} />
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ══════════════════════════════════════════════════════════════
-           SECTION 4 — LATEST BLOG POSTS
-           ══════════════════════════════════════════════════════════════ */}
-      <section id="blog" className="py-20" style={{ background: "var(--bg-card)" }}>
-        <div className="container-custom">
-          {/* Section Header */}
-          <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-12">
-            <div>
-              <div className="flex items-center gap-3 mb-3">
-                <div
-                  className="w-1 h-8 rounded-full"
-                  style={{ background: "var(--gradient-brand)" }}
-                />
-                <h2
-                  className="heading-lg"
-                  style={{ color: "var(--text-primary)" }}
-                >
-                  최신 블로그 기사
-                </h2>
-              </div>
-              <p
-                className="text-sm ml-4"
-                style={{ color: "var(--text-tertiary)" }}
-              >
-                카메라 전문 에디터들의 최신 소식과 리뷰를 확인하세요.
-              </p>
-            </div>
-
-            <Link
-              href="/blog"
-              className="inline-flex items-center gap-1.5 text-sm font-medium ml-4 sm:ml-0 view-all-link"
-              style={{
-                color: "var(--accent-secondary)",
-                transition: "var(--transition-fast)",
-              }}
-            >
-              블로그 전체 보기
-              <ArrowRight className="w-4 h-4" />
-            </Link>
-          </div>
-
-          {/* Articles Grid */}
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {articles.slice(0, 3).map((article: any) => (
-              <Link
-                key={article.slug}
-                href={`/blog/${article.slug}`}
-                className="group flex flex-col rounded-xl overflow-hidden"
-                style={{
-                  background: "var(--bg-primary)",
-                  border: "1px solid var(--border-subtle)",
-                  transition: "var(--transition-normal)",
-                  boxShadow: "var(--shadow-sm)",
-                }}
-              >
-                <div className="p-6 flex flex-col h-full">
-                  <h3 className="font-bold text-lg mb-2" style={{ color: "var(--text-primary)" }}>
-                    {article.title}
-                  </h3>
-                  {article.description && (
-                    <p className="text-sm mb-4 line-clamp-2" style={{ color: "var(--text-secondary)" }}>
-                      {article.description}
-                    </p>
-                  )}
-                  {article.date && (
-                    <div className="mt-auto text-xs" style={{ color: "var(--text-tertiary)" }}>
-                      {new Date(article.date).toLocaleDateString()}
-                    </div>
-                  )}
-                </div>
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ══════════════════════════════════════════════════════════════
-           SECTION 5 — COMMUNITY STATS
-           ══════════════════════════════════════════════════════════════ */}
-      <section
-        id="community-stats"
-        className="py-10"
-        style={{
-          background: "var(--bg-primary)",
-          borderTop: "1px solid var(--border-subtle)",
-        }}
-      >
-        <div className="container-custom">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-            {stats.map((stat) => (
-              <div key={stat.label} className="space-y-1.5 flex flex-col items-center justify-center">
-                <div 
-                  className="text-2xl font-bold"
-                  style={{ color: "var(--accent-primary)" }}
-                >
-                  {stat.value}
-                </div>
-                <p
-                  className="text-xs font-semibold"
-                  style={{ color: "var(--text-secondary)" }}
-                >
-                  {stat.label}
-                </p>
-              </div>
             ))}
           </div>
         </div>

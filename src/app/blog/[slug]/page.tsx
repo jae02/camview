@@ -78,13 +78,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           <TableOfContents source={article.content} />
         </div>
 
-        {/* 연관 카메라 퀵 비교 위젯 (Dlsrivew 핵심 기능 유도) */}
-        {article.targetCameras && article.targetCameras.length >= 2 && (
-          <div className="bg-blue-50 dark:bg-blue-900/20 p-6 rounded-2xl border border-blue-100 dark:border-blue-900/50">
-            <h3 className="font-bold text-lg mb-4 text-gray-900 dark:text-white">본문 속 카메라 비교</h3>
-            <CompareWidget cameras={article.targetCameras.slice(0, 2)} />
-          </div>
-        )}
+
       </aside>
     </div>
   );

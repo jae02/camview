@@ -1,35 +1,35 @@
-import { getAllCameras } from "@/lib/queries";
+// @ts-ignore
+import { getAllArticles } from "@/lib/articles";
 import { NextRequest, NextResponse } from "next/server";
 
 export async function GET(request: NextRequest) {
-  const cameras = await getAllCameras();
+  // @ts-ignore
+  const articles = await getAllArticles();
   
   // 네이버 서치어드바이저 도메인 불일치 에러 방지를 위해 요청된 도메인을 그대로 사용
   const protocol = request.headers.get("x-forwarded-proto") || "https";
   const host = request.headers.get("host") || "dslreview.co.kr";
   const site_url = `${protocol}://${host}`;
 
-  const feedItems = cameras.map((camera) => {
+  const feedItems = articles.map((article: any) => {
     return `
     <item>
-      <title><![CDATA[${camera.brand} ${camera.model} 상세 스펙 및 리뷰]]></title>
-      <link>${site_url}/cameras/${camera.slug}</link>
+      <title><![CDATA[${article.title}]]></title>
+      <link>${site_url}/blog/${article.slug}</link>
       <description><![CDATA[${
-        camera.description ||
-        `${camera.brand} ${camera.model}의 상세 사양, 스펙 비교 및 리뷰를 확인하세요.`
-      }]]></description>
-      <pubDate>${new Date(camera.releaseDate).toUTCString()}</pubDate>
-      <guid>${site_url}/cameras/${camera.slug}</guid>
+        article.title
+      } - 카메라 프리미엄 매거진 Dlsrivew]]></description>
+      <pubDate>${new Date(article.createdAt).toUTCString()}</pubDate>
+      <guid>${site_url}/blog/${article.slug}</guid>
     </item>`;
   });
 
-  // 네이버 가이드라인에 완벽하게 맞춘 순정 RSS 포맷 (불필요한 atom 태그 등 제거)
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>카메라 백과사전 — 디지털 카메라 상세 스펙 도감</title>
+    <title>Dlsrivew — 프리미엄 카메라 매거진</title>
     <link>${site_url}</link>
-    <description>역대 디지털 카메라의 상세 기술 사양을 검색하고, 모델 간 스펙을 비교하고, 브랜드별 카메라 도감을 탐색해 보세요.</description>
+    <description>카메라와 사진을 사랑하는 사람들을 위한 프리미엄 매거진. 거짓 없는 솔직한 리뷰와 트렌디한 카메라 가이드를 제공합니다.</description>
 ${feedItems.join("")}
   </channel>
 </rss>`;

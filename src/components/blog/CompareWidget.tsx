@@ -50,13 +50,10 @@ export default function CompareWidget({ cameras }: { cameras: Camera[] }) {
         </div>
       </div>
 
-      {/* Dlsrivew 비교 페이지로 연결되는 버튼 */}
-      <Link 
-        href={`/compare?cameras=${modelA.id},${modelB.id}`}
-        className="block w-full py-3 text-center text-sm font-bold text-white bg-blue-600 hover:bg-blue-700 rounded-xl transition-colors duration-200"
-      >
-        상세 스펙 비교하기
-      </Link>
+      {/* 
+        기존에는 /compare 로 연결되는 버튼이 있었으나,
+        순수 블로그 형태로 변경되면서 스펙 DB 기능이 삭제되어 제거함 
+      */}
     </div>
   );
 }

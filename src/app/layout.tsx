@@ -1,30 +1,27 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
-import { AuthProvider } from "@/lib/AuthContext";
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "카메라 백과사전 — 디지털 카메라 상세 스펙 도감",
-    template: "%s | 카메라 백과사전",
+    default: "Dlsrivew — 프리미엄 카메라 매거진",
+    template: "%s | Dlsrivew",
   },
   description:
-    "역대 디지털 카메라의 상세 기술 사양을 검색하고, 모델 간 스펙을 비교하고, 브랜드별 카메라 도감을 탐색해 보세요.",
+    "카메라와 사진을 사랑하는 사람들을 위한 프리미엄 매거진. 거짓 없는 솔직한 리뷰와 트렌디한 카메라 가이드를 제공합니다.",
   keywords: [
-    "카메라 백과사전",
-    "카메라 스펙",
+    "카메라 리뷰",
+    "사진",
     "미러리스 카메라",
-    "카메라 비교",
-    "소니",
-    "캐논",
-    "니콘",
+    "빈티지 디카",
+    "카메라 추천",
   ],
   openGraph: {
-    title: "카메라 백과사전 — 디지털 카메라 상세 스펙 도감",
-    description: "역대 디지털 카메라의 상세 기술 사양을 검색하고, 모델 간 스펙을 비교하고, 브랜드별 카메라 도감을 탐색해 보세요.",
+    title: "Dlsrivew — 프리미엄 카메라 매거진",
+    description: "카메라와 사진을 사랑하는 사람들을 위한 프리미엄 매거진. 거짓 없는 솔직한 리뷰와 트렌디한 카메라 가이드를 제공합니다.",
     url: "https://dslreview.co.kr",
-    siteName: "카메라 백과사전",
+    siteName: "Dlsrivew",
     locale: "ko_KR",
     type: "website",
   },
@@ -64,18 +61,16 @@ export default function RootLayout({
         ></script>
       </head>
       <body>
-        <AuthProvider>
-          {/* ── Fixed Navbar ──────────────────────────────────────────── */}
-          <Navbar />
+        {/* ── Fixed Navbar ──────────────────────────────────────────── */}
+        <Navbar />
 
-          {/* ── Main Content (offset for fixed navbar) ───────────────── */}
-          <main style={{ minHeight: "100vh", position: "relative", zIndex: 1 }}>
-            {children}
-          </main>
+        {/* ── Main Content (offset for fixed navbar) ───────────────── */}
+        <main style={{ minHeight: "100vh", position: "relative", zIndex: 1 }}>
+          {children}
+        </main>
 
-          {/* ── Footer ───────────────────────────────────────────────── */}
-          <Footer />
-        </AuthProvider>
+        {/* ── Footer ───────────────────────────────────────────────── */}
+        <Footer />
       </body>
     </html>
   );
