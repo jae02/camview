@@ -9,13 +9,25 @@ export interface ArticleMetadata {
   category: string;
   createdAt: string;
   updatedAt: string;
+  excerpt: string;
+  coverImage: string;
+  readingTime: number;
+  draft: boolean;
 }
 
 export interface Article extends ArticleMetadata {
+  excerpt: string;
+  coverImage: string;
   content: string;
 }
 
 const articlesDirectory = path.join(process.cwd(), 'data/articles');
+
+export function calculateReadingTime(content: string): number {
+  if (!content) return 0;
+  const words = content.trim().split(/\s+/).filter(Boolean).length;
+  return Math.ceil(words / 200);
+}
 
 export async function getArticleBySlug(slug: string): Promise<Article | null> {
   try {
@@ -32,6 +44,10 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
       category: data.category || 'Guide',
       createdAt: data.createdAt || new Date().toISOString(),
       updatedAt: data.updatedAt || new Date().toISOString(),
+      excerpt: data.excerpt || '',
+      coverImage: data.coverImage || '',
+      readingTime: calculateReadingTime(content),
+      draft: data.draft === true,
       content,
     };
   } catch (error) {
@@ -40,7 +56,7 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
   }
 }
 
-export async function getAllArticles(): Promise<ArticleMetadata[]> {
+export async function getAllArticles(includeDrafts: boolean = false): Promise<ArticleMetadata[]> {
   if (!fs.existsSync(articlesDirectory)) return [];
   
   const fileNames = fs.readdirSync(articlesDirectory);
@@ -50,7 +66,7 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
       const slug = fileName.replace(/\.mdx$/, '');
       const fullPath = path.join(articlesDirectory, fileName);
       const fileContents = fs.readFileSync(fullPath, 'utf8');
-      const { data } = matter(fileContents);
+      const { data, content } = matter(fileContents);
 
       return {
         id: data.id || slug,
@@ -59,8 +75,13 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
         category: data.category || 'Guide',
         createdAt: data.createdAt || new Date().toISOString(),
         updatedAt: data.updatedAt || new Date().toISOString(),
+        excerpt: data.excerpt || '',
+        coverImage: data.coverImage || '',
+        readingTime: calculateReadingTime(content),
+        draft: data.draft === true,
       };
-    });
+    })
+    .filter(article => includeDrafts || !article.draft);
 
   return allArticlesData.sort((a, b) => {
     if (a.createdAt < b.createdAt) {
@@ -69,6 +90,10 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
       return -1;
     }
   });
+}
+
+export async function getAllArticlesIncludingDrafts(): Promise<ArticleMetadata[]> {
+  return getAllArticles(true);
 }
 
 export async function getAllCategories(): Promise<string[]> {
@@ -83,3 +108,4 @@ export async function getArticlesByCategory(category: string): Promise<ArticleMe
     (article) => article.category.toLowerCase() === category.toLowerCase()
   );
 }
+

@@ -33,6 +33,9 @@ export async function GET(
   return NextResponse.json({
     title: data.title,
     category: data.category,
+    excerpt: data.excerpt || '',
+    coverImage: data.coverImage || '',
+    draft: data.draft === true,
     content: content.trim(),
     createdAt: data.createdAt,
   });
@@ -50,7 +53,7 @@ export async function PUT(
   const { slug } = await params;
 
   try {
-    const { title, category, content } = await request.json();
+    const { title, category, content, excerpt = '', coverImage = '', draft = false } = await request.json();
     const filePath = path.join(articlesDir, `${slug}.mdx`);
 
     if (!fs.existsSync(filePath)) {
@@ -65,6 +68,9 @@ export async function PUT(
     const mdxContent = `---
 title: "${title}"
 category: "${category || '카메라'}"
+excerpt: "${excerpt}"
+coverImage: "${coverImage}"
+draft: ${draft === true}
 createdAt: "${existingData.createdAt || now}"
 updatedAt: "${now}"
 ---
