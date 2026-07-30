@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Compass, Menu, X, Search } from "lucide-react";
+import { Compass, Menu, X, PenSquare } from "lucide-react";
 
 interface SidebarProps {
   categories?: string[];
@@ -56,8 +56,19 @@ export default function Sidebar({ categories = [] }: SidebarProps) {
           </nav>
         </div>
 
+        {/* Write Button */}
+        <div className="p-6 border-t border-gray-200 dark:border-gray-800">
+          <Link
+            href="/admin/write"
+            className="flex items-center gap-2 w-full px-4 py-2.5 rounded-lg bg-gray-900 dark:bg-white text-white dark:text-gray-900 text-sm font-medium hover:bg-gray-800 dark:hover:bg-gray-100 transition-colors"
+          >
+            <PenSquare className="w-4 h-4" />
+            글쓰기
+          </Link>
+        </div>
+
         {/* Footer info in sidebar */}
-        <div className="mt-auto p-6 border-t border-gray-200 dark:border-gray-800">
+        <div className="p-6 pt-4">
           <p className="text-xs text-gray-400">
             &copy; 2026 Dlsrivew
           </p>
@@ -101,6 +112,14 @@ export default function Sidebar({ categories = [] }: SidebarProps) {
                 {link.label}
               </Link>
             ))}
+            <Link
+              href="/admin/write"
+              className="flex items-center gap-2 mx-4 mt-2 px-4 py-2.5 rounded-lg bg-gray-900 dark:bg-white text-white dark:text-gray-900 text-sm font-medium"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              <PenSquare className="w-4 h-4" />
+              글쓰기
+            </Link>
           </div>
         </div>
       </nav>

@@ -6,7 +6,12 @@ services:
     restart: unless-stopped
     environment:
       - NODE_ENV=production
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-dlsrivew2026}
     
+    volumes:
+      - ./data/articles:/app/data/articles
+      - ./uploads:/app/public/uploads
+
     deploy:
       resources:
         limits:
