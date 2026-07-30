@@ -14,7 +14,6 @@ export default function Sidebar({ categories = [] }: SidebarProps) {
   const navLinks = [
     { href: "/", label: "홈" },
     ...categories.map(cat => ({ href: `/category/${cat.toLowerCase()}`, label: cat })),
-    { href: "/about", label: "소개" },
   ];
 
   return (
