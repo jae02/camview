@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import Sidebar from "@/components/layout/Sidebar";
-import Footer from "@/components/layout/Footer";
 import { getAllCategories } from "@/lib/articles";
 import "./globals.css";
 
@@ -75,9 +74,6 @@ export default async function RootLayout({
             <main className="flex-1 relative z-10 min-h-screen">
               {children}
             </main>
-            
-            {/* ── Footer ────────────────────────────────────────────── */}
-            <Footer />
           </div>
         </div>
       </body>
