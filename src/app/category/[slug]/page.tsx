@@ -15,9 +15,10 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
+  const decodedSlug = decodeURIComponent(slug);
   return {
-    title: `${slug.toUpperCase()} 카테고리 글 모음`,
-    description: `${slug.toUpperCase()} 주제에 관한 다양한 이야기들을 만나보세요.`,
+    title: `${decodedSlug.toUpperCase()} 카테고리 글 모음`,
+    description: `${decodedSlug.toUpperCase()} 주제에 관한 다양한 이야기들을 만나보세요.`,
   };
 }
 
@@ -27,11 +28,12 @@ export default async function CategoryPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
+  const decodedSlug = decodeURIComponent(slug);
   const categories = await getAllCategories();
   
   // Find original category name with correct casing if possible
-  const originalCategory = categories.find(c => c.toLowerCase() === slug.toLowerCase()) || slug;
-  const articles = await getArticlesByCategory(slug);
+  const originalCategory = categories.find(c => c.toLowerCase() === decodedSlug.toLowerCase()) || decodedSlug;
+  const articles = await getArticlesByCategory(decodedSlug);
 
   if (!articles || articles.length === 0) {
     notFound();
