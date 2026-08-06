@@ -7,7 +7,9 @@ import type { CameraProfile, UploadedImage } from '@/types';
 import CameraSelector from '@/components/studio/CameraSelector';
 import ImageUploader from '@/components/studio/ImageUploader';
 import FilterCanvas, { FilterCanvasHandle } from '@/components/studio/FilterCanvas';
+import PhotoScoreModal from '@/components/studio/PhotoScoreModal';
 import { downloadFilteredImage } from '@/lib/filter-engine';
+import { analyzePhoto, PhotoAnalysisResult } from '@/lib/photo-analyzer';
 
 function StudioContent() {
   const searchParams = useSearchParams();
@@ -24,6 +26,11 @@ function StudioContent() {
   const [showComparison, setShowComparison] = useState<boolean>(false);
   const [showCameraPanel, setShowCameraPanel] = useState<boolean>(false);
   const [isSaving, setIsSaving] = useState<boolean>(false);
+  
+  // Photo Scoring State
+  const [analysisResult, setAnalysisResult] = useState<PhotoAnalysisResult | null>(null);
+  const [isScoreModalOpen, setIsScoreModalOpen] = useState<boolean>(false);
+
   const filterCanvasRef = useRef<FilterCanvasHandle>(null);
 
   useEffect(() => {
@@ -35,18 +42,26 @@ function StudioContent() {
     }
   }, [initialCameraId]);
 
-  // Create HTMLImageElement when uploaded image changes
+  // Create HTMLImageElement and run Photo Analysis when uploaded image changes
   useEffect(() => {
     if (!uploadedImage) {
       setSourceImage(null);
+      setAnalysisResult(null);
       return;
     }
     const img = new Image();
     img.onload = () => {
       setSourceImage(img);
+      // Run automatic composition & quality score analysis
+      try {
+        const result = analyzePhoto(img, allCameras);
+        setAnalysisResult(result);
+      } catch (err) {
+        console.error('Photo analysis error:', err);
+      }
     };
     img.src = uploadedImage.dataUrl;
-  }, [uploadedImage]);
+  }, [uploadedImage, allCameras]);
 
   const handleImageUpload = useCallback((image: UploadedImage) => {
     setUploadedImage(image);
@@ -55,6 +70,7 @@ function StudioContent() {
   const handleClearImage = () => {
     setUploadedImage(null);
     setSourceImage(null);
+    setAnalysisResult(null);
   };
 
   const handleDownload = async () => {
@@ -71,7 +87,7 @@ function StudioContent() {
 
   const handleCameraSelect = (camera: CameraProfile) => {
     setSelectedCamera(camera);
-    setShowCameraPanel(false); // 모바일에서 선택 시 패널 닫기
+    setShowCameraPanel(false);
   };
 
   return (
@@ -139,6 +155,29 @@ function StudioContent() {
           </div>
         ) : (
           <div className="flex-1 flex flex-col animate-fade-in-up h-full">
+            {/* Top Bar for Analysis Score Badge */}
+            {analysisResult && (
+              <div className="px-4 py-2 bg-white/5 border-b border-white/10 flex items-center justify-between gap-2">
+                <div className="flex items-center gap-2">
+                  <span className="text-sm">🎯</span>
+                  <span className="text-xs text-neutral-400 hidden sm:inline">사진 구도 & 퀄리티 분석:</span>
+                  <span className="text-xs font-bold text-amber-400">
+                    {analysisResult.totalScore}점 ({analysisResult.grade})
+                  </span>
+                  <span className="text-[11px] text-neutral-400 hidden md:inline truncate">
+                    • {analysisResult.metrics.centering.desc}
+                  </span>
+                </div>
+                <button
+                  onClick={() => setIsScoreModalOpen(true)}
+                  className="px-3 py-1 text-xs font-semibold rounded-full bg-amber-500/20 text-amber-300 border border-amber-500/30 hover:bg-amber-500/30 transition-all flex items-center gap-1.5"
+                >
+                  <span>📊</span>
+                  <span>상세 분석표</span>
+                </button>
+              </div>
+            )}
+
             {/* Canvas Area */}
             <div className="flex-1 relative p-2 md:p-4 flex items-center justify-center overflow-hidden">
               {showComparison ? (
@@ -225,6 +264,15 @@ function StudioContent() {
           </div>
         )}
       </main>
+
+      {/* Photo Score & Quality Analysis Modal */}
+      <PhotoScoreModal
+        isOpen={isScoreModalOpen}
+        onClose={() => setIsScoreModalOpen(false)}
+        result={analysisResult}
+        cameras={allCameras}
+        onSelectCamera={handleCameraSelect}
+      />
     </div>
   );
 }
