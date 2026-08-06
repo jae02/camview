@@ -1,28 +1,23 @@
-
 services:
   app:
     build: .
-    container_name: camera-specs-app 
+    container_name: camera-specs-app
     restart: unless-stopped
     environment:
       - NODE_ENV=production
-      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-skymp159!}
-    
-    volumes:
-      - ./data/articles:/app/data/articles
-      - ./uploads:/app/public/uploads
+      - NEXT_PUBLIC_SITE_URL=https://www.dslreview.co.kr
 
     deploy:
       resources:
         limits:
-          cpus: '0.50'
-          memory: 500M
+          cpus: '1.0'
+          memory: 1024M
         reservations:
-          memory: 200M
+          memory: 256M
 
     labels:
       - "traefik.enable=true"
-      # dslreview.co.kr 및 www.dslreview.co.kr 모두 연결
+      # dslreview.co.kr 및 www.dslreview.co.kr 연결
       - "traefik.http.routers.camera-specs.rule=Host(`dslreview.co.kr`) || Host(`www.dslreview.co.kr`)"
       - "traefik.http.routers.camera-specs.entrypoints=websecure"
       - "traefik.http.routers.camera-specs.tls.certresolver=myresolver"
