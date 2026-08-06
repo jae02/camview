@@ -12,11 +12,11 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dslreview.co.kr
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: 'CamView - 카메라 필터 시뮬레이터 | 필름 & 디지털 감성 사진 변환',
+    default: 'CamView - 카메라 필터 시뮬레이터 & 필름 사진 변환',
     template: '%s | CamView',
   },
   description:
-    '내 사진을 코닥, 후지필름, 라이카, 핫셀블라드 등 10종의 클래식 필름 및 프리미엄 디지털 카메라 색감으로 실시간 변환하세요. 무료 온라인 사진 필터 스튜디오.',
+    '코닥, 후지필름, 라이카 등 10종의 클래식 필름 및 디지털 카메라 색감으로 사진을 실시간 변환하세요.',
   keywords: [
     '카메라 필터',
     '필름 필터',
@@ -50,15 +50,15 @@ export const metadata: Metadata = {
     locale: 'ko_KR',
     url: siteUrl,
     siteName: 'CamView (캠뷰)',
-    title: 'CamView - 카메라 필터 시뮬레이터 | 필름 & 디지털 감성 사진 변환',
+    title: 'CamView - 카메라 필터 시뮬레이터 & 필름 사진 변환',
     description:
-      '내 사진을 코닥, 후지필름, 라이카, 핫셀블라드 등 10종의 클래식 필름 및 프리미엄 디지털 카메라 색감으로 실시간 변환하세요.',
+      '코닥, 후지필름, 라이카 등 10종의 클래식 필름 및 디지털 카메라 색감으로 사진을 실시간 변환하세요.',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'CamView - 카메라 필터 시뮬레이터',
+    title: 'CamView - 카메라 필터 시뮬레이터 & 필름 사진 변환',
     description:
-      '내 사진을 10종의 클래식 필름 및 프리미엄 디지털 카메라 색감으로 실시간 변환하세요.',
+      '코닥, 후지필름, 라이카 등 10종의 클래식 필름 및 디지털 카메라 색감으로 사진을 실시간 변환하세요.',
   },
   robots: {
     index: true,

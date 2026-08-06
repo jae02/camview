@@ -19,8 +19,8 @@ export async function generateMetadata(
     };
   }
 
-  const title = `${camera.name} 필터 색감 시뮬레이션 (${camera.category === 'film' ? '필름' : '디지털'})`;
-  const description = `${camera.name} (${camera.brand}, ${camera.year})의 고유한 색감과 필터 특성을 확인하고 내 사진에 직접 적용해 보세요. ${camera.tagline}`;
+  const title = `${camera.name} 색감 필터 시뮬레이터`;
+  const description = `${camera.name} (${camera.year}년)의 고유한 색감과 필터 특성을 확인하고 내 사진에 실시간 적용해보세요.`;
 
   return {
     title,

@@ -5,9 +5,9 @@ import type { Metadata } from 'next';
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dslreview.co.kr';
 
 export const metadata: Metadata = {
-  title: '카메라 컬렉션 - 10종 필름 & 디지털 색감 목록',
+  title: '카메라 컬렉션 - 10종 필름 & 디지털 색감',
   description:
-    '코닥 포트라 400, 후지필름 벨비아 50, 시네스틸 800T, 라이카 Q3, 핫셀블라드 등 10종의 대표 카메라 및 필름 색감 컬렉션을 둘러보세요.',
+    '코닥 포트라, 후지필름 벨비아, 라이카 Q3 등 10대 명기 카메라의 고유한 색감과 특성을 확인하세요.',
   keywords: [
     '카메라 목록',
     '필름 종류',
@@ -21,9 +21,9 @@ export const metadata: Metadata = {
     canonical: '/cameras',
   },
   openGraph: {
-    title: '카메라 컬렉션 - 10종 필름 & 디지털 색감 목록 | CamView',
+    title: '카메라 컬렉션 - 10종 필름 & 디지털 색감',
     description:
-      '코닥, 후지필름, 라이카, 핫셀블라드 등 10종의 대표 카메라 및 필름 색감 컬렉션을 둘러보세요.',
+      '코닥 포트라, 후지필름 벨비아, 라이카 Q3 등 10대 명기 카메라의 고유한 색감과 특성을 확인하세요.',
     url: `${siteUrl}/cameras`,
     type: 'website',
   },
