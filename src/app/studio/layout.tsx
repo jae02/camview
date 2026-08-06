@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://camview.app';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dslreview.co.kr';
 
 export const metadata: Metadata = {
   title: '필터 스튜디오 - 실시간 카메라 색감 적용 & 다운로드',

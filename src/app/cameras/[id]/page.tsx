@@ -5,7 +5,7 @@ import RadarChart from '@/components/ui/RadarChart';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://camview.app';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dslreview.co.kr';
 
 export async function generateMetadata(
   props: { params: Promise<{ id: string }> }

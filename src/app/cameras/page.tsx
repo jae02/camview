@@ -2,7 +2,7 @@ import { getCameras } from '@/data/cameras';
 import CameraCard from '@/components/camera/CameraCard';
 import type { Metadata } from 'next';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://camview.app';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dslreview.co.kr';
 
 export const metadata: Metadata = {
   title: '카메라 컬렉션 - 10종 필름 & 디지털 색감 목록',

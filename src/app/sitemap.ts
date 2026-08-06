@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getCameras } from '@/data/cameras';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://camview.app';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dslreview.co.kr';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const cameras = getCameras();
@@ -29,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  // Dynamic camera detail routes
+  // Dynamic camera detail routes (all 10 cameras)
   const cameraRoutes: MetadataRoute.Sitemap = cameras.map((camera) => ({
     url: `${siteUrl}/cameras/${camera.id}`,
     lastModified: currentDate,
