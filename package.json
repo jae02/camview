@@ -1,36 +1,27 @@
 {
-  "name": "camera-specs",
-  "version": "0.1.0",
+  "name": "camview",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "eslint",
-    "seed:merge": "npx tsx scripts/merge-seeds.ts"
+    "start": "next start"
   },
   "dependencies": {
-    "bcryptjs": "^3.0.3",
-    "gray-matter": "^4.0.3",
     "lucide-react": "^1.7.0",
-    "markdown-to-jsx": "^9.8.2",
     "next": "16.2.1",
-    "next-mdx-remote": "^6.0.0",
     "react": "19.2.4",
-    "react-dom": "19.2.4",
-    "tesseract.js": "^7.0.0"
+    "react-dom": "19.2.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@tailwindcss/typography": "^0.5.20",
-    "@types/bcryptjs": "^2.4.6",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.1",
     "tailwindcss": "^4",
-    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }

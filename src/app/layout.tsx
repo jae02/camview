@@ -1,81 +1,46 @@
-import type { Metadata } from "next";
-import Sidebar from "@/components/layout/Sidebar";
-import { getAllCategories } from "@/lib/articles";
-import "./globals.css";
+import type { Metadata, Viewport } from 'next';
+import { Inter, JetBrains_Mono } from 'next/font/google';
+import './globals.css';
+import Header from '@/components/layout/Header';
+import Footer from '@/components/layout/Footer';
+
+const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
+const jetbrainsMono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono' });
 
 export const metadata: Metadata = {
-  title: {
-    default: "Dlsrivew — 취향과 일상을 담은 블로그",
-    template: "%s | Dlsrivew",
+  title: 'CamView - 카메라 필터 시뮬레이션',
+  description: '당신의 사진을 다른 카메라로 보세요. 10종의 필름/디지털 카메라 색감을 실시간으로 체험하세요.',
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'black-translucent',
+    title: 'CamView',
   },
-  description:
-    "패션, 카페, 여행, 미식, 그리고 배움의 기록까지. 다채로운 취향과 일상을 공유하는 프리미엄 블로그입니다.",
-  keywords: [
-    "블로그",
-    "패션",
-    "카페",
-    "여행",
-    "미식",
-    "공부",
-    "일상",
-  ],
-  openGraph: {
-    title: "Dlsrivew — 취향과 일상을 담은 블로그",
-    description: "패션, 카페, 여행, 미식, 그리고 배움의 기록까지. 다채로운 취향과 일상을 공유하는 프리미엄 블로그입니다.",
-    url: "https://dslreview.co.kr",
-    siteName: "Dlsrivew",
-    locale: "ko_KR",
-    type: "website",
+  formatDetection: {
+    telephone: false,
   },
 };
 
-export default async function RootLayout({
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+  viewportFit: 'cover',
+};
+
+export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
-  const categories = await getAllCategories();
-
+}) {
   return (
-    <html lang="ko">
-      <head>
-        {/* Google Fonts — Inter (primary UI) + JetBrains Mono (specs) */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com"
-          crossOrigin="anonymous"
-        />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap"
-          rel="stylesheet"
-        />
-        {/* Pretendard — 한글 최적화 웹폰트 */}
-        <link
-          rel="stylesheet"
-          as="style"
-          crossOrigin="anonymous"
-          href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
-        />
-        {/* Google AdSense */}
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2600243388009689"
-          crossOrigin="anonymous"
-        ></script>
-      </head>
-      <body>
-        <div className="flex min-h-screen flex-col md:flex-row">
-          {/* ── Sidebar (Fixed Left on Desktop / Top Bar on Mobile) ── */}
-          <Sidebar categories={categories} />
-
-          {/* ── Main Content Area ───────────────────────────────────── */}
-          <div className="flex-1 flex flex-col w-full md:ml-64 pt-16 md:pt-0">
-            <main className="flex-1 relative z-10 min-h-screen">
-              {children}
-            </main>
-          </div>
-        </div>
+    <html lang="ko" className={`${inter.variable} ${jetbrainsMono.variable}`}>
+      <body className="bg-[#0a0a0f] text-white antialiased min-h-screen flex flex-col font-sans overscroll-none">
+        <Header />
+        <main className="flex-1 pt-16">
+          {children}
+        </main>
+        <Footer />
       </body>
     </html>
   );
