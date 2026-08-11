@@ -1,28 +1,10 @@
 import { MetadataRoute } from 'next';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dslreview.co.kr';
-
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
-      {
-        userAgent: '*',
-        allow: '/',
-      },
-      {
-        userAgent: 'Googlebot',
-        allow: '/',
-      },
-      {
-        userAgent: 'Yeti', // 네이버 검색 봇
-        allow: '/',
-      },
-      {
-        userAgent: 'Daumoa', // 다음/카카오 검색 봇
-        allow: '/',
-      },
+      { userAgent: '*', allow: '/', disallow: ['/admin', '/api/'] },
     ],
-    sitemap: `${siteUrl}/sitemap.xml`,
-    host: siteUrl,
+    sitemap: 'https://www.dslreview.co.kr/sitemap.xml',
   };
 }

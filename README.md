@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DSLReview — 정보전달용 블로그 게시판
 
-## Getting Started
+관리자 전용 글 작성, 카테고리 분류, 댓글 기능을 갖춘 정보전달용 블로그형 게시판입니다.
 
-First, run the development server:
+## 기능
+
+- 📝 관리자 전용 글 작성/수정/삭제 (마크다운 에디터)
+- 📂 카테고리 분류 (공지사항, 카메라, 사진 팁, 리뷰, 자유)
+- 💬 비로그인 댓글 (닉네임 + 비밀번호)
+- 🔍 제목/본문 키워드 검색
+- 📱 모바일/PC 반응형
+- 🔍 SEO 최적화 (sitemap, robots, OG, JSON-LD)
+
+## 실행
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 배포
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+docker compose build --no-cache
+docker compose up -d
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 환경변수
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| 변수 | 설명 |
+| :--- | :--- |
+| `ADMIN_PASSWORD` | 관리자 비밀번호 |

@@ -1,41 +1,42 @@
 import { MetadataRoute } from 'next';
-import { getCameras } from '@/data/cameras';
+import { getArticles } from '@/lib/articles';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dslreview.co.kr';
+const siteUrl = 'https://www.dslreview.co.kr';
 
-export default function sitemap(): MetadataRoute.Sitemap {
-  const cameras = getCameras();
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const { articles } = await getArticles({ limit: 1000 });
   const currentDate = new Date();
 
-  // Static routes
   const staticRoutes: MetadataRoute.Sitemap = [
     {
-      url: `${siteUrl}`,
+      url: siteUrl,
       lastModified: currentDate,
       changeFrequency: 'daily',
       priority: 1.0,
     },
     {
-      url: `${siteUrl}/studio`,
-      lastModified: currentDate,
-      changeFrequency: 'daily',
-      priority: 0.9,
-    },
-    {
-      url: `${siteUrl}/cameras`,
+      url: `${siteUrl}/search`,
       lastModified: currentDate,
       changeFrequency: 'weekly',
-      priority: 0.8,
+      priority: 0.5,
     },
   ];
 
-  // Dynamic camera detail routes (all 10 cameras)
-  const cameraRoutes: MetadataRoute.Sitemap = cameras.map((camera) => ({
-    url: `${siteUrl}/cameras/${camera.id}`,
+  const categoryRoutes: MetadataRoute.Sitemap = [
+    'notice', 'camera', 'photo-tips', 'review', 'free',
+  ].map((slug) => ({
+    url: `${siteUrl}/category/${slug}`,
     lastModified: currentDate,
-    changeFrequency: 'weekly',
+    changeFrequency: 'weekly' as const,
+    priority: 0.7,
+  }));
+
+  const articleRoutes: MetadataRoute.Sitemap = articles.map((article) => ({
+    url: `${siteUrl}/post/${article.id}`,
+    lastModified: new Date(article.updatedAt),
+    changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
 
-  return [...staticRoutes, ...cameraRoutes];
+  return [...staticRoutes, ...categoryRoutes, ...articleRoutes];
 }

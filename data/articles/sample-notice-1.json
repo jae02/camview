@@ -1,0 +1,12 @@
+{
+  "id": "sample-notice-1",
+  "title": "DSLReview 블로그 오픈 안내",
+  "content": "안녕하세요. DSLReview 블로그가 새롭게 단장하여 오픈했습니다.\n앞으로 좋은 사진 팁과 리뷰로 찾아뵙겠습니다.",
+  "excerpt": "안녕하세요. DSLReview 블로그가 새롭게 단장하여 오픈했습니다. 앞으로 좋은 사진 팁과 리뷰로 찾아뵙겠습니다.",
+  "category": "notice",
+  "tags": ["공지", "오픈"],
+  "createdAt": "2023-10-01T12:00:00.000Z",
+  "updatedAt": "2023-10-01T12:00:00.000Z",
+  "views": 100,
+  "comments": []
+}
