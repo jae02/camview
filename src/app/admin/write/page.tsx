@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { Suspense } from 'react';
 
@@ -25,6 +25,8 @@ function WriteContent() {
   const [error, setError] = useState('');
   const [preview, setPreview] = useState(false);
   const [adminPassword, setAdminPassword] = useState('');
+  const fileInputRef = useRef<HTMLInputElement>(null);
+  const [uploadingImage, setUploadingImage] = useState(false);
 
   useEffect(() => {
     const stored = sessionStorage.getItem('adminAuth');
@@ -49,6 +51,38 @@ function WriteContent() {
         .catch(() => setError('글을 불러오는 데 실패했습니다.'));
     }
   }, [editId, router]);
+
+  const handleImageUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    setUploadingImage(true);
+    const formData = new FormData();
+    formData.append('file', file);
+    formData.append('adminPassword', adminPassword);
+
+    try {
+      const res = await fetch('/api/upload', {
+        method: 'POST',
+        body: formData,
+      });
+      const data = await res.json();
+
+      if (res.ok && data.url) {
+        const imageMarkdown = `\n![이미지 설명](${data.url})\n`;
+        setContent((prev) => prev + imageMarkdown);
+      } else {
+        alert(data.error || '이미지 업로드에 실패했습니다.');
+      }
+    } catch {
+      alert('이미지 업로드 중 오류가 발생했습니다.');
+    } finally {
+      setUploadingImage(false);
+      if (fileInputRef.current) {
+        fileInputRef.current.value = '';
+      }
+    }
+  };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -188,9 +222,28 @@ function WriteContent() {
 
         {/* Content Editor / Preview */}
         <div>
-          <label className="block text-sm font-medium text-gray-300 mb-2">
-            본문 <span className="text-gray-500">(마크다운 지원)</span>
-          </label>
+          <div className="flex items-center justify-between mb-2">
+            <label className="block text-sm font-medium text-gray-300">
+              본문 <span className="text-gray-500">(마크다운 지원)</span>
+            </label>
+            <div className="flex items-center gap-2">
+              <input 
+                type="file" 
+                ref={fileInputRef} 
+                onChange={handleImageUpload} 
+                accept="image/*" 
+                className="hidden" 
+              />
+              <button
+                type="button"
+                onClick={() => fileInputRef.current?.click()}
+                disabled={uploadingImage}
+                className="btn-secondary px-3 py-1.5 text-xs flex items-center gap-1 disabled:opacity-50"
+              >
+                {uploadingImage ? '업로드 중...' : '🖼️ 이미지 첨부'}
+              </button>
+            </div>
+          </div>
           {preview ? (
             <div className="glass-card p-6 min-h-[400px] article-content">
               <div

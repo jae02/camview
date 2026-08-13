@@ -9,6 +9,7 @@ services:
 
     volumes:
       - ./data/articles:/app/data/articles
+      - ./public/uploads:/app/public/uploads
 
     deploy:
       resources:
