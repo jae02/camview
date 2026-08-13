@@ -1,4 +1,4 @@
-import { getArticleById, updateArticle } from './articles';
+import { getArticleById, updateArticle, getArticles } from './articles';
 import { Comment } from '../types';
 
 // Simple hash for password
@@ -52,6 +52,49 @@ export async function deleteComment(
   if (comment.passwordHash !== simpleHash(passwordRaw)) {
     return false; // Password mismatch
   }
+
+  article.comments.splice(commentIndex, 1);
+  await updateArticle(articleId, { comments: article.comments });
+  
+  return true;
+}
+
+export interface ExtendedComment extends Comment {
+  articleId: string;
+  articleTitle: string;
+}
+
+export async function getAllComments(): Promise<ExtendedComment[]> {
+  const { articles } = await getArticles({ limit: 10000 });
+  const allComments: ExtendedComment[] = [];
+
+  for (const article of articles) {
+    if (article.comments && article.comments.length > 0) {
+      for (const comment of article.comments) {
+        allComments.push({
+          ...comment,
+          articleId: article.id,
+          articleTitle: article.title
+        });
+      }
+    }
+  }
+
+  // Sort by createdAt desc
+  allComments.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
+  
+  return allComments;
+}
+
+export async function deleteCommentAdmin(
+  articleId: string, 
+  commentId: string
+): Promise<boolean> {
+  const article = await getArticleById(articleId);
+  if (!article) return false;
+
+  const commentIndex = article.comments.findIndex(c => c.id === commentId);
+  if (commentIndex === -1) return false;
 
   article.comments.splice(commentIndex, 1);
   await updateArticle(articleId, { comments: article.comments });
